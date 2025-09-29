@@ -1,0 +1,10 @@
+[project]
+name = "zotero-backup"
+version = "0.1.0"
+description = "Add your description here"
+authors = [{ name = "Saranya Balasubramanian", email = "saranya.balasubramanian@oeaw.ac.at" }]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.5",
+]
