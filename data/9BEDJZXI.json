@@ -1,0 +1,97 @@
+{
+  "key": "9BEDJZXI",
+  "version": 3669,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9BEDJZXI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9BEDJZXI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mKhar nag lo tsA ba dpal 'byor rgya mtsho",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9BEDJZXI",
+    "version": 3669,
+    "itemType": "book",
+    "title": "dGa' ldan chos 'byung dpag bsam sdong po mkhas pa 'gyes byed",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mKhar nag lo tsA ba dpal 'byor rgya mtsho"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lha sa",
+    "publisher": "Ser gtsug nang bstan dpe rnying 'tshol bsdu phyogs sgrig khang",
+    "date": "2016",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "mKhar nag chos 'byung",
+    "url": "https://purl.bdrc.io/resource/MW1KG25150",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-06T11:51:33Z",
+    "dateModified": "2025-03-21T17:35:11Z"
+  }
+}

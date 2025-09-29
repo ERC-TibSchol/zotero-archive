@@ -1,0 +1,83 @@
+{
+  "key": "Z5WBK2VV",
+  "version": 4702,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z5WBK2VV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z5WBK2VV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z5WBK2VV",
+    "version": 4702,
+    "itemType": "bookSection",
+    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs sgrig thengs gnyis pa\u02bci dkar chag",
+    "creators": [],
+    "abstractNote": "",
+    "bookTitle": "Bka\u02bc-gdams Gsu\u1e45 \u02bcbum Phyogs Bsgrigs B\u017augs So /Dpal-brtsegs Bod-yig Dpe-r\u00f1i\u1e45 \u0179ib-\u02bcjug-kha\u1e45 Nas Bsgrigs ; [dpe Sgrig \u02bcgan \u02bckhur Ba, Dbya\u1e45s-can-lha-mo ... Et Al.].",
+    "series": "null",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2 (31-60)",
+    "edition": "Par gzhi dang po",
+    "place": "Khreng tu\u02bcu",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2007",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "978-7-5409-3431-6",
+    "shortTitle": "bKa' gdams gsung 'bum dkar chag 2",
+    "url": "http://purl.bdrc.io/resource/MW1PD89051_73CA5B",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW1PD89084_8C79F5\nWork: WA1PD89084",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-11T08:57:07Z",
+    "dateModified": "2025-05-21T07:08:16Z"
+  }
+}

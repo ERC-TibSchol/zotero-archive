@@ -1,0 +1,87 @@
+{
+  "key": "75VK92PD",
+  "version": 5124,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/75VK92PD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/75VK92PD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Akahane",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "75VK92PD",
+    "version": 5124,
+    "itemType": "journalArticle",
+    "title": "The Influence of rGya dmar ba Byang chub grags on Early Tibetan Buddhism in the Period of the Second Diffusion",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ritsu (\u8d64\u7fbd\u5f8b)",
+        "lastName": "Akahane"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u65e5\u672c\u897f\u8535\u5b66\u4f1a\u4f1a\u5831 (Report of the Japanese Association for Tibetan Studies)",
+    "volume": "59",
+    "issue": "",
+    "pages": "89-104",
+    "date": "2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Akahane 2013",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-12-06T15:01:42Z",
+    "dateModified": "2025-05-21T10:49:20Z"
+  }
+}

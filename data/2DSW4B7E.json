@@ -1,0 +1,88 @@
+{
+  "key": "2DSW4B7E",
+  "version": 4695,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2DSW4B7E",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2DSW4B7E",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Clemente",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2DSW4B7E",
+    "version": 4695,
+    "itemType": "journalArticle",
+    "title": "Colophons as sources: Historical information from some Brag dkar rta so xylographies",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michela",
+        "lastName": "Clemente"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Rivista di Studi Sudasiatici (RISS)",
+    "volume": "2",
+    "issue": "",
+    "pages": "121\u2013158",
+    "date": "2007",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Clemente 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2010-08-27 13:10:19\n_eprint: 4642",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Colophon"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-03-21T06:47:08Z",
+    "dateModified": "2025-05-21T07:07:06Z"
+  }
+}

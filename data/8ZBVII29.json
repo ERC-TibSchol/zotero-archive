@@ -1,0 +1,93 @@
+{
+  "key": "8ZBVII29",
+  "version": 4969,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8ZBVII29",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8ZBVII29",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Jam dbyangs gsar ma",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8ZBVII29",
+    "version": 4969,
+    "itemType": "bookSection",
+    "title": "mngon par rtogs pa rgyan gyi 'grel bshad gsal ba 'thad pa'i 'od 'bar",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "name": "'Jam dbyangs gsar ma"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Jam dbyangs gsar ma"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "mngon par rtogs pa rgyan 'gyi grel bshad gsal ba 'thad pa'i 'od 'bar/ springs yig baiDUrya'i phreng ba/ bdag nyid la bskul ba gser lcag rin chen gyi 'bras can/ thar lam sgron me/ sbyor drug gi man ngag rje rje btsun rgwa los zhus gtugs mdzad pa",
+    "series": "Jo nang dpe tshogs",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Pe cin",
+    "publisher": "Mi rigs dpe skrun khang",
+    "date": "2014",
+    "pages": "1-454",
+    "language": "tib",
+    "ISBN": "978-7-105-13630-8",
+    "shortTitle": "'Jam gsar - mngon rtogs rgyan 'od 'bar 2014 ed",
+    "url": "https://library.bdrc.io/show/bdr:MW8LS18967?tabs=bdr:W8LS18967",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/JRG2R3NB"
+    },
+    "dateAdded": "2025-04-02T08:07:48Z",
+    "dateModified": "2025-04-02T08:10:40Z"
+  }
+}

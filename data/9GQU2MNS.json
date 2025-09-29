@@ -1,0 +1,90 @@
+{
+  "key": "9GQU2MNS",
+  "version": 5145,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9GQU2MNS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9GQU2MNS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Almogi",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9GQU2MNS",
+    "version": 5145,
+    "itemType": "journalArticle",
+    "title": "Guides to Holy Places as Sources for the Study of the Culture of the Book in the Tibetan Cultural Sphere: The Example of Ka\u1e25 thog si tu Chos kyi rgya mtsho's <i>gNas yig</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Orna",
+        "lastName": "Almogi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Historical and Philological Studies of China\u2019s Western Regions",
+    "volume": "5",
+    "issue": "",
+    "pages": "505-530",
+    "date": "2012",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "Tibetan literature"
+      }
+    ],
+    "collections": [
+      "4JFH24VK"
+    ],
+    "relations": {},
+    "dateAdded": "2025-05-21T11:09:51Z",
+    "dateModified": "2025-05-21T11:10:48Z"
+  }
+}

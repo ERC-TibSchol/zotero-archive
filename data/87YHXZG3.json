@@ -1,0 +1,98 @@
+{
+  "key": "87YHXZG3",
+  "version": 3675,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/87YHXZG3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/87YHXZG3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Mang thos lHun grub rgya mtsho",
+    "parsedDate": "1987",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "87YHXZG3",
+    "version": 3675,
+    "itemType": "book",
+    "title": "bsTan rtsis gsal ba\u02bci nyin byed",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Mang thos lHun grub rgya mtsho"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Gangs can rig mdzod",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "1987",
+    "numPages": "343",
+    "language": "tib",
+    "ISBN": "7-223-00133-X",
+    "shortTitle": "bsTan rtsis gsal ba'i nyin byed",
+    "url": "http://purl.bdrc.io/resource/MW10247",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Issue: 4\nMW10247_60BFF2\nWork: WA10247",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T08:44:30Z",
+    "dateModified": "2025-03-21T17:36:07Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "key": "Q3KCZX7B",
+  "version": 5558,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q3KCZX7B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Q3KCZX7B",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Taranatha (attributed to)",
+    "parsedDate": "1983",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "Q3KCZX7B",
+    "version": 5558,
+    "itemType": "book",
+    "title": "Myang chos \u02bcbyung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Taranatha (attributed to)"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "1983",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "7-223-01465-2",
+    "shortTitle": "Myang chos 'byung",
+    "url": "http://purl.bdrc.io/resource/MW27024",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW27024\nWork: WA1CZ689",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T11:11:38Z",
+    "dateModified": "2025-09-29T11:46:16Z"
+  }
+}

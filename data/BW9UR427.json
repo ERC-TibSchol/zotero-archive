@@ -1,0 +1,100 @@
+{
+  "key": "BW9UR427",
+  "version": 4680,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BW9UR427",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BW9UR427",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BW9UR427",
+    "version": 4680,
+    "itemType": "book",
+    "title": "Tr\u00e9sors du raisonnement: Sa skya Pa\u1e47\u1e0dita et ses pr\u00e9d\u00e9cesseurs tib\u00e9tains sur les modes de fonctionnement de la pens\u00e9e et le fondement de l'inf\u00e9rence: \u00e9dition et traduction annot\u00e9e du quatri\u00e8me chapitre et d'une section du dixi\u00e8me chapitre du <i>Tshad ma rigs pa'i gter</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "69.1-2",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "date": "2008",
+    "numPages": "ix & vii, 854",
+    "language": "tib, fr",
+    "ISBN": "978-3-902501-08-0",
+    "shortTitle": "Hugon 2008",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BC25.S253",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "Sakya Pa\u1e47\u1e0dita"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/BKB3EXGL"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:04:30Z"
+  }
+}

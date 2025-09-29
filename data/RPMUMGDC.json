@@ -1,0 +1,92 @@
+{
+  "key": "RPMUMGDC",
+  "version": 4307,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RPMUMGDC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RPMUMGDC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1983",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RPMUMGDC",
+    "version": 4307,
+    "itemType": "journalArticle",
+    "title": "rjes \u2019gro ldog khyab ni tsuite",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Indo-Bukky\u014d Kenky\u016b (Journal of Indian and Buddhist Studies)",
+    "volume": "32",
+    "issue": "1",
+    "pages": "122-125",
+    "date": "1983",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Onoda 1983",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:11:20Z",
+    "dateModified": "2025-05-20T19:23:18Z"
+  }
+}

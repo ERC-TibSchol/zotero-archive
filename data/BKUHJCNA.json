@@ -1,0 +1,101 @@
+{
+  "key": "BKUHJCNA",
+  "version": 5552,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BKUHJCNA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BKUHJCNA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Las chen Kun dga' rgyal mtshan",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BKUHJCNA",
+    "version": 5552,
+    "itemType": "book",
+    "title": "bKa' gdams chos 'byung gsal ba'i sgron me",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Las chen Kun dga' rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "2003",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "7-223-01568-3",
+    "shortTitle": "Las chen - bKa' gdams chos 'byung",
+    "url": "http://purl.bdrc.io/resource/MW26009",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW26009\nWork: WA15964",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T20:17:49Z",
+    "dateModified": "2025-09-29T11:46:50Z"
+  }
+}

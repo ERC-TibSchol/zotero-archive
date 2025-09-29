@@ -1,0 +1,103 @@
+{
+  "key": "B4LK7NR6",
+  "version": 4967,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/B4LK7NR6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/B4LK7NR6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Jam gsar shes rab 'od zer",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "B4LK7NR6",
+    "version": 4967,
+    "itemType": "bookSection",
+    "title": "mngon rtogs rgyan gyi 'grel bshad 'thad pa'i 'od 'bar",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Jam gsar shes rab 'od zer"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "phar phyin skor: mngon rtogs rgyan pod brgyad pa",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "9",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "place": "lha sa",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2015",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "shortTitle": "'Jam gsar - mngon rtogs rgyan 'od 'bar 2015 ed.",
+    "url": "http://purl.bdrc.io/resource/I3CN4398",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+      ]
+    },
+    "dateAdded": "2025-04-02T08:15:39Z",
+    "dateModified": "2025-04-02T08:19:51Z"
+  }
+}

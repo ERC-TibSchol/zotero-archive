@@ -1,0 +1,95 @@
+{
+  "key": "8JC3TDMA",
+  "version": 5522,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8JC3TDMA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8JC3TDMA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "kun dga'",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8JC3TDMA",
+    "version": 5522,
+    "itemType": "bookSection",
+    "title": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "kun dga'"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "88",
+    "numberOfVolumes": "30",
+    "edition": "",
+    "place": "Khreng tu'u",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "date": "2009",
+    "pages": "7-219",
+    "language": "tib",
+    "ISBN": "978-7-5409-4283-0",
+    "shortTitle": "Kun dga' - rnam 'grel zin bris",
+    "url": "https://purl.bdrc.io/resource/MW1PD153536_9D699C",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
+    },
+    "dateAdded": "2025-09-23T06:32:41Z",
+    "dateModified": "2025-09-23T06:34:52Z"
+  }
+}

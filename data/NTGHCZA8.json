@@ -1,0 +1,116 @@
+{
+  "key": "NTGHCZA8",
+  "version": 4885,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NTGHCZA8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NTGHCZA8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Schuman",
+    "parsedDate": "2016",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "NTGHCZA8",
+    "version": 4885,
+    "itemType": "thesis",
+    "title": "Building Place and Shaping Lives: Nartang Monastery from the Twelfth through Fifteenth Centuries",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michael",
+        "lastName": "Schuman"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Kurtis",
+        "lastName": "Schaeffer"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "David",
+        "lastName": "Germano"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Karen",
+        "lastName": "Lang"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "David",
+        "lastName": "Vander Meulen"
+      }
+    ],
+    "abstractNote": "This thesis is a study of Nartang monastery in the Tsang region of Central Tibet.  Nartang monastery was founded in 1153 and was one of the most influential monastic institutions of the Kadam school until the fifteenth century.  In its initial construction, Nartang monastery was a small enclave with limited members.  By the mid-thirteenth century the place had significantly grown in physical size, membership, and reputation.  This study explores the steady growth and decline of the monastery by examining the lives of the people in charge and their real and symbolic relations within and without the monastic community. \n\nThis thesis begins with the Kadam school in the Peny\u00fcl valley of Central Tibet.  Here Nartang\u2019s founder Tumt\u00f6n Lodr\u00f6 Drakpa (Gtum ston blo gros grags pa, 1106-1166) was educated and inspired to return to his native land in Tsang to build Nartang monastery.  I then turn to the effective campaign strategies of Nartang\u2019s fourth, fifth, and sixth abbot, who traveled throughout Central Tibet to raise funds for the monastery and to acquire new monastic recruits.   Nartang monastery was at its best during the tenure of the seventh abbot Chim Namkha Drak (Mchims nam mkha\u2019 grags, 1210-1285).  It was during his tenure that the political events on the Eastern Steppe could no longer be ignored in Central Tibet.  I show how Chim Namkha Drak and the Nartang community effectively navigated through the Mongolian (re)organization of Central Tibet.  I also trace how the Nartang abbots, specifically the eight abbot Kyot\u00f6n M\u00f6nlam Ts\u00fcltrim (Skyon ston smon lam tshul krims, 1219-1299), projected and guided the increasing importance of their monastery at the center of the Buddhist world.  I then study the life of Nartang\u2019s tenth abbot, his time spent at the Mongol court and his eventual return to Nartang.  Finally, I look to Nartang when Gend\u00fcn Drupa (Dge \u2019dun grub pa, 1391-1474), posthumously the First Dalai Lama, entered the monastery at the age of seven in 1398.  By this time Nartang monastery had well established a standardized curriculum and built a reputation for itself as a preeminent Kadam scholastic institution.  I also explore the various factors that left Nartang monastery in a precarious state by the fifteenth century, such as the burgeoning reformist movement in Central Tibet lead by Tsongkhapa Lozang Drakpa (Tsong kha pa blo bzang grags pa, 1357-1419), the building of Tashi Lh\u00fcnpo monastery by Gend\u00fcn Drupa in 1449, and a decline in Sakya power and the rise of the Pakmodrupa.",
+    "thesisType": "",
+    "university": "University of Virginia",
+    "place": "",
+    "date": "2016",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "Schuman 2016",
+    "url": "https://libraetd.lib.virginia.edu/public_view/2b88qc50s",
+    "accessDate": "2021-10-19T12:27:21Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "All rights reserved (no additional license for public reuse)",
+    "extra": "DOI: 10.18130/V39G5T",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Monastery"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "4JFH24VK"
+    ],
+    "relations": {},
+    "dateAdded": "2021-10-19T12:27:23Z",
+    "dateModified": "2025-05-21T07:37:09Z"
+  }
+}

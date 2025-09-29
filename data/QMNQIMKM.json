@@ -1,0 +1,93 @@
+{
+  "key": "QMNQIMKM",
+  "version": 5472,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QMNQIMKM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QMNQIMKM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phya pa Chos kyi seng ge",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QMNQIMKM",
+    "version": 5472,
+    "itemType": "bookSection",
+    "title": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phya pa Chos kyi seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "437-522",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phya - dbu ma rgyan 'grel bshad",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014_B499C8",
+    "accessDate": "2023-11-22",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Modern page numbering: 67-152",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2023-11-22T10:23:12Z",
+    "dateModified": "2025-09-08T13:03:14Z"
+  }
+}

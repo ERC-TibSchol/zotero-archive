@@ -1,0 +1,88 @@
+{
+  "key": "F2PEN2D9",
+  "version": 4699,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/F2PEN2D9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/F2PEN2D9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "F2PEN2D9",
+    "version": 4699,
+    "itemType": "bookSection",
+    "title": "bCom ldan rigs pa\u02bci ral gri\u02bci gsung rtsom dkar chag",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bCcom ldan rigs pa\u02bci ral gri'i gsung 'bum",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "[lha sa]",
+    "publisher": "[khams sprul bsod nams don grub]",
+    "date": "2006",
+    "pages": "24-38",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Ral gri - dkar chag",
+    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_6EAAE1",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC MW00EGS1017426",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-02-05T12:37:19Z",
+    "dateModified": "2025-05-21T07:07:57Z"
+  }
+}

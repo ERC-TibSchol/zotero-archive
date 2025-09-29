@@ -1,0 +1,88 @@
+{
+  "key": "3BV4MA9T",
+  "version": 4290,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3BV4MA9T",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3BV4MA9T",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon and Vose",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3BV4MA9T",
+    "version": 4290,
+    "itemType": "journalArticle",
+    "title": "Unearthing the Foundations of Tibetan Buddhist Philosophy",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kevin",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "32",
+    "issue": "1-2",
+    "pages": "237-248",
+    "date": "2009",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Hugon and Vose 2009",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-16T08:31:48Z",
+    "dateModified": "2025-05-20T19:21:38Z"
+  }
+}

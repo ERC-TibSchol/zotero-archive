@@ -1,0 +1,80 @@
+{
+  "key": "SHITMM8R",
+  "version": 5156,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/SHITMM8R",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/SHITMM8R",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Almogi",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "SHITMM8R",
+    "version": 5156,
+    "itemType": "book",
+    "title": "Tibetan manuscript and xylograph traditions: the written word and its media within the Tibetan culture sphere",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Orna",
+        "lastName": "Almogi"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Indian and Tibetan studies",
+    "seriesNumber": "4",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Hamburg",
+    "publisher": "Department of Indian and Tibetan Studies, Universit\u00e4t Hamburg",
+    "date": "2016",
+    "numPages": "415",
+    "language": "eng",
+    "ISBN": "978-3-945151-03-7",
+    "shortTitle": "Tibetan manuscript and xylograph traditions",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-21T12:29:55Z",
+    "dateModified": "2025-05-21T12:30:19Z"
+  }
+}

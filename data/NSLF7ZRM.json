@@ -1,0 +1,102 @@
+{
+  "key": "NSLF7ZRM",
+  "version": 5552,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NSLF7ZRM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NSLF7ZRM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lo dgon pa bSod nams lha'i dbang po",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NSLF7ZRM",
+    "version": 5552,
+    "itemType": "bookSection",
+    "title": "bka' brgyud rin po che'i chos 'byung mig 'byed 'od stong",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "Per K.",
+        "lastName": "S\u00f8rensen"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "name": "Sonam Dolma"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Lo dgon pa bSod nams lha'i dbang po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Rare texts from Tibet: Seven sources for the ecclesiastic history of medieval Tibet",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bhairahawa",
+    "publisher": "Lumbini International Research Institute",
+    "date": "2007",
+    "pages": "59-103",
+    "language": "tib",
+    "ISBN": "978-99946-933-3-7",
+    "shortTitle": "bka' brgyud chos 'byung",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ7572 .S67 2007",
+    "rights": "",
+    "extra": "Text A",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ZZAJVF3H"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/W4T5ZMUP"
+    },
+    "dateAdded": "2025-02-21T12:00:26Z",
+    "dateModified": "2025-05-21T06:58:52Z"
+  }
+}

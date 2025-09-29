@@ -1,0 +1,94 @@
+{
+  "key": "9AHTV5J8",
+  "version": 4977,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phya pa Chos kyi seng ge",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9AHTV5J8",
+    "version": 4977,
+    "itemType": "bookSection",
+    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Phya pa Chos kyi seng ge"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phya pa Chos kyi seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
+    "series": "Byang chub ljon bzang",
+    "seriesNumber": "6",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2012",
+    "pages": "1-138",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+    },
+    "dateAdded": "2024-09-05T19:09:25Z",
+    "dateModified": "2025-03-21T17:38:23Z"
+  }
+}

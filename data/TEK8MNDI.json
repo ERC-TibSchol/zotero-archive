@@ -1,0 +1,54 @@
+{
+  "key": "TEK8MNDI",
+  "version": 5146,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TEK8MNDI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TEK8MNDI",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/9RCZR3XL",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TEK8MNDI",
+    "version": 5146,
+    "parentItem": "9RCZR3XL",
+    "itemType": "note",
+    "note": "<p>Contains contributions by: Chiko Ishida, Laxman S. Thakur, Orna Almogi, Kazuo Kano, Dorji Wangchuk, Cathy Cantwell und Robert Mayer, Weirong Shen, Yael Bentor, Helmut Eimer, Ulrike Roesler, Michela Clemente, Marco Passavanti, Jowita Kramer, Peter Verhagen, Victoria Sujata</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-05-21T12:23:48Z",
+    "dateModified": "2025-05-21T12:23:48Z"
+  }
+}

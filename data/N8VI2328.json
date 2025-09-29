@@ -1,0 +1,97 @@
+{
+  "key": "N8VI2328",
+  "version": 1448,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N8VI2328",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N8VI2328",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Yoshimizu et al.",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "N8VI2328",
+    "version": 1448,
+    "itemType": "book",
+    "title": "Zhang Thang sag pa 'Byung gnas ye shes, dBu ma tshig gsal gyi ti ka Part II",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Chizuko",
+        "lastName": "Yoshimizu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hiroshi",
+        "lastName": "Nemoto"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Zhang Thang sag pa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studia Tibetica",
+    "seriesNumber": "No. 49",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tokyo",
+    "publisher": "The Tokyo Bunko",
+    "date": "2018",
+    "numPages": "",
+    "language": "tib eng",
+    "ISBN": "978-4-8097-0293-8",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-11T11:10:17Z",
+    "dateModified": "2023-09-26T09:18:06Z"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "key": "N35FPQ6L",
+  "version": 5547,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N35FPQ6L",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N35FPQ6L",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ngag dbang Skal ldan rgya mtsho",
+    "parsedDate": "1996",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "N35FPQ6L",
+    "version": 5547,
+    "itemType": "book",
+    "title": "Shel dkar chos 'byung: history of the \"white crystal\"; religion and politics of southern La stod",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Ngag dbang Skal ldan rgya mtsho"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "Pasang",
+        "lastName": "Wangdu"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Pasang",
+        "lastName": "Wangdu"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "Hildegard",
+        "lastName": "Diemberger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Hildegard",
+        "lastName": "Diemberger"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Ver\u00f6ffentlichungen zur Sozialanthropologie",
+    "seriesNumber": "1",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag d. \u00d6sterr. Akademie d. Wiss",
+    "date": "1996",
+    "numPages": "175",
+    "language": "tib chi eng",
+    "ISBN": "978-3-7001-2597-6",
+    "shortTitle": "sKal ldan rgya mtshon - Shel dkar chos 'byung",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-29T11:43:11Z",
+    "dateModified": "2025-09-29T11:46:01Z"
+  }
+}

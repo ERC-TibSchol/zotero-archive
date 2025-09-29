@@ -1,0 +1,96 @@
+{
+  "key": "5QZD6SWN",
+  "version": 1327,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5QZD6SWN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5QZD6SWN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Passavanti",
+    "parsedDate": "2019-01-01",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5QZD6SWN",
+    "version": 1327,
+    "itemType": "journalArticle",
+    "title": "The Great Seal and the Path of Means According to Par phu pa Blo gros seng ge",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Marco",
+        "lastName": "Passavanti"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Michela",
+        "lastName": "Clemente"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Oscar",
+        "lastName": "Nalesini"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Federica",
+        "lastName": "Venturi"
+      }
+    ],
+    "abstractNote": "The Zla ba\u2019i \u2019od zer, a Tibetan commentary on Saraha\u2019s King Doh\u0101 authored by Par phu pa Blo gros seng ge (XII cent. C. E), contains a detailed critique of the yogic techniques of the Up\u0101yam\u0101rga. In this article I focus on the exegesis of stanzas",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
+    "volume": "48",
+    "issue": "Perspectives on Tibetan Culture: A Small Garland of Forget-me-nots Offered to Elena De Rossi Filibeck",
+    "pages": "275-300",
+    "date": "2019/01/01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "The Great Seal and the Path of Means According to Par phu pa Blo gros seng ge",
+    "url": "https://www.academia.edu/39838447/THE_GREAT_SEAL_AND_THE_PATH_OF_MEANS_ACCORDING_TO_PAR_PHU_PA_BLO_GROS_SENG_GE_in_Revue_d_Etudes_Tib%C3%A9taines_51_2019_Perspectives_on_Tibetan_Culture_A_Small_Garland_of_Forget_me_nots_Offered_to_Elena_De_Rossi_Filibeck_Ed_by_Michela_Clemente_Oscar_Nalesini_and_Federica_Venturi",
+    "accessDate": "2023-02-03T10:48:16Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.academia.edu",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-02-03T10:48:17Z",
+    "dateModified": "2023-02-03T10:55:16Z"
+  }
+}

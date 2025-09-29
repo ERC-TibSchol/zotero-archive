@@ -1,0 +1,95 @@
+{
+  "key": "YCPV4E9H",
+  "version": 5472,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YCPV4E9H",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YCPV4E9H",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Karma dkon mchog gzhon nu",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YCPV4E9H",
+    "version": 5472,
+    "itemType": "bookSection",
+    "title": "rgyud bla'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Karma dkon mchog gzhon nu"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "place": "Khams sde dge",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "date": "2016",
+    "pages": "241-416",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Karma - rgyud bla dga' byed",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014_D6EAC8",
+    "accessDate": "2023-11-17",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2025-05-22T10:08:30Z",
+    "dateModified": "2025-09-08T13:03:14Z"
+  }
+}

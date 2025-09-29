@@ -1,0 +1,87 @@
+{
+  "key": "JTMPVMM5",
+  "version": 5159,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JTMPVMM5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JTMPVMM5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Balbir and Ciotti",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JTMPVMM5",
+    "version": 5159,
+    "itemType": "book",
+    "title": "The syntax of colophons: a comparative study across pothi manuscripts",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Nalini",
+        "lastName": "Balbir"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Giovanni",
+        "lastName": "Ciotti"
+      }
+    ],
+    "abstractNote": "This volume is the first to attempt a comprehensive and cross-disciplinary analysis of the manuscript cultures implementing the pothi manuscript form (a loosely bound stack of oblong folios). It is the indigenous form by which manuscripts have been crafted in South Asia and the cultural areas most influenced by it, that is to say Central and South East Asia. The volume focuses particularly on the colophons featured in such manuscripts presenting a series of essays enabling the reader to engage in a historical and comparative investigation of the links connecting the several manuscript cultures examined here. Colophons as paratexts are situated at the intersection between texts and the artefacts that contain them and offer a unique vantage point to attain global appreciation of their manuscript cultures and literary traditions. Colophons are also the product of scribal activities that have moved across regions and epochs alongside the pothi form, providing a common thread binding together the many millions of pothis still today found in libraries in Asia and the world over. These contributions provide a systematic approach to the internal structure of colophons, i.e. their ?syntax?, and facilitate a vital, comparative approach",
+    "series": "Studies in manuscript cultures",
+    "seriesNumber": "volume 27",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berlin Boston",
+    "publisher": "De Gruyter",
+    "date": "2022",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-3-11-079523-3",
+    "shortTitle": "The syntax of colophons",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/BYN3P729"
+    },
+    "dateAdded": "2025-05-21T12:33:46Z",
+    "dateModified": "2025-05-21T12:33:57Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "key": "BC2XIKIE",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BC2XIKIE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BC2XIKIE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "sKyo ston sMon lam tshul khrims",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BC2XIKIE",
+    "version": 4989,
+    "itemType": "bookSection",
+    "title": "mChims nam mkha\u02bc grags kyi rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "sKyo ston sMon lam tshul khrims"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "sNar thang gser phreng",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "sKyon ston - mChims rnam thar",
+    "url": "http://purl.bdrc.io/resource/MW2CZ7888_B1B2C6",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW2CZ7888_B1B2C6 \nWork: WA26623",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-11T12:44:18Z",
+    "dateModified": "2025-05-21T07:42:25Z"
+  }
+}

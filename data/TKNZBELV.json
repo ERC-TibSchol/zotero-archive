@@ -1,0 +1,54 @@
+{
+  "key": "TKNZBELV",
+  "version": 988,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TKNZBELV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TKNZBELV",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/QNRXNLGG",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TKNZBELV",
+    "version": 988,
+    "parentItem": "QNRXNLGG",
+    "itemType": "note",
+    "note": "<p>This is the version found in Cabez\u00f3n 2010. There is another version in BDRC but the scans are not available.</p>\n<p>\u00a0</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2022-09-30T12:05:29Z",
+    "dateModified": "2022-09-30T12:06:38Z"
+  }
+}

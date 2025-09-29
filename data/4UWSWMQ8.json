@@ -1,0 +1,90 @@
+{
+  "key": "4UWSWMQ8",
+  "version": 5129,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4UWSWMQ8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4UWSWMQ8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Akahane",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4UWSWMQ8",
+    "version": 5129,
+    "itemType": "journalArticle",
+    "title": "Study of the Satyadvayavibha\u1e45ga (3)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ritsu",
+        "lastName": "Akahane"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76 (Indogaku Bukky\u014dgaku Kenky\u016b, Journal of Indian and Buddhist Studies)",
+    "volume": "54",
+    "issue": "3",
+    "pages": "1221-1225 (109-113)",
+    "date": "2006",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "00194344 (P); 18840051 (E)",
+    "shortTitle": "Akahane 2005",
+    "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=139109&comefrom=authorinfo",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-12-06T14:55:47Z",
+    "dateModified": "2025-05-21T10:49:58Z"
+  }
+}

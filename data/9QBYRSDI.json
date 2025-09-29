@@ -1,0 +1,81 @@
+{
+  "key": "9QBYRSDI",
+  "version": 4327,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9QBYRSDI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9QBYRSDI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dar-ma-rin-chen",
+    "parsedDate": "1982",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9QBYRSDI",
+    "version": 4327,
+    "itemType": "book",
+    "title": "The collected works (gsu\u1e45 'bum) of the lord rgyal-tshab rje dar-ma-rin-chen : reproduced from a set of prints from the 1897 Lha-sa old \u017aol (dga-'ldan-phun-tshogs-gli\u1e45) blocks. 1, Volume 1",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Dar-ma-rin-chen"
+      }
+    ],
+    "abstractNote": "",
+    "series": "rJe yab sras gsum gyi gsu\u1e45 'bum ; 19",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Mongolian Lama Gurudeva",
+    "date": "1982",
+    "numPages": "",
+    "language": "tib, eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2023-09-01T14:34:57Z",
+    "dateModified": "2025-05-20T19:25:02Z"
+  }
+}

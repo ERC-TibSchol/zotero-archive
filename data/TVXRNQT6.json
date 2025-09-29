@@ -1,0 +1,92 @@
+{
+  "key": "TVXRNQT6",
+  "version": 5114,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TVXRNQT6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TVXRNQT6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Akasoy et al.",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TVXRNQT6",
+    "version": 5114,
+    "itemType": "book",
+    "title": "Islam and Tibet \u2013 Interactions along the Musk Routes",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Anna",
+        "lastName": "Akasoy"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Charles",
+        "lastName": "Burnett"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ronit",
+        "lastName": "Yoeli-Tlalim"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Farnham",
+    "publisher": "",
+    "date": "2011",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/4ASUY9XM"
+    },
+    "dateAdded": "2025-05-21T09:26:59Z",
+    "dateModified": "2025-05-21T09:39:23Z"
+  }
+}

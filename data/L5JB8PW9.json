@@ -1,0 +1,98 @@
+{
+  "key": "L5JB8PW9",
+  "version": 5196,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/L5JB8PW9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/L5JB8PW9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tenzin",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "L5JB8PW9",
+    "version": 5196,
+    "itemType": "dataset",
+    "title": "Pecha Layout Analysis Annotations in Transkibus Format",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Tenzin"
+      }
+    ],
+    "abstractNote": "Training data for <em>Layout Analysis</em> of Tibetan woodblock prints. This version of dataset contain images randomly picked images from LOC scans of the derge kangyur.\n\n<strong>Training data contains:</strong>\n\n\n\tText region annotations\n\tLine annotations\n\n\nNote: The annotations scheme is based on Transkribus<strong>. </strong>Importing the annotations is same as importing an exported Transkribus format documents.",
+    "identifier": "",
+    "type": "",
+    "versionNumber": "",
+    "date": "2019",
+    "repository": "Zenodo",
+    "repositoryLocation": "",
+    "format": "",
+    "DOI": "10.5281/ZENODO.3245411",
+    "citationKey": "",
+    "url": "https://zenodo.org/record/3245411",
+    "accessDate": "2021-12-15T11:37:08Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "Creative Commons Attribution 4.0 International, Open Access",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-15T11:37:09Z",
+    "dateModified": "2025-05-21T12:54:31Z"
+  }
+}

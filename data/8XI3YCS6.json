@@ -1,0 +1,114 @@
+{
+  "key": "8XI3YCS6",
+  "version": 4690,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8XI3YCS6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8XI3YCS6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2023",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8XI3YCS6",
+    "version": 4690,
+    "itemType": "bookSection",
+    "title": "Thunderbolt Blaze\u2019 or \u2018Armless Hero\u2019? \u2013 On the Authorship of the <i>Essence of Debate</i>",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Jue",
+        "lastName": "Liang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "William A.",
+        "lastName": "McGrath"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Leonard W. J. van der",
+        "lastName": "Kuijp"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Histories of Tibet: essays in honor of Leonard W. J. van der Kuijp",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York, NY",
+    "publisher": "Wisdom Publications",
+    "date": "2023",
+    "pages": "339-354",
+    "language": "eng",
+    "ISBN": "978-1-61429-808-3",
+    "shortTitle": "Hugon 2023",
+    "url": "https://doi.org/10.1553/TibSchol_ERC_Cog_101001002_Hugon_Thunderbolt",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "DS786",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Debate"
+      }
+    ],
+    "collections": [
+      "DC68IMMR",
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2023-08-30T09:23:56Z",
+    "dateModified": "2025-05-21T07:05:53Z"
+  }
+}

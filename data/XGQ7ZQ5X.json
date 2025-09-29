@@ -1,0 +1,92 @@
+{
+  "key": "XGQ7ZQ5X",
+  "version": 4977,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XGQ7ZQ5X",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XGQ7ZQ5X",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phya pa Chos kyi seng ge",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XGQ7ZQ5X",
+    "version": 4977,
+    "itemType": "bookSection",
+    "title": "dBu ma bden gnyis kyi rnam bshad",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phya pa Chos kyi seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
+    "series": "Byang chub ljon bzang",
+    "seriesNumber": "6",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2012",
+    "pages": "139\u2013227",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phya - bden gnyis rnam bshad",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+    },
+    "dateAdded": "2023-12-11T15:52:29Z",
+    "dateModified": "2025-03-21T17:38:33Z"
+  }
+}

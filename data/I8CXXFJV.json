@@ -1,0 +1,54 @@
+{
+  "key": "I8CXXFJV",
+  "version": 969,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/I8CXXFJV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/I8CXXFJV",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q3KCZX7B",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "I8CXXFJV",
+    "version": 969,
+    "parentItem": "Q3KCZX7B",
+    "itemType": "note",
+    "note": "<p>This text is studied in Vitali 2015. In his bibliography however the author is \"anonymous\". Vitali also uses a second version of this text (the Bell edition) but it is not clear, when he cites the Myang chos 'byung in the footnotes, from which of the versions he is drawing.</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2022-09-30T11:13:23Z",
+    "dateModified": "2022-09-30T11:16:21Z"
+  }
+}

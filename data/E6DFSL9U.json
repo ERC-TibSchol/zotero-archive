@@ -1,0 +1,90 @@
+{
+  "key": "E6DFSL9U",
+  "version": 4859,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/E6DFSL9U",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/E6DFSL9U",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2023-05-24",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "E6DFSL9U",
+    "version": 4859,
+    "itemType": "journalArticle",
+    "title": "Unveiling Gsang phu Madhyamaka Thought in Xixia: The Tangut Version of the Analysis of the Essence of Madhyamaka",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "Among the Tangut Buddhist texts discovered from Khara-Khoto, there emerges a text entitled Gu t\u015bja \u0263iej tsji\u0331r t\u015bhji kj\u1ecbj, which means \u2018Analysis of the Essence of Madhyamaka.\u2019 Intriguingly, a Tibetan treatise composed by Rgya dmar ba Byang chub grags (fl. 12th century) bears the same title. A comparison between the texts in both languages shows that about 50% of their contents are the same. Although the Tangut text cannot be regarded as a translation of the Tibetan text we see today, the complex relationship between both texts and the history of the transmission of the Tibetan treatise is worth investigating.",
+    "publicationTitle": "Acta Orientalia Academiae Scientiarum Hungaricae",
+    "volume": "76",
+    "issue": "2",
+    "pages": "239-271",
+    "date": "2023/05/24",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1556/062.2023.00292",
+    "ISSN": "0001-6446, 1588-2667",
+    "shortTitle": "Unveiling Gsang phu Madhyamaka Thought in Xixia",
+    "url": "https://akjournals.com/view/journals/062/76/2/article-p239.xml",
+    "accessDate": "2023-06-28T10:01:45Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "akjournals.com",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Akad\u00e9miai Kiad\u00f3\nSection: Acta Orientalia Academiae Scientiarum Hungaricae",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Tangut"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-06-28T10:02:44Z",
+    "dateModified": "2025-05-21T07:31:39Z"
+  }
+}

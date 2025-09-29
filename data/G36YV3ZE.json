@@ -1,0 +1,116 @@
+{
+  "key": "G36YV3ZE",
+  "version": 5560,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/G36YV3ZE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/G36YV3ZE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gos Lo-tsa-ba Gzon-nu-dpal",
+    "parsedDate": "1949",
+    "numChildren": 2
+  },
+  "data": {
+    "key": "G36YV3ZE",
+    "version": 5560,
+    "itemType": "book",
+    "title": "The blue annals. Parts 1 and 2 / [translated and edited] by George N. Roerich",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "1392-1481",
+        "lastName": "Gos Lo-tsa-ba Gzon-nu-dpal"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "India)",
+        "lastName": "Asiatic Society (Calcutta"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Asiatic Society monograph series ; v. 7.",
+    "seriesNumber": "Accessed from https://nla.gov.au/nla.cat-vn1930162",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Calcutta",
+    "publisher": "Royal Asiatic Society of Bengal",
+    "date": "1949",
+    "numPages": "",
+    "language": "",
+    "ISBN": "",
+    "shortTitle": "Roerich (tr.) 1949",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T11:54:15Z",
+    "dateModified": "2025-09-22T07:43:32Z"
+  }
+}

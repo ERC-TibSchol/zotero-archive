@@ -1,0 +1,96 @@
+{
+  "key": "2477SX3F",
+  "version": 4990,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2477SX3F",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2477SX3F",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "1970",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2477SX3F",
+    "version": 4990,
+    "itemType": "bookSection",
+    "title": "bDe gshegs phag mo gru pa'i rnam par thar pa",
+    "creators": [],
+    "abstractNote": "",
+    "bookTitle": "'Ba' ra bka' brgyud gser 'phreng chen mo",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "4",
+    "edition": "",
+    "place": "Dehra Dun",
+    "publisher": "Ngawang Gyaltsen And Ngawang Lungtok",
+    "date": "1970",
+    "pages": "335-364",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag gru rnam thar - 'Ba' ra gser 'phreng",
+    "url": "https://purl.bdrc.io/resource/MW19231_854861",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY",
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-10T16:56:37Z",
+    "dateModified": "2025-05-21T07:43:12Z"
+  }
+}

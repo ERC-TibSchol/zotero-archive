@@ -1,0 +1,94 @@
+{
+  "key": "2DU6YYG8",
+  "version": 5556,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2DU6YYG8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2DU6YYG8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gTsang nag pa brTson 'grus seng ge",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2DU6YYG8",
+    "version": 5556,
+    "itemType": "bookSection",
+    "title": "Chos \u02bcbyung kun dga\u02bc snying po\u02bci dbu lags so (dbu med)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "gTsang nag pa brTson 'grus seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Bod kyi lo rgyus rnam thar phyogs bsgrigs(130)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "11",
+    "numberOfVolumes": "",
+    "edition": "Par gzhi dang po",
+    "place": "Zi ling",
+    "publisher": "Mtsho sngon mi rigs dpe skrun khang",
+    "date": "2010",
+    "pages": "297-337",
+    "language": "tib",
+    "ISBN": "978-7-5420-1464-1",
+    "shortTitle": "gTsang nag - Chos 'byung",
+    "url": "http://purl.bdrc.io/resource/MW1KG10687_185C7F",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "B3TNTFC4",
+      "ZZAJVF3H"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/PZBX5PJU",
+        "http://zotero.org/groups/4394244/items/I8IS9PPH"
+      ]
+    },
+    "dateAdded": "2023-09-14T12:18:38Z",
+    "dateModified": "2025-09-29T11:48:30Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "key": "6852GZ36",
+  "version": 4873,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6852GZ36",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6852GZ36",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Takeuchi and Iuchi",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6852GZ36",
+    "version": 4873,
+    "itemType": "book",
+    "title": "Tibetan Texts from Khara-khoto in The Stein Collection of the British Library",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tsuguhito",
+        "lastName": "Takeuchi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tokyo",
+    "publisher": "The Toyo Bunko",
+    "date": "2016",
+    "numPages": "",
+    "language": "",
+    "ISBN": "978-4-8097-0283-9",
+    "shortTitle": "Takeuchi&Iuchi 2016",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-11-20T15:20:21Z",
+    "dateModified": "2025-05-21T07:34:36Z"
+  }
+}

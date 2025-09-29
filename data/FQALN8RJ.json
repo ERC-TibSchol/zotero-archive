@@ -1,0 +1,89 @@
+{
+  "key": "FQALN8RJ",
+  "version": 2185,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FQALN8RJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FQALN8RJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Griffiths",
+    "parsedDate": "2024-01-02",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FQALN8RJ",
+    "version": 2185,
+    "itemType": "computerProgram",
+    "title": "ERC-TibSchol/image-segmentation: v.1",
+    "creators": [
+      {
+        "creatorType": "programmer",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "Initial release of \"image segmentation\" on Zenodo. These codes allow one to cut an input image into two or four equal horizontal segments and save them as separate images.\n\nThese scripts were created for the ERC project The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol). Cf. https://www.oeaw.ac.at/projects/tibschol for more information.\u00a0This project, hosted at the Institute for Cultural and Intellectual History of Asia of the Austrian Academy of Sciences, has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.",
+    "seriesTitle": "",
+    "versionNumber": "v.1",
+    "date": "2024-01-02",
+    "system": "",
+    "place": "",
+    "company": "Zenodo",
+    "programmingLanguage": "",
+    "ISBN": "",
+    "shortTitle": "ERC-TibSchol/image-segmentation",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.10450698",
+    "rights": "Creative Commons Zero v1.0 Universal",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "accessDate": "2024-01-24T14:02:35Z",
+    "extra": "DOI: 10.5281/ZENODO.10450698",
+    "tags": [],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2024-01-24T14:02:35Z",
+    "dateModified": "2024-01-24T14:02:35Z"
+  }
+}

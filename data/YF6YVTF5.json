@@ -1,0 +1,93 @@
+{
+  "key": "YF6YVTF5",
+  "version": 4275,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YF6YVTF5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YF6YVTF5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lo Ten",
+    "parsedDate": "1985",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YF6YVTF5",
+    "version": 4275,
+    "itemType": "book",
+    "title": "dPal snar thang chos sde\u02bci lo rgyus",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "name": "Lo Ten"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "1985",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW8LS43781",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW8LS43781\nWork: WA8LS43781",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-02-16T08:32:44Z",
+    "dateModified": "2025-05-20T19:19:58Z"
+  }
+}

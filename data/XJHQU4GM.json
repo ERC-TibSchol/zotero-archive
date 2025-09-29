@@ -1,0 +1,95 @@
+{
+  "key": "XJHQU4GM",
+  "version": 3681,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XJHQU4GM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XJHQU4GM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lang",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XJHQU4GM",
+    "version": 3681,
+    "itemType": "bookSection",
+    "title": "Spa-tshab nyi-ma-grags and the introduction of Pr\u0101sa\u1e45gika Madhyamaka into Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Karen",
+        "lastName": "Lang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "L.",
+        "lastName": "Epstein"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "R.",
+        "lastName": "Sherburne"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Reflections on Tibetan Culture: Essays in Memory of Turrell V. Wylie (Studies in Asian Thought and Religion)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York",
+    "publisher": "The Edwin Mellen Press",
+    "date": "1990",
+    "pages": "127\u2013141",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Lang 1990",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2010-09-24 11:59:19\n_eprint: 1678",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-11-24T12:52:40Z",
+    "dateModified": "2025-03-21T17:37:23Z"
+  }
+}

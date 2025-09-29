@@ -1,0 +1,84 @@
+{
+  "key": "UUE853RL",
+  "version": 5531,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UUE853RL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UUE853RL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dom po ba thub bstan rgyal mtshan",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UUE853RL",
+    "version": 5531,
+    "itemType": "book",
+    "title": "Po ta lar bzhugs pa\u02bci rnying ma\u02bci gsung \u02bcbum dkar chag",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Dom po ba thub bstan rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "",
+    "date": "1992",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Potala rnying ma dkar chag",
+    "url": "http://purl.bdrc.io/resource/WA19822",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-23T07:28:15Z",
+    "dateModified": "2025-09-23T08:23:03Z"
+  }
+}

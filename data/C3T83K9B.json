@@ -1,0 +1,54 @@
+{
+  "key": "C3T83K9B",
+  "version": 1230,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/C3T83K9B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/C3T83K9B",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q5TFQTM8",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "C3T83K9B",
+    "version": 1230,
+    "parentItem": "Q5TFQTM8",
+    "itemType": "note",
+    "note": "pt. 1. Folios 1a-26a3 on Candraki\u0304rti's Prasannapada\u0304 ad Mu\u0304lamadhyamakaka\u0304rika\u0304 1.1",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2022-10-11T11:09:55Z",
+    "dateModified": "2022-10-11T11:09:55Z"
+  }
+}

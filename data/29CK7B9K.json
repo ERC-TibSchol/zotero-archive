@@ -1,0 +1,93 @@
+{
+  "key": "29CK7B9K",
+  "version": 4281,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/29CK7B9K",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/29CK7B9K",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ngorchen Kunga Zangpo",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "29CK7B9K",
+    "version": 4281,
+    "itemType": "bookSection",
+    "title": "Thob yig rgya mtsho",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Ngorchen Kunga Zangpo"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Complete Works Of Ngor-chen Kun-dga'-bzang-po",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "4",
+    "edition": "",
+    "place": "[Dehra Dun]",
+    "publisher": "[Sakya centre]",
+    "date": "1990\u20131999",
+    "pages": "181\u2013436",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW11577_3F6F75",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW11577_3F6F75\nEntire work link: http://purl.bdrc.io/resource/MW11577\nWork: WA11577",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T08:53:25Z",
+    "dateModified": "2025-05-20T19:20:33Z"
+  }
+}

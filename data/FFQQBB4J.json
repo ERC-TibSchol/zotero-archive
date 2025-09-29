@@ -1,0 +1,95 @@
+{
+  "key": "FFQQBB4J",
+  "version": 4862,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FFQQBB4J",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FFQQBB4J",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus and Tsering",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FFQQBB4J",
+    "version": 4862,
+    "itemType": "journalArticle",
+    "title": "Pa Tshab and the Origin of Prasangika",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges",
+        "lastName": "Dreyfus"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Drongbu",
+        "lastName": "Tsering"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "32",
+    "issue": "1-2",
+    "pages": "387-417",
+    "date": "2009",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Dreyfus and Tsering 2009",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/WV28PHTK",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/UY36XHFX"
+    },
+    "dateAdded": "2021-12-16T09:22:59Z",
+    "dateModified": "2025-05-21T07:32:19Z"
+  }
+}

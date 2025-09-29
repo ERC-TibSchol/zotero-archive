@@ -1,0 +1,99 @@
+{
+  "key": "JSUBIUQV",
+  "version": 5197,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JSUBIUQV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JSUBIUQV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Cox",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JSUBIUQV",
+    "version": 5197,
+    "itemType": "bookSection",
+    "title": "The unbroken treatise: Scripture and argument in early Buddhist scholasticism",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Michael",
+        "lastName": "Williams"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Collett",
+        "lastName": "Cox"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Collett",
+        "lastName": "Cox"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Innovation in Religious Traditions",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berlin",
+    "publisher": "",
+    "date": "1992",
+    "pages": "143-189",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/PFU4PG3K"
+    },
+    "dateAdded": "2025-05-21T09:37:39Z",
+    "dateModified": "2025-05-21T12:54:43Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "key": "CF9DG8CY",
+  "version": 3784,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CF9DG8CY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CF9DG8CY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rDo rje rgyal po and Taranatha",
+    "parsedDate": "1977",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CF9DG8CY",
+    "version": 3784,
+    "itemType": "book",
+    "title": "sangs rgyas kyi bstan pa la rim gyi 'jug pa'i tshul dang / thub pa'i dbang pos mdzad pa mdo tsam brjod pa bcas",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Taranatha"
+      }
+    ],
+    "abstractNote": "Sa\u1e45s rgyas kyi bstan pa la rim \u02bcjug pa\u02bci tshul (Sa\u1e45s rgyas bstan rim) :a detailed presentation of the principles of Buddhism /by Rdo-rje-rgyal-po. Bcom ldan \u02bcdas Thub pa\u02bci dba\u1e45 po\u02bci mdzad pa mdo tsam brjod pa mtho\u1e45 bas don ldan rab tu dga\u02bc ba da\u1e45 bcas pa\u02bci \u00f1in byed phyogs brgyar \u02bcchar ba : an account of the life of Gautama Buddha / by Jo-na\u1e45 Rje-btsun T\u0101ran\u0101tha.\nCover Title: sa\u1e45s rgyas bstan rim and jo na\u1e45 mdzad brgya",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bir, H.P.",
+    "publisher": "Zogyam and Pema Lodoe",
+    "date": "1977",
+    "numPages": "488",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/WA1KG9602",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "reproduced from rare manuscripts from the library of tokden rinpoche of ladakh",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/4MV58L8W"
+    },
+    "dateAdded": "2025-03-27T14:01:19Z",
+    "dateModified": "2025-03-27T14:03:42Z"
+  }
+}

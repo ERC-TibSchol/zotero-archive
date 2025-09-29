@@ -1,0 +1,89 @@
+{
+  "key": "9BSTCVS6",
+  "version": 3818,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9BSTCVS6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9BSTCVS6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mKhan chen zhi ba 'tsho sogs",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9BSTCVS6",
+    "version": 3818,
+    "itemType": "book",
+    "title": "dBu ma rgyan rtsa 'grel phyogs bsgrigs",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mKhan chen zhi ba 'tsho sogs"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Bla rung snga 'gyur dpe tshogs",
+    "seriesNumber": "23",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "bla rung sgar",
+    "publisher": "gSer ljongs bla ma rung lnga rig nang bstan slob grwa chen mo",
+    "date": "[n.d.]",
+    "numPages": "5, 507",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "dBu ma rgyan phyogs bsgrigs",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: W1KG8937",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/SR69Y6ZN",
+      "dc:relation": "http://zotero.org/groups/4394244/items/N6D2Z9DB"
+    },
+    "dateAdded": "2023-12-11T17:49:43Z",
+    "dateModified": "2025-04-04T13:10:17Z"
+  }
+}

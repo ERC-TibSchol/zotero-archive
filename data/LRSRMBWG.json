@@ -1,0 +1,100 @@
+{
+  "key": "LRSRMBWG",
+  "version": 4276,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LRSRMBWG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LRSRMBWG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nar Ten Khenchen Nyima Gyaltsen et al.",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LRSRMBWG",
+    "version": 4276,
+    "itemType": "book",
+    "title": "sNar thang gser phreng",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Nar Ten Khenchen Nyima Gyaltsen"
+      },
+      {
+        "creatorType": "author",
+        "name": "Kyoton Monlam Tsultrim"
+      },
+      {
+        "creatorType": "author",
+        "name": "Chim Namkha Drak"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW2CZ7888",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW2CZ7888\nWork: WA2CZ7888",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-02-16T08:34:38Z",
+    "dateModified": "2025-05-20T19:20:03Z"
+  }
+}

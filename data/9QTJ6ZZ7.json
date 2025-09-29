@@ -1,0 +1,92 @@
+{
+  "key": "9QTJ6ZZ7",
+  "version": 5014,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9QTJ6ZZ7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9QTJ6ZZ7",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rDo rje rgyal po",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9QTJ6ZZ7",
+    "version": 5014,
+    "itemType": "bookSection",
+    "title": "Sangs rgyas kyi bstan pa la rim kyis \u02bcjug pa\u02bci tshul",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung 'bum rDo rje rgyal po",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "224-383",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag mo gru - bstan rims 'jug tshul",
+    "url": "http://purl.bdrc.io/resource/MW23860_EE8A18",
+    "accessDate": "2025-03-27",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "bdr:MW23860_EE8A18",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/G2V7MLHD",
+        "http://zotero.org/groups/4394244/items/MM95FT55",
+        "http://zotero.org/groups/4394244/items/EA4G9RD3"
+      ]
+    },
+    "dateAdded": "2025-03-27T12:26:28Z",
+    "dateModified": "2025-03-27T12:52:37Z"
+  }
+}

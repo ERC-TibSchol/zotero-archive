@@ -1,0 +1,110 @@
+{
+  "key": "WEPMCAYR",
+  "version": 5492,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WEPMCAYR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WEPMCAYR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Aitken",
+    "parsedDate": "2023",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WEPMCAYR",
+    "version": 5492,
+    "itemType": "bookSection",
+    "title": "Chomden Reldri on Dharmakirti\u2019s Examination of Relations",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Jue",
+        "lastName": "Liang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "William A.",
+        "lastName": "McGrath"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Leonard W. J. van der",
+        "lastName": "Kuijp"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Allison",
+        "lastName": "Aitken"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Histories of Tibet: essays in honor of Leonard W. J. van der Kuijp",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York, NY",
+    "publisher": "Wisdom Publications",
+    "date": "2023",
+    "pages": "283-305",
+    "language": "eng",
+    "ISBN": "978-1-61429-808-3",
+    "shortTitle": "Aitken 2023",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "DS786",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/PYAGVFNH"
+    },
+    "dateAdded": "2025-09-22T09:30:56Z",
+    "dateModified": "2025-09-22T09:32:07Z"
+  }
+}

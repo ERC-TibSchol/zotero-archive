@@ -1,0 +1,94 @@
+{
+  "key": "6VBBJ2RJ",
+  "version": 4316,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6VBBJ2RJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6VBBJ2RJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gSer mdog Pa\u1e47 chen Shakya mchog ldan",
+    "parsedDate": "1988",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "6VBBJ2RJ",
+    "version": 4316,
+    "itemType": "bookSection",
+    "title": "rNgog lo ts\u0101 ba chen pos bstan pa ji ltar bskyangs tshul mdo tsam du bya ba ngo mtshar gtam gyi rol mo",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "gSer mdog Pa\u1e47 chen Shakya mchog ldan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Complete Works (gsun 'bum) Of Gser-mdog Pan-chen Sakya-mchog-ldan",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "24",
+    "edition": "",
+    "place": "New delhi",
+    "publisher": "Nagwang topgyel",
+    "date": "1988",
+    "pages": "443-456",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Gser mdog Pa\u1e47 chen - Rngog lo rol mo",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T12:51:42Z",
+    "dateModified": "2025-05-20T19:24:09Z"
+  }
+}

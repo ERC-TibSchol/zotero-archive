@@ -1,0 +1,93 @@
+{
+  "key": "VA4UYHER",
+  "version": 4857,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VA4UYHER",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VA4UYHER",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VA4UYHER",
+    "version": 4857,
+    "itemType": "journalArticle",
+    "title": "Wonders in margine\u2014Mapping the Madhyamaka Network of Gyamarwa Jangchupdrak",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "Abstract\n            \n              The twelfth-century Tibetan scholar Gyamarwa Jangchupdrak (\n              rgya dmar ba byang chub grags\n              ) is an important link in the Madhyamaka tradition that stemmed from Ngok Loden Sh\u00e9rap (\n              rngog blo ldan shes rab\n              , 1059\u20131109). His recently recovered\n              Analysis of the Essence of Madhyamaka\n              offers significant insight into the diverse positions of numerous scholars who took part in the discussion before and around his time, but who are only identified in interlinear notes. In this paper I discuss the identity of these thinkers and the contribution of this text-cum-marginalia to the mapping of early Tibetan Madhyamaka scholars and ideas.",
+    "publicationTitle": "Journal of South Asian Intellectual History",
+    "volume": "3",
+    "issue": "2",
+    "pages": "123-147",
+    "date": "2020",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. South Asian Intellect. Hist",
+    "language": "eng",
+    "DOI": "10.1163/25425552-12340025",
+    "ISSN": "2542-5544, 2542-5552",
+    "shortTitle": "Hugon 2020",
+    "url": "https://brill.com/view/journals/saih/3/2/article-p123_1.xml",
+    "accessDate": "2021-12-20T07:54:43Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "3B9JCMU7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/UNXT3BKK"
+    },
+    "dateAdded": "2021-12-20T07:55:41Z",
+    "dateModified": "2025-05-21T07:31:14Z"
+  }
+}

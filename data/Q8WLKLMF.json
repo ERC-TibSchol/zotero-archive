@@ -1,0 +1,95 @@
+{
+  "key": "Q8WLKLMF",
+  "version": 4696,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q8WLKLMF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Q8WLKLMF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2007",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "Q8WLKLMF",
+    "version": 4696,
+    "itemType": "journalArticle",
+    "title": "rNgog Blo ldan shes rab cho Shokan kanro no shizuku: K\u014dtei text to naiy\u014d gaikan [rNgog Blo ldan shes rab's <i>Springs yig bdud rtsi\u02bci thig le</i>: Critical edition and survey]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "K\u014dyasan daigaku mikky\u014dbunka kenky\u016bjo kiy\u014d",
+    "volume": "20",
+    "issue": "",
+    "pages": "1\u201358",
+    "date": "2007",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Kano 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/TAMPVU6F"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:07:15Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "key": "GT3QWMTF",
+  "version": 500,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GT3QWMTF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GT3QWMTF",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/944RC94G",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GT3QWMTF",
+    "version": 500,
+    "parentItem": "944RC94G",
+    "itemType": "note",
+    "note": "<p>Info about 02_053_07 but PDF of this article still needs to be found/</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2021-11-04T11:56:35Z",
+    "dateModified": "2021-11-04T11:57:24Z"
+  }
+}

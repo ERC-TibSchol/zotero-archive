@@ -1,0 +1,86 @@
+{
+  "key": "UFE8PP9W",
+  "version": 4285,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UFE8PP9W",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UFE8PP9W",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Viehbeck",
+    "parsedDate": "2019-10-08",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UFE8PP9W",
+    "version": 4285,
+    "itemType": "bookSection",
+    "title": "Indo-Tibetan Relations in Tibetan Polemical Discourse: Reconsidering Cultural Dynamics between Tradition and Innovation",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Birgit",
+        "lastName": "Kellner"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Markus",
+        "lastName": "Viehbeck"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Buddhism and the Dynamics of Transculturality",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berlin, Boston",
+    "publisher": "De Gruyter",
+    "date": "2019-10-08",
+    "pages": "201-223",
+    "language": "eng",
+    "ISBN": "978-3-11-041308-3 978-3-11-041153-9",
+    "shortTitle": "Viehbeck 2019",
+    "url": "https://www.degruyter.com/document/doi/10.1515/9783110413083-009/html",
+    "accessDate": "2022-09-30T08:18:27Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "DOI: 10.1515/9783110413083-009",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-09-30T08:20:10Z",
+    "dateModified": "2025-05-20T19:21:03Z"
+  }
+}

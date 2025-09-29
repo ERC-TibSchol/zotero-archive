@@ -1,0 +1,99 @@
+{
+  "key": "HMSTSJ7Q",
+  "version": 4694,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HMSTSJ7Q",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HMSTSJ7Q",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Shes rab bzang po",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HMSTSJ7Q",
+    "version": 4694,
+    "itemType": "book",
+    "title": "Bod khul gyi chos sde grags can khag gi dpe rnying dkar chag",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "name": "Shes rab bzang po"
+      }
+    ],
+    "abstractNote": "1, 2, 2, 603, 2 p; Catalog of rare texts held by several of the largest monasteries across the Tibetan Plateau; Electronic reproduction. Cambridge, Mass. : Buddhist Digital Resource Center; 1 online resource (1,2, 2,603,2 pages); Description based on online resource (BDRC, viewed July 6, 2022)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Pe cin : Mi rigs dpe skrun khang",
+    "date": "2010",
+    "numPages": "632",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Bod khul chos sde dkar chag",
+    "url": "http://archive.org/details/bdrc-W1KG14955",
+    "accessDate": "2022-12-05T14:07:37Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Internet Archive",
+    "callNumber": "",
+    "rights": "copyright",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2022-12-05T14:08:57Z",
+    "dateModified": "2025-05-21T07:06:35Z"
+  }
+}

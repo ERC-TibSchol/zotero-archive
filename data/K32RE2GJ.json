@@ -1,0 +1,122 @@
+{
+  "key": "K32RE2GJ",
+  "version": 4875,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/K32RE2GJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/K32RE2GJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Cuo et al.",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "K32RE2GJ",
+    "version": 4875,
+    "itemType": "conferencePaper",
+    "title": "Layout Analysis of Tibetan Historical Documents Based on Deep Learning",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Yong",
+        "lastName": "Cuo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nyima",
+        "lastName": "Tashi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Zhengzhen",
+        "lastName": "Liu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Qiuhua",
+        "lastName": "Wei"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Luosang",
+        "lastName": "Gadeng"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Gama",
+        "lastName": "Trashi"
+      }
+    ],
+    "abstractNote": "Tibetan historical document are vast, second in quantity only to Chinese historical document in China, and they are considered a treasure of Chinese culture. The digital protection and utilization of Tibetan literature resources is a hot topic in the field of literature digitization. Layout analysis is an important basic step in the digitization of historical document. Tibetan historical document have a complex layout, a variety of graphic and text forms, and diverse backgrounds, all of which have an impact on the layout analysis. We design a method combining deep learning text line detection with rule-based layout analysis to realize layout analysis of Tibetan historical document. This method first conducts text detection through deep learning, then constructs text lines, and finally segments horizontal text regions and vertical text regions by rule analysis to realize the segmentation of the layout. Our self-built datasets with rich sample types show that the proposed method can achieve detection of a variety of layouts with high accuracy and provide reliable text regions for subsequent text recognition, thus offering strong application value.",
+    "date": "2019",
+    "proceedingsTitle": "Proceedings of the 2019 the International Conference on Pattern Recognition and Artificial Intelligence",
+    "conferenceName": "",
+    "place": "Wenzhou, China",
+    "publisher": "Association for Computing Machinery",
+    "volume": "",
+    "pages": "96\u2013101",
+    "series": "PRAI '19",
+    "language": "eng",
+    "DOI": "10.1145/3357777.3357790",
+    "ISBN": "9781450372312",
+    "shortTitle": "",
+    "url": "https://doi.org/10.1145/3357777.3357790",
+    "accessDate": "2021-12-15",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "ACM Digital Library",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-15T11:36:00Z",
+    "dateModified": "2025-05-21T07:35:04Z"
+  }
+}

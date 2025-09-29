@@ -1,0 +1,54 @@
+{
+  "key": "ZLGMCZW4",
+  "version": 2205,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZLGMCZW4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZLGMCZW4",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/RA3FK3BK",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZLGMCZW4",
+    "version": 2205,
+    "parentItem": "RA3FK3BK",
+    "itemType": "note",
+    "note": "Includes bibliographical references (p. 263-282) and index",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-02-14T15:41:41Z",
+    "dateModified": "2024-02-14T15:41:41Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "key": "7PQIUL4H",
+  "version": 4960,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7PQIUL4H",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7PQIUL4H",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7PQIUL4H",
+    "version": 4960,
+    "itemType": "bookSection",
+    "title": "Dag yig nyer mkho bsdus pa",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "sMon bzang dpe rnying 'tshol bsdu khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "sTong ra mkhan brgyud kyi gsung 'bum",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "3",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrung khang",
+    "date": "2018",
+    "pages": "437-448",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - Dag yig nyer mkho bsdus 2018 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: MW3CN21546",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/8WSB3UGM"
+    },
+    "dateAdded": "2023-12-12T15:39:53Z",
+    "dateModified": "2025-03-21T17:33:01Z"
+  }
+}

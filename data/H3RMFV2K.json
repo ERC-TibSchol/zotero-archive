@@ -1,0 +1,87 @@
+{
+  "key": "H3RMFV2K",
+  "version": 4891,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H3RMFV2K",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H3RMFV2K",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gNas drug pa Blo gros mtshungs med",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H3RMFV2K",
+    "version": 4891,
+    "itemType": "bookSection",
+    "title": "dbus mtha' rnam 'byed kyi 'grel pa dbu ma'i rgyan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "gNas drug pa Blo gros mtshungs med"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Sa-skya pa'i mkhas-pa rnams-kyi gsungs skor pod gsum-pa'i dkar-chag: The Collection Works of the Ancient Sa-skya-pa Scholars",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Kathmandu",
+    "publisher": "Sakya College",
+    "date": "1999",
+    "pages": "19-140",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "gNas drug - dbus mtha' 'grel",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/UBK3ARCZ"
+    },
+    "dateAdded": "2025-05-15T15:42:20Z",
+    "dateModified": "2025-05-21T07:41:24Z"
+  }
+}

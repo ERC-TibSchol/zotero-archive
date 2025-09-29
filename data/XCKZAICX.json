@@ -1,0 +1,97 @@
+{
+  "key": "XCKZAICX",
+  "version": 4282,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XCKZAICX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XCKZAICX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Adams",
+    "parsedDate": "2019-09-23",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XCKZAICX",
+    "version": 4282,
+    "itemType": "bookSection",
+    "title": "Introduction: Themes in Ancient Scholarship",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Sean A.",
+        "lastName": "Adams"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sean A.",
+        "lastName": "Adams"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Scholastic Culture in the Hellenistic and Roman Eras",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "De Gruyter",
+    "date": "2019-9-23",
+    "pages": "1-6",
+    "language": "eng",
+    "ISBN": "9783110660982",
+    "shortTitle": "Introduction",
+    "url": "https://www.degruyter.com/document/doi/10.1515/9783110660982-002/html",
+    "accessDate": "2022-10-06T07:27:34Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "DOI: 10.1515/9783110660982-002",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-10-06T07:27:55Z",
+    "dateModified": "2025-05-20T19:20:39Z"
+  }
+}

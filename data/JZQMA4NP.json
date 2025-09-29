@@ -1,0 +1,96 @@
+{
+  "key": "JZQMA4NP",
+  "version": 4660,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JZQMA4NP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JZQMA4NP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jampalyang",
+    "parsedDate": "2019-03-26",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JZQMA4NP",
+    "version": 4660,
+    "itemType": "book",
+    "title": "Ornament of Abhidharma: A Commentary on Vasubandhu's Abhidharmakosa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Chim",
+        "lastName": "Jampalyang"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "Ian James",
+        "lastName": "Coghlan"
+      }
+    ],
+    "abstractNote": "The single greatest Tibetan commentary\u2014never previously translated\u2014on one of the most well-known and cited works of classical Indian Buddhism.This work by a scholar of the Kadam school is the most authoritative Tibetan commentary on Vasubandhu\u2019s Treasury of Abhidharma (Abhidharmakosa). In terms of stature and authority, Vasubandhu\u2019s Treasury rivals Buddhaghosa\u2019s contemporaneous Path of Purification and deals with such central themes as the dynamics of emotions and karma, of mental and meditative states; it treats both the cosmos and the life within. Chim Jampalyang\u2019s exposition of it is the greatest flowering of Abhidharma studies in Tibet. Usually referred to as the Chimz\u00f6, it is to this day a key textbook in the great monastic universities. A veritable encyclopedia, it spans all areas of classical Indian Buddhist knowledge and is an indispensable reference for scholars of Buddhism. The Library of Tibetan Classics is a special series being developed by the Institute of Tibetan Classics to make key classical Tibetan texts part of the global literary and intellectual heritage. Eventually comprising thirty-two large volumes, the collection will contain over two hundred distinct texts by more than a hundred of the best-known Tibetan authors. These texts have been selected in consultation with the preeminent lineage holders of all the schools and other senior Tibetan scholars to represent the Tibetan literary tradition as a whole.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Simon and Schuster",
+    "date": "2019-03-26",
+    "numPages": "1168",
+    "language": "eng",
+    "ISBN": "9781614295341",
+    "shortTitle": "Ornament of Abhidharma",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Google Books",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Google-Books-ID: Ej5qDwAAQBAJ",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-11-14T10:35:59Z",
+    "dateModified": "2025-05-21T06:59:27Z"
+  }
+}

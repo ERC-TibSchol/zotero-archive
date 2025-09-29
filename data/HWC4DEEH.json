@@ -1,0 +1,102 @@
+{
+  "key": "HWC4DEEH",
+  "version": 4665,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HWC4DEEH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HWC4DEEH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "de Rijk",
+    "parsedDate": "1985",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HWC4DEEH",
+    "version": 4665,
+    "itemType": "book",
+    "title": "La philosophie au moyen \u00e2ge",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "L. M.",
+        "lastName": "de Rijk"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "Pierre",
+        "lastName": "Swiggers"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden",
+    "publisher": "Brill",
+    "date": "1985",
+    "numPages": "x+244",
+    "language": "fr (Translated from Dutch)",
+    "ISBN": "978-90-04-06936-7",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "26671 d.517",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Philosophy"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T15:59:49Z",
+    "dateModified": "2025-05-21T07:00:12Z"
+  }
+}

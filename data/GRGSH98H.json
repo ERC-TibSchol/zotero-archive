@@ -1,0 +1,94 @@
+{
+  "key": "GRGSH98H",
+  "version": 4872,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GRGSH98H",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GRGSH98H",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Orosz",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GRGSH98H",
+    "version": 4872,
+    "itemType": "book",
+    "title": "A catalogue of the Tibetan manuscripts and block prints in the Library of the Hungarian academy of sciences",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Gergely",
+        "lastName": "Orosz"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "",
+        "lastName": "Magyar tudom\u00e1nyos akad\u00e9mia"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Oriental manuscripts in the library of the hungarian academy of sciences",
+    "seriesNumber": "3",
+    "volume": "",
+    "numberOfVolumes": "3",
+    "edition": "",
+    "place": "Budapest",
+    "publisher": "Library of the Hungarian academy of sciences",
+    "date": "2008",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-963-7451-15-7",
+    "shortTitle": "Orosz 2008",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-10-05T08:59:57Z",
+    "dateModified": "2025-05-21T07:34:23Z"
+  }
+}

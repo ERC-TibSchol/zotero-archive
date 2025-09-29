@@ -1,0 +1,105 @@
+{
+  "key": "FIFSTZA2",
+  "version": 5515,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FIFSTZA2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FIFSTZA2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FIFSTZA2",
+    "version": 5515,
+    "itemType": "bookSection",
+    "title": "Sa bcad of rGyal tshab rje\u2019s \u2019Brel pa brtag pa\u2019i rnam bshad nyi ma\u2019i snying po",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Shojiro",
+        "lastName": "Nomura"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Yumiko",
+        "lastName": "Ishihama"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Yoichi",
+        "lastName": "Fukuda"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Basic Studies for Tibetan Buddhism: The Collected Sabcad of rJe yab sras gsung \u2019bum",
+    "series": "Studia Tibetica",
+    "seriesNumber": "34",
+    "volume": "2",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tokyo",
+    "publisher": "The Toyo Bunko",
+    "date": "1997",
+    "pages": "224-225",
+    "language": "",
+    "ISBN": "",
+    "shortTitle": "Nishizawa 1997",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-22T09:50:03Z",
+    "dateModified": "2025-09-22T09:52:48Z"
+  }
+}

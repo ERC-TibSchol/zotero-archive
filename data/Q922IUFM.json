@@ -1,0 +1,93 @@
+{
+  "key": "Q922IUFM",
+  "version": 5177,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q922IUFM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Q922IUFM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vetturini",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Q922IUFM",
+    "version": 5177,
+    "itemType": "thesis",
+    "title": "The bKa' gdams pa School of Tibetan Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Gianpaolo",
+        "lastName": "Vetturini"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "School of Oriental and African Studies, University of London",
+    "place": "London",
+    "date": "2007",
+    "numPages": "628",
+    "language": "eng, tib",
+    "shortTitle": "Vetturini 2007",
+    "url": "http://himalaya.socanth.cam.ac.uk/collections/rarebooks/downloads/Gianpaolo_Vetturini_PhD.pdf",
+    "accessDate": "2025-05-21",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "Y45VXADN"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/HVQXU9EW"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T12:45:31Z"
+  }
+}

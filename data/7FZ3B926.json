@@ -1,0 +1,109 @@
+{
+  "key": "7FZ3B926",
+  "version": 4879,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7FZ3B926",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7FZ3B926",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1987",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7FZ3B926",
+    "version": 4879,
+    "itemType": "journalArticle",
+    "title": "The Monastery of Gsang-phu ne'u-thog and Its Abbatial Succession from ca. 1073 to 1250",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "This article surveys the history of Sangpu Neutok (<i>gsang phu ne'u thog</i>), drawing on a number of Tibetan sources and focusing on the monastery's first two hundred years.\n(Kevin Vose 2004-04-06)",
+    "publicationTitle": "Berliner Indologische Studien",
+    "volume": "3",
+    "issue": "",
+    "pages": "103\u2013127",
+    "date": "1987",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 1987",
+    "url": "",
+    "accessDate": "2021-08-31T12:44:07Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "NVIEWWIE",
+      "Y3D78K94"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/6K3AV7YB",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/3X3WXD36"
+    },
+    "dateAdded": "2021-08-31T12:44:07Z",
+    "dateModified": "2025-05-21T07:36:07Z"
+  }
+}

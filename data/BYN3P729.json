@@ -1,0 +1,93 @@
+{
+  "key": "BYN3P729",
+  "version": 5164,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BYN3P729",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BYN3P729",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Wangchuk",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BYN3P729",
+    "version": 5164,
+    "itemType": "bookSection",
+    "title": "The Syntax of Tibetan Colophons: An Overview",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Nalini",
+        "lastName": "Balbir"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Giovanni",
+        "lastName": "Ciotti"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Dorji",
+        "lastName": "Wangchuk"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The syntax of colophons: a comparative study across pothi manuscripts",
+    "series": "Studies in manuscript cultures",
+    "seriesNumber": "volume 27",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berlin Boston",
+    "publisher": "De Gruyter",
+    "date": "2022",
+    "pages": "325-345",
+    "language": "eng",
+    "ISBN": "978-3-11-079523-3",
+    "shortTitle": "Wangchuk 2022",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/JTMPVMM5"
+    },
+    "dateAdded": "2025-05-21T12:34:08Z",
+    "dateModified": "2025-05-21T12:34:45Z"
+  }
+}

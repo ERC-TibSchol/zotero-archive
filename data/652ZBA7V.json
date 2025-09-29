@@ -1,0 +1,98 @@
+{
+  "key": "652ZBA7V",
+  "version": 3666,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/652ZBA7V",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/652ZBA7V",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nor bzhi bstan rgyas tshogs pa",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "652ZBA7V",
+    "version": 3666,
+    "itemType": "bookSection",
+    "title": "brGyud pa yid bzhin nor bu las  brgyud pa'i nges gnas",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Nor bzhi bstan rgyas tshogs pa"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "dPal ldan stag lung pa'i gsung rnams nor bzhi bang mdzod",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "61",
+    "edition": "",
+    "place": "Khun men",
+    "publisher": "Nor bzhi bstan rgyas tshogs pa",
+    "date": "2007",
+    "pages": "1-661",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "sTag lung brgyud pa'i nges gnas",
+    "url": "https://purl.bdrc.io/resource/MW1PD166109_9F7F34",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "KZTGTQXP"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-11T17:58:44Z",
+    "dateModified": "2025-03-21T17:34:49Z"
+  }
+}

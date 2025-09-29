@@ -1,0 +1,97 @@
+{
+  "key": "XVKI248J",
+  "version": 4892,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XVKI248J",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XVKI248J",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Klong chen rabs 'byams pa dri med 'od zer and Blo gros mtshungs med",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XVKI248J",
+    "version": 4892,
+    "itemType": "bookSection",
+    "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal bar byed pa rin po che'i sgron me",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "firstName": "",
+        "lastName": "mkhan chen 'jam dbyangs rgyal mtshan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Klong chen rabs 'byams pa dri med 'od zer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Blo gros mtshungs med"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bka' ma shin tu rgyas pa (kaH thog)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "90",
+    "numberOfVolumes": "120",
+    "edition": "",
+    "place": "1999",
+    "publisher": "",
+    "date": "1999",
+    "pages": "1-531",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Klong chen - rgyud bla gsal byed",
+    "url": "http://purl.bdrc.io/resource/MW25983",
+    "accessDate": "2025-05-15T14:11:13Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/U9NJFSKC"
+    },
+    "dateAdded": "2025-05-15T14:13:28Z",
+    "dateModified": "2025-05-21T07:41:49Z"
+  }
+}

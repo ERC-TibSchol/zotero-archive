@@ -1,0 +1,93 @@
+{
+  "key": "VZQJ7TK9",
+  "version": 4286,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VZQJ7TK9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VZQJ7TK9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Franco and Preisendanz",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VZQJ7TK9",
+    "version": 4286,
+    "itemType": "bookSection",
+    "title": "On the unreliability of Tibetan translations for the reconstruction of the original text of Buddhist Sanskrit works: observations on rNgog lo tsa ba\u2019s translation of Yam\u0101ri\u2019s Pram\u0101\u1e47av\u0101rttik\u0101la\u1e45k\u0101ranibandha",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Eli",
+        "lastName": "Franco"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Karin",
+        "lastName": "Preisendanz"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Peter M.",
+        "lastName": "Scharf"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "\u015aabd\u0101nugama\u1e25: Indian linguistic studies in honor of George Cardona",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Providence, RI",
+    "publisher": "The Sanskrit Library",
+    "date": "2022",
+    "pages": "421-458",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "GD6WKD7B"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T08:17:29Z",
+    "dateModified": "2025-05-20T19:21:14Z"
+  }
+}

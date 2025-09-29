@@ -1,0 +1,105 @@
+{
+  "key": "3WFNMIGQ",
+  "version": 5182,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3WFNMIGQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3WFNMIGQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Everding",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3WFNMIGQ",
+    "version": 5182,
+    "itemType": "journalArticle",
+    "title": "gSang phu Ne'u thog, Tibet's Earliest Monastic School (1073). Reflections on the Rise of its Grva tshang bcu gsum and Bla khag bcu",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Karl-Heinz",
+        "lastName": "Everding"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Zentral-Asiatische Studien",
+    "volume": "38",
+    "issue": "",
+    "pages": "137\u2013154",
+    "date": "2009",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0514-857X",
+    "shortTitle": "Everding 2009",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "Y3D78K94"
+    ],
+    "relations": {},
+    "dateAdded": "2021-10-19T13:20:59Z",
+    "dateModified": "2025-05-21T12:47:53Z"
+  }
+}

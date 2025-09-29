@@ -1,0 +1,89 @@
+{
+  "key": "FDEWZ2NZ",
+  "version": 3689,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FDEWZ2NZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FDEWZ2NZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ducher",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FDEWZ2NZ",
+    "version": 3689,
+    "itemType": "thesis",
+    "title": "A Lineage in Time: The Vicissitudes of the rNgog pa bka' brgyud from the 11th through 19th c.",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "C\u00e9cile",
+        "lastName": "Ducher"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "Universit\u00e9 Paris Sciences et Lettres",
+    "place": "Paris",
+    "date": "2017",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "Ducher 2017",
+    "url": "https://theses.hal.science/tel-02106815/document",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/HC8JMQU5"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-03-21T17:38:54Z"
+  }
+}

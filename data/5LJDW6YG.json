@@ -1,0 +1,97 @@
+{
+  "key": "5LJDW6YG",
+  "version": 4664,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5LJDW6YG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5LJDW6YG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Stoltz",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5LJDW6YG",
+    "version": 4664,
+    "itemType": "book",
+    "title": "Illuminating the Mind: An Introduction to Buddhist Epistemology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan",
+        "lastName": "Stoltz"
+      }
+    ],
+    "abstractNote": "Illuminating the Mind puts the field of Buddhist epistemology in conversation with contemporary debates in philosophy. Jonathan Stoltz provides readers with an introduction to epistemology within the Buddhist intellectual tradition in a manner that is accessible to those whose primary background is in the \u201cWestern\u201d tradition of philosophy. The book examines many of the most important topics in the field of epistemology, topics that are central both to contemporary discussions of epistemology and to the classical Buddhist tradition of epistemology in India and Tibet. Among the topics discussed are Buddhist accounts of the nature of knowledge episodes, the defining conditions of perceptual knowledge and of inferential knowledge, the status of testimonial knowledge, and skeptical criticisms of the entire project of epistemology.\n\nStoltz demonstrates how many of the arguments and debates occurring within classical Buddhist epistemological treatises coincide with the arguments and disagreements found in contemporary epistemology. He shows, for example, how Buddhist epistemologists developed an anti-luck epistemology--one that is linked to a sensitivity requirement for knowledge. Likewise, Stoltz explores the question of how the study of Buddhist epistemology can be of relevance to contemporary debates about the value of contributions from experimental epistemologists, and to broader debates concerning the use of philosophical intuitions about knowledge. Illuminating the Mind is essential reading for scholars and students interested in epistemology and its treatment in intellectual traditions beyond Western philosophy.",
+    "series": "Buddhist Philosophy for Philosophers",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York",
+    "publisher": "Oxford University Press",
+    "date": "2021",
+    "numPages": "xii, 260",
+    "language": "eng",
+    "ISBN": "978-0-19-090754-9",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "BQ4440.S86",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Philosophy"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/3L4I7GMD"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:00:01Z"
+  }
+}

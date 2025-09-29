@@ -1,0 +1,86 @@
+{
+  "key": "9RCZR3XL",
+  "version": 5194,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9RCZR3XL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9RCZR3XL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Various",
+    "parsedDate": "2008",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "9RCZR3XL",
+    "version": 5194,
+    "itemType": "book",
+    "title": "Contributions to Tibetan Buddhist Literature. PIATS 2006: Tibetan Studies: Proceedings of the Eleventh Seminar of the International Association for Tibetan Studies K\u00f6nigswinter 2006",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Various"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Orna",
+        "lastName": "Almogi"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Halle",
+    "publisher": "IITBS",
+    "date": "2008",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2013-05-22 11:24:26\n_eprint: 6225",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/SFADCQ4V"
+    },
+    "dateAdded": "2025-05-21T12:23:48Z",
+    "dateModified": "2025-05-21T12:52:03Z"
+  }
+}

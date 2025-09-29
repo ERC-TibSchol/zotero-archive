@@ -1,0 +1,98 @@
+{
+  "key": "FUFWUVQQ",
+  "version": 3672,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FUFWUVQQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FUFWUVQQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Mathes",
+    "parsedDate": "2015",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "FUFWUVQQ",
+    "version": 3672,
+    "itemType": "bookSection",
+    "title": "\"The Pith Instructions on the Mah\u0101y\u0101na Uttaratantra (Theg chen gryud bla'i gdams pa): A Missing Link in the Meditation Tradition of the Maitreya Works.\"",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Klaus-Dieter",
+        "lastName": "Mathes"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Illuminating Mirror: Tibetan Studies in Honour of Per K. S\u00f8rensen on the Occasion of his 65th Birthday",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Olaf Czaja and Guntram Hazod",
+    "place": "Wiesbaden",
+    "publisher": "Dr. Ludwig Reichert Verlag",
+    "date": "2015",
+    "pages": "303-320",
+    "language": "eng",
+    "ISBN": "978-3-95490-137-1",
+    "shortTitle": "Mathes 2015",
+    "url": "https://www.academia.edu/24694034/Mathes_2015c_The_Pith_Instructions_on_the_Mah%C4%81y%C4%81na_Uttaratantra_Theg_chen_rgyud_blai_gdams_pa_A_Missing_Link_in_the_Meditation_Tradition_of_the_Maitreya_Works",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-10-19T12:37:25Z",
+    "dateModified": "2025-03-21T17:35:44Z"
+  }
+}

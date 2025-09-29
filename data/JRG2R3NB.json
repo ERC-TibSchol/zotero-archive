@@ -1,0 +1,98 @@
+{
+  "key": "JRG2R3NB",
+  "version": 4969,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JRG2R3NB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JRG2R3NB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Jam dbyangs gsar ma",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JRG2R3NB",
+    "version": 4969,
+    "itemType": "book",
+    "title": "mngon par rtogs pa rgyan 'gyi 'grel bshad gsal ba 'thad pa'i 'od 'bar/ springs yig baiDUrya'i phreng ba/ bdag nyid la bskul ba gser lcag rin chen gyi 'bras can/ thar lam sgron me/ sbyor drug gi man ngag rje rje btsun rgwa los zhus gtugs mdzad pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "'Jam dbyangs gsar ma"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Jo nang dpe tshogs",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Pe cin",
+    "publisher": "Mi rigs dpe skrun khang",
+    "date": "2014",
+    "numPages": "488",
+    "language": "tib",
+    "ISBN": "978-7-105-13630-8",
+    "shortTitle": "'Jam dbyangs gsar",
+    "url": "https://library.bdrc.io/show/bdr:MW8LS18967?tabs=bdr:W8LS18967",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/8ZBVII29"
+    },
+    "dateAdded": "2023-01-24T14:05:37Z",
+    "dateModified": "2025-04-08T07:39:17Z"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "key": "BAQ9MH4T",
+  "version": 5222,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BAQ9MH4T",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BAQ9MH4T",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BAQ9MH4T",
+    "version": 5222,
+    "itemType": "book",
+    "title": "Buddha-Nature and Emptiness: rNgog Blo-ldan-shes-rab and A Transmission of the <i>Ratnagotravibh\u0101ga</i> from India to Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "An essential study of a key text that presents buddha-nature theory and its transmission from India to Tibet, this book is the most thorough history of buddha-nature thought in Tibet and is exceptional in its level of detail and scholarly apparatus. It serves as a scholarly encyclopedia of sorts with extensive appendices listing every existent commentary on the Ratnagotravibh\u0101ga (Uttaratantra\u015b\u0101stra), as well as covering Ngok Lotsawa's commentarial text and his philosophical positions related with other Tibetan thinkers.",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "91",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "date": "2016",
+    "numPages": "xvi, 488",
+    "language": "eng, tib",
+    "ISBN": "978-3-902501-29-5",
+    "shortTitle": "Kano 2016",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "catalog.princeton.edu",
+    "callNumber": "BQ942.L64 K35",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/PZCGYQEV",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/D72ASS6S"
+    },
+    "dateAdded": "2021-08-24T14:36:33Z",
+    "dateModified": "2025-05-21T07:03:01Z"
+  }
+}

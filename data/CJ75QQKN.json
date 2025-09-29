@@ -1,0 +1,92 @@
+{
+  "key": "CJ75QQKN",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CJ75QQKN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CJ75QQKN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Grags pa rgyal mtshan",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CJ75QQKN",
+    "version": 4989,
+    "itemType": "bookSection",
+    "title": "bla ma sa skya chen po'i rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Grags pa rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Sa skya bka' 'bum. Scanned from the Khams reprint of the Sde dge edition of the Collected works of the first great Sa skya masters. (Reproduced from the 1736 Derge Edition).",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Sakya Centre",
+    "date": "1992",
+    "pages": "333-350",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "grags pa rgyal mtshan - sa chen rnam thar",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/NDV79SN6"
+    },
+    "dateAdded": "2025-03-10T15:11:34Z",
+    "dateModified": "2025-05-21T07:42:54Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "key": "QK3G4Q7R",
+  "version": 5516,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QK3G4Q7R",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QK3G4Q7R",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mChims nam mkha' grags",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QK3G4Q7R",
+    "version": 5516,
+    "itemType": "bookSection",
+    "title": "Chos mngon pa mdzod kyi bsdus don",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mChims nam mkha' grags"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "86",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Khreng tu'u",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "date": "2009",
+    "pages": "440-503",
+    "language": "tib",
+    "ISBN": "978-7-5409-4283-0",
+    "shortTitle": "mChims - chos mngon mdzod bsdus don",
+    "url": "purl.bdrc.io/resource/MW1PD153536_8D4C0F",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW1PD153536_8D4C0F",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
+    },
+    "dateAdded": "2024-11-13T15:46:12Z",
+    "dateModified": "2025-09-23T06:32:41Z"
+  }
+}

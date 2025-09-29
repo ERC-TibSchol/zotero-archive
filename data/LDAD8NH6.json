@@ -1,0 +1,54 @@
+{
+  "key": "LDAD8NH6",
+  "version": 2267,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LDAD8NH6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LDAD8NH6",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/CJPTU9FV",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LDAD8NH6",
+    "version": 2267,
+    "parentItem": "CJPTU9FV",
+    "itemType": "note",
+    "note": "Zugl.: Hamburg, Univ., FB Asien Afrika Kunde, Diss. 2009 u.d.T.: Schiller, Alexander: Vier Yogas Meditationsf\u00fchrung auf die h\u00f6heren Erkenntnisstufen in der Mah\u0101mudr\u0101-Meditationstradition der bKa\u00b4brgyud-Schule",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-03-01T14:29:22Z",
+    "dateModified": "2024-03-01T14:29:22Z"
+  }
+}

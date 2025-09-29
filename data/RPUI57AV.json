@@ -1,0 +1,54 @@
+{
+  "key": "RPUI57AV",
+  "version": 1422,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RPUI57AV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RPUI57AV",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/PZBX5PJU",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RPUI57AV",
+    "version": 1422,
+    "parentItem": "PZBX5PJU",
+    "itemType": "note",
+    "note": "Mostly manuscripts, some wood blocks prints",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2023-09-14T12:16:15Z",
+    "dateModified": "2023-09-14T12:16:15Z"
+  }
+}

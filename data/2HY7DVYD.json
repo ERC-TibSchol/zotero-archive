@@ -1,0 +1,91 @@
+{
+  "key": "2HY7DVYD",
+  "version": 4277,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2HY7DVYD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2HY7DVYD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "A mo gha si ddhi",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2HY7DVYD",
+    "version": 4277,
+    "itemType": "book",
+    "title": "Chos grwa chen po dpal zhwa lu gser khang gi bdag po jo bo lce\u02bci gdung rabs",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "A mo gha si ddhi"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-02-16T08:37:33Z",
+    "dateModified": "2025-05-20T19:20:07Z"
+  }
+}

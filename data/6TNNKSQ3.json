@@ -1,0 +1,83 @@
+{
+  "key": "6TNNKSQ3",
+  "version": 4701,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6TNNKSQ3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6TNNKSQ3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6TNNKSQ3",
+    "version": 4701,
+    "itemType": "bookSection",
+    "title": "bKa\u02bc gdams pa\u02bci gsung \u02bcbum phyogs sgrig thengs gsum pa\u02bci dkar chag",
+    "creators": [],
+    "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
+    "series": "null",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "3 (61-90)",
+    "edition": "Par gzhi dang po",
+    "place": "Khreng tu\u02bcu",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2009",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "978-7-5409-4283-0",
+    "shortTitle": "bKa' gdams gsung 'bum dkar chag 3",
+    "url": "http://purl.bdrc.io/resource/MW1PD153536_28398A",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW1PD153536_28398A \nWork: WA1PD153536",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-11T08:57:45Z",
+    "dateModified": "2025-05-21T07:08:10Z"
+  }
+}

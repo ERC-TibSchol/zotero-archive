@@ -1,0 +1,87 @@
+{
+  "key": "P6ETAAHN",
+  "version": 5192,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/P6ETAAHN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/P6ETAAHN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tillemans",
+    "parsedDate": "1989",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "P6ETAAHN",
+    "version": 5192,
+    "itemType": "journalArticle",
+    "title": "Formal and semantic aspects of Tibetan Buddhist debate logic",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tom J. F.",
+        "lastName": "Tillemans"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "17",
+    "issue": "3",
+    "pages": "265-297",
+    "date": "1989",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Debate"
+      }
+    ],
+    "collections": [
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2025-05-21T12:49:47Z",
+    "dateModified": "2025-05-21T12:50:40Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key": "NJI6XJKG",
+  "version": 4874,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NJI6XJKG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NJI6XJKG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kirmizialtin and Wrisley",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NJI6XJKG",
+    "version": 4874,
+    "itemType": "journalArticle",
+    "title": "Automated Transcription of Non-Latin Script Periodicals: A Case Study in the Ottoman Turkish Print Archive",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Suphan",
+        "lastName": "Kirmizialtin"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "David Joseph",
+        "lastName": "Wrisley"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Digital Humanities Quarterly",
+    "volume": "016",
+    "issue": "2",
+    "pages": "",
+    "date": "2022",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "DHQ",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "1938-4122",
+    "shortTitle": "Automated Transcription of Non-Latin Script Periodicals",
+    "url": "http://digitalhumanities.org:8081/dhq/vol/16/2/000577/000577.html",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2022-07-19T08:12:48Z",
+    "dateModified": "2025-05-21T07:34:49Z"
+  }
+}

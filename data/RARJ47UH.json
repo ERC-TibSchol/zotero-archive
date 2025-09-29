@@ -1,0 +1,104 @@
+{
+  "key": "RARJ47UH",
+  "version": 4675,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RARJ47UH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RARJ47UH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RARJ47UH",
+    "version": 4675,
+    "itemType": "journalArticle",
+    "title": "Qu\u2019attendre d\u2019une comparaison des scolastiques ?",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      }
+    ],
+    "abstractNote": "Le cadre g\u00e9ographique, culturel et historique de l\u2019\u00e9tude de la philosophie m\u00e9di\u00e9vale a connu une extension remarquable durant les derni\u00e8res d\u00e9cennies, \u00ab\u00a0philosophie m\u00e9di\u00e9vale\u00a0\u00bb s\u2019entendant de toutes les valorisations latines, islamiques, juives et byzantines \u2013\u00a0monoth\u00e9istes donc\u00a0\u2013 d\u2019un commun patrimoine philosophique d\u2019orientation n\u00e9oplatonicienne et aristot\u00e9licienne. Dans ces conditions, que faire de l\u2019Inde bouddhique, laquelle, si elle n\u2019entretient aucun rapport g\u00e9n\u00e9tique avec ces traditions philosophiques tardo-antiques, n\u2019en partage pas moins des traits essentiels avec la philosophie m\u00e9di\u00e9vale\u00a0: \u00ab\u00a0situation herm\u00e9neutique\u00a0\u00bb, rapport \u00e0 l\u2019autorit\u00e9, importance concomitante du commentaire, \u00ab\u00a0cl\u00e9ricalit\u00e9\u00a0\u00bb des acteurs, division des savoirs, primaut\u00e9 du d\u00e9bat, de la r\u00e9flexion logique et linguistique, etc. Le pr\u00e9sent essai vise \u00e0 explorer les possibilit\u00e9s d\u2019une comparaison entre dispositifs scolastiques chr\u00e9tien latin et bouddhiste indien. Il revendique un comparatisme portant sur les cultures intellectuelles productrices de savoirs plut\u00f4t que sur les dogmes, les doctrines et les arguments, et dresse pour ce faire un tableau rapide de la scolastique bouddhique et de son environnement institutionnel.",
+    "publicationTitle": "Socio-anthropologie",
+    "volume": "",
+    "issue": "36",
+    "pages": "123-142",
+    "date": "2017",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "fr",
+    "DOI": "10.4000/socio-anthropologie.3155",
+    "ISSN": "1276-8707",
+    "shortTitle": "",
+    "url": "https://journals.openedition.org/socio-anthropologie/3155",
+    "accessDate": "2021-08-10T16:23:09Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "journals.openedition.org",
+    "callNumber": "",
+    "rights": "Socio-Anthropologie est mis \u00e0 disposition selon les termes de la Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.",
+    "extra": "ISBN: 9791035100353\nNumber: 36\nPublisher: Publications de la Sorbonne",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Indian philosophy"
+      },
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T16:23:09Z",
+    "dateModified": "2025-05-21T07:02:10Z"
+  }
+}

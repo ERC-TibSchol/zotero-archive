@@ -1,0 +1,65 @@
+{
+  "key": "35DRTZGP",
+  "version": 2250,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/35DRTZGP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/35DRTZGP",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/Y2ZN5C6X",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "35DRTZGP",
+    "version": 2250,
+    "parentItem": "Y2ZN5C6X",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"8\"><p>This is the version used by Vitali 2015 and Vitali 2002. This specific version does not seem to be in BDRC, The bibliography does not give any information concerning publication.</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2022-09-30T11:42:31Z",
+    "dateModified": "2024-02-23T10:38:53Z"
+  }
+}

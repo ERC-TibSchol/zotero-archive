@@ -1,0 +1,101 @@
+{
+  "key": "AF6KJGIA",
+  "version": 3800,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AF6KJGIA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AF6KJGIA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Bla ma dam pa bSod nams rgyal mshan",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AF6KJGIA",
+    "version": 3800,
+    "itemType": "bookSection",
+    "title": "dBus mtha'i bsdus don",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Bla ma dam pa bSod nams rgyal mshan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "59",
+    "numberOfVolumes": "80",
+    "edition": "par gzhi dang po",
+    "place": "lha sa",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2015",
+    "pages": "101-104",
+    "language": "tib",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "shortTitle": "bSod nams rgyal mtshan - dbus mtha bsdus don",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+      ]
+    },
+    "dateAdded": "2025-03-24T13:01:09Z",
+    "dateModified": "2025-04-02T08:15:39Z"
+  }
+}

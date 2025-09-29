@@ -1,0 +1,101 @@
+{
+  "key": "4PP55353",
+  "version": 4988,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4PP55353",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4PP55353",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rdo rje rgyal po",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4PP55353",
+    "version": 4988,
+    "itemType": "bookSection",
+    "title": "Phag mo gru pa'i rnam thar rin po che mi zad pa rgya mtsho'i gter",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Phag mo gru pa rdo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung \u02bcbum rdo rje rgyal po",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "9",
+    "edition": "",
+    "place": "Kathmandu",
+    "publisher": "Khenpo Shedrub Tenzin and Lama Thinley Namgyal",
+    "date": "2003",
+    "pages": "149-186",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag gru - rNam thar mi zad pa rgya mtsho'i gter",
+    "url": "http://purl.bdrc.io/resource/MW23891_2C125C",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-19T14:02:46Z",
+    "dateModified": "2025-05-21T07:43:33Z"
+  }
+}

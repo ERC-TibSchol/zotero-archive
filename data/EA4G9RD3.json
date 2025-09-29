@@ -1,0 +1,95 @@
+{
+  "key": "EA4G9RD3",
+  "version": 4889,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/EA4G9RD3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/EA4G9RD3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rDo rje rgyal po",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "EA4G9RD3",
+    "version": 4889,
+    "itemType": "bookSection",
+    "title": "Sangs rgyas kyi bstan pa la rim gyis \u02bcjug pa\u02bci tshul",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung 'bum rDo rje rgyal po (sde dge par ma)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "4",
+    "edition": "",
+    "place": "sde dge par khang",
+    "publisher": "",
+    "date": "2010?",
+    "pages": "230-389",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag mo gru - bstan rim 'jug tshul",
+    "url": "http://purl.bdrc.io/resource/MW1KG10493_D89F7F",
+    "accessDate": "2025-03-27",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "impression from blocks resently curved and preserved at sde dge par khang",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/MM95FT55",
+        "http://zotero.org/groups/4394244/items/9QTJ6ZZ7"
+      ]
+    },
+    "dateAdded": "2025-03-27T12:44:01Z",
+    "dateModified": "2025-05-21T07:40:34Z"
+  }
+}

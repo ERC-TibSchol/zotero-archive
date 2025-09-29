@@ -1,0 +1,54 @@
+{
+  "key": "8CXWKYD2",
+  "version": 954,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8CXWKYD2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8CXWKYD2",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/NA9AMDH6",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8CXWKYD2",
+    "version": 954,
+    "parentItem": "NA9AMDH6",
+    "itemType": "note",
+    "note": "<p>Text studied in Vitali 2010. It does not seem to be in BDRC.</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2022-09-30T10:29:20Z",
+    "dateModified": "2022-09-30T10:29:47Z"
+  }
+}

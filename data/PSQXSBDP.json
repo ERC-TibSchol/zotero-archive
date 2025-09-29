@@ -1,0 +1,108 @@
+{
+  "key": "PSQXSBDP",
+  "version": 4685,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PSQXSBDP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PSQXSBDP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Martin and Bentor",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PSQXSBDP",
+    "version": 4685,
+    "itemType": "book",
+    "title": "Tibetan Histories: A Bibliography of Tibetan-Language Historical Works",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dan",
+        "lastName": "Martin"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yael",
+        "lastName": "Bentor"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "Serindia Publications",
+    "date": "1997",
+    "numPages": "295",
+    "language": "eng",
+    "ISBN": "978-0-906026-43-4",
+    "shortTitle": "Martin and Bentor 1997",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "Z3107.T5",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Bibliography"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:47:58Z",
+    "dateModified": "2025-05-21T07:05:26Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "key": "IED5KIWZ",
+  "version": 4291,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/IED5KIWZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/IED5KIWZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Davidson and Wedemeyer",
+    "parsedDate": "2006-09-01",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "IED5KIWZ",
+    "version": 4291,
+    "itemType": "book",
+    "title": "Proceedings of the Tenth Seminar of the IATS, 2003. Volume 4: Tibetan Buddhist Literature and Praxis: Studies in its Formative Period, 900\u20131400",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ronald",
+        "lastName": "Davidson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christian",
+        "lastName": "Wedemeyer"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "BRILL",
+    "date": "2006-09-01",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-90-474-1167-3",
+    "shortTitle": "Proceedings of the Tenth Seminar of the IATS, 2003. Volume 4",
+    "url": "https://brill.com/view/title/13399",
+    "accessDate": "2022-05-06T09:05:39Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "DOI: 10.1163/9789047411673",
+    "tags": [],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-05-06T09:05:39Z",
+    "dateModified": "2025-05-20T19:21:46Z"
+  }
+}

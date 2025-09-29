@@ -1,0 +1,101 @@
+{
+  "key": "PYAGVFNH",
+  "version": 5486,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PYAGVFNH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PYAGVFNH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Schaeffer et al.",
+    "parsedDate": "2023",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PYAGVFNH",
+    "version": 5486,
+    "itemType": "book",
+    "title": "Histories of Tibet: essays in honor of Leonard W. J. van der Kuijp",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Jue",
+        "lastName": "Liang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "William A.",
+        "lastName": "McGrath"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Leonard W. J. van der",
+        "lastName": "Kuijp"
+      }
+    ],
+    "abstractNote": "\"As part of Leonard van der Kuijp's research in Tibetan history, as he patiently and expertly revealed treasures of the Tibetan intellectual tradition in fourteenth-century Tsang, or seventeenth-century Lhasa, or eighteenth-century Amdo, he developed an international community of colleagues and students. The thirty-four essays in this volume follow the particular interests of the honoree and express the comprehensive research that his international cohort have engaged in alongside his generous tutelage over the course of forty years. He imbued his students with the abiding sense of curiosity and discovery that can be experienced through every one of his writings, and that can be found as well in these new essays in intellectual, cultural, and institutional history by Christopher Beckwith, Yael Bentor, the late Hubert Decleer, Franz-Karl Ehrhard, J\u00f6rg Heimbel and David Jackson, Nathan Hill, Isabelle Henrion-Dourcy, Matthew Kapstein, Todd Lewis, Kurtis Schaeffer, Peter Schwieger, Gray Tuttle, Pieter Verhagen, Michael Witzel, and others\"--",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York, NY",
+    "publisher": "Wisdom Publications",
+    "date": "2023",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-1-61429-808-3",
+    "shortTitle": "Histories of Tibet",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "DS786",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WEPMCAYR"
+    },
+    "dateAdded": "2025-03-13T08:41:02Z",
+    "dateModified": "2025-05-21T07:05:47Z"
+  }
+}

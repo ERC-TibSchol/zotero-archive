@@ -1,0 +1,105 @@
+{
+  "key": "5NY3E6YU",
+  "version": 5557,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5NY3E6YU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5NY3E6YU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tshal pa si tu kun dga' rdo rje, and Dung dkar blo bzang 'phrin las",
+    "parsedDate": "1981",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5NY3E6YU",
+    "version": 5557,
+    "itemType": "book",
+    "title": "Deb ther dmar po",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Tshal pa si tu kun dga' rdo rje,"
+      },
+      {
+        "creatorType": "author",
+        "name": "Dung dkar blo bzang 'phrin las"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "place": "Pe cin",
+    "publisher": "Mi rigs dpe skrung khang",
+    "date": "1981",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Deb ther dmar po",
+    "url": "http://purl.bdrc.io/resource/MW1KG5760",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW1KG5760",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-12T14:35:34Z",
+    "dateModified": "2025-05-21T07:07:42Z"
+  }
+}

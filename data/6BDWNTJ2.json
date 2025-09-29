@@ -1,0 +1,90 @@
+{
+  "key": "6BDWNTJ2",
+  "version": 4887,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6BDWNTJ2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6BDWNTJ2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6BDWNTJ2",
+    "version": 4887,
+    "itemType": "journalArticle",
+    "title": "Monastic Chronicles (gdan rabs): A Study of Genre in Tibetan Literature",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies",
+    "volume": "70",
+    "issue": "1",
+    "pages": "161-166",
+    "date": "2021",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Iuchi 2021",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "Tibetan literature"
+      }
+    ],
+    "collections": [
+      "4JFH24VK"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T06:49:27Z",
+    "dateModified": "2025-05-21T07:37:20Z"
+  }
+}

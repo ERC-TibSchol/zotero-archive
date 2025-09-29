@@ -1,0 +1,83 @@
+{
+  "key": "2PUVZG5F",
+  "version": 4700,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2PUVZG5F",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2PUVZG5F",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2PUVZG5F",
+    "version": 4700,
+    "itemType": "bookSection",
+    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs bzhi pa\u02bci dkar chag",
+    "creators": [],
+    "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs bzhi pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "31",
+    "edition": "",
+    "place": "Khreng tu\u02bcu",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2015",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "978-7-5409-6135-0",
+    "shortTitle": "bKa' gdams gsung 'bum dkar chag 4",
+    "url": "http://purl.bdrc.io/resource/MW4PD3076_1688F8",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW4PD3076_1688F8\nWork: WA4PD3076",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-11T08:58:04Z",
+    "dateModified": "2025-05-21T07:08:05Z"
+  }
+}

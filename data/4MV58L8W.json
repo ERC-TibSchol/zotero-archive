@@ -1,0 +1,97 @@
+{
+  "key": "4MV58L8W",
+  "version": 3789,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4MV58L8W",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4MV58L8W",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rDo rje rgyal po",
+    "parsedDate": "1977",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4MV58L8W",
+    "version": 3789,
+    "itemType": "bookSection",
+    "title": "Sangs rgyas kyi bstan pa la rim gyi 'jug pa'i tshul",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Taranatha"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "sangs rgyas kyi bstan pa la rim gyi 'jug pa'i tshul dang / thub pa'i dbang pos mdzad pa mdo tsam brjod pa bcas",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bir, H.P.",
+    "publisher": "Zogyam and Pema Lodoe",
+    "date": "1977",
+    "pages": "1-103",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag mo gru - bstan rim 'jug tshul 1977 ed.",
+    "url": "http://purl.bdrc.io/resource/WA1KG9602",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "reproduced from rare manuscripts from the library of tokden rinpoche of ladakh",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/CF9DG8CY"
+    },
+    "dateAdded": "2025-03-27T14:03:46Z",
+    "dateModified": "2025-03-27T14:10:28Z"
+  }
+}

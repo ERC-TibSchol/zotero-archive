@@ -1,0 +1,93 @@
+{
+  "key": "QNRXNLGG",
+  "version": 4283,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QNRXNLGG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QNRXNLGG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "PaN chen bsod nams grags pa",
+    "parsedDate": "2001",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "QNRXNLGG",
+    "version": 4283,
+    "itemType": "book",
+    "title": "bka' gdams gsar rnying gi chos 'byung yid kyi mdzes rgyan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "PaN chen bsod nams grags pa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "bod ljong bod yig dpe rnying dpe skung khang",
+    "date": "2001",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T12:02:55Z",
+    "dateModified": "2025-05-20T19:20:45Z"
+  }
+}

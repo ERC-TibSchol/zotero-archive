@@ -1,0 +1,98 @@
+{
+  "key": "A62SS59H",
+  "version": 4986,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A62SS59H",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A62SS59H",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dram Dul",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A62SS59H",
+    "version": 4986,
+    "itemType": "book",
+    "title": "<i>\u2019Jig rten mig gcig blo ldan \u015bes rab kyi rnam thar b\u017augs so</i>, The Unique Eye of the World by Gro lu\u1e45 pa Blo gros 'byu\u1e45 gnas: Biography of Blo ldan \u015bes rab: the Xylograph Compared with a Bhutanese Manuscript",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Dram Dul"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "61",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien; Beijing",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien; China Tibetology Research Center",
+    "date": "2004",
+    "numPages": "xxx, 80",
+    "language": "eng, tib",
+    "ISBN": "3-902501-00-6",
+    "shortTitle": "Dram Dul 2004",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/3WBRV3CD"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:42:48Z"
+  }
+}

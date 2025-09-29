@@ -1,0 +1,80 @@
+{
+  "key": "4S87NQPF",
+  "version": 5171,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4S87NQPF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4S87NQPF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kapstein",
+    "parsedDate": "2001",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4S87NQPF",
+    "version": 5171,
+    "itemType": "book",
+    "title": "Reason's Traces: Identity and Interpretation in Indian & Buddhist Thought",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Matthew",
+        "lastName": "Kapstein"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Oxford University \tPress",
+    "date": "2001",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "0 19 566827 8",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-21T12:41:06Z",
+    "dateModified": "2025-05-21T12:42:06Z"
+  }
+}

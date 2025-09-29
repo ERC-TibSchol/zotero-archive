@@ -1,0 +1,80 @@
+{
+  "key": "5CGDMBHA",
+  "version": 585,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5CGDMBHA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5CGDMBHA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5CGDMBHA",
+    "version": 585,
+    "itemType": "book",
+    "title": "Buddhist epistemology as apologetics: studies on the history, self-understanding and dogmatic foundations of late Indian Buddhist philosophy",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens",
+    "seriesNumber": "81",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2014",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-3-7001-7583-4",
+    "shortTitle": "Buddhist epistemology as apologetics",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-12-20T08:28:05Z",
+    "dateModified": "2021-12-20T08:28:05Z"
+  }
+}

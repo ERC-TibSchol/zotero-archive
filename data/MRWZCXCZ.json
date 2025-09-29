@@ -1,0 +1,87 @@
+{
+  "key": "MRWZCXCZ",
+  "version": 5097,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MRWZCXCZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MRWZCXCZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kohler",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MRWZCXCZ",
+    "version": 5097,
+    "itemType": "journalArticle",
+    "title": "\u00bbScholasticism is a daughter of Judaism\u00ab: The discovery of Jewish influence on medieval Christian thought",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "George",
+        "lastName": "Kohler"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the History of Ideas",
+    "volume": "78",
+    "issue": "",
+    "pages": "319-340",
+    "date": "2017",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2025-05-21T09:35:41Z",
+    "dateModified": "2025-05-21T09:36:29Z"
+  }
+}

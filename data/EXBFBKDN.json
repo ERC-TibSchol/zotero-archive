@@ -1,0 +1,101 @@
+{
+  "key": "EXBFBKDN",
+  "version": 5481,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/EXBFBKDN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/EXBFBKDN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rDo rje rgyal po",
+    "parsedDate": "1991",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "EXBFBKDN",
+    "version": 5481,
+    "itemType": "bookSection",
+    "title": "rNam par nges pa'i 'grel bshad rgyan gyi me tog",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "name": "bCom ldan rigs pa'i ral gri"
+      },
+      {
+        "creatorType": "editor",
+        "name": "rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tshad ma sde bdun rgyan gyi me tog",
+    "series": "Gangs ljongs shes rig gi nying bcud",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "Par the\u1e45s 1",
+    "place": "China",
+    "publisher": "Krung-go\u02bci Bod kyi shes rig dpe skrun khang : Mtsho-sngon Zhing-chen Zhin-hwa dpe tshong khang gis bkram",
+    "date": "1991",
+    "pages": "141-521",
+    "language": "tib",
+    "ISBN": "978-7-80057-049-0",
+    "shortTitle": "Ral gri - rnam nges 'grel bshad rgyan me tog 1991 ed.",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3300.P735 B35 1991",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      },
+      {
+        "tag": "Pram\u0101\u1e47avini\u015bcaya"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/QBUS9UG2"
+    },
+    "dateAdded": "2023-11-17T08:20:18Z",
+    "dateModified": "2025-09-18T13:55:06Z"
+  }
+}

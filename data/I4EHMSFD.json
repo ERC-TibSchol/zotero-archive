@@ -1,0 +1,84 @@
+{
+  "key": "I4EHMSFD",
+  "version": 3832,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/I4EHMSFD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/I4EHMSFD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Monson",
+    "parsedDate": "2021",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "I4EHMSFD",
+    "version": 3832,
+    "itemType": "book",
+    "title": "Tales of a Mad Yogi: the life and wild wisdom of Drukpa Kunley",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Elizabeth L.",
+        "lastName": "Monson"
+      }
+    ],
+    "abstractNote": "\"Drukpa Kunley is one of the great masters of Bhutan known for his unusual, non-conformist behavior, often related to women. A 15th century saint, he is beloved in Bhutan in particular where nearly every house is prominently decorated with his most famous, er, instrument. Almost every Tibetan and Bhutanese can tell his stories, but best when kids are not around. But the bawdiness is just the surface - this was a real wisdom being whose teachings continue to benefit many practitioners\"--",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Boston",
+    "publisher": "Snow Lion",
+    "date": "2021",
+    "numPages": "234",
+    "language": "eng",
+    "ISBN": "978-1-61180-705-9",
+    "shortTitle": "Monson 2021",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-03-20T12:25:49Z",
+    "dateModified": "2025-04-08T11:45:48Z"
+  }
+}

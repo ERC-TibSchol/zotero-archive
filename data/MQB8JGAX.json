@@ -1,0 +1,100 @@
+{
+  "key": "MQB8JGAX",
+  "version": 5562,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MQB8JGAX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MQB8JGAX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Gos lo ts\u0101 ba gZhon nu dpal",
+    "parsedDate": "1974",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MQB8JGAX",
+    "version": 5562,
+    "itemType": "book",
+    "title": "Deb ther(gter) sngon po",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Gos lo ts\u0101 ba gZhon nu dpal"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Lokesh Chandra"
+      }
+    ],
+    "abstractNote": "Impressions from a print from the Yans-pa-can blocks, later transferred to Kun-bde-glin in Lha-sa reproduced by Lokesh Chandra from the collection of Raghu Virae",
+    "series": "\u015aata-Pi\u1e6daka Series",
+    "seriesNumber": "212",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "International Academy of Indian Culture",
+    "date": "1974",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "'Gos lo ts\u0101 ba - Deb ther sngon po",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: MW7494",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Si khron mi rigs dpe skrun khang, Chengdu, 1984",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ZZAJVF3H"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/WJCYXFJD"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-09-29T11:50:14Z"
+  }
+}

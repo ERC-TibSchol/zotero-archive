@@ -1,0 +1,56 @@
+{
+  "key": "NHPWQ6S3",
+  "version": 1557,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NHPWQ6S3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NHPWQ6S3",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/MGPRHX73",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NHPWQ6S3",
+    "version": 1557,
+    "parentItem": "MGPRHX73",
+    "itemType": "note",
+    "note": "<p>Check this article for gZhon nu byang chub. It&nbsp; also briefly mentions two KDSB texts (1_010_02 and 2_040_01) see p. 57.</p>",
+    "tags": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/5224793/items/U4R4KDUG"
+    },
+    "dateAdded": "2023-11-14T17:16:31Z",
+    "dateModified": "2023-11-14T17:16:31Z"
+  }
+}

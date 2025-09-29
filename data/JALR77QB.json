@@ -1,0 +1,97 @@
+{
+  "key": "JALR77QB",
+  "version": 5552,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JALR77QB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JALR77QB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tsuklak Trengwa",
+    "parsedDate": "1980",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JALR77QB",
+    "version": 5552,
+    "itemType": "book",
+    "title": "A Detailed History Of The Development Of Buddhism In India And Tibet - Chos 'byung mkhas pa'i dga' ston",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Tsuklak Trengwa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Delhi",
+    "publisher": "Delhi Karmapae Chodey Gyalwae Sungrab Partun Khang",
+    "date": "1980",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "mkhas pa'i dga' ston",
+    "url": "http://purl.bdrc.io/resource/MW28792",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T12:45:14Z",
+    "dateModified": "2025-09-29T11:47:14Z"
+  }
+}

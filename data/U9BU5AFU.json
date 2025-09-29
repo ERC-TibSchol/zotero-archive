@@ -1,0 +1,102 @@
+{
+  "key": "U9BU5AFU",
+  "version": 4880,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/U9BU5AFU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/U9BU5AFU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1991-03-28",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "U9BU5AFU",
+    "version": 4880,
+    "itemType": "journalArticle",
+    "title": "Abbatial Successions of the Colleges of gSang phu sNe'u thog Monastery",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunzo",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "CMS,Netcommons,Maple",
+    "publicationTitle": "Bulletin of the National Museum of Ethnology",
+    "volume": "15",
+    "issue": "4",
+    "pages": "1049-1071",
+    "date": "1991/03/28",
+    "series": "1991",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0385-180X",
+    "shortTitle": "Onoda 1991",
+    "url": "https://minpaku.repo.nii.ac.jp/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=21&item_id=4285&item_no=1",
+    "accessDate": "2021-10-19T13:00:27Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "minpaku.repo.nii.ac.jp",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "Y3D78K94"
+    ],
+    "relations": {},
+    "dateAdded": "2021-10-19T13:00:29Z",
+    "dateModified": "2025-05-21T07:36:12Z"
+  }
+}

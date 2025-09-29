@@ -1,0 +1,79 @@
+{
+  "key": "XK94E4DD",
+  "version": 4323,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XK94E4DD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XK94E4DD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XK94E4DD",
+    "version": 4323,
+    "itemType": "book",
+    "title": "dPyad gzhi'i yig cha phyogs sgrigs",
+    "creators": [],
+    "abstractNote": "",
+    "series": "\u85cf\u6587\u53f2\u6599\u5f59\u7de8\u7b2c3 \u8f2f",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tianjin",
+    "publisher": "Tianjin Guji Chubanshe",
+    "date": "[n.d.]",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "dPyad gzhi'i yig cha",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/5V27ABRG",
+      "dc:relation": "http://zotero.org/groups/4394244/items/WL4AE7U6"
+    },
+    "dateAdded": "2023-12-12T15:30:55Z",
+    "dateModified": "2025-05-20T19:24:44Z"
+  }
+}

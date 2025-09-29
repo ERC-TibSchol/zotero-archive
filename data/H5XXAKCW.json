@@ -1,0 +1,100 @@
+{
+  "key": "H5XXAKCW",
+  "version": 4865,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H5XXAKCW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H5XXAKCW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Aitken",
+    "parsedDate": "2021-12-09",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H5XXAKCW",
+    "version": 4865,
+    "itemType": "journalArticle",
+    "title": "The Truth about \u015ar\u012bgupta\u2019s Two Truths: Longchen Rabjampa\u2019s \u201cLower Sv\u0101tantrikas\u201d and the Making of a New Philosophical School",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Allison",
+        "lastName": "Aitken"
+      }
+    ],
+    "abstractNote": "Abstract \n            Longchen Rabjampa (1308\u201364), scholar of the Tibetan Buddhist Nyingma tradition, presents a novel doxographical taxonomy of the so-called Sv\u0101tantrika branch of Madhyamaka Buddhist philosophy, which designates the Indian M\u0101dhyamika \u015ar\u012bgupta (c. 7th/8th century) as the exemplar of a Sv\u0101tantrika sub-school according to which appearance and emptiness are metaphysically distinct. This paper compares Longchenpa\u2019s characterization of this \u201cdistinct-appearance-and-emptiness\u201d view with \u015ar\u012bgupta\u2019s own account of the two truths. I expose a significant disconnect between Longchenpa\u2019s \u015ar\u012bgupta and \u015ar\u012bgupta himself and argue that the impetus for Longchenpa\u2019s doxographical innovation originates not in Buddhist India, but within his own Tibetan intellectual milieu, tracing back to his twelfth-century Sangpu Monastery predecessors, Gyamarwa and Chapa.",
+    "publicationTitle": "Journal of South Asian Intellectual History",
+    "volume": "3",
+    "issue": "2",
+    "pages": "185-225",
+    "date": "2021-12-09",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. South Asian Intellect. Hist",
+    "language": "eng",
+    "DOI": "10.1163/25425552-12340024",
+    "ISSN": "2542-5544, 2542-5552",
+    "shortTitle": "Aitken 2021",
+    "url": "https://brill.com/view/journals/saih/3/2/article-p185_3.xml",
+    "accessDate": "2022-01-11T09:45:05Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/P4UU6JVT"
+    },
+    "dateAdded": "2021-12-20T08:10:26Z",
+    "dateModified": "2025-05-21T07:32:35Z"
+  }
+}

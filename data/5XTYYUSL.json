@@ -1,0 +1,59 @@
+{
+  "key": "5XTYYUSL",
+  "version": 1382,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5XTYYUSL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5XTYYUSL",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/LQZU66YX",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    }
+  },
+  "data": {
+    "key": "5XTYYUSL",
+    "version": 1382,
+    "parentItem": "LQZU66YX",
+    "itemType": "attachment",
+    "linkMode": "linked_url",
+    "title": "Google Books Link",
+    "accessDate": "2023-06-28T10:16:17Z",
+    "url": "https://books.google.at/books?id=41XYAAAAMAAJ",
+    "note": "",
+    "contentType": "text/html",
+    "charset": "",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2023-06-28T10:17:54Z",
+    "dateModified": "2023-06-28T10:17:54Z"
+  }
+}

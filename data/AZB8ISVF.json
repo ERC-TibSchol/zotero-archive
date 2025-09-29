@@ -1,0 +1,102 @@
+{
+  "key": "AZB8ISVF",
+  "version": 3800,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AZB8ISVF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AZB8ISVF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Bla ma dam pa bSod nams rgyal mshan",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AZB8ISVF",
+    "version": 3800,
+    "itemType": "bookSection",
+    "title": "dBus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Bla ma dam pa bSod nams rgyal mshan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung - dpal sa skya'i bzhed gzhung pod chen drug gam grags chen bco brgyad las / phar phyin skor / dbus mtha' rnam 'byed",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "59",
+    "numberOfVolumes": "80",
+    "edition": "par gzhi dang po",
+    "place": "lha sa",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2015",
+    "pages": "101-194",
+    "language": "tib",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "shortTitle": "bSod nams rgyal mtshan - dbu mtha 'grel",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "http://purl.bdrc.io/resource/MW3CN3408_3B0D59",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/AF6KJGIA",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+      ]
+    },
+    "dateAdded": "2025-03-24T12:49:30Z",
+    "dateModified": "2025-03-24T13:03:41Z"
+  }
+}
