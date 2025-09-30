@@ -1,0 +1,54 @@
+{
+  "key": "29L9HEMA",
+  "version": 2273,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/29L9HEMA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/29L9HEMA",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/PE2WG2KB",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "29L9HEMA",
+    "version": 2273,
+    "parentItem": "PE2WG2KB",
+    "itemType": "note",
+    "note": "v. 1. Elements -- v. 2. Elaborations v. 1: The material basis / Agnieszka Helman-Waz\u0307ny -- Format and layout / Brandon Dotson and Agnieszka Helman-Waz\u0307ny -- The written text / Sam van Schaik, Hanna Schneider, and Matthew T. Kapstein -- Marking the text: interventions of scribes, editors, and readers / Matthew T. Kapstein -- Colophons / Brandon Dotson and Matthew T. Kapstein -- Manuscript illumination / Amy Heller and Matthew T. Kapstein -- The xylographic print / Michela Clemente -- Conservation, storage, and cataloguing / Matthew T. Kapstein and Agnieszka Helman-Waz\u0307ny -- Digital technologies and the study of Tibetan manuscripts /Jeff Wallman v. 2: Tibetan manuscript Kanjurs / Helmut Tauscher -- Tantra collections of the \u201cAncient School\u201d / Cathy Cantwell and Robert Mayer -- Diplomatic and administrative documents / Hanna Schneider -- A public ordinance illustrating the application of Tibet's criminal law / Peter Schwieger -- Seals, fingerprints, crosses and other devices used for endorsing Himalayan Tibetan contracts from Mustang, Nepal, 1867-1993 / Charles Ramble -- Medical manuscripts / Stacey Van Vleet -- Manuscripts on hippology and hippiatry / Petra Maurer -- Musical manuscripts of the Bon religion / Ricardo Canzio -- Divination manuals and almanacs -- The Tibetan book in China / Matthew T. Kapstein -- The Tibetan book among the Mongols / Vesna Wallace -- Rdo rje shes rab's great commentary on the Dgongs gcig: the Muse\u0301e Guimet manuscript in Paris / Jan-Ulrich Sobisch -- Codex interruptus: a book of magical secrets / Matthew T. Kapstein",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-03-05T09:46:32Z",
+    "dateModified": "2024-03-05T09:46:32Z"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "key": "GUBA6WKJ",
+  "version": 3843,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GUBA6WKJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GUBA6WKJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tsondru",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GUBA6WKJ",
+    "version": 3843,
+    "itemType": "book",
+    "title": "Ornament of Reason: The Great Commentary to N\u0101g\u0101rjuna's Root of the Middle Way",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "firstName": "Dharmachakra Translation",
+        "lastName": "Committee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mabja Jangchub",
+        "lastName": "Tsondru"
+      }
+    ],
+    "abstractNote": "Front Cover -- Title Page -- Copyright -- Contents -- Foreword -- Translators' Introduction -- Insight-The Stanzas of the Root of the Middle Way -- Homage -- 1. Analysis of Conditions -- 2. Analysis of Going and Coming -- 3. Analysis of the Sense Sources -- 4. Analysis of the Aggregates -- 5. Analysis of the Elements -- 6. Analysis of Desire and the Desirous One -- 7. Analysis of the Characteristics of the Conditioned -- 8. Analysis of Action and Agent -- 9. Analysis of Prior Existence -- 10. Analysis of Fire and Fuel -- 11. Analysis of Beginnings and Ends -- 12. Analysis of Suffering -- 13. Analysis of the Conditioned -- 14. Analysis of Contact -- 15. Analysis of Nature -- 16. Analysis of Bondage and Liberation -- 17. Analysis of Action and Its Results -- 18. Analysis of Self and Phenomena -- 19. Analysis of Time -- 20. Analysis of the Assembly -- 21. Analysis of Arising and Disintegration -- 22. Analysis of the Thus-Gone -- 23. Analysis of Error -- 24. Analysis of the Noble Truths -- 25. Analysis of the Transcendence of Suffering -- 26. Analysis of Dependent Origination -- 27. Analysis of Views -- Commentary: Ornament of Reason -- Preliminary Discussion -- The Meaning of the Scripture -- The Meaning of the Opening Lines -- The Meaning of the Main Part of the Treatise -- Ascertaining the Meaning of the Chapters -- Explaining the Progression of the Text -- 1. Analysis of Conditions -- 2. Analysis of Going and Coming -- 3. Analysis of the Sense Sources -- 4. Analysis of the Aggregates -- 5. Analysis of the Elements -- 6. Analysis of Desire and the Desirous One -- 7. Analysis of the Characteristics of the Conditioned -- 8. Analysis of Action and Agent -- 9. Analysis of Prior Existence -- 10. Analysis of Fire and Fuel -- 11. Analysis of Beginnings and Ends -- 12. Analysis of Suffering -- 13. Analysis of the Conditioned -- 14. Analysis of Contact",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Boston",
+    "publisher": "Shambhala",
+    "date": "2011",
+    "numPages": "1",
+    "language": "eng",
+    "ISBN": "9781559393683 9781559397421",
+    "shortTitle": "rMa bya's Ornament 2011",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-04-22T09:32:43Z",
+    "dateModified": "2025-04-22T09:34:14Z"
+  }
+}

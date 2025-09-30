@@ -1,0 +1,90 @@
+{
+  "key": "S635TW6P",
+  "version": 4703,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/S635TW6P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/S635TW6P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib 'jug khang",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "S635TW6P",
+    "version": 4703,
+    "itemType": "bookSection",
+    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs sgrig thengs dang po\u02bci dkar chag",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
+    "series": "null",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1 (1-30)",
+    "edition": "Par gzhi dang po",
+    "place": "Khreng tu\u02bcu",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2006",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "7-5409-3249-X",
+    "shortTitle": "bKa' gdams gsung 'bum dkar chag 1",
+    "url": "http://purl.bdrc.io/resource/MW1PD89051_73CA5B",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW1PD89051_73CA5B Work: WA1PD89051",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-11T08:56:41Z",
+    "dateModified": "2025-05-21T07:08:20Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "key": "BYR2T7NI",
+  "version": 4328,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BYR2T7NI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BYR2T7NI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "G\u00f6 Lotsawa Zh\u00f6nnu-pel",
+    "parsedDate": "1974",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BYR2T7NI",
+    "version": 4328,
+    "itemType": "book",
+    "title": "The Blue Annals Completed In A.d. 1478",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "G\u00f6 Lotsawa Zh\u00f6nnu-pel"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Sata-Pitaka Series",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "International Academy Of Indian Culture",
+    "date": "1974",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Deb ther sngon po",
+    "url": "http://purl.bdrc.io/resource/MW7494",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Issue: v. 212\nMW7494\nWork: W7494",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T10:09:19Z",
+    "dateModified": "2025-05-20T19:25:06Z"
+  }
+}

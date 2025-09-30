@@ -1,0 +1,101 @@
+{
+  "key": "82NZNSIS",
+  "version": 4986,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/82NZNSIS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/82NZNSIS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lo dgon pa bSod nams lha'i dbang po",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "82NZNSIS",
+    "version": 4986,
+    "itemType": "bookSection",
+    "title": "bKa' gdams rin po che'i chos \u2018byung rnam thar nyin mor byed pa'i 'od stong (critical edition)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Lo dgon pa bSod nams lha'i dbang po"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "Gianpaolo",
+        "lastName": "Vetturini"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The bKa' gdams pa School of Tibetan Buddhism. Dissertation, part 2",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "",
+    "date": "2007",
+    "pages": "10\u2013388",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Lo dgon - 'Od stong",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/FYDHV7WZ"
+    },
+    "dateAdded": "2024-01-09T11:17:16Z",
+    "dateModified": "2025-05-21T07:43:39Z"
+  }
+}

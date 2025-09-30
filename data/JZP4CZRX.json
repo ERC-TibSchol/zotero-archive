@@ -1,0 +1,65 @@
+{
+  "key": "JZP4CZRX",
+  "version": 5579,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JZP4CZRX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JZP4CZRX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JZP4CZRX",
+    "version": 5579,
+    "itemType": "webpage",
+    "title": "Buddhist Digital Resource Centre",
+    "creators": [],
+    "abstractNote": "",
+    "websiteTitle": "",
+    "websiteType": "",
+    "date": "",
+    "shortTitle": "BDRC",
+    "url": "https://purl.bdrc.io/resource/",
+    "accessDate": "",
+    "language": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-29T14:56:22Z",
+    "dateModified": "2025-09-29T15:00:26Z"
+  }
+}
