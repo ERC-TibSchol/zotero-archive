@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zotero Archive</title>
+  <style>
+    /* Layout */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: grid;
+      grid-template-rows: 60px 1fr 40px;
+      grid-template-columns: 250px 1fr;
+      grid-template-areas:
+        "header header"
+        "sidebar main"
+        "footer footer";
+      height: 100vh;
+    }
+
+    header {
+      grid-area: header;
+      background-color: #2c3e50;
+      color: white;
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+
+    footer {
+      grid-area: footer;
+      background-color: #ecf0f1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9em;
+      color: #555;
+    }
+
+    nav {
+      grid-area: sidebar;
+      background-color: #f4f4f4;
+      border-right: 1px solid #ddd;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    main {
+      grid-area: main;
+      padding: 20px;
+      overflow: auto;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      margin: 8px 0;
+    }
+
+    a {
+      text-decoration: none;
+      color: #2c3e50;
+      font-weight: 500;
+    }
+
+    a:hover {
+      color: #2980b9;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #3498db;
+      color: white;
+    }
+
+    pre {
+      background-color: #f0f0f0;
+      padding: 10px;
+      border-radius: 5px;
+      overflow: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>TibSchol Zotero Archive</header>
+
+  <nav>
+    <ul id="file-list"></ul>
+  </nav>
+
+  <main>
+    <div id="viewer">Click on a filename to view its contents</div>
+    </main>
+
+    <footer>Archived from&nbsp;<a href="https://www.zotero.org/groups/4394244/tibschol/library" target="_blank">Zotero</a>.</footer>
+
+  <script>
+    async function loadFileList() {
+        const res = await fetch("data-index.json");
+        const files = await res.json();
+        const list = document.getElementById("file-list");
+
+        files.forEach(file => {
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+            a.href = "#";
+            a.textContent = file.replace(/^data\//, ""); // remove "data/" for display
+            a.onclick = async () => {
+                const res = await fetch(file); // still fetch using full path
+                const json = await res.json();
+                renderTable(json);
+            };
+            li.appendChild(a);
+            list.appendChild(li);
+        });
+    }
+
+    function renderTable(json) {
+        const viewer = document.getElementById("viewer");
+        if (!Array.isArray(json)) {
+            viewer.innerHTML = "<pre>" + JSON.stringify(json, null, 2) + "</pre>";
+            return;
+        }
+        const keys = Object.keys(json[0] || {});
+        let html = "<table><tr>" + keys.map(k => "<th>" + k + "</th>").join("") + "</tr>";
+        json.forEach(row => {
+            html += "<tr>" + keys.map(k => "<td>" + (row[k] ?? "") + "</td>").join("") + "</tr>";
+        });
+        html += "</table>";
+        viewer.innerHTML = html;
+    }
+
+    loadFileList();
+</script>
+</body>
+
+</html>
