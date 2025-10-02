@@ -16,19 +16,17 @@ To provide a reliable way to archive Zotero group data periodically (e.g., night
 ## Setup
 
 Set the following environment variables:
-   - `ZOTERO_API_KEY`: Your Zotero API key.
-   - `ZOTERO_GROUP_ID`: The ID of the Zotero group to back up.
+   - `ZOTERO_KEY`: Your Zotero API key.
+   - `ZOTERO_USER`: Your Zotero API user.
+   - `ZOTERO_GROUP`: The ID of the Zotero group to back up.
 
-2. Install dependencies:
+2. Install dependencies
 
 ## Usage
 
-Run the backup script:
-python zotero_backup.py
+Run the backup script: `python archive_zotero_entries.py`
 
-text
-
-The script creates a `zotero_backup` folder (if not existing) and stores the JSON files inside.
+The script creates a `data` folder (if not existing) and stores the JSON files inside.
 
 ## Scheduling
 
