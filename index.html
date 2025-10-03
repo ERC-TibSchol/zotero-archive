@@ -53,7 +53,7 @@
       overflow: auto;
     }
 
-    ul {
+    ul#file-list {
       list-style: none;
       padding: 0;
       margin: 0;
@@ -131,20 +131,27 @@
             list.appendChild(li);
         });
     }
-
+    function toList(obj) {
+        if (Array.isArray(obj)) {
+            return `<ul>${obj.map(item => `<li>${toList(item)}</li>`).join('')}</ul>`;
+        } else if (obj && typeof obj === 'object') {
+            return `<ul>${Object.entries(obj)
+                .filter(([_, val]) => val !== null && val !== "" &&
+                    (!(Array.isArray(val)) || val.length > 0) &&
+                    (!(typeof val === "object" && Object.keys(val).length === 0)))
+                .map(([key, val]) => {
+                    const child = toList(val);
+                    return child ? `<li>${key}: ${child}</li>` : '';
+                })
+                .join('')}</ul>`;
+        } else {
+            return obj ? String(obj) : '';
+        }
+    }
     function renderTable(json) {
         const viewer = document.getElementById("viewer");
-        if (!Array.isArray(json)) {
-            viewer.innerHTML = "<pre>" + JSON.stringify(json, null, 2) + "</pre>";
-            return;
-        }
-        const keys = Object.keys(json[0] || {});
-        let html = "<table><tr>" + keys.map(k => "<th>" + k + "</th>").join("") + "</tr>";
-        json.forEach(row => {
-            html += "<tr>" + keys.map(k => "<td>" + (row[k] ?? "") + "</td>").join("") + "</tr>";
-        });
-        html += "</table>";
-        viewer.innerHTML = html;
+
+      viewer.innerHTML = toList(json);
     }
 
     loadFileList();
