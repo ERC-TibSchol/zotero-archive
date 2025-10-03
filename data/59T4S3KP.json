@@ -1,0 +1,96 @@
+{
+  "key": "59T4S3KP",
+  "version": 5203,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/59T4S3KP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/59T4S3KP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eimer",
+    "parsedDate": "1985",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "59T4S3KP",
+    "version": 5203,
+    "itemType": "journalArticle",
+    "title": "Life and Activities of Ati\u015ba (D\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na). A Survey of Investigations Undertaken",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Eimer"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the Asiatic Society",
+    "volume": "XXVII",
+    "issue": "4",
+    "pages": "3-12",
+    "date": "1985",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Eimer 1985",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Ati\u015ba"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-11-22T16:00:59Z",
+    "dateModified": "2025-05-21T12:59:35Z"
+  }
+}

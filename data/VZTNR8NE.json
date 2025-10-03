@@ -1,0 +1,100 @@
+{
+  "key": "VZTNR8NE",
+  "version": 5580,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VZTNR8NE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VZTNR8NE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Stoltz",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VZTNR8NE",
+    "version": 5580,
+    "itemType": "bookSection",
+    "title": "Cognition, Phenomenal Character, and Intentionality in Tibetan Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan",
+        "lastName": "Stoltz"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Steven M.",
+        "lastName": "Emmanuel"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "A Companion to Buddhist Philosophy",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Chichester",
+    "publisher": "Wiley-Blackwell",
+    "date": "2013",
+    "pages": "405\u2013418",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Stoltz 2013",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/PJCK7IYN"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-10-02T08:27:15Z"
+  }
+}

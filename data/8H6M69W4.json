@@ -1,0 +1,105 @@
+{
+  "key": "8H6M69W4",
+  "version": 4704,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8H6M69W4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8H6M69W4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib 'jug khang",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8H6M69W4",
+    "version": 4704,
+    "itemType": "book",
+    "title": "\u02bcBras spungs dgon du bzhugs su gsol ba\u2019i dpe rnying dkar chag (Drepung Catalogue)",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "name": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      }
+    ],
+    "abstractNote": "Bibliography of rare texts housed at Drepung Monastery",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Mi rigs dpe skrun khang",
+    "date": "2004",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "978-7-105-06690-2",
+    "shortTitle": "'Bras spungs dkar chag",
+    "url": "https://library.bdrc.io/show/bdr:MW28949",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Catalogue"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/JNFCTPRG",
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/CJ3RFX7E"
+    },
+    "dateAdded": "2021-08-10T16:06:42Z",
+    "dateModified": "2025-05-21T07:08:25Z"
+  }
+}

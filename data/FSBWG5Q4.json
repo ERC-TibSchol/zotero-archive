@@ -1,0 +1,102 @@
+{
+  "key": "FSBWG5Q4",
+  "version": 4990,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FSBWG5Q4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FSBWG5Q4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "sTag lung zhabs drung ngag dbang rnam rgyal",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FSBWG5Q4",
+    "version": 4990,
+    "itemType": "bookSection",
+    "title": "rJe phag mo gru pa'i rnam thar mdor bsdus",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "sTag lung zhabs drung ngag dbang rnam rgyal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Chos 'byung ngo mtshar rgya mtsho",
+    "series": "Gangs can rig mdzod",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par thengs dang po",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "1992",
+    "pages": "174-187",
+    "language": "tib",
+    "ISBN": "7-80589-013-7",
+    "shortTitle": "sTag lung ngag dbang rnam rgyal - Phag gru rnam thar mdor bsdus",
+    "url": "http://purl.bdrc.io/resource/MW17276",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY",
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-26T12:43:48Z",
+    "dateModified": "2025-05-21T07:43:43Z"
+  }
+}

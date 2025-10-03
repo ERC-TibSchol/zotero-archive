@@ -1,0 +1,98 @@
+{
+  "key": "XKWVZ6EA",
+  "version": 5581,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XKWVZ6EA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XKWVZ6EA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eckel and J\u00f1\u0101nagarbha",
+    "parsedDate": "1987",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XKWVZ6EA",
+    "version": 5581,
+    "itemType": "book",
+    "title": "J\u00f1\u0101nagarbha\u2019s Commentary on the Distinction Between the Two Truths: An Eighth Century Handbook of Madhyamaka Philosophy",
+    "creators": [
+      {
+        "creatorType": "translator",
+        "firstName": "Malcolm David",
+        "lastName": "Eckel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Malcolm David",
+        "lastName": "Eckel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "J\u00f1\u0101nagarbha"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Albany",
+    "publisher": "State University of New York Press",
+    "date": "1987",
+    "numPages": "220",
+    "language": "eng, skt, tib",
+    "ISBN": "0-88706-301-2",
+    "shortTitle": "Eckel 1987",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/86005695",
+    "callNumber": "BQ7460.J6313",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "rGya dmar ba Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973586/items/VI4GHWBX"
+    },
+    "dateAdded": "2025-05-21T13:09:20Z",
+    "dateModified": "2025-10-02T09:07:32Z"
+  }
+}

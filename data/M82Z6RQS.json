@@ -1,0 +1,92 @@
+{
+  "key": "M82Z6RQS",
+  "version": 4329,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/M82Z6RQS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/M82Z6RQS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sabzang Mati Pa\u1e47chen Lodro Gyeltsen",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "M82Z6RQS",
+    "version": 4329,
+    "itemType": "book",
+    "title": "rGyud bla sa \u02bcgrel - theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Sabzang Mati Pa\u1e47chen Lodro Gyeltsen"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Jo nang dpe tshogs",
+    "seriesNumber": "43",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "place": "Pe cin",
+    "publisher": "Mi rigs dpe skrun khang",
+    "date": "2008",
+    "numPages": "358",
+    "language": "tib",
+    "ISBN": "978-7-105-09611-4",
+    "shortTitle": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba",
+    "url": "http://purl.bdrc.io/resource/MW1PD95809",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Issue: 13",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-05T13:45:38Z",
+    "dateModified": "2025-05-20T19:25:10Z"
+  }
+}
