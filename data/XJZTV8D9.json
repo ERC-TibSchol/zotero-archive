@@ -1,0 +1,84 @@
+{
+  "key": "XJZTV8D9",
+  "version": 5209,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XJZTV8D9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XJZTV8D9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tucci",
+    "parsedDate": "1941",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XJZTV8D9",
+    "version": 5209,
+    "itemType": "book",
+    "title": "Indo-Tibetica IV : Gyantse ed i suoi monasteri. Parte III : Tavole",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Giuseppe",
+        "lastName": "Tucci"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Roma",
+    "publisher": "",
+    "date": "1941",
+    "numPages": "",
+    "language": "it",
+    "ISBN": "",
+    "shortTitle": "Tucci 1941",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-09-20T12:24:35Z",
+    "dateModified": "2025-05-21T13:04:34Z"
+  }
+}

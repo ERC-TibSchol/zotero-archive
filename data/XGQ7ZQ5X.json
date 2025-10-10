@@ -1,6 +1,6 @@
 {
   "key": "XGQ7ZQ5X",
-  "version": 4977,
+  "version": 5589,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "XGQ7ZQ5X",
-    "version": 4977,
+    "version": 5589,
     "itemType": "bookSection",
     "title": "dBu ma bden gnyis kyi rnam bshad",
     "creators": [
@@ -87,6 +87,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
     },
     "dateAdded": "2023-12-11T15:52:29Z",
-    "dateModified": "2025-03-21T17:38:33Z"
+    "dateModified": "2025-10-09T12:09:02Z"
   }
 }

@@ -1,0 +1,89 @@
+{
+  "key": "JAFKIIMQ",
+  "version": 4346,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JAFKIIMQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JAFKIIMQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JAFKIIMQ",
+    "version": 4346,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u4ecf\u6559\u8ad6\u7406\u5b66\u306b\u304a\u3051\u308b\uff1c\u7406\u89e3\uff08<i>rtogs pa</i>\uff09\uff1e\u306e\u6982\u5ff5\u306b\u3064\u3044\u3066 [On the Concept of \"Understanding\" (<i>rtogs pa</i>) in Tibetan Buddhist Logic]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Indian Logic / \u30a4\u30f3\u30c9\u8ad6\u7406\u5b66\u7814\u7a76 (Indo-Ronrigaku-Kenky\u016b)",
+    "volume": "4",
+    "issue": "",
+    "pages": "97\u2013122",
+    "date": "2012",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "1884-7382",
+    "shortTitle": "",
+    "url": "https://tripitaka.l.u-tokyo.ac.jp/INBUDS/search.php?m=trdd&usid=112416&a=",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/K6MVCN6E"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:26:58Z"
+  }
+}

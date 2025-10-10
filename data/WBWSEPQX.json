@@ -1,0 +1,103 @@
+{
+  "key": "WBWSEPQX",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WBWSEPQX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WBWSEPQX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dGe slong dPal chen Chos kyi ye shes",
+    "parsedDate": "1507",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WBWSEPQX",
+    "version": 4989,
+    "itemType": "bookSection",
+    "title": "Chos rje rin po che'i rnam thar yon tan rin po che'i phreng ba gzi brjid 'bar ba'i sgron ma",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "dGe slong dPal chen Chos kyi ye shes"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Phag mo'i gru pa'i bka' 'bum. o.O., o.J., 4Bde.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "'Bri gung",
+    "publisher": "Kun dga' rin chen Chos kyi rgyal mtshan",
+    "date": "1507",
+    "pages": "1-27",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag mo gru pa'i rnam thar - gZi brjid 'bar ba'i sgron ma",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-12T15:32:31Z",
+    "dateModified": "2025-05-21T07:44:01Z"
+  }
+}

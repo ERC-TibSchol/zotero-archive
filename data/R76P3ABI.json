@@ -1,0 +1,107 @@
+{
+  "key": "R76P3ABI",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/R76P3ABI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/R76P3ABI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gaton Ngawang Lekpa et al.",
+    "parsedDate": "1983",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "R76P3ABI",
+    "version": 4989,
+    "itemType": "bookSection",
+    "title": "bDag chen blo gros rgyal mtshan rnam thar utpal\u02bci do shal",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "name": "Gaton Ngawang Lekpa"
+      },
+      {
+        "creatorType": "editor",
+        "name": "Ngawang Lodr\u00f6 Nyingpo"
+      },
+      {
+        "creatorType": "editor",
+        "name": "Ngorpa P\u00f6nlob Lo Ter Wangpo"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Lam 'bras Slob Bsad : The Sa-skya-pa Teachings Of The Path And The Fruit, According To The Tshar-pa Transmission",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "v. 1-21",
+    "edition": "",
+    "place": "Dehra Dun, U.p.",
+    "publisher": "Sakya Centre",
+    "date": "1983\u20131985",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW23649_182832",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW23649_182832\nWork: WA0XL182832AB94E2",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-03T12:15:37Z",
+    "dateModified": "2025-05-21T07:44:20Z"
+  }
+}

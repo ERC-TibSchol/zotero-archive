@@ -1,0 +1,89 @@
+{
+  "key": "LQQ8MU9M",
+  "version": 4360,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LQQ8MU9M",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LQQ8MU9M",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Fukuda",
+    "parsedDate": "1989",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LQQ8MU9M",
+    "version": 4360,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30e3\u30d1\u30fb\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u3068\u30b5\u30ad\u30e3\u30fb\u30d1\u30f3\u30c7\u30a3\u30bf\u306e\u5bfe\u8c61\u8a2d\u5b9a\u306e\u7406\u8ad6 [On the Theory of the Object of Cognition of Phya pa Chos kyi seng ge and Sa skya Pa\u1e47\u1e0dita]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Y\u014dichi (\u798f\u7530\u6d0b\u4e00)",
+        "lastName": "Fukuda"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "T\u014dh\u014dgaku (\u300e\u6771\u65b9\u5b66\u300f)",
+    "volume": "78",
+    "issue": "",
+    "pages": "140\u2013127",
+    "date": "1989",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "0495-7199",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "http://www.tohogakkai.com/tohogakuback71-80.html",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/LZAR5TV9"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:27:59Z"
+  }
+}

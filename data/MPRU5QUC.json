@@ -1,0 +1,111 @@
+{
+  "key": "MPRU5QUC",
+  "version": 5206,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MPRU5QUC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MPRU5QUC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1989",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MPRU5QUC",
+    "version": 5206,
+    "itemType": "journalArticle",
+    "title": "The Chronology of the Abbatial Successions of the gSa\u1e45 phu sNe'u thog Monastery",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Wiener Zeitschrift f\u00fcr die Kunde S\u00fcdasiens",
+    "volume": "33",
+    "issue": "",
+    "pages": "203-213",
+    "date": "1989",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0084-0084",
+    "shortTitle": "Onoda 1989",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "Y3D78K94"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T13:47:50Z",
+    "dateModified": "2025-05-21T13:00:53Z"
+  }
+}

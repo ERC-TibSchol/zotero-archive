@@ -1,0 +1,102 @@
+{
+  "key": "KYDHTU7S",
+  "version": 5596,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KYDHTU7S",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KYDHTU7S",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tauscher",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KYDHTU7S",
+    "version": 5596,
+    "itemType": "book",
+    "title": "Phya pa Chos kyi se\u1e45 ge, <i>dBu ma \u015bar gsum gyi sto\u1e45 thun</i>",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "name": "Phya pa Chos kyi seng ge"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "43",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "date": "1999",
+    "numPages": "xxxiii,146",
+    "language": "eng, tib",
+    "ISBN": "",
+    "shortTitle": "Phya pa - dbu ma stong thun 1999 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://searchworks.stanford.edu/view/4284848",
+    "callNumber": "BQ7478.P49",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/XCDSLX2H"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-10-09T12:36:27Z"
+  }
+}

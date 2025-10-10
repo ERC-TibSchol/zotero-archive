@@ -1,0 +1,85 @@
+{
+  "key": "VIB5KHV3",
+  "version": 4028,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VIB5KHV3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VIB5KHV3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VIB5KHV3",
+    "version": 4028,
+    "itemType": "journalArticle",
+    "title": "bCom ldan rig ral cho Daij\u014d kuky\u014dron s\u014dgonka: Wayaku oyobi k\u014dtei  tekusuto (1) \u30c1\u30e7\u30e0\u30c7\u30f3\u30ea\u30af\u30ec\u30eb\u8457\u300e\u5927\u4e57\u7a76\u7adf\u8ad6\u8358\u53b3\u83ef\u300f: \u548c\u8a33\u304a\u3088\u3073\u6821\u8a02\u30c6\u30af\u30b9\u30c8 (1) (A Critical Edition and Translation of bCom ldan rig ral\u2019s rGyud bla ma\u2019i rgyan gyi me tog (1))",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Koyasandaigaku rons\u014d \u9ad8\u91ce\u5c71\u5927\u5b66\u8ad6\u53e2",
+    "volume": "45",
+    "issue": "",
+    "pages": "13-35",
+    "date": "2010",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Kano 2010",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-19T18:57:58Z",
+    "dateModified": "2025-05-19T18:59:26Z"
+  }
+}

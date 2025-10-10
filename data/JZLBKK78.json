@@ -1,0 +1,101 @@
+{
+  "key": "JZLBKK78",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JZLBKK78",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JZLBKK78",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rGyal thang pa bde chen rdo rje",
+    "parsedDate": "1973",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JZLBKK78",
+    "version": 4989,
+    "itemType": "book",
+    "title": "dKar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "rGyal thang pa bde chen rdo rje"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "Palampur, H.p.",
+    "publisher": "Sungrab Nyamso Gyunphel Parkhang, Tibetan Craft Community",
+    "date": "1973",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "'Brug dkar brgyud gser 'phreng",
+    "url": "https://purl.bdrc.io/resource/MW23436",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY",
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-25T12:44:41Z",
+    "dateModified": "2025-05-21T07:43:57Z"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "key": "8K3GI5NA",
+  "version": 4357,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8K3GI5NA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8K3GI5NA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Fukuda, Yoichi",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8K3GI5NA",
+    "version": 4357,
+    "itemType": "journalArticle",
+    "title": "Shoki chibetto ronrigaku ni okeru mtshan mtshon gzhi gsum o meguru giron ni tsuite",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Fukuda, Yoichi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the Japanese Association for Tibetan Studies",
+    "volume": "49",
+    "issue": "",
+    "pages": "13-25",
+    "date": "2003",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Fukuda 2003",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "UF2RY449"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-06T06:34:52Z",
+    "dateModified": "2025-05-20T19:27:47Z"
+  }
+}

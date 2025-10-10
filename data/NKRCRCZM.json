@@ -1,0 +1,83 @@
+{
+  "key": "NKRCRCZM",
+  "version": 4359,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NKRCRCZM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NKRCRCZM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1984",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NKRCRCZM",
+    "version": 4359,
+    "itemType": "journalArticle",
+    "title": "mtshan nyid to mtshon bya ni tsuite",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunzo",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Indogaku bukky\u014d gaku kenky\u016b",
+    "volume": "33",
+    "issue": "1",
+    "pages": "92-95",
+    "date": "1984",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Onoda 1984",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "UF2RY449"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-06T06:34:52Z",
+    "dateModified": "2025-05-20T19:27:55Z"
+  }
+}

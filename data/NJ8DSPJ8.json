@@ -1,0 +1,96 @@
+{
+  "key": "NJ8DSPJ8",
+  "version": 4960,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NJ8DSPJ8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NJ8DSPJ8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lo chen Rin chen bzang po",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NJ8DSPJ8",
+    "version": 4960,
+    "itemType": "book",
+    "title": "lo tsA ba chen po rin chen bzang po'i zhabs kyi bka' 'bum",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Lo chen Rin chen bzang po"
+      }
+    ],
+    "abstractNote": "2, 2, 397 p; Collected Works by great translater Lochen Rinchen Sangpo (958-1055); Electronic reproduction. Cambridge, Mass. : Buddhist Digital Resource Center",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Lha sa : Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2018",
+    "numPages": "416",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://archive.org/details/bdrc-W3CN22344",
+    "accessDate": "2022-12-05T10:34:01Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Internet Archive",
+    "callNumber": "",
+    "rights": "copyright",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-12-05T10:34:02Z",
+    "dateModified": "2025-05-21T07:09:20Z"
+  }
+}

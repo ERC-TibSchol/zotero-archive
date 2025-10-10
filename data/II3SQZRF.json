@@ -1,0 +1,95 @@
+{
+  "key": "II3SQZRF",
+  "version": 5582,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/II3SQZRF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/II3SQZRF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Akahane",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "II3SQZRF",
+    "version": 5582,
+    "itemType": "book",
+    "title": "A new critical edition of J\u00f1\u0101nagarbha's Satyadvayavibha\u1e45ga with \u015a\u0101ntarak\u1e63ita's commentary",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ritsu",
+        "lastName": "Akahane"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Ryo",
+        "lastName": "Nishiyama"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Yukio",
+        "lastName": "Yamanaka"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Yasutaka",
+        "lastName": "Muroya"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "Heft 98",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien Universit\u00e4t Wien",
+    "date": "2020",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-3-902501-36-3",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-02T09:14:51Z",
+    "dateModified": "2025-10-02T09:14:51Z"
+  }
+}

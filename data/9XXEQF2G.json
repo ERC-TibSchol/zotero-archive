@@ -1,6 +1,6 @@
 {
-  "key": "UC9KXAVQ",
-  "version": 5589,
+  "key": "9XXEQF2G",
+  "version": 4339,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/UC9KXAVQ",
+      "href": "https://api.zotero.org/groups/4394244/items/9XXEQF2G",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/UC9KXAVQ",
+      "href": "https://www.zotero.org/groups/tibschol/items/9XXEQF2G",
       "type": "text/html"
     }
   },
@@ -34,36 +34,35 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "Nemoto",
+    "parsedDate": "2011",
     "numChildren": 0
   },
   "data": {
-    "key": "UC9KXAVQ",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "Tshad ma yid kyi mun sel",
+    "key": "9XXEQF2G",
+    "version": 4339,
+    "itemType": "book",
+    "title": "\u30b2\u30eb\u30af\u6d3e\u306b\u304a\u3051\u308b\u6642\u9593\u8ad6\u306e\u7814\u7a76 [A Study of the dGe lugs pa\u2019s View of Time]",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "firstName": "Hiroshi (\u6839\u672c \u88d5\u53f2)",
+        "lastName": "Nemoto"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "585-916",
-    "language": "tib",
-    "ISBN": "",
-    "shortTitle": "Phya - Yid kyi mun sel",
+    "place": "Kyoto",
+    "publisher": "Heirakuji-shoten",
+    "date": "2011",
+    "numPages": "377",
+    "language": "jap",
+    "ISBN": "978-4-8313-1112-2",
+    "shortTitle": "Nemoto 2011",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -74,19 +73,16 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
-      },
-      {
-        "tag": "Gateway"
+        "tag": "Phyapa Website"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "NVIEWWIE"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/WWUWHA34"
     },
-    "dateAdded": "2023-12-11T18:39:44Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:26:25Z"
   }
 }

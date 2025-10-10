@@ -1,0 +1,99 @@
+{
+  "key": "EGWA97VX",
+  "version": 4986,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/EGWA97VX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/EGWA97VX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ngok Changchub Pal",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "EGWA97VX",
+    "version": 4986,
+    "itemType": "bookSection",
+    "title": "rJe mar pa nas brgyud pa\u02bci rngog gzhung pa yab sras kyi bla ma\u02bci rnam thar nor bu\u02bci phreng ba (dbu med)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Ngok Changchub Pal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Bod kyi lo rgyus rnam thar phyogs bsgrigs(130)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "31",
+    "edition": "Par gzhi dang po",
+    "place": "Zi ling",
+    "publisher": "mTsho sngon mi rigs dpe skrun khang",
+    "date": "2010",
+    "pages": "25-50",
+    "language": "tib",
+    "ISBN": "978-7-5420-1464-1",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW1KG10687_EB67DB",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW1KG10687_EB67DB\nWork: WA1KG10687",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T14:00:03Z",
+    "dateModified": "2025-05-21T07:44:36Z"
+  }
+}

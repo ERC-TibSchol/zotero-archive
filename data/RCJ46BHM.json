@@ -1,6 +1,6 @@
 {
-  "key": "UC9KXAVQ",
-  "version": 5589,
+  "key": "RCJ46BHM",
+  "version": 5221,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/UC9KXAVQ",
+      "href": "https://api.zotero.org/groups/4394244/items/RCJ46BHM",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/UC9KXAVQ",
+      "href": "https://www.zotero.org/groups/tibschol/items/RCJ46BHM",
       "type": "text/html"
     }
   },
@@ -34,59 +34,58 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "Ruegg",
+    "parsedDate": "2010",
     "numChildren": 0
   },
   "data": {
-    "key": "UC9KXAVQ",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "Tshad ma yid kyi mun sel",
+    "key": "RCJ46BHM",
+    "version": 5221,
+    "itemType": "book",
+    "title": "The Buddhist Philosophy of the Middle: Essays on Indian and Tibetan Madhyamaka",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "firstName": "David Seyfort",
+        "lastName": "Ruegg"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "585-916",
-    "language": "tib",
-    "ISBN": "",
-    "shortTitle": "Phya - Yid kyi mun sel",
+    "place": "Boston",
+    "publisher": "Wisdom Publications",
+    "date": "2010",
+    "numPages": "xxii, 442",
+    "language": "eng",
+    "ISBN": "978-0-86171-590-9",
+    "shortTitle": "",
     "url": "",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
-    "callNumber": "",
+    "callNumber": "BQ7457.R835",
     "rights": "",
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Madhyamaka"
       },
       {
-        "tag": "Gateway"
+        "tag": "rGya dmar ba Website"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "3B9JCMU7"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+      "owl:sameAs": "http://zotero.org/groups/4973586/items/87A4HMWD"
     },
-    "dateAdded": "2023-12-11T18:39:44Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2025-05-21T13:08:56Z",
+    "dateModified": "2025-05-21T13:11:36Z"
   }
 }

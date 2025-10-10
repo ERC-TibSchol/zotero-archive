@@ -1,0 +1,89 @@
+{
+  "key": "5ZLZFN73",
+  "version": 4335,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5ZLZFN73",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5ZLZFN73",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kosumi",
+    "parsedDate": "2010-03",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5ZLZFN73",
+    "version": 4335,
+    "itemType": "journalArticle",
+    "title": "Indo-Chibetto ni okeru yugagy\u014d-ch\u016bgan-ha no setsuna-ron ni tsuite no densh\u014d [\u30a4\u30f3\u30c9\u30fb\u30c1\u30d9\u30c3\u30c8\u306b\u304a\u3051\u308b\u745c\u4f3d\u884c\u4e2d\u89b3\u6d3e\u306e\u5239\u90a3\u8ad6\u306b\u3064\u3044\u3066\u306e\u4f1d\u627f.] {A Tradition of Yog\u0101c\u0101ra-M\u0101dhyamika's Views on <i>K\u1e63a\u1e47a</i> in India and Tibet.}",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Takechika (\u53e4\u89d2\u6b66\u7766)",
+        "lastName": "Kosumi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Bukky\u014ddaigaku Daigakuin Kiy\u014d (Bungaku Kenky\u016bka Hen) [\u4f5b\u6559\u5927\u5b66\u5927\u5b66\u9662\u7d00\u8981(\u6587\u5b66\u7814\u7a76\u79d1\u7bc7)]{The Bukkyo University Graduate School Review (compiled by the Graduate School of Literature)}",
+    "volume": "",
+    "issue": "",
+    "pages": "13\u201330",
+    "date": "March 2010",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap, tib",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://archives.bukkyo-u.ac.jp/rp-contents/DB/0038/DB00380L013.pdf",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/6B6YP3MU"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:26:05Z"
+  }
+}

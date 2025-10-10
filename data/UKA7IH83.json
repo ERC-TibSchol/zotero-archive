@@ -1,0 +1,80 @@
+{
+  "key": "UKA7IH83",
+  "version": 5599,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UKA7IH83",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UKA7IH83",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Doctor",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UKA7IH83",
+    "version": 5599,
+    "itemType": "book",
+    "title": "Reason and experience in Tibetan Buddhism: Mabja Jangchub Tso\u0308ndru\u0308 and the traditions of the Middle Way",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Thomas H.",
+        "lastName": "Doctor"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Routledge critical studies in Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "Routledge",
+    "date": "2014",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "9780415722469",
+    "shortTitle": "Doctor 2014",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-09T14:45:50Z",
+    "dateModified": "2025-10-09T14:46:12Z"
+  }
+}

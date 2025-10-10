@@ -1,6 +1,6 @@
 {
-  "key": "9AHTV5J8",
-  "version": 5589,
+  "key": "KFT6V6MT",
+  "version": 4718,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/KFT6V6MT",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/KFT6V6MT",
       "type": "text/html"
     }
   },
@@ -34,41 +34,35 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2006",
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "key": "KFT6V6MT",
+    "version": 4718,
+    "itemType": "book",
+    "title": "gSung \u02bcbum bcom ldan rig pa\u02bci ral gri",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "bCom ldan rigs pa'i ral gri"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "1-138",
+    "place": "lha sa",
+    "publisher": "Khams sprul bsod nams don grub",
+    "date": "2006",
+    "numPages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "shortTitle": "Ral gri - gsung 'bum 2006",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -76,19 +70,20 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "BDRC MW00EGS1017426",
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
       }
     ],
     "collections": [
       "IEP4UFSV"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
-    },
-    "dateAdded": "2024-09-05T19:09:25Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "relations": {},
+    "dateAdded": "2022-12-01T07:35:39Z",
+    "dateModified": "2025-05-21T07:11:11Z"
   }
 }

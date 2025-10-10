@@ -1,0 +1,82 @@
+{
+  "key": "NDV79SN6",
+  "version": 4707,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NDV79SN6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NDV79SN6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NDV79SN6",
+    "version": 4707,
+    "itemType": "book",
+    "title": "Sa skya bka' 'bum. Scanned from the Khams reprint of the Sde dge edition of the Collected works of the first great Sa skya masters. (Reproduced from the 1736 Derge Edition).",
+    "creators": [],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Sakya Centre",
+    "date": "1992-1993",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW22271",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/CJ75QQKN",
+        "http://zotero.org/groups/4394244/items/R4U8CIMF"
+      ]
+    },
+    "dateAdded": "2025-03-10T15:09:29Z",
+    "dateModified": "2025-05-21T07:09:42Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "key": "9TD5V3NZ",
+  "version": 4919,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9TD5V3NZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9TD5V3NZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9TD5V3NZ",
+    "version": 4919,
+    "itemType": "bookSection",
+    "title": "gZhung dngos - bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od ston",
+    "creators": [],
+    "abstractNote": "",
+    "bookTitle": "Two Histories Of The Bka'-gdams-pa Tradition From The Library Of Burmiok Athing - bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od ston",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "Gangtok",
+    "publisher": "Gonpo tseten",
+    "date": "",
+    "pages": "1\u2013190",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "nyin mor byed pa'i 'od stong",
+    "url": "http://purl.bdrc.io/resource/MW23900_50A6CD",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW23900\nWork: WA23900",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T09:39:04Z",
+    "dateModified": "2025-05-21T07:44:41Z"
+  }
+}

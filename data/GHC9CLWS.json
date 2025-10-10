@@ -1,0 +1,103 @@
+{
+  "key": "GHC9CLWS",
+  "version": 5207,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GHC9CLWS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GHC9CLWS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GHC9CLWS",
+    "version": 5207,
+    "itemType": "journalArticle",
+    "title": "Tracing the Early Developments of Tibetan Epistemological Categories in rNgog Blo  ldan shes rab\u2019s (1059\u20131109) Concise Guide to the Ny\u0101yabindu\u1e6d\u012bk\u0101",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "The recent publication of the Bka' gdams gsung 'bum collection is opening the way for new research in the field of Tibetan Buddhist epistemology by giving us access to some of the earliest indigenous compositions in the domain. This paper focuses on one of the two recovered epistemological works by the great scholar and translator Rngog Blo ldan shes rab (1059-1109): his concise guide to the Ny\u0101yabindu\u1e6d\u012bk\u0101, a commentary composed by Dharmottara (8th c.) on Dharmak\u012brti's (7th c. or earlier) Ny\u0101yabindu. The first part of my paper provides a general introduction to Rngog Blo ldan shes rab's concise guide, which I am in the process of editing and translating. Leaving for the introduction to this forthcoming study the description of the manuscript and a detailed presentation of the contents of the text, I concentrate here on its place within Rngog Blo ldan shes rab's contributions as a translator and exegete and in relation with the spread of Dharmak\u012brti's works in Tibet. I discuss in particular the circumstances of its composition, its intended function and potential impact. In the second part of the paper I show how such compositions allow shedding light on the emergence of categories that became building blocks for the Tibetan indigenous epistemological system. I illustrate this process for a well-known feature that stands as the trademark of the mainstream system developed by thinkers associated with Gsang phu monastery and the Rngog tradition of epistemology: the fivefold typology of invalid cognitions.",
+    "publicationTitle": "Journal of Tibetology",
+    "volume": "9",
+    "issue": "",
+    "pages": "194-234",
+    "date": "2014",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Hugon 2014",
+    "url": "https://www.oeaw.ac.at/fileadmin/Institute/IKGA/PDF/digitales/Hugon_2014_rNgog_categories_concise_guide_NBT_JofT_9_194-234.pdf",
+    "accessDate": "2021-08-11T15:51:53Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.academia.edu",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "MMDISFTC"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/V8XDUYK4"
+    },
+    "dateAdded": "2021-08-11T15:51:53Z",
+    "dateModified": "2025-05-21T13:01:28Z"
+  }
+}

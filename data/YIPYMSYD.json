@@ -1,0 +1,89 @@
+{
+  "key": "YIPYMSYD",
+  "version": 4355,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YIPYMSYD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YIPYMSYD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nemoto",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YIPYMSYD",
+    "version": 4355,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u4e2d\u89b3\u601d\u60f3\u306b\u304a\u3051\u308b\u6642\u9593\u8ad6\u306e\u5c55\u958b---\u300c\u5239\u90a3\u300d\u306e\u6982\u5ff5\u3092\u4e2d\u5fc3\u306b [<i>Skad cig ma</i>: The Problem of Time in Tibetan Madhyamaka Exegesis]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Hiroshi (\u6839\u672c \u88d5\u53f2)",
+        "lastName": "Nemoto"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Report of the Japanese Association for Tibetan Studies / Nihon Chibetto Gakkai kaih\u014d (\u65e5\u672c\u897f\u8535\u5b66\u4f1a\u4f1a\u5831)",
+    "volume": "54",
+    "issue": "",
+    "pages": "3\u201315",
+    "date": "2008",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "http://ci.nii.ac.jp/naid/110009841248",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/WXDKFCQM"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:27:38Z"
+  }
+}

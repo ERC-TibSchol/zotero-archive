@@ -1,6 +1,6 @@
 {
-  "key": "9AHTV5J8",
-  "version": 5589,
+  "key": "FBPAWIBS",
+  "version": 5553,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/FBPAWIBS",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/FBPAWIBS",
       "type": "text/html"
     }
   },
@@ -34,41 +34,35 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "Padma dkar po",
+    "parsedDate": "1973",
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "key": "FBPAWIBS",
+    "version": 5553,
+    "itemType": "book",
+    "title": "Chos 'byung bstan pa'i padma rgyas pa'i nyin byed",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "Padma dkar po"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "Collected Works",
+    "seriesNumber": "2",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "1-138",
+    "place": "Darjeeling",
+    "publisher": "",
+    "date": "1973",
+    "numPages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "shortTitle": "Padma \u2013 Chos \u2018byung",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -79,16 +73,20 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "History"
+      },
+      {
+        "tag": "Phyapa Website"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "IEP4UFSV",
+      "ZZAJVF3H"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/N432YSUU"
     },
-    "dateAdded": "2024-09-05T19:09:25Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-05-21T07:08:35Z"
   }
 }

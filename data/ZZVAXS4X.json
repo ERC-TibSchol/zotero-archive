@@ -1,0 +1,115 @@
+{
+  "key": "ZZVAXS4X",
+  "version": 4719,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZZVAXS4X",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZZVAXS4X",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib \u2019jug khang et al.",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZZVAXS4X",
+    "version": 4719,
+    "itemType": "book",
+    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po/gnyis pa/gsum pa/bzhi pa (Collected Works of the Kadampas)",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib \u2019jug khang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dByangs can lha mo"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Padma tshul khrims"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "bKra shis"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "120",
+    "edition": "",
+    "place": "Chengdu",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2006-2015",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "978-7-5409-3431-6",
+    "shortTitle": "bKa\u02bc gdams gsung \u02bcbum",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "BQ7670.4 .B555 2006",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-06T16:04:56Z",
+    "dateModified": "2025-05-21T07:11:16Z"
+  }
+}

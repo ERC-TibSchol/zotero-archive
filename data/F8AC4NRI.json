@@ -1,0 +1,73 @@
+{
+  "key": "F8AC4NRI",
+  "version": 3866,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/F8AC4NRI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/F8AC4NRI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Martin",
+    "parsedDate": "2022-03-17",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "F8AC4NRI",
+    "version": 3866,
+    "itemType": "blogPost",
+    "title": "Consecration Rite of the Great Translator",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dan",
+        "lastName": "Martin"
+      }
+    ],
+    "abstractNote": "",
+    "blogTitle": "Tibeto-Logic",
+    "websiteType": "",
+    "date": "17.03.2022",
+    "url": "https://tibeto-logic.blogspot.com/2022/03/consecration-rite-of-great-translator.html",
+    "accessDate": "2025-04-22",
+    "language": "eng",
+    "shortTitle": "Martin 2022",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-04-23T12:58:57Z",
+    "dateModified": "2025-04-23T13:00:42Z"
+  }
+}

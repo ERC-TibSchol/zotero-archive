@@ -1,0 +1,81 @@
+{
+  "key": "ZXL7YZTM",
+  "version": 5583,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZXL7YZTM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZXL7YZTM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vose",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZXL7YZTM",
+    "version": 5583,
+    "itemType": "journalArticle",
+    "title": "Absence and Elimination: Madhyamaka Interpretation in the Formation of Scholastic Traditions in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kevin",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "Abstract\n            \n              This paper examines early Tibetan authors\u2019 treatment of \u201celimination\u201d (\n              viccheda/vyavaccheda\n              ), in order to trace competing lines of Madhyamaka exegesis. I compare Gyamarwa\u2019s (\n              rgya dmar ba byang chub grags\n              ; twelfth century) treatment of this topic in his\n              Analysis of the Essence of Madhyamaka\n              with that of his teacher Gangpa Sheu (\n              gangs pa she\u2019u\n              ) and four early Tibetan Pr\u0101sa\u1e45gika authors. I conclude that Gyamarwa knew of Candrak\u012brti\u2019s Madhyamaka from Ati\u015ba\u2019s followers, but prioritized utilizing \u015a\u0101ntideva\u2019s and J\u00f1\u0101nagarbha\u2019s views to support his Madhyamaka position. I reflect further on the nature of \u201ctradition\u201d in early Tibetan scholasticism, focusing on Sangpu Neutok (\n              gsang phu ne\u2019u thog\n              ) Monastery.",
+    "publicationTitle": "Journal of South Asian Intellectual History",
+    "volume": "3",
+    "issue": "2",
+    "pages": "148-184",
+    "date": "2020",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. South Asian Intellect. Hist",
+    "language": "",
+    "DOI": "10.1163/25425552-12340026",
+    "ISSN": "2542-5544, 2542-5552",
+    "shortTitle": "Absence and Elimination",
+    "url": "https://brill.com/view/journals/saih/3/2/article-p148_2.xml",
+    "accessDate": "2021-12-20T08:09:50Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-09T09:10:09Z",
+    "dateModified": "2025-10-09T09:10:09Z"
+  }
+}

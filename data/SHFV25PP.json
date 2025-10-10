@@ -1,0 +1,95 @@
+{
+  "key": "SHFV25PP",
+  "version": 5218,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/SHFV25PP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/SHFV25PP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nagashima",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "SHFV25PP",
+    "version": 5218,
+    "itemType": "journalArticle",
+    "title": "The Distinction between Sv\u0101tantrika and Pr\u0101sa\u1e45gika in Late Madhyamaka: Ati\u015ba and Bhavya as Pr\u0101sa\u1e45gikas",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jundo",
+        "lastName": "Nagashima"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Nagoya Studies in Indian Culture and Buddhism. Sa\u1e43bh\u0101\u1e63\u0101",
+    "volume": "24",
+    "issue": "",
+    "pages": "65\u201398",
+    "date": "2004",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://nagoya.repo.nii.ac.jp/record/17177/file_preview/2_SAMBHASA-24.pdf?allow_aggs=False",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "rGya dmar ba Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973586/items/FVDN2YIN"
+    },
+    "dateAdded": "2025-05-21T13:09:02Z",
+    "dateModified": "2025-05-21T13:11:19Z"
+  }
+}

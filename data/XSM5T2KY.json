@@ -1,0 +1,117 @@
+{
+  "key": "XSM5T2KY",
+  "version": 5207,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XSM5T2KY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XSM5T2KY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XSM5T2KY",
+    "version": 5207,
+    "itemType": "bookSection",
+    "title": "Enclaves of Learning, Religious and Intellectual Communities in Tibet: The Monastery of gSang phu Ne'u thog in the Early Centuries of the Later Diffusion of Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Eirik",
+        "lastName": "Hovden"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Walter",
+        "lastName": "Pohl"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Christina",
+        "lastName": "Lutter"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Meanings of Community Across Medieval Eurasia: Comparative Approaches",
+    "series": "Brill\u2019s Series on the Early Middle Ages",
+    "seriesNumber": "25",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden ; Boston",
+    "publisher": "Brill",
+    "date": "2016",
+    "pages": "289-308",
+    "language": "eng",
+    "ISBN": "978-90-04-31197-8",
+    "shortTitle": "Hugon 2016",
+    "url": "https://brill.com/view/title/32570",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "Y3D78K94"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-11T15:57:18Z",
+    "dateModified": "2025-05-21T13:01:21Z"
+  }
+}

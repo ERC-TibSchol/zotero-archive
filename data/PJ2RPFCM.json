@@ -1,0 +1,85 @@
+{
+  "key": "PJ2RPFCM",
+  "version": 3989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PJ2RPFCM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PJ2RPFCM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kuijp",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PJ2RPFCM",
+    "version": 3989,
+    "itemType": "journalArticle",
+    "title": "Fourteenth Century Tibetan Cultural History III: The Oeuvre of Bla ma dam pa Bsod rnam rgyal mtshan (1312-1375), Part One",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J. van der",
+        "lastName": "Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "BIS",
+    "volume": "7",
+    "issue": "",
+    "pages": "109\u2013147",
+    "date": "1993",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 1993",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 394",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-15T16:09:25Z",
+    "dateModified": "2025-05-15T16:15:23Z"
+  }
+}

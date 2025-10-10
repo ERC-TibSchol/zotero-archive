@@ -1,0 +1,99 @@
+{
+  "key": "UC3KTC86",
+  "version": 4986,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UC3KTC86",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UC3KTC86",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bSam gtan bzang po",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UC3KTC86",
+    "version": 4986,
+    "itemType": "bookSection",
+    "title": "bCom ldan ral gri\u02bci rnam thar (dbu med)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "bSam gtan bzang po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Bod kyi lo rgyus rnam thar phyogs bsgrigs(130)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "numberOfVolumes": "31",
+    "edition": "Par gzhi dang po",
+    "place": "Zi ling",
+    "publisher": "mTsho sngon mi rigs dpe skrun khang",
+    "date": "2010",
+    "pages": "565\u201392",
+    "language": "tib",
+    "ISBN": "978-7-5420-1464-1",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW1KG10687_C16B42",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "W1KG10687",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-05T13:38:35Z",
+    "dateModified": "2025-05-21T07:44:25Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "key": "WXEBJWRP",
-  "version": 5589,
+  "key": "FFU2SPAQ",
+  "version": 5207,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/WXEBJWRP",
+      "href": "https://api.zotero.org/groups/4394244/items/FFU2SPAQ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/WXEBJWRP",
+      "href": "https://www.zotero.org/groups/tibschol/items/FFU2SPAQ",
       "type": "text/html"
     }
   },
@@ -34,36 +34,35 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "Jackson",
+    "parsedDate": "1989",
     "numChildren": 0
   },
   "data": {
-    "key": "WXEBJWRP",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "dBu ma rgyan gyi 'grel pa rgya cher bshad pa",
+    "key": "FFU2SPAQ",
+    "version": 5207,
+    "itemType": "book",
+    "title": "The Early Abbots of 'Phan-po Na-lendra: The Vicissitudes of a Great Tibetan monastery in the 15th century",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "firstName": "David P.",
+        "lastName": "Jackson"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "23",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "228-343",
-    "language": "tib",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr tibetische und buddhistische Studien Universit\u00e4t Wien",
+    "date": "1989",
+    "numPages": "",
+    "language": "eng",
     "ISBN": "",
-    "shortTitle": "Phya - dbu rgyan 'grel rgya cher bshad",
+    "shortTitle": "Jackson 1989",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -77,16 +76,14 @@
         "tag": "APIS"
       },
       {
-        "tag": "Gateway"
+        "tag": "Monastery"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "4JFH24VK"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
-    },
-    "dateAdded": "2023-12-11T17:44:29Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "relations": {},
+    "dateAdded": "2024-06-24T12:50:29Z",
+    "dateModified": "2025-05-21T13:01:01Z"
   }
 }

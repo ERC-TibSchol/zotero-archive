@@ -1,6 +1,6 @@
 {
-  "key": "WXEBJWRP",
-  "version": 5589,
+  "key": "Y2ZN5C6X",
+  "version": 4989,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,16 +14,27 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/WXEBJWRP",
+      "href": "https://api.zotero.org/groups/4394244/items/Y2ZN5C6X",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/WXEBJWRP",
+      "href": "https://www.zotero.org/groups/tibschol/items/Y2ZN5C6X",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
       "id": 8397006,
       "username": "PascaleHugon",
       "name": "",
@@ -34,36 +45,34 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
-    "numChildren": 0
+    "creatorSummary": "bSwi gung nyams med rin chen",
+    "numChildren": 1
   },
   "data": {
-    "key": "WXEBJWRP",
-    "version": 5589,
-    "itemType": "bookSection",
-    "title": "dBu ma rgyan gyi 'grel pa rgya cher bshad pa",
+    "key": "Y2ZN5C6X",
+    "version": 4989,
+    "itemType": "book",
+    "title": "gnas rnying skyes bu dam pa rnams kyi rnam thar AKA Gyen tho chen mo",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "bSwi gung nyams med rin chen"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "228-343",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu rgyan 'grel rgya cher bshad",
+    "shortTitle": "bSwi gung rin chen - gnas rnying rnam thar",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,22 +80,21 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Xylograph",
     "tags": [
       {
         "tag": "APIS"
       },
       {
-        "tag": "Gateway"
+        "tag": "Biography"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "IEP4UFSV",
+      "B3TNTFC4"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
-    },
-    "dateAdded": "2023-12-11T17:44:29Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "relations": {},
+    "dateAdded": "2022-09-30T11:40:55Z",
+    "dateModified": "2025-05-21T07:44:10Z"
   }
 }

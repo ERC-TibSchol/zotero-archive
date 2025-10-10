@@ -1,6 +1,6 @@
 {
-  "key": "9AHTV5J8",
-  "version": 5589,
+  "key": "XPTH2JKA",
+  "version": 5003,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/XPTH2JKA",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/XPTH2JKA",
       "type": "text/html"
     }
   },
@@ -34,46 +34,46 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "sKyo ston smon lam tshul khrims",
+    "parsedDate": "2007",
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
-    "version": 5589,
+    "key": "XPTH2JKA",
+    "version": 5003,
     "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "title": "bDe gshegs kun gyi snying po",
     "creators": [
       {
-        "creatorType": "bookAuthor",
+        "creatorType": "editor",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "sKyo ston smon lam tshul khrims"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
-    "volume": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gnyis pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "56",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "1-138",
+    "place": "Khreng tu'u",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "date": "2007",
+    "pages": "35-36",
     "language": "tib",
-    "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
-    "url": "",
+    "ISBN": "978-7-5409-3431-6 978-7-5409-4283-0",
+    "shortTitle": "sKyo ston - bde gshegs snying",
+    "url": "http://purl.bdrc.io/resource/WA0XL7E18A489111E",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
-    "libraryCatalog": "",
+    "libraryCatalog": "K10plus ISBN",
     "callNumber": "",
     "rights": "",
     "extra": "",
@@ -86,9 +86,9 @@
       "IEP4UFSV"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+      "dc:relation": "http://zotero.org/groups/4394244/items/UJDXNMGD"
     },
-    "dateAdded": "2024-09-05T19:09:25Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2025-04-22T09:57:01Z",
+    "dateModified": "2025-04-22T10:00:09Z"
   }
 }

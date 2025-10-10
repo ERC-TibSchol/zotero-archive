@@ -1,0 +1,102 @@
+{
+  "key": "KGX4FPVN",
+  "version": 4990,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KGX4FPVN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KGX4FPVN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Grub thob o rgyan pa rin chen dpal",
+    "parsedDate": "1972",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KGX4FPVN",
+    "version": 4990,
+    "itemType": "bookSection",
+    "title": "Phag mo gru pa rdo rje rgyal po'i rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Grub thob o rgyan pa rin chen dpal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKa' brgyud yid bzhin nor bu yi 'phreng ba",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leh",
+    "publisher": "S.w. Tashigangpa",
+    "date": "1972",
+    "pages": "270-291",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "O rgyan - Phag gru rnam thar",
+    "url": "http://purl.bdrc.io/resource/MW23181_0D8DE0",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "KZTGTQXP",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-13T15:31:24Z",
+    "dateModified": "2025-05-21T07:44:05Z"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "key": "9AHTV5J8",
+  "key": "LI6S3BAF",
   "version": 5589,
   "library": {
     "type": "group",
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/LI6S3BAF",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/LI6S3BAF",
       "type": "text/html"
     }
   },
@@ -39,23 +39,18 @@
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
+    "key": "LI6S3BAF",
     "version": 5589,
     "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "title": "phywa pa chos kyi seng ges mdzad pa'i dbu ma rgyan gyi 'grel",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
-      },
       {
         "creatorType": "author",
         "firstName": "",
         "lastName": "Phya pa Chos kyi seng ge"
       }
     ],
-    "abstractNote": "",
+    "abstractNote": "Phya pa Chos kyi seng ge",
     "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
     "series": "Byang chub ljon bzang",
     "seriesNumber": "6",
@@ -65,10 +60,10 @@
     "place": "Lhasa",
     "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2012",
-    "pages": "1-138",
+    "pages": "228-343",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "shortTitle": "",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -79,16 +74,20 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Collected works"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "Phya pa"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
     },
-    "dateAdded": "2024-09-05T19:09:25Z",
+    "dateAdded": "2025-10-09T12:04:08Z",
     "dateModified": "2025-10-09T12:09:02Z"
   }
 }

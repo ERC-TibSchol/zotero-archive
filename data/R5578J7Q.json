@@ -1,6 +1,6 @@
 {
-  "key": "9AHTV5J8",
-  "version": 5589,
+  "key": "R5578J7Q",
+  "version": 5595,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/R5578J7Q",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/R5578J7Q",
       "type": "text/html"
     }
   },
@@ -39,10 +39,10 @@
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
-    "version": 5589,
+    "key": "R5578J7Q",
+    "version": 5595,
     "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "title": "phywa pas mdzad pa'i dbu ma snang ba'i 'grel pa",
     "creators": [
       {
         "creatorType": "bookAuthor",
@@ -65,10 +65,10 @@
     "place": "Lhasa",
     "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2012",
-    "pages": "1-138",
+    "pages": "344-584",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "shortTitle": "Phya pa - dbu ma snang 'grel 2012 ed",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -79,16 +79,20 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Collected works"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "Phya pa"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
     },
-    "dateAdded": "2024-09-05T19:09:25Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2025-10-09T12:09:02Z",
+    "dateModified": "2025-10-09T12:33:39Z"
   }
 }

@@ -1,0 +1,89 @@
+{
+  "key": "6DL55UYS",
+  "version": 4349,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6DL55UYS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6DL55UYS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6DL55UYS",
+    "version": 4349,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u306b\u304a\u3051\u308b\u4ed6\u8005\u6392\u9664\uff08<i>any\u0101poha</i>\uff09\u8ad6\u306e\u5f62\u6210\u3068\u5c55\u958b : 11-12 \u4e16\u7d00\u30b5\u30f3\u30d7\u7cfb\u8ad6\u7406\u5b66\u306e\u4f1d\u627f\u3092\u4e2d\u5fc3\u3068\u3057\u3066 \u2014 [The Formation and Development of <i>Any\u0101poha</i> Theory in Tibet: With Reference to the gSang phu Scholastic Tradition of Pram\u0101\u1e47a in the 11th to 12th Centuries]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Indian Logic / \u30a4\u30f3\u30c9\u8ad6\u7406\u5b66\u7814\u7a76 (Indo-Ronrigaku-Kenky\u016b)",
+    "volume": "7",
+    "issue": "",
+    "pages": "227\u2013282",
+    "date": "2014",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "1884-7382",
+    "shortTitle": "",
+    "url": "https://tripitaka.l.u-tokyo.ac.jp/INBUDS/search.php?m=trdd&usid=212141&a=",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/WPAJ93P9"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:27:11Z"
+  }
+}

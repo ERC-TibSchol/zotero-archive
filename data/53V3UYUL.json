@@ -1,0 +1,93 @@
+{
+  "key": "53V3UYUL",
+  "version": 5204,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/53V3UYUL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/53V3UYUL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "53V3UYUL",
+    "version": 5204,
+    "itemType": "journalArticle",
+    "title": "An Early Tibetan Commentary on Ati\u015ba\u2019s Satyadvay\u0101vat\u0101ra: Diplomatic Edition with Introduction and Notes",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "41",
+    "issue": "5",
+    "pages": "501-533",
+    "date": "10/2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Indian Philos",
+    "language": "eng",
+    "DOI": "10.1007/s10781-013-9187-2",
+    "ISSN": "0022-1791, 1573-0395",
+    "shortTitle": "Apple 2013",
+    "url": "http://link.springer.com/10.1007/s10781-013-9187-2",
+    "accessDate": "2021-12-20T08:00:17Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-20T08:00:24Z",
+    "dateModified": "2025-05-21T12:59:44Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "key": "BBWN6N6X",
+  "version": 2304,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BBWN6N6X",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BBWN6N6X",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/I4EHMSFD",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BBWN6N6X",
+    "version": 2304,
+    "parentItem": "I4EHMSFD",
+    "itemType": "note",
+    "note": "Includes bibliographical references and index",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-03-20T12:25:49Z",
+    "dateModified": "2024-03-20T12:25:49Z"
+  }
+}

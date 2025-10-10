@@ -1,6 +1,6 @@
 {
-  "key": "9AHTV5J8",
-  "version": 5589,
+  "key": "EFRFGQZI",
+  "version": 4959,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9AHTV5J8",
+      "href": "https://api.zotero.org/groups/4394244/items/EFRFGQZI",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9AHTV5J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/EFRFGQZI",
       "type": "text/html"
     }
   },
@@ -34,45 +34,45 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
-    "parsedDate": "2012",
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "2018",
     "numChildren": 0
   },
   "data": {
-    "key": "9AHTV5J8",
-    "version": 5589,
+    "key": "EFRFGQZI",
+    "version": 4959,
     "itemType": "bookSection",
-    "title": "dbu ma shar gsum gyi stong thun phywa pas mdzad pa",
+    "title": "shes rab snying po'i rgya cher 'grel gyi bshad pa",
     "creators": [
       {
-        "creatorType": "bookAuthor",
+        "creatorType": "editor",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "sMon bzang dpe rnying 'tshol bsdu khang"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "rNgog Blo ldan shes rab"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
-    "series": "Byang chub ljon bzang",
-    "seriesNumber": "6",
-    "volume": "",
-    "numberOfVolumes": "",
+    "bookTitle": "sTong ra mkhan brgyud kyi gsung 'bum",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "3",
     "edition": "",
     "place": "Lhasa",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "date": "2012",
-    "pages": "1-138",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrung khang",
+    "date": "2018",
+    "pages": "425-436",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma snying po 2012 ed",
+    "shortTitle": "rNgog lo - shes rab snying po don bsdus 2018 ed",
     "url": "",
     "accessDate": "",
     "archive": "",
-    "archiveLocation": "",
+    "archiveLocation": "BDRC No: MW3CN21546",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -80,15 +80,18 @@
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
       }
     ],
     "collections": [
       "IEP4UFSV"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/637UPY9L"
+      "dc:relation": "http://zotero.org/groups/4394244/items/8WSB3UGM"
     },
-    "dateAdded": "2024-09-05T19:09:25Z",
-    "dateModified": "2025-10-09T12:09:02Z"
+    "dateAdded": "2024-01-15T14:32:42Z",
+    "dateModified": "2025-04-24T09:03:10Z"
   }
 }
