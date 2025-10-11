@@ -1,0 +1,91 @@
+{
+  "key": "EWAS9REC",
+  "version": 5222,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/EWAS9REC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/EWAS9REC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Mathes and Kemp",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "EWAS9REC",
+    "version": 5222,
+    "itemType": "book",
+    "title": "Buddha nature across Asia",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Klaus-Dieter",
+        "lastName": "Mathes"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Casey",
+        "lastName": "Kemp"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "103",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr tibetische und buddhistische Studien Universit\u00e4t Wien",
+    "date": "2022",
+    "numPages": "495",
+    "language": "eng",
+    "ISBN": "978-3-902501-41-7",
+    "shortTitle": "WSTB 103",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/NCQ5GCTN"
+    },
+    "dateAdded": "2025-05-19T18:38:40Z",
+    "dateModified": "2025-05-21T13:14:46Z"
+  }
+}

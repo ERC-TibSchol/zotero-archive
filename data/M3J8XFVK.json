@@ -1,0 +1,68 @@
+{
+  "key": "M3J8XFVK",
+  "version": 5609,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/M3J8XFVK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/M3J8XFVK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Choi",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "M3J8XFVK",
+    "version": 5609,
+    "itemType": "webpage",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u4ecf\u6559\u30ab\u30c0\u30e0\u6d3e\u306e\u601d\u60f3\u7814\u7a76\u306b\u5411\u3051\u305f\u57fa\u790e\u8cc7\u6599\u306e\u69cb\u7bc9 (Construction of Basic Materials for the Study of the Thoughts of the Kadam School of Tibetan Buddhism)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kyeongjin",
+        "lastName": "Choi"
+      }
+    ],
+    "abstractNote": "",
+    "websiteTitle": "",
+    "websiteType": "",
+    "date": "",
+    "shortTitle": "Choi 2019-2023",
+    "url": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K22998/",
+    "accessDate": "2025-10-10",
+    "language": "eng jap",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-10T10:43:50Z",
+    "dateModified": "2025-10-10T10:45:12Z"
+  }
+}

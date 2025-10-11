@@ -1,0 +1,89 @@
+{
+  "key": "MM95FT55",
+  "version": 4721,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MM95FT55",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MM95FT55",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rDo rje rgyal po",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MM95FT55",
+    "version": 4721,
+    "itemType": "book",
+    "title": "gSung 'bum rDo rje rgyal po (sde dge par ma)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "4",
+    "edition": "",
+    "place": "sde dge par khang",
+    "publisher": "",
+    "date": "2010?",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag mo gru - gSung 'bum (sde dge)",
+    "url": "http://purl.bdrc.io/resource/MW1KG10493",
+    "accessDate": "2025-03-27",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "impression from blocks resently curved and preserved at sde dge par khang",
+    "tags": [
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/9QTJ6ZZ7",
+        "http://zotero.org/groups/4394244/items/EA4G9RD3"
+      ]
+    },
+    "dateAdded": "2025-03-27T12:41:52Z",
+    "dateModified": "2025-05-21T07:11:25Z"
+  }
+}

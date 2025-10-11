@@ -1,0 +1,89 @@
+{
+  "key": "KH3DJUQU",
+  "version": 2514,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KH3DJUQU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KH3DJUQU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Amaracandra",
+    "parsedDate": "1976",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KH3DJUQU",
+    "version": 2514,
+    "itemType": "book",
+    "title": "Abhidharmasamuccayabh\u0101\u1e63ya",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Amaracandra"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "N.",
+        "lastName": "Tatia"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Tibetan Sanskrit Works Series",
+    "seriesNumber": "17",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Patna",
+    "publisher": "Kashi Prasad Jayaswal Research Institute",
+    "date": "1976",
+    "numPages": "",
+    "language": "",
+    "ISBN": "",
+    "shortTitle": "AbhSBh-Amaracandra",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-04-05T08:56:17Z",
+    "dateModified": "2024-07-26T15:51:00Z"
+  }
+}

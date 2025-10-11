@@ -1,0 +1,89 @@
+{
+  "key": "GPTYD9LD",
+  "version": 4361,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GPTYD9LD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GPTYD9LD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Moriyama",
+    "parsedDate": "2001",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GPTYD9LD",
+    "version": 4361,
+    "itemType": "journalArticle",
+    "title": "Chibetto bukky\u014d: Phywa-pa Chos-kyi-seng-ge oyobi dGe-lugs-pa no nitaisetsu no kaishaku [\u30c1\u30d9\u30c3\u30c8\u4ecf\u6559: \u30c1\u30e3\u30d1\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u53ca\u3073\u30b2\u30eb\u30af \u6d3e\u306e\u4e8c\u8ae6\u8aac\u306e\u89e3\u91c8] {*The Interpretation of the Two Truths Doctrine of Phywa-pa Chos-kyi-seng-ge and dGe-lugs-pa}",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Seitetsu (\u68ee\u5c71 \u6e05\u5fb9)",
+        "lastName": "Moriyama"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Kotengaku no saik\u014dchiku: Daiikki kenky\u016bseika h\u014dkoku [\u53e4\u5178\u5b66\u306e\u518d\u69cb\u7bc9: \u7b2c\u4e00\u671f\u7814\u7a76\u6210\u679c\u5831\u544a]",
+    "volume": "",
+    "issue": "",
+    "pages": "78\u201385",
+    "date": "2001",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/9J7XB8ZG"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:28:03Z"
+  }
+}

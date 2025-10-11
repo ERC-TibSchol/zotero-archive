@@ -1,0 +1,96 @@
+{
+  "key": "ZK9D2SKJ",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZK9D2SKJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZK9D2SKJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ye shes rgyal mtshan",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZK9D2SKJ",
+    "version": 4989,
+    "itemType": "bookSection",
+    "title": "Se spyil bu ba\u2019i rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Ye shes rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Lam rim bla ma brgyud pa\u2019i rnam thar",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "1990",
+    "pages": "272\u2013275",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Ye shes rgyal mtshan - Se spyil bu ba'i rnam thar",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: W1CZ2730",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/S2X2RRKQ"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-05-21T07:45:03Z"
+  }
+}
