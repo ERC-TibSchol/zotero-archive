@@ -1,6 +1,6 @@
 {
   "key": "ZXL7YZTM",
-  "version": 5583,
+  "version": 5612,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "ZXL7YZTM",
-    "version": 5583,
+    "version": 5612,
     "itemType": "journalArticle",
     "title": "Absence and Elimination: Madhyamaka Interpretation in the Formation of Scholastic Traditions in Tibet",
     "creators": [
@@ -60,10 +60,10 @@
     "seriesTitle": "",
     "seriesText": "",
     "journalAbbreviation": "J. South Asian Intellect. Hist",
-    "language": "",
+    "language": "eng",
     "DOI": "10.1163/25425552-12340026",
     "ISSN": "2542-5544, 2542-5552",
-    "shortTitle": "Absence and Elimination",
+    "shortTitle": "Vose 2020",
     "url": "https://brill.com/view/journals/saih/3/2/article-p148_2.xml",
     "accessDate": "2021-12-20T08:09:50Z",
     "archive": "",
@@ -76,6 +76,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2025-10-09T09:10:09Z",
-    "dateModified": "2025-10-09T09:10:09Z"
+    "dateModified": "2025-10-13T12:28:51Z"
   }
 }
