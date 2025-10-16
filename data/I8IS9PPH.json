@@ -1,0 +1,98 @@
+{
+  "key": "I8IS9PPH",
+  "version": 4987,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/I8IS9PPH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/I8IS9PPH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gro lung pa blo gros 'byung gnas",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "I8IS9PPH",
+    "version": 4987,
+    "itemType": "bookSection",
+    "title": "blo ldan shes rab kyi rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Gro lung pa blo gros 'byung gnas"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Bod kyi lo rgyus rnam thar phyogs bsgrigs",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "numberOfVolumes": "",
+    "edition": "Par gzhi dang po",
+    "place": "Zi ling",
+    "publisher": "Mtsho sngon mi rigs dpe skrun khang",
+    "date": "2010",
+    "pages": "465-513",
+    "language": "tib",
+    "ISBN": "978-7-5420-1464-1",
+    "shortTitle": "Gro - rngog rnam thar",
+    "url": "https://library.bdrc.io/show/bdr:WA1KG10687",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "",
+    "rights": "",
+    "extra": "W1KG10687-I1KG10694",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/2DU6YYG8",
+        "http://zotero.org/groups/4394244/items/PZBX5PJU"
+      ]
+    },
+    "dateAdded": "2024-09-17T10:29:14Z",
+    "dateModified": "2025-05-21T07:46:11Z"
+  }
+}

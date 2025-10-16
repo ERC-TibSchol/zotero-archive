@@ -1,0 +1,91 @@
+{
+  "key": "9NWQZXHI",
+  "version": 5223,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9NWQZXHI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9NWQZXHI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Wangchuk",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9NWQZXHI",
+    "version": 5223,
+    "itemType": "book",
+    "title": "The <i>Uttaratantra</i> in the Land of Snows: Tibetan Thinkers Debate the Centrality of the Buddha-Nature Treatise",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tsering",
+        "lastName": "Wangchuk"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Albany",
+    "publisher": "State University of New York Press",
+    "date": "2017",
+    "numPages": "xii, 208",
+    "language": "eng",
+    "ISBN": "978-1-4384-6465-7",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/2016031424",
+    "callNumber": "BQ3027.W36",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/NSYTFRBR"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T13:14:52Z"
+  }
+}

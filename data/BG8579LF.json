@@ -1,0 +1,96 @@
+{
+  "key": "BG8579LF",
+  "version": 5613,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BG8579LF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BG8579LF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2023",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BG8579LF",
+    "version": 5613,
+    "itemType": "bookSection",
+    "title": "Who is the proponent of Candrak\u012brti portrayed by Phya pa Chos kyi seng ge in the <i>sNying po</i>?",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Jowita",
+        "lastName": "Kramer"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Chizuko",
+        "lastName": "Yoshimizu"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Burlesque of the Philosophers. Indian and Buddhist Studies in Memory of Helmut Krasser",
+    "series": "Hamburg Buddhist Studies Series",
+    "seriesNumber": "19",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bochum/Freiburg",
+    "publisher": "projekt verlag",
+    "date": "2023",
+    "pages": "153-200",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-15T07:00:48Z",
+    "dateModified": "2025-10-15T07:00:48Z"
+  }
+}
