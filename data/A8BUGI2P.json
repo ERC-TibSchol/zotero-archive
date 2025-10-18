@@ -1,0 +1,92 @@
+{
+  "key": "A8BUGI2P",
+  "version": 2567,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A8BUGI2P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A8BUGI2P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Shes rab 'bum",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A8BUGI2P",
+    "version": 2567,
+    "itemType": "bookSection",
+    "title": "dPal dus kyi \u02bckhor lo\u02bci sgrub thabs rnal \u02bcbyor bcu gnyis pa (phyi ka6)(dbu med bris ma)",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Shes rab 'bum"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Dus 'khor phyogs bsgrigs chen mo",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "10",
+    "numberOfVolumes": "40",
+    "edition": "",
+    "place": "Lha sa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun kha\u1e45",
+    "date": "2012",
+    "pages": "541-559",
+    "language": "tib",
+    "ISBN": "978-7-80589-231-3",
+    "shortTitle": "Shes rab 'bum - dus 'khor bcu gnyis pa",
+    "url": "http://purl.bdrc.io/resource/MW3PD287_1C57FC",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC MW3PD287_1C57FC",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2024-03-12T11:01:29Z",
+    "dateModified": "2024-09-10T11:05:54Z"
+  }
+}

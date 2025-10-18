@@ -1,0 +1,54 @@
+{
+  "key": "RVHKQFA5",
+  "version": 5630,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RVHKQFA5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RVHKQFA5",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/TUCR92B2",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RVHKQFA5",
+    "version": 5630,
+    "parentItem": "TUCR92B2",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>dge 'dun sgang (6934) &gt;&gt;&gt; dGe 'dun sgang is a wandering community (tshogs pa) with changing sites of dwelling, including sNye mo and later Yar rgyab (see Heimbel's article on the Jo gdan tshogs pa; SRC: L55)</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-10-17T12:12:48Z",
+    "dateModified": "2025-10-17T12:16:42Z"
+  }
+}

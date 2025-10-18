@@ -1,0 +1,93 @@
+{
+  "key": "TK3LI7IQ",
+  "version": 5016,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TK3LI7IQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TK3LI7IQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TK3LI7IQ",
+    "version": 5016,
+    "itemType": "bookSection",
+    "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi rgyan gyi me tog",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "bCom ldan ral gri"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "107-136",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Ral gri - rgyud bla ma rgyan me tog",
+    "url": "https://purl.bdrc.io/resource/MW1CZ1041_8D3BAC",
+    "accessDate": "2023-11-10",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW1CZ1041_8D3BAC",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
+    },
+    "dateAdded": "2025-05-20T09:01:53Z",
+    "dateModified": "2025-05-20T09:03:57Z"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "key": "4AT42FFX",
+  "version": 4926,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4AT42FFX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4AT42FFX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2021-08",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4AT42FFX",
+    "version": 4926,
+    "itemType": "journalArticle",
+    "title": "Xixia yi <i>Zhengli chu yi zhi an</i> chu tan \u897f\u590f\u8bd1\u300a\u6b63\u7406\u9664\u610f\u4e4b\u6697\u300b\u521d\u63a2 [A Preliminary Analysis of the Tangut Translation of <i>Tshad ma yid kyi mun sel</i>].",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Zhongguo zangxue / China Tibetology",
+    "volume": "3",
+    "issue": "",
+    "pages": "138\u2013145",
+    "date": "August 2021",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "chi",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://www.academia.edu/55668578/A_Preliminary_Analysis_of_the_Tangut_Translation_of_Tshad_ma_yid_kyi_mun_sel_%E8%A5%BF%E5%A4%8F%E6%96%87%E8%AF%91_%E6%AD%A3%E7%90%86%E9%99%A4%E6%84%8F%E4%B9%8B%E6%9A%97_%E5%88%9D%E6%8E%A2_",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "Tangut"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/BBZCB3VF"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:46:52Z"
+  }
+}

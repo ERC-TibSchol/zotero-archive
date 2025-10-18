@@ -1,0 +1,100 @@
+{
+  "key": "NCQ5GCTN",
+  "version": 5224,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NCQ5GCTN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NCQ5GCTN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NCQ5GCTN",
+    "version": 5224,
+    "itemType": "bookSection",
+    "title": "The <i>Mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba</i> of Sajjana a Reading Sanskrit Text and Annotated Translation",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Klaus-Dieter",
+        "lastName": "Mathes"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Casey",
+        "lastName": "Kemp"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Buddha nature across Asia",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "103",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr tibetische und buddhistische Studien Universit\u00e4t Wien",
+    "date": "2022",
+    "pages": "55-91",
+    "language": "eng",
+    "ISBN": "978-3-902501-41-7",
+    "shortTitle": "Kano 2022",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/EWAS9REC"
+    },
+    "dateAdded": "2025-05-19T18:39:51Z",
+    "dateModified": "2025-05-21T13:15:01Z"
+  }
+}

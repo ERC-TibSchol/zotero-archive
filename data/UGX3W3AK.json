@@ -1,0 +1,90 @@
+{
+  "key": "UGX3W3AK",
+  "version": 4930,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UGX3W3AK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UGX3W3AK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ruegg",
+    "parsedDate": "1963",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UGX3W3AK",
+    "version": 4930,
+    "itemType": "journalArticle",
+    "title": "The Jo na\u1e45 pas: A School of Buddhist Ontologists According to the Grub mtha' \u0161el gyi me lo\u1e45",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David Seyfort",
+        "lastName": "Ruegg"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the American Oriental Society",
+    "volume": "83/1",
+    "issue": "",
+    "pages": "73\u201391",
+    "date": "1963",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JAOS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Ruegg 1963",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2010-05-28 15:58:29\n_eprint: 3958",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Doxography"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/5224793/items/QGQ4EQ9R"
+    },
+    "dateAdded": "2024-09-20T12:27:19Z",
+    "dateModified": "2025-05-21T07:47:54Z"
+  }
+}

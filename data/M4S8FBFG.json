@@ -1,0 +1,105 @@
+{
+  "key": "M4S8FBFG",
+  "version": 4390,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/M4S8FBFG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/M4S8FBFG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "M4S8FBFG",
+    "version": 4390,
+    "itemType": "bookSection",
+    "title": "The Status of Pram\u0101\u1e47a Doctrine According to Sa skya Pa\u1e47\u1e0dita and Other Tibetan Masters: Theoretical Discipline or Doctrine of Liberation?",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ulrich",
+        "lastName": "Pagel"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Tadeusz",
+        "lastName": "Skorupski"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ulrich",
+        "lastName": "Pagel"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Tadeusz",
+        "lastName": "Skorupski"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Buddhist Forum. Volume III, 1991-1993. Papers in honour and appreciation of Professor David Seyford Ruegg's contribution to Indological, Buddhist and Tibetan Studies",
+    "series": "The Buddhist Forum. Volume III, 1991-1993. Papers in honour and appreciation of Professor David Seyford Ruegg's contribution to Indological, Buddhist and Tibetan Studies",
+    "seriesNumber": "3",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "School of Oriental and African Studies (University of London)",
+    "date": "1994",
+    "pages": "85\u2013129",
+    "language": "en-US",
+    "ISBN": "",
+    "shortTitle": "Jackson 1994",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-13T13:22:05Z",
+    "dateModified": "2025-05-21T05:30:41Z"
+  }
+}

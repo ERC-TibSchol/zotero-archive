@@ -1,0 +1,87 @@
+{
+  "key": "XTMDEIIF",
+  "version": 4931,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XTMDEIIF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XTMDEIIF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Mimaki",
+    "parsedDate": "1982",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XTMDEIIF",
+    "version": 4931,
+    "itemType": "book",
+    "title": "Blo gsal grub mtha': Chapitres IX (Vaibh\u0101\u1e63ika) et XI (Yog\u0101c\u0101ra) \u00e9dit\u00e9s et chapitre XII (M\u0101dhyamika) \u00e9dit\u00e9 et traduit",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Katsumi",
+        "lastName": "Mimaki"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Kyoto",
+    "publisher": "Zinbun Kagaku Kenkyusho, Universit\u00e9 de Kyoto",
+    "date": "1982",
+    "numPages": "",
+    "language": "fr tib",
+    "ISBN": "",
+    "shortTitle": "Mimaki 1982",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2012-06-01 10:54:07\n_eprint: 960",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Doxography"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-01-30T15:24:18Z",
+    "dateModified": "2025-05-21T07:47:59Z"
+  }
+}

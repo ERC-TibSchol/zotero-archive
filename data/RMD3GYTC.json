@@ -1,0 +1,108 @@
+{
+  "key": "RMD3GYTC",
+  "version": 5226,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RMD3GYTC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RMD3GYTC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RMD3GYTC",
+    "version": 5226,
+    "itemType": "journalArticle",
+    "title": "r\u1e44og Blo ldan \u015bes rab\u2019s Position on the Buddha-Nature Doctrine and its In\ufb02uence on the Early gSa\u1e45 phu Tradition",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Kevin A.",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies. Special issue: Tibetan Scholasticism in the 11th and 12th Centuries: Contributions to a panel at the XVth Congress of the International Association of Buddhist Studies, Atlanta, 23\u201328 June 2008",
+    "volume": "32.1-2",
+    "issue": "",
+    "pages": "249\u2012283",
+    "date": "2009(2010)",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "2507-0347",
+    "shortTitle": "Kano 2009",
+    "url": "file:///C:/Users/dh/Downloads/Peeters.pdf",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/C86GK2Z6"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T13:15:12Z"
+  }
+}

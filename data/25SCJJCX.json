@@ -1,0 +1,98 @@
+{
+  "key": "25SCJJCX",
+  "version": 4364,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/25SCJJCX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/25SCJJCX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger and Dharmak\u012brti",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "25SCJJCX",
+    "version": 4364,
+    "itemType": "book",
+    "title": "Penser l'autorit\u00e9 des \u00e9critures: la polemique de Dharmak\u012brti contre la notion brahmanique orthodoxe d'un Veda sans auteur: autour de Pram\u0101\u1e47av\u0101rttika I.213-268 et Svavr\u0325tti",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Dharmak\u012brti"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Sitzungsberichte / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse ; Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens",
+    "seriesNumber": "760. Bd. Nr. 56",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "VOEAW",
+    "date": "2007",
+    "numPages": "651",
+    "language": "fr tib skt",
+    "ISBN": "978-3-7001-3782-5",
+    "shortTitle": "Penser l'autorit\u00e9 des \u00e9critures",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3237 .E58 2007",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic",
+        "type": 1
+      },
+      {
+        "tag": "Dharmak\u012brti",
+        "type": 1
+      },
+      {
+        "tag": "Pram\u0101\u1e47av\u0101rttika",
+        "type": 1
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-12-20T08:28:50Z",
+    "dateModified": "2025-05-20T19:28:40Z"
+  }
+}

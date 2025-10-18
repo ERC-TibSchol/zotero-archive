@@ -1,0 +1,92 @@
+{
+  "key": "IZK5B2DW",
+  "version": 4070,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/IZK5B2DW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/IZK5B2DW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1989",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "IZK5B2DW",
+    "version": 4070,
+    "itemType": "book",
+    "title": "The \"Miscellaneous Series\" of Tibetan Texts in the Bihar Research Society, Patna: A Handlist",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David Paul",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "",
+        "lastName": "Bihar Research Society"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Tibetan and Indo-Tibetan Studies",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Stuttgart",
+    "publisher": "Franz Steiner Verlag Wiesbaden",
+    "date": "1989",
+    "numPages": "ix, 271",
+    "language": "eng, tib",
+    "ISBN": "3-515-05215-1",
+    "shortTitle": "Jackson 1989",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/89213742",
+    "callNumber": "Z3107.T48 J33",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-02-20T20:33:52Z",
+    "dateModified": "2025-05-20T18:50:28Z"
+  }
+}

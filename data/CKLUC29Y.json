@@ -1,0 +1,106 @@
+{
+  "key": "CKLUC29Y",
+  "version": 5614,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CKLUC29Y",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CKLUC29Y",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CKLUC29Y",
+    "version": 5614,
+    "itemType": "book",
+    "title": "Monastic Debate in Tibet: A Study on the History and Structures of bsdus grwa Logic",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde ; Heft 27",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "date": "1992",
+    "numPages": "254",
+    "language": "eng, tib",
+    "ISBN": "",
+    "shortTitle": "Onoda 1992",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "24629 d.21/27, IND) Tib. d.257",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist education"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Debate"
+      }
+    ],
+    "collections": [
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:12:13Z",
+    "dateModified": "2025-10-17T11:38:29Z"
+  }
+}

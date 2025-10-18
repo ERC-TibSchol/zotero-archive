@@ -1,0 +1,86 @@
+{
+  "key": "3NZYGD6U",
+  "version": 4724,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3NZYGD6U",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3NZYGD6U",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3NZYGD6U",
+    "version": 4724,
+    "itemType": "book",
+    "title": "gSung \u02bcbum bcom ldan rig pa\u02bci ral gri",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Sa skya rgyal yongs gsung rab slob gnyer khang",
+    "date": "2007",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC MW1KG4324",
+    "tags": [
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-12-01T07:37:19Z",
+    "dateModified": "2025-05-21T07:11:42Z"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "key": "A36R3BEK",
+  "version": 4723,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A36R3BEK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A36R3BEK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A36R3BEK",
+    "version": 4723,
+    "itemType": "book",
+    "title": "rNgog slob brgyud dang bcas pa\u02bci gsung \u02bcbum",
+    "creators": [],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Krung go\u02bci bod rig pa dpe skrun khang",
+    "date": "2011",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/JJLTP8SW",
+        "http://zotero.org/groups/4394244/items/FC5YRREC"
+      ]
+    },
+    "dateAdded": "2025-03-13T09:53:23Z",
+    "dateModified": "2025-05-21T07:11:37Z"
+  }
+}

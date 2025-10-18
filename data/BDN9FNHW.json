@@ -1,0 +1,83 @@
+{
+  "key": "BDN9FNHW",
+  "version": 4371,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BDN9FNHW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BDN9FNHW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Griffiths",
+    "parsedDate": "2022-11-01",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BDN9FNHW",
+    "version": 4371,
+    "itemType": "blogPost",
+    "title": "Transkribus in Practice: Abbreviations",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      }
+    ],
+    "abstractNote": "In my last article, I wrote about my experiments to improve the accuracy of a Handwritten Text Recognition (HTR) model using Transkribus. This is part of my ongoing work with the ERC-funded project\u2026",
+    "blogTitle": "The Digital Orientalist",
+    "websiteType": "",
+    "date": "2022-11-01T13:00:00+00:00",
+    "url": "https://digitalorientalist.com/2022/11/01/transkribus-in-practice-abbreviations/",
+    "accessDate": "2022-11-30T14:27:45Z",
+    "language": "eng",
+    "shortTitle": "Griffiths 2022",
+    "rights": "",
+    "extra": "https://doi.org/https://doi.org/10.1553/TibSchol_ERC_Cog_101001002_Griffiths_CER",
+    "tags": [],
+    "collections": [
+      "VYE3ZZPH",
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2022-11-30T14:27:46Z",
+    "dateModified": "2025-05-20T19:32:34Z"
+  }
+}

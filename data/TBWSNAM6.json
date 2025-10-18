@@ -1,0 +1,90 @@
+{
+  "key": "TBWSNAM6",
+  "version": 5227,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TBWSNAM6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TBWSNAM6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TBWSNAM6",
+    "version": 5227,
+    "itemType": "thesis",
+    "title": "rNgog Blo-ldan-shes-rab's Summary of the <i>Ratnagotravibh\u0101ga</i>: The First Tibetan Commentary on a Crucial Source for the Buddha-nature Doctrine",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "University of Hamburg",
+    "place": "Hamburg",
+    "date": "2006",
+    "numPages": "",
+    "language": "eng, tib, skt",
+    "shortTitle": "Kano 2006",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://buddhanature.tsadra.org/index.php/Books/RNgog_Blo-ldan-shes-rab%27s_Summary_of_the_Ratnagotravibh%C4%81ga",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/HQDQPM89"
+    },
+    "dateAdded": "2024-01-24T08:59:07Z",
+    "dateModified": "2025-05-21T13:15:18Z"
+  }
+}

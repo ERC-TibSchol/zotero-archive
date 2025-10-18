@@ -1,0 +1,99 @@
+{
+  "key": "JSMJTVNQ",
+  "version": 4725,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JSMJTVNQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JSMJTVNQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gro lung pa Blo gros 'byung gnas",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JSMJTVNQ",
+    "version": 4725,
+    "itemType": "book",
+    "title": "Gro lung pa blo gros 'byung gnas kyi gsung chos skor",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Gro lung pa Blo gros 'byung gnas"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      }
+    ],
+    "abstractNote": "",
+    "series": "bKa' gdams dpe dkon gces btus",
+    "seriesNumber": "4, 5",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Krung go'i bod rig pa dpe skrun khang",
+    "date": "2009",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Gro lung chos skor",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: W1PD104698",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Collected works"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/B8U39NZR",
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/NBX96DSE",
+        "http://zotero.org/groups/4394244/items/GW8VETJY",
+        "http://zotero.org/groups/4394244/items/YSWTB5Y2"
+      ]
+    },
+    "dateAdded": "2023-12-11T18:43:09Z",
+    "dateModified": "2025-05-21T07:11:50Z"
+  }
+}

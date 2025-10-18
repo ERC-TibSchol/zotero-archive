@@ -1,0 +1,89 @@
+{
+  "key": "GPL3GFBL",
+  "version": 5635,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GPL3GFBL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GPL3GFBL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dotson and Hazod",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GPL3GFBL",
+    "version": 5635,
+    "itemType": "book",
+    "title": "The Old Tibetan annals: an annotated translation of Tibet's first history",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Brandon",
+        "lastName": "Dotson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      }
+    ],
+    "abstractNote": "This work offers the first annotated translation of the Old Tibetan Annals, which is the earliest extant Tibetan history, and the single most reliable source for the history of Tibet's formative period, the Tibetan empire (c.600 to 850 CE). The translation is preceded by a long introduction to the political and cultural history of the empire, ranging from succession to political organization and dynastic marriage. The translation is also accompanied by transliteration of the Tibetan text, and the book includes high-quality photographic reproductions of the original Dunhuang documents in their entirety. This work is greatly enhanced by the inclusion of Guntram Hazod's annotated cartographical survey, which contains several maps and images, and constitutes the most extensive study to date of the historical geography of this period",
+    "series": "Vero\u0308ffentlichungen zur Sozialanthropologie",
+    "seriesNumber": "12",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag der osterreichischen Akademie der Wissenschaften",
+    "date": "2009",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "9783700161028",
+    "shortTitle": "Dotson 2009",
+    "url": "https://doi.org/10.1553/0x001a81e8",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-10-17T12:36:27Z",
+    "dateModified": "2025-10-17T12:37:10Z"
+  }
+}

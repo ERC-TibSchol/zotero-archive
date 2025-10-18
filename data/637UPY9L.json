@@ -1,0 +1,102 @@
+{
+  "key": "637UPY9L",
+  "version": 5589,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/637UPY9L",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/637UPY9L",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phya pa Chos kyi seng ge",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "637UPY9L",
+    "version": 5589,
+    "itemType": "book",
+    "title": "Phywa pa chos kyi seng ge'i gsung gces btus dbu tshad kyi yig cha",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phya pa Chos kyi seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Byang chub ljon bzang",
+    "seriesNumber": "6",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2012",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phya pa gsung gces btus",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Collected works"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "Phya pa"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/7SVQZN7P",
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/XGQ7ZQ5X",
+        "http://zotero.org/groups/4394244/items/WXEBJWRP",
+        "http://zotero.org/groups/4394244/items/UC9KXAVQ",
+        "http://zotero.org/groups/4394244/items/9AHTV5J8",
+        "http://zotero.org/groups/4394244/items/LI6S3BAF",
+        "http://zotero.org/groups/4394244/items/R5578J7Q"
+      ]
+    },
+    "dateAdded": "2023-12-11T15:52:13Z",
+    "dateModified": "2025-05-21T07:11:59Z"
+  }
+}

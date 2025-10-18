@@ -1,0 +1,102 @@
+{
+  "key": "MSL2X554",
+  "version": 4393,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MSL2X554",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MSL2X554",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Martin",
+    "parsedDate": "2005",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MSL2X554",
+    "version": 4393,
+    "itemType": "bookSection",
+    "title": "The Woman Illusion? Research Into the Lives of Spiritually Accomplished Women  Leaders of the 11th and 12th Centuries",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dan",
+        "lastName": "Martin"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Janet",
+        "lastName": "Gyatso"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Hanna",
+        "lastName": "Havnevik"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Women in Tibet: Past and Present",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "Hurst & Co",
+    "date": "2005",
+    "pages": "49-82",
+    "language": "eng",
+    "ISBN": "978-1-85065-654-8",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:50:42Z",
+    "dateModified": "2025-05-21T05:31:38Z"
+  }
+}

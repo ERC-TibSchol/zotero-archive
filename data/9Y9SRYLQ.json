@@ -1,0 +1,54 @@
+{
+  "key": "9Y9SRYLQ",
+  "version": 2590,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9Y9SRYLQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9Y9SRYLQ",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/T4A9JH68",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9Y9SRYLQ",
+    "version": 2590,
+    "parentItem": "T4A9JH68",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"8\"><p>Dkar chag -- Mchod par brjod cing rtsom par dam bca\u02bc ba -- Ston pa sha\u0304kya thub pa\u02bci rnam thar phyogs tsam brjod pa -- Rje btsun byams pa mgon po\u02bci rnam thar -- \u02bcphags pa thogs med kyi rnam thar -- Slob dpon dbyig gnyen gyi rnam thar -- \u02bcphags pa rnam grol sde\u02bci rnam thar -- Btsun pa rnam grol sde\u02bci rnam thar -- Mkhas mchog mchog gi sde\u02bci rnam thar -- Mkhas mchog dul ba\u02bci sde\u02bci rnam thar -- Rnam snang mdzad bzang po\u02bci rnam thar -- Seng ge bzang po\u02bci rnam thar -- Ku sa li\u02bci rnam thar -- Dge ba can gyi rnam thar -- Gser gling pa\u02bci rnam thar -- \u02bcjam dpal dbyangs kyi rnam thar -- Klu sgrub kyi rnam thar -- Zla ba grags pa\u02bci rnam thar -- Rig pa\u02bci khu byug che ba\u02bci rnam thar -- Rigs pa\u02bci khu byug chung ba\u02bci rnam thar -- Dpal ldan a ti shas lam rim brgyud rim las rlabs chen spyod rgyud kyi bla rgyud bshad pa -- Rgyal sras zhi ba lha\u02bci rnam thar -- Slob dpon e la dha ri\u02bci rnam thar -- Slob dpon dpa\u02bc bo rdo rje\u02bci rnam thar -- Rin chen dpal gyi rnam thar -- Mar me mdzad kyi rnam thar -- \u02bcbrom ston pa rgyal ba\u02bci \u02bcbyung gnas kyi rnam thar -- Dpal ldan mgon pa ba\u02bci rnam thar -- Ye shes \u02bcbar ba\u02bci rnam thar -- Thag ma ba\u02bci rnam thar -- Nam mkha\u02bc sengge\u02bci rnam thar -- Po to ba\u02bci rnam thar -- Sha ra ba\u02bci rnam thar -- \u02bcchad kha ba\u02bci rnam thar -- Se spyil bu ba\u02bci rnam thar -- Lha lung gi dbang phyug gi rnam thar -- Lha \u02bcgro ba\u02bci mgon po\u02bci rnam thar -- Dar ma bsod nams kyi rnam thar -- Mtsho sna pa\u02bci rnam thar -- Tshul khrims bkra shis kyi rnam thar -- Chos skyabs bzang po\u02bci rnam thar -- Spyan snga tshul khrims \u02bcbar gyi rnam thar -- Gzhon nu \u02bcod kyi rnam thar -- Gzhon nu grags pa\u02bci rnam thar -- Sangs rgyas dbon ston gyi rnam thar -- Nam mkha\u02bc rgyal po\u02bci rnam thar -- Sengge bzang po\u02bci rnam thar -- Rgyal sras bzang po\u02bci rnam thar -- Nam mkha\u02bc rgyal mtshan gyi rnam thar -- Rgyal ba tsong kha pa chen po\u02bci rnam thar -- Rgyal tshab dar ma rin chen gyi rnam thar -- Bkra shis dpal ldan gyi rnam thar -- Sha\u0304kya ye shes kyi rnam thar -- \u02bcjam dpal rgya mtsho\u02bci rnam thar -- Dge legs dpal bzang po\u02bci rnam thar -- Ba so chos kyi rgyal mtshan gyi rnam thar -- Grub chen chos kyi rdo rje\u02bci rnam par thar -- Dben sa pa blo bzang don grub kyi rnam thar -- Sangs rgyas ye shes kyi rnam thar -- Blo bzang chos kyi rgyal mtshan gyi rnam thar -- Blo bzang brtson \u02bcgrus rgyal mtshan gyi rnam thar -- Dkon mchog rgyal mtshan gyi rnam thar -- Blo bzang ye shes kyi rnam thar -- \u02bcjam dbyangs chos \u02bcphel gyi rnam thar -- Blo bzang \u02bcphrin las kyi rnam thar -- Blo bzang rnam rgyal gyi rnam thar -- Blo bzang dam chos rgyal mtshan gyi rnam thar -- Dge legs rgya mtsho\u02bci rnam thar -- Bzod pa rgya mtsho\u02bci rnam thar -- Rje btsun bla ma ngag dbang byams pa\u02bci rnam thar -- Blo bzang dpal ldan ye shes kyi rnam thar -- Shes rab seng ge\u02bci rnam thar -- Dge \u02bcdun grub pa\u02bci rnam thar -- Nor bzang rgya mtsho\u02bci rnam thar -- Dge \u02bcdun rgya mtsho\u02bci rnam thar -- Dge legs dpal bzang gi rnam thar -- Bsod nams dpal bzang po\u02bci rnam thar -- Bsod nams rgya mtsho\u02bci rnam thar -- Spyan snga chos dpal bzang po\u02bci rnam thar -- \u02bckhon ston dpal \u02bcbyor lhun grub kyi rnam thar -- Zur dpal \u02bcbyor \u02bcphrin las rab rgyas kyi rnam thar -- Ngag dbang blo bzang rgya mtsho\u02bci rnam thar -- Sbyin pa rgya mtsho ste ngag dbang dpal bzang gi rnam thar -- Byams pa chos ldan gyi rnam thar -- Ngag dbang chos ldan gi rnam thar -- Blo bzang bskal bzang rgya mtsho\u02bci rnam thar -- Jo bo rje\u02bci lam rim man ngag brgyud pa\u02bci chu bo gsum \u02bcdres las rlabs chen spyod rgyud kyi brgyud rim -- Bde ba dpal gyi rnam thar -- Grags pa gzhon nu\u02bci rnam thar -- Bsod nams grags pa\u02bci rnam thar -- Thogs med bzang po dpal gyi rnam thar -- Red mda\u02bc ba gzhon nu blo gros kyi rnam thar -- Thun mong ma yin pa rdo rje theg pa\u02bci lam gyi rim pa gsang bde \u02bcjigs gsum gyi chos skor brgyud rim gyi mtshan byang -- Dpal \u02bckhor lo sdom pa\u02bci chos skor brgyud rim -- Dpal rdo rje \u02bcjigs byed chen po\u02bci chos skor brgyud rim -- Jo bo yab sras kyi gsang chos thun mong ma yin pa bka\u02bc gdams theg le bcu drug gi brgyud rim -- Mjug byang -- Dpar shing smon tshig</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-09-16T06:55:17Z",
+    "dateModified": "2024-09-16T06:55:19Z"
+  }
+}

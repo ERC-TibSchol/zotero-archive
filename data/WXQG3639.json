@@ -1,0 +1,87 @@
+{
+  "key": "WXQG3639",
+  "version": 5229,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WXQG3639",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WXQG3639",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WXQG3639",
+    "version": 5229,
+    "itemType": "book",
+    "title": "<i>Theg chen rgyud bla ma'i don bsdus pa</i> \u2013 Commentary on the Ratnagotravibhaga",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Dharamsala",
+    "publisher": "Library of Tibetan Works and Archives",
+    "date": "1993",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - theg chen rgyud bla don bsdus",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/96906850",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-01-23T15:36:47Z",
+    "dateModified": "2025-05-21T13:15:48Z"
+  }
+}

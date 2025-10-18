@@ -1,0 +1,97 @@
+{
+  "key": "7RUF6F47",
+  "version": 4072,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7RUF6F47",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7RUF6F47",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Czaja",
+    "parsedDate": "2013",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "7RUF6F47",
+    "version": 4072,
+    "itemType": "book",
+    "title": "Medieval rule in Tibet : the Rlangs clan and the political and religious history of the ruling house of Phag mo gru pa : with a study of the monastic art of Gdan sa mthil. Volume 1",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Olaf",
+        "lastName": "Czaja"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2013",
+    "numPages": "546 Seiten, Illustrationen",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Czaja 2013",
+    "url": "https://ubdata.univie.ac.at/AC11242478",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "Hauptbibliothek, Signatur: II-1555045/1",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-17T17:11:22Z",
+    "dateModified": "2025-05-20T18:50:44Z"
+  }
+}
