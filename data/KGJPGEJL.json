@@ -1,0 +1,98 @@
+{
+  "key": "KGJPGEJL",
+  "version": 5231,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KGJPGEJL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KGJPGEJL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KGJPGEJL",
+    "version": 5231,
+    "itemType": "journalArticle",
+    "title": "H\u014dsh\u014dronch\u016b kenky\u016b (I): Phywa pa niyoru h\u014dsh\u014dron I.26 kaishaku [A Study of Commentaries on the <i>Ratnagotravibh\u0101ga</i> (I): Phywa pa Chos kyi seng ge\u2019s Interpretation on <i>Ratnagotravibh\u0101ga</i> I.26]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "51.2",
+    "issue": "",
+    "pages": "109\u2013111 [924\u2013922]",
+    "date": "2003",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "10.4259/ibk.51.924",
+    "ISSN": "1884-0051",
+    "shortTitle": "Kano 2003",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/42FGLQVN"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T13:16:06Z"
+  }
+}

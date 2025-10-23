@@ -1,0 +1,99 @@
+{
+  "key": "RKJB7KGK",
+  "version": 4934,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RKJB7KGK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RKJB7KGK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Thu'u bkwan Blo bzang chos kyi nyi ma",
+    "parsedDate": "1969",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RKJB7KGK",
+    "version": 4934,
+    "itemType": "book",
+    "title": "Grub mtha' thams cad kyi khungs dang 'dod tshul ston pa legs bshad shel gyi me long",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Thu'u bkwan Blo bzang chos kyi nyi ma"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Ngawang Gelek Demo"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Collected Works",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "",
+    "date": "1969",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Thu'u bkwan - Shel gyi me long",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Doxography"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/CRJN7VJJ"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-05-21T07:48:13Z"
+  }
+}

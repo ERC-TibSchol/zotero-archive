@@ -1,0 +1,90 @@
+{
+  "key": "LNWGLM8T",
+  "version": 5636,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LNWGLM8T",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LNWGLM8T",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roberts",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LNWGLM8T",
+    "version": 5636,
+    "itemType": "book",
+    "title": "The biographies of Rechungpa : the evolution of a Tibetan hagiography",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Peter Alan",
+        "lastName": "Roberts"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Routledge critical studies in Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "1. publ.",
+    "place": "London [u.a.]",
+    "publisher": "Routledge",
+    "date": "2007",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "0-203-96338-5",
+    "shortTitle": "Roberts 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-13T14:18:24Z",
+    "dateModified": "2025-10-22T07:40:57Z"
+  }
+}
