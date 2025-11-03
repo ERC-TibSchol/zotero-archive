@@ -1,0 +1,73 @@
+{
+  "key": "PI2R73WI",
+  "version": 5647,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PI2R73WI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PI2R73WI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sur",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PI2R73WI",
+    "version": 5647,
+    "itemType": "webpage",
+    "title": "Rongzom Chokyi Zangpo",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dominic",
+        "lastName": "Sur"
+      }
+    ],
+    "abstractNote": "",
+    "websiteTitle": "treasuryoflives.org",
+    "websiteType": "",
+    "date": "2021",
+    "shortTitle": "Sur 2021",
+    "url": "https://treasuryoflives.org/zh/biographies/view/Rongzom-Chokyi-Zangpo/6194",
+    "accessDate": "2025-11-02",
+    "language": "eng",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-02T18:09:10Z",
+    "dateModified": "2025-11-02T18:10:10Z"
+  }
+}

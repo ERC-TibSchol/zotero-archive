@@ -1,0 +1,104 @@
+{
+  "key": "H4UUPDCX",
+  "version": 5232,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H4UUPDCX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H4UUPDCX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H4UUPDCX",
+    "version": 5232,
+    "itemType": "bookSection",
+    "title": "rNgog blo ldan shes rab's Topical Outline of the <i>Ratnagotravibh\u0101ga</i> Discovered at Khara Khoto",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Orna",
+        "lastName": "Almogi"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Contributions to Tibetan Buddhist Literature. PIATS 2006: Tibetan Studies: Proceedings of the Eleventh Seminar of the International Association for Tibetan Studies, K\u00f6nigswinter 2006",
+    "series": "Beitr\u00e4ge zur Zentralasienforschung",
+    "seriesNumber": "14",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Halle, Saale",
+    "publisher": "International Institute for Tibetan and Buddhist Studies",
+    "date": "2008",
+    "pages": "127\u2013194",
+    "language": "eng, tib",
+    "ISBN": "978-3-88280-082-1",
+    "shortTitle": "Kano 2008",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2013-10-28 14:19:53\n_eprint: 6830",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/X2LVTHTC",
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/DGTGTQSF"
+    },
+    "dateAdded": "2023-11-08T10:29:58Z",
+    "dateModified": "2025-05-21T13:16:15Z"
+  }
+}

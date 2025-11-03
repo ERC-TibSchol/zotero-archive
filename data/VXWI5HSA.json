@@ -1,0 +1,100 @@
+{
+  "key": "VXWI5HSA",
+  "version": 4394,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VXWI5HSA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VXWI5HSA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Grabmann",
+    "parsedDate": "1909",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VXWI5HSA",
+    "version": 4394,
+    "itemType": "book",
+    "title": "Die Geschichte der scholastischen Methode: nach den gedruckten und ungedruckten Quellen",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Martin",
+        "lastName": "Grabmann"
+      }
+    ],
+    "abstractNote": "Vol. 1: Die Scholastische Methode von Ihren Ersten Anf\u00e4ngen in der V\u00e4terliteratur bis zum Beginn des 12.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Freiburg im Breisgau",
+    "publisher": "Herdersche Verlagshandlung",
+    "date": "1909",
+    "numPages": "",
+    "language": "ger",
+    "ISBN": "",
+    "shortTitle": "Die Geschichte der scholastischen Methode",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "Lawn A d.574, BT 81 GRA 2 2, Stack E/K 1/1, 0152 f 100/02 (B",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Philosophy"
+      },
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-11T14:55:11Z",
+    "dateModified": "2025-05-21T05:31:48Z"
+  }
+}

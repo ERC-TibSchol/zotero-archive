@@ -1,0 +1,54 @@
+{
+  "key": "S3TRW97M",
+  "version": 2691,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/S3TRW97M",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/S3TRW97M",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/CTSKHPIC",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "S3TRW97M",
+    "version": 2691,
+    "parentItem": "CTSKHPIC",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>Includes the dKar chag of KDSB Set 2.</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-09-20T13:33:26Z",
+    "dateModified": "2024-09-20T13:33:39Z"
+  }
+}

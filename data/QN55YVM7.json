@@ -1,0 +1,108 @@
+{
+  "key": "QN55YVM7",
+  "version": 4936,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QN55YVM7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QN55YVM7",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hovden et al.",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QN55YVM7",
+    "version": 4936,
+    "itemType": "book",
+    "title": "Meanings of Community Across Medieval Eurasia:  Comparative Approaches",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Eirik",
+        "lastName": "Hovden"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Christina",
+        "lastName": "Lutter"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Walter",
+        "lastName": "Pohl"
+      }
+    ],
+    "abstractNote": "Introduction: meanings of community in Medieval Eurasia / Walter Pohl -- Part 1. Addressing Community: Terms, Concepts and Meanings. People(s) of God? Biblical exegesis and the language of community in Late Antique and Early Medieval Europe / Gerda Heydemann -- The political usage of religious and non-religious terms for community in Medieval South Arabia: a comparative response to Gerda Heydemann's chapter / Johann Heiss and Eirik Hovden -- Jam\u0101\u02bf'a vs. Mulk : community-centred and ruler-centred visions of the Islamic community / R\u00fcdiger Lohlker -- Part 2. Urban Communities and Non-Urban Sites. The city as commune / Elisabeth Gruber -- Addressing community in Late Medieval Dalmatia / Oliver Schmitt -- Urban communities in Medieval South Arabia: a comparative reflection / Johann Heiss, Eirik Hovden and Elisabeth Gruber --, Part 3. Genealogies as Means for Constructing Communities. The political construction of a tribal genealogy from Early Medieval South Arabia / Daniel Mahony -- Genealogical representations of monastic communities in Late Medieval art / Christian Nikolaus Opitz -- Genealogy into the future: glimpses from Sangs rgyas rgya mtsho's (1653-1705) exposition of the extended Dalai Lama lineage / Birgit Kellner -- Genealogy : a comparative perspective from the Early Medieval West / Walter Pohl --- Part 4. Spiritual Communities: Texts, Sites and Interactions . Introduction: spiritual communities across Medieval Eurasia / Rutger Kramer -- Enclaves of learning, religious and intellectual communities in Tibet: the Monastery of gSang phu Ne'u thog in the early centuries of the later diffusion of Buddhism / Pascale Hugon -- Teaching emperors: transcending the boundaries of Carolingian monastic communities / Rutger Kramer --, Competing visions of welfare in the Zaydi Community of Medieval South Arabia / Eirik Hovden -- Vita communis in Central European monasstic landscapes / Christina Lutter -- The Schottenkl\u00f6ster in the world: identity, independence and integration / Diarmuid \u00d3 Riain -- Among teachers and monastic enclaves: an inquiry into the religious learning of Medieval Tibet / Mathias Fermer -- Enclaves of learning : a commentary on the papers in the section on \"spiritual communities\"/ Steven Vanderputten -- Response to the chapters in \"spiritual communities\" section / Jonathan R. Lyon -- Medieval Eurasian communities by comparison: methods, concepts, insights / Andre Gingrich., This volume explores some of the many different meanings of community across medieval Eurasia. How did the three 'universal religions, Christianity, Islam and Buddhism, frame the emergence of various types of community under their sway? The studies assembled here in thematic clusters address the terminology of community; genealogies; urban communities; and monasteries or 'enclaves of learning': in particular in early medieval Europe, medieval South Arabia and Tibet, and late medieval Central Europe and Dalmatia. It includes work by medieval historians, social anthropologists, and Asian Studies scholars. The volume present the results of in-depth comparative research from the Visions of Community project in Vienna, and of a dialogue with guests, offering new and exciting perspectives on the emerging field of comparative medieval history.",
+    "series": "Brill\u2019s Series on the Early Middle Ages",
+    "seriesNumber": "25",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden ; Boston",
+    "publisher": "Brill",
+    "date": "2016",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-90-04-31569-3",
+    "shortTitle": "Meanings of community across medieval Eurasia",
+    "url": "https://brill.com/view/title/32570",
+    "accessDate": "2021-08-11T15:58:18Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "CB353",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "Monastery"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-11T15:58:18Z",
+    "dateModified": "2025-05-21T07:48:57Z"
+  }
+}
