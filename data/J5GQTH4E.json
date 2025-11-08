@@ -1,0 +1,109 @@
+{
+  "key": "J5GQTH4E",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/J5GQTH4E",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/J5GQTH4E",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2025",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "J5GQTH4E",
+    "version": 5118,
+    "itemType": "journalArticle",
+    "title": "Two Early Biographical Accounts of Ati\u015ba Preserved in Tangut Sources",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the American Oriental Society",
+    "volume": "145",
+    "issue": "1",
+    "pages": "65\u201390",
+    "date": "2025",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "https://doi.org/10.7817/jaos.145.1.2025.ar004",
+    "ISSN": "0003-0279",
+    "shortTitle": "Ma 2025",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "Tangut"
+      }
+    ],
+    "collections": [
+      "WJPXDFDF",
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-28T10:08:17Z",
+    "dateModified": "2025-05-21T08:15:20Z"
+  }
+}

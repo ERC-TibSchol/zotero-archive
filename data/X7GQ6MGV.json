@@ -1,0 +1,82 @@
+{
+  "key": "X7GQ6MGV",
+  "version": 5235,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/X7GQ6MGV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/X7GQ6MGV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2001",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "X7GQ6MGV",
+    "version": 5235,
+    "itemType": "thesis",
+    "title": "Chibetto ni okeru H\u014dsh\u014dron no juy\u014d to tenkai \u30c1\u30d9\u30c3\u30c8\u306b\u304a\u3051\u308b\u300e\u5b9d\u6027\u8ad6\u300f\u306e \u53d7\u7528\u3068\u5c55\u958b (The Acceptance and Development of the Ratnagotravibh\u0101ga in Tibet)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "M.A. Thesis",
+    "university": "Kyoto University",
+    "place": "Kyoto",
+    "date": "2001",
+    "numPages": "",
+    "language": "jap",
+    "shortTitle": "Kano 2001",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-04-22T07:18:44Z",
+    "dateModified": "2025-05-21T13:16:34Z"
+  }
+}

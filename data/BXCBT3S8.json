@@ -1,0 +1,97 @@
+{
+  "key": "BXCBT3S8",
+  "version": 5237,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BXCBT3S8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BXCBT3S8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Blo gros mtshungs med",
+    "parsedDate": "1974",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BXCBT3S8",
+    "version": 5237,
+    "itemType": "book",
+    "title": "Theg pa chen po Rgyud bla ma\u02bci bstan bcos kyi \u1e45es don gsal bar byed pa\u02bci Rin po che\u02bci sgron me : a detailed commentary on the Uttaratantras\u0101stra (Ratnagotravibh\u0101ga)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Blo gros mtshungs med"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tezu, Arunachal Pradesh",
+    "publisher": "Tseten Dorji",
+    "date": "1974",
+    "numPages": "682",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rgyud bla sgrom me",
+    "url": "http://purl.bdrc.io/resource/MW465",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-02-08T15:59:08Z",
+    "dateModified": "2025-05-21T13:16:51Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "key": "BC2XIKIE",
-  "version": 5650,
+  "key": "C73EWRAE",
+  "version": 5649,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/BC2XIKIE",
+      "href": "https://api.zotero.org/groups/4394244/items/C73EWRAE",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/BC2XIKIE",
+      "href": "https://www.zotero.org/groups/tibschol/items/C73EWRAE",
       "type": "text/html"
     }
   },
@@ -34,58 +34,55 @@
         }
       }
     },
-    "creatorSummary": "sKyo ston sMon lam tshul khrims",
     "numChildren": 0
   },
   "data": {
-    "key": "BC2XIKIE",
-    "version": 5650,
+    "key": "C73EWRAE",
+    "version": 5649,
     "itemType": "bookSection",
-    "title": "mChims nam mkha\u02bc grags kyi rnam thar",
-    "creators": [
-      {
-        "creatorType": "author",
-        "name": "sKyo ston sMon lam tshul khrims"
-      }
-    ],
-    "abstractNote": "",
-    "bookTitle": "sNar thang gser phreng",
+    "title": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me",
+    "creators": [],
+    "abstractNote": "Anonymous commentary on the AA or AA-vrtti",
+    "bookTitle": "gSung thor bu Blo ldan shes rab",
     "series": "",
     "seriesNumber": "",
     "volume": "",
-    "numberOfVolumes": "1",
+    "numberOfVolumes": "",
     "edition": "",
     "place": "",
     "publisher": "",
     "date": "",
-    "pages": "",
+    "pages": "201-387",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "sKyon ston - mChims rnam thar",
-    "url": "http://purl.bdrc.io/resource/MW2CZ7888_B1B2C6",
+    "shortTitle": "Anon. - mngon rtogs rgyan 'grel gsal sgron ma",
+    "url": "",
     "accessDate": "2025-11-07",
     "archive": "",
-    "archiveLocation": "",
+    "archiveLocation": "BDRC No: W3CN18534",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "MW2CZ7888_B1B2C6 \nWork: WA26623",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
       },
       {
-        "tag": "Biography"
+        "tag": "Gateway"
       }
     ],
     "collections": [
-      "H3YINC3T",
-      "IEP4UFSV",
-      "ISJJ5QGY",
-      "B3TNTFC4"
+      "IEP4UFSV"
     ],
-    "relations": {},
-    "dateAdded": "2022-09-11T12:44:18Z",
-    "dateModified": "2025-11-07T17:13:34Z"
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/VDZBUANB",
+        "http://zotero.org/groups/4394244/items/VE889LC9",
+        "http://zotero.org/groups/4394244/items/XCKNA9JH"
+      ]
+    },
+    "dateAdded": "2024-09-17T13:14:43Z",
+    "dateModified": "2025-11-07T17:12:37Z"
   }
 }

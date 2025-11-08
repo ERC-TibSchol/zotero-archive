@@ -1,6 +1,6 @@
 {
-  "key": "BC2XIKIE",
-  "version": 5650,
+  "key": "4MFKTGMC",
+  "version": 5648,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/BC2XIKIE",
+      "href": "https://api.zotero.org/groups/4394244/items/4MFKTGMC",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/BC2XIKIE",
+      "href": "https://www.zotero.org/groups/tibschol/items/4MFKTGMC",
       "type": "text/html"
     }
   },
@@ -34,26 +34,32 @@
         }
       }
     },
-    "creatorSummary": "sKyo ston sMon lam tshul khrims",
+    "creatorSummary": "dBus pa blo gsal",
     "numChildren": 0
   },
   "data": {
-    "key": "BC2XIKIE",
-    "version": 5650,
+    "key": "4MFKTGMC",
+    "version": 5648,
     "itemType": "bookSection",
-    "title": "mChims nam mkha\u02bc grags kyi rnam thar",
+    "title": "sum cu pa'i 'grel pa",
     "creators": [
       {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "dBus pa blo gsal"
+      },
+      {
         "creatorType": "author",
-        "name": "sKyo ston sMon lam tshul khrims"
+        "firstName": "",
+        "lastName": "dBus pa blo gsal"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "sNar thang gser phreng",
+    "bookTitle": "dbus pa blo gsal gyi gsung rtsom 'ga' zhig",
     "series": "",
     "seriesNumber": "",
     "volume": "",
-    "numberOfVolumes": "1",
+    "numberOfVolumes": "",
     "edition": "",
     "place": "",
     "publisher": "",
@@ -61,31 +67,25 @@
     "pages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "sKyon ston - mChims rnam thar",
-    "url": "http://purl.bdrc.io/resource/MW2CZ7888_B1B2C6",
+    "shortTitle": "dBus pa blo gsal - sum cu 'grel",
+    "url": "http://purl.bdrc.io/resource/MW3CN2648",
     "accessDate": "2025-11-07",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "MW2CZ7888_B1B2C6 \nWork: WA26623",
+    "extra": "First manuscript in the collection of writings by Kadam master Upa Losal in 13th century. Handwritten manuscript.",
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Biography"
       }
     ],
-    "collections": [
-      "H3YINC3T",
-      "IEP4UFSV",
-      "ISJJ5QGY",
-      "B3TNTFC4"
-    ],
-    "relations": {},
-    "dateAdded": "2022-09-11T12:44:18Z",
-    "dateModified": "2025-11-07T17:13:34Z"
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/XSBSS6QW"
+    },
+    "dateAdded": "2025-02-21T09:15:20Z",
+    "dateModified": "2025-11-07T17:11:49Z"
   }
 }

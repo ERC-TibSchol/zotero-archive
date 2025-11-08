@@ -1,0 +1,97 @@
+{
+  "key": "83QKLSCM",
+  "version": 4077,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/83QKLSCM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/83QKLSCM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rGyal tshab dar ma rin chen",
+    "parsedDate": "1982",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "83QKLSCM",
+    "version": 4077,
+    "itemType": "bookSection",
+    "title": "Tshad ma\u02bci brjed byang chen mo",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "rGyal tshab dar ma rin chen"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung \u02bcbum rgyal tshab rje (zhol par ma)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4",
+    "numberOfVolumes": "8",
+    "edition": "",
+    "place": "New Delhi india",
+    "publisher": "Mongolian lama guru deva",
+    "date": "1982",
+    "pages": "585-668",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rGyal tshab - tshad ma'i brjed byang",
+    "url": "http://purl.bdrc.io/resource/MW676_82C33C",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2025-01-27T16:05:22Z",
+    "dateModified": "2025-05-20T18:51:50Z"
+  }
+}

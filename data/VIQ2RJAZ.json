@@ -1,0 +1,91 @@
+{
+  "key": "VIQ2RJAZ",
+  "version": 4940,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VIQ2RJAZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VIQ2RJAZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple and Ati\u0304s\u0301a",
+    "parsedDate": "2025",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VIQ2RJAZ",
+    "version": 4940,
+    "itemType": "book",
+    "title": "Ati\u015ba's Stages of the Path to Awakening: together with commentaries and ritual texts",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      },
+      {
+        "creatorType": "author",
+        "name": "Ati\u0304s\u0301a"
+      }
+    ],
+    "abstractNote": "\"Nearly a millennium ago, the great Indian Buddhist master Ati\u015ba D\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (ca. 982-1054) wrote a guidebook for realizing all the stages to awakening at the repeated request of his closest Tibetan disciple. Ati\u015ba is famously the author of the Lamp for the Path to Awakening (Bodhipathaprad\u012bpa), a short work in verse, but this longer prose work has been virtually unknown, even in Tibet-until now. Ati\u015ba's Stages of the Path Awakening (Bodhipathakrama), translated here, synthesizes all aspects of Buddhist practice, from the very beginning of the path, reflecting on the fortunate opportunity of human rebirth, up through to attaining omniscient buddhahood by nondual meditation. The Indian master's faithful disciple Dromt\u00f6npa kept these teachings secret, and they were only transmitted to select disciples in a closely guarded transmission, but the lineage died out centuries ago, after Dromt\u00f6npa's Kadam school was eclipsed by history. Now this significant work of Buddhist path literature has become available owing to recently recovered manuscripts of the Kadampas. This book offers a study and complete translation from the Tibetan of this monument of guidance on the Buddhist path accompanied by the commentaries and ritual texts that were transmitted alongside Ati\u015ba's text. Apple's substantial introduction includes a structural comparison with Ati\u015ba's famous work, charts the transmission lineage for the present work before it died out, and explores various hypotheses for why their fates diverged. Recovered from the contingencies of history, this book brings to life one of the most holistic and integrated approaches to the highest realizations of the Indian Buddhist path ever transmitted in the Land of Snows\"--",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York, NY, USA",
+    "publisher": "Wisdom",
+    "date": "2025",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-1-61429-844-1",
+    "shortTitle": "Apple 2025",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ7950.A877 A643 2025",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-04-22T07:18:48Z",
+    "dateModified": "2025-05-21T08:15:27Z"
+  }
+}
