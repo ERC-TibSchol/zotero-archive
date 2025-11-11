@@ -1,0 +1,96 @@
+{
+  "key": "3KHBLFQ8",
+  "version": 4396,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3KHBLFQ8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3KHBLFQ8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gingrich and Hazod",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3KHBLFQ8",
+    "version": 4396,
+    "itemType": "book",
+    "title": "Der Rand und die Mitte: Beitr\u00e4ge zur Sozialanthropologie und Kulturgeschichte Tibets und des Himalaya",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Andr\u00e9",
+        "lastName": "Gingrich"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Sitzungsberichte (\u00d6sterreichische Akademie der Wissenschaften. Philosophisch-Historische Klasse)",
+    "seriesNumber": "753",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2006",
+    "numPages": "301",
+    "language": "ger, eng",
+    "ISBN": "978-3-7001-3784-9",
+    "shortTitle": "Der Rand und die Mitte",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "GN635.C5",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:37:07Z",
+    "dateModified": "2025-05-21T05:31:57Z"
+  }
+}

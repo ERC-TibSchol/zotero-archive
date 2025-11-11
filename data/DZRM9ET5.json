@@ -1,0 +1,96 @@
+{
+  "key": "DZRM9ET5",
+  "version": 4733,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DZRM9ET5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DZRM9ET5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gyatso and Havnevik",
+    "parsedDate": "2005",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DZRM9ET5",
+    "version": 4733,
+    "itemType": "book",
+    "title": "Women in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Janet",
+        "lastName": "Gyatso"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hanna",
+        "lastName": "Havnevik"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "London",
+    "publisher": "Hurst & Co",
+    "date": "2005",
+    "numPages": "xii+436",
+    "language": "eng",
+    "ISBN": "978-1-85065-654-8",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "M06.F00371",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:53:42Z",
+    "dateModified": "2025-05-21T07:14:26Z"
+  }
+}

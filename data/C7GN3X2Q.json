@@ -1,0 +1,85 @@
+{
+  "key": "C7GN3X2Q",
+  "version": 4081,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/C7GN3X2Q",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/C7GN3X2Q",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Frauwallner",
+    "parsedDate": "1961",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "C7GN3X2Q",
+    "version": 4081,
+    "itemType": "journalArticle",
+    "title": "Landmarks in the History of Indian Logic",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Erich",
+        "lastName": "Frauwallner"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Wiener Zeitschrift f\u00fcr die Kunde S\u00fcd- und Ostasiens",
+    "volume": "5",
+    "issue": "",
+    "pages": "125\u2013148",
+    "date": "1961",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "WZKSO",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Frauwallner 1961",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2009-07-22 13:13:39\n_eprint: 2617",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-01-24T16:11:40Z",
+    "dateModified": "2025-05-20T18:53:36Z"
+  }
+}

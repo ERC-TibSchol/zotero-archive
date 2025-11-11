@@ -1,6 +1,6 @@
 {
-  "key": "ITEUED6D",
-  "version": 5660,
+  "key": "I58Z22ET",
+  "version": 4941,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/ITEUED6D",
+      "href": "https://api.zotero.org/groups/4394244/items/I58Z22ET",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/ITEUED6D",
+      "href": "https://www.zotero.org/groups/tibschol/items/I58Z22ET",
       "type": "text/html"
     }
   },
@@ -34,20 +34,20 @@
         }
       }
     },
-    "creatorSummary": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
-    "parsedDate": "1989",
+    "creatorSummary": "Vitali",
+    "parsedDate": "2024",
     "numChildren": 0
   },
   "data": {
-    "key": "ITEUED6D",
-    "version": 5660,
+    "key": "I58Z22ET",
+    "version": 4941,
     "itemType": "book",
-    "title": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
+    "title": "Essays on the history of Tibet",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "firstName": "Roberto",
+        "lastName": "Vitali"
       }
     ],
     "abstractNote": "",
@@ -56,13 +56,13 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
-    "date": "1989",
+    "place": "Dharamsala H.P. India",
+    "publisher": "Mutag Books",
+    "date": "2024",
     "numPages": "",
-    "language": "tib",
-    "ISBN": "7-223-00258-1",
-    "shortTitle": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Vitali 2024",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,12 +71,17 @@
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/CXRAK3IW"
-    },
-    "dateAdded": "2025-10-17T12:36:22Z",
-    "dateModified": "2025-11-10T09:01:58Z"
+    "relations": {},
+    "dateAdded": "2025-02-25T14:11:35Z",
+    "dateModified": "2025-05-21T08:15:35Z"
   }
 }

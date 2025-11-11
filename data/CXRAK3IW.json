@@ -1,5 +1,5 @@
 {
-  "key": "ITEUED6D",
+  "key": "CXRAK3IW",
   "version": 5660,
   "library": {
     "type": "group",
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/ITEUED6D",
+      "href": "https://api.zotero.org/groups/4394244/items/CXRAK3IW",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/ITEUED6D",
+      "href": "https://www.zotero.org/groups/tibschol/items/CXRAK3IW",
       "type": "text/html"
     }
   },
@@ -39,11 +39,16 @@
     "numChildren": 0
   },
   "data": {
-    "key": "ITEUED6D",
+    "key": "CXRAK3IW",
     "version": 5660,
-    "itemType": "book",
-    "title": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
+    "itemType": "bookSection",
+    "title": "tshad ma rigs pa'i gter gyi rang 'grel",
     "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+      },
       {
         "creatorType": "author",
         "firstName": "",
@@ -51,6 +56,7 @@
       }
     ],
     "abstractNote": "",
+    "bookTitle": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
     "series": "",
     "seriesNumber": "",
     "volume": "",
@@ -59,10 +65,10 @@
     "place": "Lhasa",
     "publisher": "Bod ljongs mi dmangs dpe skrun khang",
     "date": "1989",
-    "numPages": "",
+    "pages": "39-370",
     "language": "tib",
     "ISBN": "7-223-00258-1",
-    "shortTitle": "",
+    "shortTitle": "Sa pan - rigs gter",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,12 +77,16 @@
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/CXRAK3IW"
+      "dc:relation": "http://zotero.org/groups/4394244/items/ITEUED6D"
     },
-    "dateAdded": "2025-10-17T12:36:22Z",
-    "dateModified": "2025-11-10T09:01:58Z"
+    "dateAdded": "2025-11-10T09:02:35Z",
+    "dateModified": "2025-11-10T09:05:16Z"
   }
 }

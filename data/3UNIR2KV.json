@@ -1,6 +1,6 @@
 {
-  "key": "ITEUED6D",
-  "version": 5660,
+  "key": "3UNIR2KV",
+  "version": 5238,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/ITEUED6D",
+      "href": "https://api.zotero.org/groups/4394244/items/3UNIR2KV",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/ITEUED6D",
+      "href": "https://www.zotero.org/groups/tibschol/items/3UNIR2KV",
       "type": "text/html"
     }
   },
@@ -34,35 +34,35 @@
         }
       }
     },
-    "creatorSummary": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
+    "creatorSummary": "gTsang nag pa brTson 'grus seng ge",
     "parsedDate": "1989",
     "numChildren": 0
   },
   "data": {
-    "key": "ITEUED6D",
-    "version": 5660,
+    "key": "3UNIR2KV",
+    "version": 5238,
     "itemType": "book",
-    "title": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
+    "title": "Gtsang-nag-pa\u2019s Tshad-ma rnam-par nges-pa\u02bci \u1e6di-ka legs bshad bsdus-pa. An Ancient Commentary on Dharmak\u012brti\u2019s Pram\u0101\u1e47avini\u015bcaya, Otani University  Collection No.13971",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "lastName": "gTsang nag pa brTson 'grus seng ge"
       }
     ],
     "abstractNote": "",
-    "series": "",
+    "series": "Otani University Tibetan Works Series, Vol II",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "place": "Kyoto",
+    "publisher": "Rinsen Book Co",
     "date": "1989",
     "numPages": "",
-    "language": "tib",
-    "ISBN": "7-223-00258-1",
-    "shortTitle": "",
+    "language": "eng, tib",
+    "ISBN": "",
+    "shortTitle": "gTsang nag - rnam nges bsdus pa",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,12 +71,17 @@
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Pram\u0101\u1e47avini\u015bcaya"
+      }
+    ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/CXRAK3IW"
-    },
-    "dateAdded": "2025-10-17T12:36:22Z",
-    "dateModified": "2025-11-10T09:01:58Z"
+    "relations": {},
+    "dateAdded": "2023-10-04T11:39:13Z",
+    "dateModified": "2025-05-21T15:24:13Z"
   }
 }
