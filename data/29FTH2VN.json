@@ -1,0 +1,54 @@
+{
+  "key": "29FTH2VN",
+  "version": 2694,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/29FTH2VN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/29FTH2VN",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/QH32KC55",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "29FTH2VN",
+    "version": 2694,
+    "parentItem": "QH32KC55",
+    "itemType": "note",
+    "note": "The prehistory of the Tibetan Plateau to the seventh century A.D. / Mark Aldenderfer and Zhang Yinong -- Some reflections on the periodization of Tibetan history / Bryan J. Cuevas -- History as a myth: on the appropriation of the past in Tibetan culture / Peter Schweiger -- Remarks on the Mani Kabum and the cult of Avalokitea\u0302svara in Tibet / Matthew T. Kapstein -- On the Tibetan historiography and doxography of the \"great debate of Samya\u0302e\" / David Seyfort Ruegg -- The linguistic and historical setting of the old Tibetan inscriptions / Fang Kuei Li and W. South Coblin -- The Tibetans in the Ordos and north China: considerations on the role of Tibetan empire in world history / Christopher I. Beckwith -- The Tibetan tribes of Hexi and Buddhism during the northern song period / Tsutomu Iwasaki -- The rulers of Western Tibet / David Snellgrove -- The Be\u0300on religion of Tibet / Per Kvaerne -- The evolution of monastic power / R. A. Stein -- The preceptor-donor relation in thirteenth-century Tibetan society and polity: its inner Asian precursors and Indian models / David Seyfort Ruegg -- The Mongol census in Tibet / Luciano Petech -- Sakya Pao\u0300no\u0300dita's letter to the Tibetans: a late and dubious addition to his collected works / David P. Jackson -- The rise of the Pakmodru Dynasty / Luciano Petech -- Monastic patronage in fifteenth-century Tibet / Turrell V. Wylie -- Central Tibetan conflict in the sixteenth century / Giuseppe Tucci -- The He Clan of Hezhou: a Tibetan family in service to the Yuan and Ming Dynasties / Elliot Sperling -- Be\u0300on in central and east Tibet / Samten Karmay -- The Dalai Lamas and the origins of reincarnate lamas / Leonard W. J. van der Kuijp -- The fifth Dalai Lama / Kurtis R. Schaeffer -- Experience, empiricism, and the fortunes of authority: Tibetan medicine and Buddhim on the eve of modernity / Janet Gyatso -- The administration of Tibet during the first half-century of Chinese protectorate / Luciano Petech -- Lobjang Danjin's rebellion of 1723 / Kata\u030ao Naoto -- Aristocracy and the government in Tibet: 1728-1959 / Luciano Petech -- Gold, wood, and musk: trade in Lhasa in the seventeenth century / Luce Boulnios -- The circulation of estates in TIbet: reincarnation, land, and politics / Melvyn C. Goldstein -- The geo-history of long-distance trade in Tibet 1850-1950 / Wim van Spengen -- The kingdom of Derga\u0302e / Lauran R. Hartley -- Labrang: a Tibeten Buddhist monastery at the crossroads of four civilizations / Paul Nietupski -- Uniting religion and politics in a bid for autonomy: lamas in exile in China and America / Gray Tuttle -- Progressives and exiles / Heather Stoddard -- The genesis of the Sino-Tibetan agreement of 1951 / Tsering Shakya",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2024-10-02T07:51:54Z",
+    "dateModified": "2024-10-02T07:51:54Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "key": "6BBLUKRN",
+  "version": 4942,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6BBLUKRN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6BBLUKRN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vitali",
+    "parsedDate": "2024",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6BBLUKRN",
+    "version": 4942,
+    "itemType": "book",
+    "title": "Early bKa' brgyud pa masters in the land on the \"Upper side\"",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Dharamsala H.P. India",
+    "publisher": "Mutag Books",
+    "date": "2024",
+    "numPages": "1",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Vitali 2024",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "bKa' brgyud pa"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-02-25T14:18:56Z",
+    "dateModified": "2025-05-21T08:15:44Z"
+  }
+}

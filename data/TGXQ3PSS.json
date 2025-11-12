@@ -1,0 +1,108 @@
+{
+  "key": "TGXQ3PSS",
+  "version": 4739,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TGXQ3PSS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TGXQ3PSS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TGXQ3PSS",
+    "version": 4739,
+    "itemType": "bookSection",
+    "title": "From Commentary to Philosophy, or Lectio and Disputatio in Indian Buddhist  Commentarial Literature",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Silvia",
+        "lastName": "D'Intino"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Sheldon I.",
+        "lastName": "Pollock"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "L'espace du sens: approches de la philologie indienne = The Space of Meaning, Approaches to Indian Philology",
+    "series": "Publications de l'Institut de civilisation indienne. S\u00e9rie in-8o ; fasc. 84",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Paris",
+    "publisher": "Coll\u00e8ge de France",
+    "date": "2018",
+    "pages": "271-303",
+    "language": "eng",
+    "ISBN": "978-2-86803-084-9",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T16:26:22Z",
+    "dateModified": "2025-05-21T07:15:07Z"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "key": "46T648GJ",
+  "version": 4408,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/46T648GJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/46T648GJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "46T648GJ",
+    "version": 4408,
+    "itemType": "bookSection",
+    "title": "On the Sanskrit and Tibetan Versions of the Pram\u0101\u1e47avini\u015bcaya \u2013 A look into the  translator\u2019s workshop of r\u1e44og Blo ldan \u015bes rab",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Horst",
+        "lastName": "Lasic"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Xuezhu",
+        "lastName": "Li"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Sanskrit manuscripts in  China II. Proceedings of a panel at the 2012 Beijing Seminar on Tibetan Studies, August 1 to 5",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "China Tibetology Publishing House",
+    "date": "2016",
+    "pages": "49-113",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "GD6WKD7B"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:17:00Z",
+    "dateModified": "2025-05-21T05:34:43Z"
+  }
+}

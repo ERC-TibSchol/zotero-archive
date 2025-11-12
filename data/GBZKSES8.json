@@ -1,0 +1,84 @@
+{
+  "key": "GBZKSES8",
+  "version": 5675,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GBZKSES8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GBZKSES8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rMa bya bRtson 'grus seng ge",
+    "parsedDate": "1975",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GBZKSES8",
+    "version": 5675,
+    "itemType": "book",
+    "title": "Dbu ma rtsa ba \u015bes rab kyi \u02bcgrel pa \u02bcThad pa\u02bci rgyan :a 12th century Tibetan commentary on N\u0101g\u0101rjuna's Mulamadhyamak\u0101rik\u0101 /by Rma-bya-ba Brtson-\u02bcgrus-se\u1e45ge",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rMa bya bRtson 'grus seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "rumtek",
+    "publisher": "dharma chakra center",
+    "date": "1975",
+    "numPages": "312",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rMa bya - 'thad rgyan 1975 ed.",
+    "url": "http://purl.bdrc.io/resource/MW14060",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "reproduced from a sde-dge print prepared under the inspiration of 'jam-dbyans mkhyen-brtse'i-dban-po",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-11T15:07:13Z",
+    "dateModified": "2025-11-11T15:09:18Z"
+  }
+}

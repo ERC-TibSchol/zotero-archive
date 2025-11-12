@@ -1,0 +1,84 @@
+{
+  "key": "Z5X88P7A",
+  "version": 5278,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z5X88P7A",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z5X88P7A",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sa bzang ma ti pa",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z5X88P7A",
+    "version": 5278,
+    "itemType": "book",
+    "title": "Theg pa chen po\u2019i rgyud bla ma\u2019i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Sa bzang ma ti pa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "The Collection Works of the Ancient Sa-skya-pa Scholars",
+    "seriesNumber": "4",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Rajpur",
+    "publisher": "Sakya College",
+    "date": "1999",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Sa bzang - rgyud bla snang ba",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-22T12:29:28Z",
+    "dateModified": "2025-05-22T12:30:31Z"
+  }
+}

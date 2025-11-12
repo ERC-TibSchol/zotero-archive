@@ -1,0 +1,81 @@
+{
+  "key": "U9NJFSKC",
+  "version": 4398,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/U9NJFSKC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/U9NJFSKC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mkhan chen 'jam dbyangs rgyal mtshan",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "U9NJFSKC",
+    "version": 4398,
+    "itemType": "book",
+    "title": "bka' ma shin tu rgyas pa (kaH thog)",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "firstName": "",
+        "lastName": "mkhan chen 'jam dbyangs rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "1999",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW25983",
+    "accessDate": "2025-05-15T14:11:13Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/XVKI248J"
+    },
+    "dateAdded": "2025-05-15T14:11:13Z",
+    "dateModified": "2025-05-21T05:32:32Z"
+  }
+}

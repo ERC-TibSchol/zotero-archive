@@ -1,0 +1,92 @@
+{
+  "key": "CA7WVCN7",
+  "version": 4943,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CA7WVCN7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CA7WVCN7",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon and Griffiths",
+    "parsedDate": "2024-01-02",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CA7WVCN7",
+    "version": 4943,
+    "itemType": "journalArticle",
+    "title": "TibSchol HTR tools",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      }
+    ],
+    "abstractNote": "In the framework of the project TibSchol \u2013 \u201cThe Dawn of Tibetan Buddhist Scholasticism (11th-13th c.)\u201d (https://www.oeaw.ac.at/projects/tibschol)[1] \u2013 hosted at the Institute for the Cultural and Intellectual History of Asia of the Austrian Academy of Sciences, a baseline model for layout analysis (LA) and two handwritten text recognition (HTR) models, for dpe tshugs and \u2019bru tsha Tibetan cursive scripts respectively, have been trained on the platform Transkribus (https://readcoop.eu/transkribus/) to produce machine-readable e-texts from handwritten documents. In addition, Python scripts have been created to pre-process images in order to improve the HTR results. This document presents these tools and explains how the LA and HTR models, which have been made public on the Transkribus platform, can be used by anyone.\n\n\n\n\n\n[1] The project TibSchol has received funding from the European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme (grant agreement No 101001002). These tools are being shared within the project team\u2019s responsibility. TibSchol must not be held responsible for the accuracy of the output when using these tools or for future changes that would have an impact on their operation. The European Research Council or the European Commission must not be held responsible for their further use.",
+    "publicationTitle": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "date": "2024-01-02",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.5281/ZENODO.10451396",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.10451396",
+    "accessDate": "2024-01-24T14:01:48Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+    "extra": "Publisher: Zenodo\nVersion Number: v. 2.1",
+    "tags": [
+      {
+        "tag": "HTR"
+      }
+    ],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2024-01-24T14:01:48Z",
+    "dateModified": "2025-05-21T08:16:03Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "key": "P9VAXVKL",
+  "version": 4082,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/P9VAXVKL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/P9VAXVKL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus",
+    "parsedDate": "1994",
+    "numChildren": 2
+  },
+  "data": {
+    "key": "P9VAXVKL",
+    "version": 4082,
+    "itemType": "book",
+    "title": "A recent rediscovery: Rgyal-tshab's Rigs gter rnam bshad: A Facsimile Reproduction of Rare Blockprint Edition",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges B. J.",
+        "lastName": "Dreyfus"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "David P.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Shunzo",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Biblia Tibetica series",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Kyoto",
+    "publisher": "Nagata Bunshodo",
+    "date": "1994",
+    "numPages": "18, [38] S., zahlr. Ill.",
+    "language": "eng, tib",
+    "ISBN": "",
+    "shortTitle": "rGyal tshab - rigs gter rnam bshad",
+    "url": "https://ubdata.univie.ac.at/AC04322405",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "FB S\u00fcdasien-, Tibet- und Buddhismuskunde, Signatur: S-28/V/199",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "MMDISFTC",
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2025-01-21T13:17:20Z",
+    "dateModified": "2025-05-20T18:53:46Z"
+  }
+}
