@@ -1,0 +1,96 @@
+{
+  "key": "F9PACFE3",
+  "version": 5680,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/F9PACFE3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/F9PACFE3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "F9PACFE3",
+    "version": 5680,
+    "itemType": "journalArticle",
+    "title": "The Bird-faced Monk and the Beginnings of the New Tantric Tradition, Part Two",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Tibetology",
+    "volume": "19",
+    "issue": "",
+    "pages": "86\u2013127",
+    "date": "2018",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 2018",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Tantric Buddhism"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-12-05T14:21:35Z",
+    "dateModified": "2025-11-14T11:37:48Z"
+  }
+}

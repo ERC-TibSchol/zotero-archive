@@ -1,0 +1,101 @@
+{
+  "key": "QXEK8ZTM",
+  "version": 4746,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QXEK8ZTM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QXEK8ZTM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Verhagen",
+    "parsedDate": "2005",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QXEK8ZTM",
+    "version": 4746,
+    "itemType": "journalArticle",
+    "title": "Studies in Indo-Tibetan Buddhist Hermeneutics (5). The mKhas pa rnams 'jug pa'i sgo by Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pieter C.",
+        "lastName": "Verhagen"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "28",
+    "issue": "1",
+    "pages": "183-219",
+    "date": "2005",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "http://nbn-resolving.de/urn:nbn:de:bsz:16-jiabs-89607 (PDF)",
+    "ISSN": "0193-600X",
+    "shortTitle": "",
+    "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8960",
+    "accessDate": "2021-08-31T12:52:45Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "journals.ub.uni-heidelberg.de",
+    "callNumber": "",
+    "rights": "Copyright (c) 2014 Journal of the International Association of Buddhist Studies",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Hermeneutics"
+      },
+      {
+        "tag": "Sakya Pa\u1e47\u1e0dita"
+      }
+    ],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:52:45Z",
+    "dateModified": "2025-05-21T07:15:56Z"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "RFPXMHKN",
+  "version": 5289,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RFPXMHKN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RFPXMHKN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gha rung pa Lha'i rgyal mtshan",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RFPXMHKN",
+    "version": 5289,
+    "itemType": "book",
+    "title": "Gha-rung-pa Lha\u2019i-rgyal-mtshan (1319\u20131401),\nbsTan pa spyi \u2019grel gyi \u2019grel pa: bsTan pa spyi \u2019grel gyi \u2019grel bshad dang theg pa chen po rgyud bla\nma\u2019i bstan bcos kyi rnam par bshad pa sogs",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Gha rung pa Lha'i rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Jo nang dpe tshogs",
+    "seriesNumber": "30",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Mi rigs dpe skrun khang",
+    "date": "2010",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "gha rung - rgyud bla rnam bshad",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-22T13:35:19Z",
+    "dateModified": "2025-05-22T13:38:02Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "key": "872MEWZ4",
+  "version": 4749,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/872MEWZ4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/872MEWZ4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Petech",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "872MEWZ4",
+    "version": 4749,
+    "itemType": "book",
+    "title": "Central Tibet and the Mongols. The  - Sa skya period of Tibetan History",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Luciano",
+        "lastName": "Petech"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Serie Orientale Roma",
+    "seriesNumber": "65",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Rome",
+    "publisher": "Istituto Italiano per il Medio ed Estremo Oriente",
+    "date": "1990",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-01-11T09:13:50Z",
+    "dateModified": "2025-05-21T07:16:12Z"
+  }
+}

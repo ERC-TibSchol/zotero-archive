@@ -1,0 +1,95 @@
+{
+  "key": "3HXACZSD",
+  "version": 4946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3HXACZSD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3HXACZSD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2023",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3HXACZSD",
+    "version": 4946,
+    "itemType": "thesis",
+    "title": "Inner Asian Buddhist Revolution: The Rise of Tibetan Buddhism in the Tangut Xia State",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "Harvard University",
+    "place": "Cambridge, Massachusetts",
+    "date": "2023",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "Ma 2023",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "https://www.proquest.com/docview/2823758058/20BEE752E43A4EB4PQ/1?sourcetype=Dissertations%20&%20Theses",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Tangut"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-15T21:55:32Z",
+    "dateModified": "2025-05-21T08:16:38Z"
+  }
+}

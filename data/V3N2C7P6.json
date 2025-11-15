@@ -1,0 +1,72 @@
+{
+  "key": "V3N2C7P6",
+  "version": 5691,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/V3N2C7P6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/V3N2C7P6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Martin",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "V3N2C7P6",
+    "version": 5691,
+    "itemType": "webpage",
+    "title": "Matho Fragments Handlist (Dan Martin's Hurried Notes)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dan",
+        "lastName": "Martin"
+      }
+    ],
+    "abstractNote": "",
+    "websiteTitle": "Tiblical",
+    "websiteType": "",
+    "date": "",
+    "shortTitle": "Martin 2023",
+    "url": "https://sites.google.com/site/tiblical/matho-fragments-handlist",
+    "accessDate": "2025-11-14",
+    "language": "eng",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-14T11:39:10Z",
+    "dateModified": "2025-11-14T11:41:17Z"
+  }
+}

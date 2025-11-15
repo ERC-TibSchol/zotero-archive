@@ -1,0 +1,92 @@
+{
+  "key": "JJLTP8SW",
+  "version": 5338,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JJLTP8SW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JJLTP8SW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog bSod nams dpal",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JJLTP8SW",
+    "version": 5338,
+    "itemType": "bookSection",
+    "title": "rNgog pa yab sras rim par byon pa\u02bci rnam thar rin po che\u02bci rgyan gyi phreng ba",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog bSod nams dpal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rNgog slob brgyud dang bcas pa\u02bci gsung \u02bcbum",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Krung go\u02bci bod rig pa dpe skrun khang",
+    "date": "2011",
+    "pages": "1-34",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog rgyan phreng ba",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW1KG16666_7EC335",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/A36R3BEK"
+    },
+    "dateAdded": "2025-03-13T09:55:45Z",
+    "dateModified": "2025-05-27T07:43:12Z"
+  }
+}

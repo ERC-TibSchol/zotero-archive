@@ -1,0 +1,96 @@
+{
+  "key": "N9KW4E38",
+  "version": 5708,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N9KW4E38",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N9KW4E38",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lasic",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "N9KW4E38",
+    "version": 5708,
+    "itemType": "bookSection",
+    "title": "Fragments of pram\u0101\u1e47a Texts Preserved in Tabo Monastery",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Horst",
+        "lastName": "Lasic"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Deborah",
+        "lastName": "Klimburg-Salter"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Kurt",
+        "lastName": "Tropper"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Christian",
+        "lastName": "Jahoda"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Text, Image and Song in Transdisciplinary Dialogue",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden",
+    "publisher": "Brill",
+    "date": "2006",
+    "pages": "63-77",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-14T11:49:36Z",
+    "dateModified": "2025-11-14T11:52:19Z"
+  }
+}

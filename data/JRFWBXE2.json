@@ -1,0 +1,95 @@
+{
+  "key": "JRFWBXE2",
+  "version": 4945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JRFWBXE2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JRFWBXE2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Griffiths",
+    "parsedDate": "2024-01-02",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JRFWBXE2",
+    "version": 4945,
+    "itemType": "dataset",
+    "title": "ERC-TibSchol/Tibetan-Cursive-GT: v.1.1",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "Initial release of GT dataset and metadata on Zenodo. The repository contains the Ground Truth (GT) for Handwritten Text Recognition (HTR) models to recognize the handwritten Tibetan scripts Drutsa ('bru tsha) and Betsug (dpe tshugs).\n\nThe Ground Truth was prepared in the framework of the ERC project \"The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.)\" (TibSchol). Cf. https://www.oeaw.ac.at/projects/tibschol for more information. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.",
+    "identifier": "",
+    "type": "",
+    "versionNumber": "v.1.1",
+    "date": "2024-01-02",
+    "repository": "Zenodo",
+    "repositoryLocation": "",
+    "format": "",
+    "DOI": "10.5281/ZENODO.10450635",
+    "citationKey": "",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.10450635",
+    "accessDate": "2024-01-24T14:02:11Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "ERC-TibSchol/Tibetan-Cursive-GT",
+    "language": "xct",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "Creative Commons Zero v1.0 Universal",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      }
+    ],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2024-01-24T14:02:11Z",
+    "dateModified": "2025-05-21T08:16:13Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "key": "KBPBQQFG",
+  "version": 4944,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KBPBQQFG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KBPBQQFG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Griffiths",
+    "parsedDate": "2024-07",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KBPBQQFG",
+    "version": 4944,
+    "itemType": "journalArticle",
+    "title": "Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Rachael M.",
+        "lastName": "Griffiths"
+      }
+    ],
+    "abstractNote": "The use of advanced computational methods for the analysis of digitised texts is becoming increasingly popular in humanities and social science research. One such technology is Handwritten Text Recognition (HTR), which generates transcripts from digitised texts with machine learning approaches, to enable full-text search and analysis. Up to now, HTR models for Tibetan manuscripts in cursive script have not been available. This paper introduces work carried out as part of the The Dawn of Tibetan Buddhist Scholasticism (11th-13th) TibSchol) project at the Austrian Academy of Sciences, which is utilising the Transkribus platform to explore possible solutions to automate the transcription of Tibetan cursive scripts. It presents our methodology and preliminary results along with a discussion of the limitations and potential of our current models.",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
+    "volume": "72",
+    "issue": "",
+    "pages": "43-51",
+    "date": "2024-07",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1553/TibSchol_ERC_HTR",
+    "ISSN": "",
+    "shortTitle": "Griffiths 2024",
+    "url": "https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ret/pdf/ret_72_03.pdf",
+    "accessDate": "2024-10-18T06:28:47Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "DOI: 10.1553/TibSchol_ERC_HTR",
+    "tags": [
+      {
+        "tag": "HTR"
+      }
+    ],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T06:28:47Z",
+    "dateModified": "2025-05-21T08:16:08Z"
+  }
+}

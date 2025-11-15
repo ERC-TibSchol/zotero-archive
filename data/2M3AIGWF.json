@@ -1,0 +1,90 @@
+{
+  "key": "2M3AIGWF",
+  "version": 5030,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2M3AIGWF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2M3AIGWF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2M3AIGWF",
+    "version": 5030,
+    "itemType": "journalArticle",
+    "title": "Hininshiki shudan no chi no kigen ni kansuru ichi kosatsu [On the Origin of Non-valid Cognitions (tshad min gyi blo)]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u30a4\u30f3\u30c9\u54f2\u5b66\u4ecf\u6559\u5b66\u7814\u7a76 (Indo tetsugaku bukkyogaku kenkyu)",
+    "volume": "19",
+    "issue": "",
+    "pages": "105-118",
+    "date": "2012",
+    "series": "\u6771\u4eac\u5927\u5b66\u5927\u5b66\u9662\u4eba\u6587\u793e\u4f1a\u7cfb\u7814\u7a76\u79d1\u30fb\u6587\u5b66\u90e8\u30a4\u30f3\u30c9\u54f2\u5b66\u4ecf\u6559\u5b66\u7814\u7a76\u5ba4",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      }
+    ],
+    "collections": [
+      "MMDISFTC",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/4XCZSPVT"
+    },
+    "dateAdded": "2024-10-18T06:27:13Z",
+    "dateModified": "2024-10-18T06:27:13Z"
+  }
+}

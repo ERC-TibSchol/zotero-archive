@@ -1,0 +1,89 @@
+{
+  "key": "T4A9JH68",
+  "version": 4989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/T4A9JH68",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/T4A9JH68",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tshe mchog gling yongs \u02bcdzin ye shes rgyal mtshan",
+    "parsedDate": "1990",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "T4A9JH68",
+    "version": 4989,
+    "itemType": "book",
+    "title": "Lam rim bla ma brgyud pa\u02bci rnam thar",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Tshe mchog gling yongs \u02bcdzin ye shes rgyal mtshan"
+      }
+    ],
+    "abstractNote": "Biographies of successive lineage holders who transmitted doctrines pertaining to the Lamrim Chenmo, down to Tsongkhapa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "date": "1990",
+    "numPages": "1",
+    "language": "tib",
+    "ISBN": "ISBN7-223-00276-X/Z.12",
+    "shortTitle": "Ye shes rgyal mtshan - lam rim rgyud rnam thar",
+    "url": "http://purl.bdrc.io/resource/W1CZ2730",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "BQ7920 .T766 1990",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2024-09-16T06:50:15Z",
+    "dateModified": "2025-05-21T06:33:03Z"
+  }
+}

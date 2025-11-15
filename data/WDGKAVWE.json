@@ -1,0 +1,98 @@
+{
+  "key": "WDGKAVWE",
+  "version": 4743,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WDGKAVWE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WDGKAVWE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Makdisi",
+    "parsedDate": "1974",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WDGKAVWE",
+    "version": 4743,
+    "itemType": "journalArticle",
+    "title": "The Scholastic Method in Medieval Education: An Inquiry into Its Origins in Law and Theology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "George",
+        "lastName": "Makdisi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Speculum",
+    "volume": "49",
+    "issue": "4",
+    "pages": "640-661",
+    "date": "1974",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.2307/2852031",
+    "ISSN": "0038-7134",
+    "shortTitle": "The Scholastic Method in Medieval Education",
+    "url": "https://www.jstor.org/stable/2852031",
+    "accessDate": "2021-08-24T14:46:15Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: [Medieval Academy of America, Cambridge University Press, University of Chicago Press]",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:46:15Z",
+    "dateModified": "2025-05-21T07:15:26Z"
+  }
+}

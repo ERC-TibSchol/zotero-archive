@@ -1,0 +1,85 @@
+{
+  "key": "5H5BVSWI",
+  "version": 5679,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5H5BVSWI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5H5BVSWI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tauscher",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5H5BVSWI",
+    "version": 5679,
+    "itemType": "journalArticle",
+    "title": "Manuscript Fragments From Matho. A Preliminary Report and Random Reflections",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d'\u00c9tudes Tib\u00e9taines",
+    "volume": "51",
+    "issue": "",
+    "pages": "337-378",
+    "date": "2019",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Tauscher 2019",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-14T10:58:18Z",
+    "dateModified": "2025-11-14T10:59:00Z"
+  }
+}

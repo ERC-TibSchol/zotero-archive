@@ -1,0 +1,92 @@
+{
+  "key": "CSBIZJXG",
+  "version": 4411,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CSBIZJXG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CSBIZJXG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CSBIZJXG",
+    "version": 4411,
+    "itemType": "journalArticle",
+    "title": "Phya pa Chos kyi seng ge on Argumentation by Consequence (<i>thal 'gyur</i>) (2):  The Analysis of the Correspondence between a Consequence and its Reverse Form and the Thirteenfold Typology of Consequences",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "This paper is part of a series of articles on the theory of argumentation proposed by the Tibetan thinker Phya pa Chos kyi seng ge (1109-1169), and in particular on his views on argumentation 'by consequence' (Tib. thal 'gyur/thal ba). I examine in detail the sections of Phya pa\u2019s epistemological summary and of his commentary on Dharmak\u012brti\u2019s Pram\u0101\u1e47avini\u015bcaya that deal with the identification and definition of various kinds of consequences: fallacious consequences, genuine consequences and, among the latter, proving consequences and refuting consequences. I highlight the existence of two distinct frameworks in Phya pa\u2019s discussion. In the first, Phya pa exclusively deals with consequences that fulfill a probative function. In the second, more extended framework, he establishes a thirteenfold typology of consequences that also includes consequences that fail to prove the proponent\u2019s thesis but still succeed in refuting the opponent. I examine Phya pa\u2019s criteria for proving consequences, and discuss the specific cases of consequences with a true conclusion and consequences with a true premise. I argue that the juxtaposition of the two frameworks reflects a gradual process of composition in which an earlier model was integrated and updated.",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "39",
+    "issue": "",
+    "pages": "51\u2013113",
+    "date": "2016",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "10.2143/JIABS.39.0.3200523",
+    "ISSN": "2507-0347",
+    "shortTitle": "Hugon 2016",
+    "url": "https://poj.peeters-leuven.be/content.php?url=article&id=3200523&journal_code=JIABS",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Peeters",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/EA9FKB5I"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T05:35:30Z"
+  }
+}

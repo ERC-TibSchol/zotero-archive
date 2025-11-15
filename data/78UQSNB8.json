@@ -1,0 +1,84 @@
+{
+  "key": "78UQSNB8",
+  "version": 4096,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/78UQSNB8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/78UQSNB8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Pensa",
+    "parsedDate": "1967",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "78UQSNB8",
+    "version": 4096,
+    "itemType": "book",
+    "title": "L\u2019Abhisamay\u0101la\u1e43k\u0101rav\u1e5btti Di \u0100rya-Vimuktisena",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Corrado",
+        "lastName": "Pensa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Roma",
+    "publisher": "Istituto italiano per il Medio ed Estremo Oriente",
+    "date": "1967",
+    "numPages": "",
+    "language": "it",
+    "ISBN": "",
+    "shortTitle": "Pensa 1967",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-10-10T07:17:01Z",
+    "dateModified": "2025-05-20T18:55:56Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "key": "LMMMK4NH",
+  "version": 4412,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LMMMK4NH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LMMMK4NH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LMMMK4NH",
+    "version": 4412,
+    "itemType": "journalArticle",
+    "title": "Phya pa Chos kyi seng ge and His Successors on the Classification of Arguments by Consequence (<i>thal 'gyur</i>) Based on the Type of the Logical Reason",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "The Tibetan Buddhist logician Phya pa Chos kyi seng ge (1109-1169) devoted a large part of his discussion on argumentation to arguments by consequence (thal 'gyurlthal ba). Phya pa distinguishes in his analysis arguments by consequence that merely refute the opponent and arguments by consequence that qualify as probative. The latter induce a correct direct proof which corresponds to the reverse form of the argument by consequence. This paper deals with Phya pa's classification of probative consequences based on the type of the logical reason involved. I first establish the basis of Phya pa's classification\u2014the typology of logical reasons in inference-for-oneself\u2014with a special attention to logical reasons consisting in the 'apprehension of something incompatible [with the negandum]' ('gal ba dmigs pa) and among them the specific case of the 'apprehension of the cause of something incompatible [with the negandum]' ('gal ba'i rgyu dmigs pa). The treatment of the latter is shown to be instrumental in Phya pa's classification, as well as in explaining the divergences that occur in the models adopted by his successors, such as gTsang nag pa brTson 'grus seng ge (?-after 1195) and mTshur ston gZhon nu seng ge (ca. 1150-1210). Turning to Phya pa's effective application of this typology when he resorts himself to arguments by consequence, I examine Phya pa's rephrasing, in the form of four arguments by consequence, of the discussion on the relation between the two realities found in the Samdhinir\u1e43ocanas\u016btra and relate it to a parallel discussion in an earlier Madhyamaka work by rGya dmar ba Byang chub grags. I compare the variant (at times divergent) versions of these four arguments in three Madhyamaka works of Phya pa and show that the differences pertaining to the identification of the type of the logical reason result from apparently insignificant variations in the formulation of each of the arguments. In the conclusion, I discuss the potential philosophical or practical interest of such a classification.",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "44.5",
+    "issue": "",
+    "pages": "883\u2013938",
+    "date": "2016",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "language": "eng",
+    "DOI": "10.1007/s10781-015-9285-4",
+    "ISSN": "0022-1791",
+    "shortTitle": "",
+    "url": "https://www.jstor.org/stable/44157771",
+    "accessDate": "2021-08-24T14:15:42Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Springer",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/LE32V93N"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T05:35:34Z"
+  }
+}
