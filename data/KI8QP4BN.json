@@ -1,0 +1,83 @@
+{
+  "key": "KI8QP4BN",
+  "version": 4751,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KI8QP4BN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KI8QP4BN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Broido",
+    "parsedDate": "1982",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KI8QP4BN",
+    "version": 4751,
+    "itemType": "journalArticle",
+    "title": "Does Tibetan Hermeneutics Throw Any Light on Sandh\u0101bh\u0101\u1e63a",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michael M.",
+        "lastName": "Broido"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Journal of the Tibet Society",
+    "volume": "2",
+    "issue": "",
+    "pages": "5-39",
+    "date": "1982",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://www.thlib.org/static/reprints/jts/JTS_02_01.pdf",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Description: This article explores the term sandh\u0101bh\u0101\u1e63a as used in the Hevajra-tantra by examining Indian and Tibetan commentaries that apply various principles of interpration of the tantra and the language used in it. Attention is given to texts on interpretation (bshad thabs). Terms discussed in the article include the Tibetan terms bshad thabs, dgongs skad, dgongs bshad, and the Sanskrit terms sandh\u0101-bh\u0101\u1e63a and sandhy\u0101-bh\u0101\u1e63ita\u1e43.\n(Ben Deitle 2006-01-25)",
+    "tags": [],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-14T06:58:33Z",
+    "dateModified": "2025-05-21T07:16:21Z"
+  }
+}

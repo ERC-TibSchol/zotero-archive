@@ -1,0 +1,98 @@
+{
+  "key": "D5VJHLSN",
+  "version": 5347,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/D5VJHLSN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/D5VJHLSN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "D5VJHLSN",
+    "version": 5347,
+    "itemType": "bookSection",
+    "title": "rNgog-lo's Commentary on the <i>Abhisamay\u0101la\u1e43k\u0101ra</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David Paul",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "name": "rNgog lo tsa ba Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "<i>Lo ts\u0101 ba chen po'i bsdus don b\u017augs so</i> = Commentary on the Abhisamayalamkara",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Dharamsala",
+    "publisher": "Library of Tibetan Works and Archives",
+    "date": "1993",
+    "pages": "1\u201331",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Jackson 1993",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/96906849",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "checked"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-01-17T06:49:03Z",
+    "dateModified": "2025-06-02T08:36:18Z"
+  }
+}

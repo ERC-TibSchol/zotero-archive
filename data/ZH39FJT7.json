@@ -1,6 +1,6 @@
 {
-  "key": "ABYM2GP5",
-  "version": 5730,
+  "key": "ZH39FJT7",
+  "version": 4953,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/ABYM2GP5",
+      "href": "https://api.zotero.org/groups/4394244/items/ZH39FJT7",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/ABYM2GP5",
+      "href": "https://www.zotero.org/groups/tibschol/items/ZH39FJT7",
       "type": "text/html"
     }
   },
@@ -34,28 +34,28 @@
         }
       }
     },
-    "creatorSummary": "Jackson",
-    "parsedDate": "1985",
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2020",
     "numChildren": 0
   },
   "data": {
-    "key": "ABYM2GP5",
-    "version": 5730,
+    "key": "ZH39FJT7",
+    "version": 4953,
     "itemType": "journalArticle",
-    "title": "Madhyamaka Studies Among Early Sa-skya-pas",
+    "title": "Indo-Tibetan Tantric Buddhist Scholasticism: Bhavyak\u012brti and His Summary of S\u0101\u1e41khya Philosophy (Part I)",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "David P.",
-        "lastName": "Jackson"
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "Tibet Journal",
-    "volume": "10",
-    "issue": "2",
-    "pages": "20\u201334",
-    "date": "1985",
+    "publicationTitle": "Journal of Tibetan and Himalayan Studies",
+    "volume": "5",
+    "issue": "1",
+    "pages": "1-40",
+    "date": "2020",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
@@ -63,7 +63,7 @@
     "language": "eng",
     "DOI": "",
     "ISSN": "",
-    "shortTitle": "Jackson 1985",
+    "shortTitle": "van der Kuijp 2020",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,20 +71,20 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 322",
+    "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Scholasticism"
       },
       {
-        "tag": "Madhyamaka"
+        "tag": "Tantric Buddhism"
       }
     ],
     "collections": [
-      "3B9JCMU7"
+      "YVHDSL7M"
     ],
     "relations": {},
-    "dateAdded": "2025-05-21T12:46:48Z",
-    "dateModified": "2025-11-24T14:22:03Z"
+    "dateAdded": "2025-03-13T08:45:41Z",
+    "dateModified": "2025-05-21T08:19:35Z"
   }
 }

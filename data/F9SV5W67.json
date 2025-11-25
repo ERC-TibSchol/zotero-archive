@@ -1,0 +1,94 @@
+{
+  "key": "F9SV5W67",
+  "version": 5350,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/F9SV5W67",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/F9SV5W67",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roerich and Chos dpal dar dpyang",
+    "parsedDate": "1959",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "F9SV5W67",
+    "version": 5350,
+    "itemType": "book",
+    "title": "Biography of Dharmasv\u0101min (Chag Lo tsa-ba Chos rje-dpal). A Tibetan Monk Pilgrim",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Chos dpal dar dpyang"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "George",
+        "lastName": "Roerich"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Patna",
+    "publisher": "K.P. Jayaswal Research Institute",
+    "date": "1959",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Roerich 1959",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-02-21T07:17:12Z",
+    "dateModified": "2025-06-02T08:38:01Z"
+  }
+}

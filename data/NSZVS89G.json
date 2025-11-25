@@ -1,0 +1,93 @@
+{
+  "key": "NSZVS89G",
+  "version": 4855,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NSZVS89G",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NSZVS89G",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Almogi",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NSZVS89G",
+    "version": 4855,
+    "itemType": "journalArticle",
+    "title": "M\u0101yopam\u0101dvayav\u0101da versus Sarvadharm\u0101prati\u1e63\u1e6dh\u0101nav\u0101da: A Late Indian Subclassification of Madhyamaka and its Reception in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Orna",
+        "lastName": "Almogi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International College for Postgraduate Buddhist Studies / \u56fd\u969b\u4ecf\u6559\u5b66\u5927\u5b66\u9662\u5927\u5b66\u7814\u7a76\u7d00\u8981",
+    "volume": "14",
+    "issue": "",
+    "pages": "135\u2013212",
+    "date": "2010",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.15056/00000034",
+    "ISSN": "1343-4128",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/MDGCBXH2"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:16:51Z"
+  }
+}

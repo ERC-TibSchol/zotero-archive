@@ -1,0 +1,87 @@
+{
+  "key": "T9MXMM75",
+  "version": 4425,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/T9MXMM75",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/T9MXMM75",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dunne",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "T9MXMM75",
+    "version": 4425,
+    "itemType": "book",
+    "title": "Foundations of Dharmak\u012brti's Philosophy",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "John D.",
+        "lastName": "Dunne"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Somerville, MA",
+    "publisher": "Wisdom Publications",
+    "date": "2004",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Dunne 2004",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/NWNCPXWQ",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/WWGXDX8F"
+    },
+    "dateAdded": "2021-12-20T08:51:28Z",
+    "dateModified": "2025-05-21T06:34:32Z"
+  }
+}

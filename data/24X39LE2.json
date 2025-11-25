@@ -1,0 +1,102 @@
+{
+  "key": "24X39LE2",
+  "version": 4100,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/24X39LE2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/24X39LE2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dbang phyug rin chen",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "24X39LE2",
+    "version": 4100,
+    "itemType": "bookSection",
+    "title": "Byang chub sems dpa\u02bci spyod pa la \u02bcjug pa\u02bci sgrung \u02bcgrel las \u02bcbras gsal ba\u02bci me long",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "dbang phyug rin chen"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung - dpal sa skya'i bzhed gzhung pod chen drug gam grags chen bco brgyad las / phar phyin skor / spyod 'jug pod bcu pa",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "75",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "place": "lha sa",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2015",
+    "pages": "415-529",
+    "language": "tib",
+    "ISBN": "978-7-80589-670-0",
+    "shortTitle": "dbang phyug rin chen - byang sems spyod sgrung 'grel",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_F5890D",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "bdr:MW3CN3408_F5890D",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/AF6KJGIA",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+      ]
+    },
+    "dateAdded": "2024-09-20T13:02:51Z",
+    "dateModified": "2025-05-20T18:56:55Z"
+  }
+}

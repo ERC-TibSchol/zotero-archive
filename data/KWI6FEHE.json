@@ -1,0 +1,102 @@
+{
+  "key": "KWI6FEHE",
+  "version": 4947,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KWI6FEHE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KWI6FEHE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kujip",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KWI6FEHE",
+    "version": 4947,
+    "itemType": "journalArticle",
+    "title": "Studies in Btsun pa Ston gzhon's Pram\u0101\u1e47av\u0101rttika Commentary of 1297 Part Two(a): 'U yug pa Rigs pa'i seng ge (ca. 1195\u2013after 1267)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard",
+        "lastName": "van der Kujip"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "volume": "",
+    "issue": "64",
+    "pages": "307-343",
+    "date": "2022",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_64_13.pdf",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      },
+      {
+        "tag": "Pram\u0101\u1e47av\u0101rttika"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-04-03T14:27:26Z",
+    "dateModified": "2025-05-21T08:17:12Z"
+  }
+}

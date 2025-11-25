@@ -1,0 +1,94 @@
+{
+  "key": "VCEIUJK9",
+  "version": 4750,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VCEIUJK9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VCEIUJK9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VCEIUJK9",
+    "version": 4750,
+    "itemType": "journalArticle",
+    "title": "Text Re-use in Early Tibetan Epistemological Treatises",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "This paper examines the modalities and mechanism of text-use pertaining to Indian and Tibetan material in a selection of Tibetan Buddhist epistemological treatises written between the eleventh and the thirteenth century. It pays special attention to a remarkable feature of this corpus: the phenomenon of \"repeat,\" that is, the unacknowledged integration of earlier material by an author within his own composition. This feature reveals an intellectual continuity in the tradition, and is found even for authors who claim a rupture from their predecessors. Regarding acknowledged text re-use in the form of quotations, I consider which factors condition the identification of the source (via the title of the text and/or name of the author) or the lack thereof, and what role quotations play for the respective authors. In particular, I discuss whether any inference can be drawn, from the presence or absence of quotations, about an author's knowledge of the corresponding source.",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "43",
+    "issue": "4",
+    "pages": "453-491",
+    "date": "2015",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0022-1791",
+    "shortTitle": "",
+    "url": "https://www.jstor.org/stable/43496714",
+    "accessDate": "2021-08-11T15:55:01Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Springer",
+    "tags": [],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-11T15:55:01Z",
+    "dateModified": "2025-05-21T07:16:17Z"
+  }
+}

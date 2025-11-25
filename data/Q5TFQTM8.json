@@ -1,6 +1,6 @@
 {
-  "key": "N8VI2328",
-  "version": 5715,
+  "key": "Q5TFQTM8",
+  "version": 5713,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/N8VI2328",
+      "href": "https://api.zotero.org/groups/4394244/items/Q5TFQTM8",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/N8VI2328",
+      "href": "https://www.zotero.org/groups/tibschol/items/Q5TFQTM8",
       "type": "text/html"
     }
   },
@@ -35,14 +35,14 @@
       }
     },
     "creatorSummary": "Yoshimizu et al.",
-    "parsedDate": "2018",
-    "numChildren": 0
+    "parsedDate": "2013",
+    "numChildren": 1
   },
   "data": {
-    "key": "N8VI2328",
-    "version": 5715,
+    "key": "Q5TFQTM8",
+    "version": 5713,
     "itemType": "book",
-    "title": "Zhang Thang sag pa 'Byung gnas ye shes, dBu ma tshig gsal gyi ti ka Part II",
+    "title": "Zhang Thang sag pa \u02bcByung gnas ye shes, dBu ma tshig gsal gyi ti ka Part I",
     "creators": [
       {
         "creatorType": "author",
@@ -56,36 +56,31 @@
       },
       {
         "creatorType": "author",
-        "firstName": "Kazuo",
-        "lastName": "Kano"
-      },
-      {
-        "creatorType": "author",
         "firstName": "",
         "lastName": "Zhang Thang sag pa"
       }
     ],
     "abstractNote": "",
     "series": "Studia Tibetica",
-    "seriesNumber": "No. 49",
+    "seriesNumber": "no. 46",
     "volume": "",
     "numberOfVolumes": "",
-    "edition": "",
+    "edition": "Shohan",
     "place": "Tokyo",
-    "publisher": "The Tokyo Bunko",
-    "date": "2018",
-    "numPages": "",
-    "language": "tib eng",
-    "ISBN": "978-4-8097-0293-8",
-    "shortTitle": "Zhang thang - tshig gsal ti ka I 2018 ed.",
+    "publisher": "Toyo Bunko",
+    "date": "2013",
+    "numPages": "1",
+    "language": "eng tib",
+    "ISBN": "978-4-8097-0253-2",
+    "shortTitle": "Zhang thang - tshig gsal ti ka II 2013 ed.",
     "url": "",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
-    "libraryCatalog": "BnF ISBN",
-    "callNumber": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3187 .Y67 2013",
     "rights": "",
-    "extra": "",
+    "extra": "OCLC: ocn837425342",
     "tags": [
       {
         "tag": "APIS"
@@ -95,10 +90,11 @@
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "IEP4UFSV",
+      "3B9JCMU7"
     ],
     "relations": {},
-    "dateAdded": "2022-10-11T11:10:17Z",
-    "dateModified": "2025-11-24T12:59:09Z"
+    "dateAdded": "2022-10-11T11:09:55Z",
+    "dateModified": "2025-11-24T12:58:58Z"
   }
 }

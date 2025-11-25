@@ -1,0 +1,94 @@
+{
+  "key": "JUARFJSX",
+  "version": 5345,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JUARFJSX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JUARFJSX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 17247060,
+      "username": "sherabJS",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/sherabjs",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Samuels, Jonathan",
+    "parsedDate": "2025",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JUARFJSX",
+    "version": 5345,
+    "itemType": "journalArticle",
+    "title": "Divided by scholasticism: Revealing early sources on what separated the monasteries of Rwa sgreng and Gsang phu",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Samuels, Jonathan"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "volume": "76",
+    "issue": "April",
+    "pages": "5\u201386",
+    "date": "2025",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "language": "eng",
+    "DOI": "https://doi.org/10.1553/TibSchol_ERC_Cog_101001002_Samuels_Divided",
+    "ISSN": "",
+    "shortTitle": "Samuels 2025",
+    "url": "https://epub.oeaw.ac.at/0xc1aa5572_0x00404de8.pdf",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2025-05-26T13:07:48Z",
+    "dateModified": "2025-06-01T16:44:56Z"
+  }
+}

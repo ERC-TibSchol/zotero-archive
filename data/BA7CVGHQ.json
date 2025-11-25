@@ -1,0 +1,92 @@
+{
+  "key": "BA7CVGHQ",
+  "version": 4101,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BA7CVGHQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BA7CVGHQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Shes rab bzang po and Thub bstan smon lam",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BA7CVGHQ",
+    "version": 4101,
+    "itemType": "book",
+    "title": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      }
+    ],
+    "abstractNote": "",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "place": "lha sa",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "date": "2015",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/AF6KJGIA",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+      ]
+    },
+    "dateAdded": "2024-09-20T13:00:14Z",
+    "dateModified": "2025-05-20T18:57:05Z"
+  }
+}

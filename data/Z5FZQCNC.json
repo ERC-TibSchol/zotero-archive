@@ -1,0 +1,95 @@
+{
+  "key": "Z5FZQCNC",
+  "version": 5731,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z5FZQCNC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z5FZQCNC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1987",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z5FZQCNC",
+    "version": 5731,
+    "itemType": "book",
+    "title": "The Entrance Gate for the Wise (Section III): Sa-skya Pa\u1e47\u1e0dita on Indian and Tibetan Traditions of <i>Pram\u0101\u1e47a</i> and Philosophical Debate",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David Paul",
+        "lastName": "Jackson"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "17.1-2",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "date": "1987",
+    "numPages": "xi & v, 619",
+    "language": "eng, tib",
+    "ISBN": "",
+    "shortTitle": "Jackson 1983",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "BQ7950.S344",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Debate"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/5W6VC83V"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-11-24T15:46:24Z"
+  }
+}

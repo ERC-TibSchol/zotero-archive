@@ -1,0 +1,82 @@
+{
+  "key": "NFGNU9NT",
+  "version": 4960,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NFGNU9NT",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NFGNU9NT",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mChims 'jam pa'i dbyangs",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NFGNU9NT",
+    "version": 4960,
+    "itemType": "book",
+    "title": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mChims 'jam pa'i dbyangs"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Mundgod, Karanataka State",
+    "publisher": "dga' ldan byang rtse thos bsam nor gling dpe mdzod khang",
+    "date": "2018",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "mChims mdzod",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2024-11-29T19:03:17Z",
+    "dateModified": "2024-11-29T19:04:21Z"
+  }
+}

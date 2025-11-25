@@ -1,0 +1,97 @@
+{
+  "key": "5RXEUKD9",
+  "version": 5346,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5RXEUKD9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5RXEUKD9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "A khu Ching Shes rab rgya mtsho",
+    "parsedDate": "1963",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5RXEUKD9",
+    "version": 5346,
+    "itemType": "bookSection",
+    "title": "dPe rgyun dkon pa 'ga' zhig gi tho yig. Don gnyer yid kyi kun+da bzhad pa'i zla 'od 'bum gyi snye ma",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "A khu Ching Shes rab rgya mtsho"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Lokesh Chandra"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Materials for a History of Tibetan Literature: Volume 3",
+    "series": "\u015aata-Pi\u1e6daka Series",
+    "seriesNumber": "30",
+    "volume": "3",
+    "numberOfVolumes": "3",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "International Academy of Indian Culture",
+    "date": "1963",
+    "pages": "503\u2013601",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "A khu - Tho yig",
+    "url": "https://library.bdrc.io/show/bdr:W1KG9848",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "BDRC No: W1KG9848",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/DQ6XQ49S"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-06-02T08:34:17Z"
+  }
+}

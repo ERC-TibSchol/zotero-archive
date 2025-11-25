@@ -1,6 +1,6 @@
 {
-  "key": "ABYM2GP5",
-  "version": 5730,
+  "key": "CMTPPRKW",
+  "version": 5728,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/ABYM2GP5",
+      "href": "https://api.zotero.org/groups/4394244/items/CMTPPRKW",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/ABYM2GP5",
+      "href": "https://www.zotero.org/groups/tibschol/items/CMTPPRKW",
       "type": "text/html"
     }
   },
@@ -34,28 +34,27 @@
         }
       }
     },
-    "creatorSummary": "Jackson",
-    "parsedDate": "1985",
+    "creatorSummary": "Chizuko Yoshimizu",
+    "parsedDate": "2005",
     "numChildren": 0
   },
   "data": {
-    "key": "ABYM2GP5",
-    "version": 5730,
+    "key": "CMTPPRKW",
+    "version": 5728,
     "itemType": "journalArticle",
-    "title": "Madhyamaka Studies Among Early Sa-skya-pas",
+    "title": "A Tibetan Text from the Twelfth Century Unknown to Later Tibetans",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "David P.",
-        "lastName": "Jackson"
+        "name": "Chizuko Yoshimizu"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "Tibet Journal",
-    "volume": "10",
-    "issue": "2",
-    "pages": "20\u201334",
-    "date": "1985",
+    "publicationTitle": "Cahiers d'Extr\u00eame-Asie",
+    "volume": "15",
+    "issue": "",
+    "pages": "125-163",
+    "date": "2005",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
@@ -63,7 +62,7 @@
     "language": "eng",
     "DOI": "",
     "ISSN": "",
-    "shortTitle": "Jackson 1985",
+    "shortTitle": "Yoshimizu 2005",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -71,7 +70,7 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 322",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
@@ -80,11 +79,9 @@
         "tag": "Madhyamaka"
       }
     ],
-    "collections": [
-      "3B9JCMU7"
-    ],
+    "collections": [],
     "relations": {},
-    "dateAdded": "2025-05-21T12:46:48Z",
-    "dateModified": "2025-11-24T14:22:03Z"
+    "dateAdded": "2025-11-24T13:10:11Z",
+    "dateModified": "2025-11-24T13:11:35Z"
   }
 }
