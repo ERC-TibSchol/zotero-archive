@@ -1,0 +1,97 @@
+{
+  "key": "8VLVHDR2",
+  "version": 5353,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8VLVHDR2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8VLVHDR2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan",
+    "parsedDate": "1988",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "8VLVHDR2",
+    "version": 5353,
+    "itemType": "bookSection",
+    "title": "dBu ma\u02bci byung tshul rnam par bshad pa\u02bci gtam yid bzhin lhun po zhes bya ba\u02bci bstan bcos",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Complete Works (gsun 'bum) Of Gser-mdog Pan-chen Sakya-mchog-ldan",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "24",
+    "edition": "",
+    "place": "New delhi",
+    "publisher": "Nagwang topgyel",
+    "date": "1988",
+    "pages": "209-248",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Gser mdog Pa\u1e47 chen - Dbu ma\u02bei byung tshul",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T12:38:44Z",
+    "dateModified": "2025-06-02T08:39:47Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "key": "4W5HW75B",
+  "version": 4969,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4W5HW75B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4W5HW75B",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4W5HW75B",
+    "version": 4969,
+    "itemType": "journalArticle",
+    "title": "A Study and Translation of Ati\u015ba\u2019s Madhyamakopad\u00e9sa with Indian and Tibetan Commentaries",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Acta Tibetica et Buddhica",
+    "volume": "7",
+    "issue": "",
+    "pages": "1-82",
+    "date": "2015",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Apple 2015",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-05-22T14:57:01Z",
+    "dateModified": "2025-05-21T08:24:38Z"
+  }
+}

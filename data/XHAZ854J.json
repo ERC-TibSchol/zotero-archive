@@ -1,0 +1,85 @@
+{
+  "key": "XHAZ854J",
+  "version": 4103,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XHAZ854J",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XHAZ854J",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XHAZ854J",
+    "version": 4103,
+    "itemType": "bookSection",
+    "title": "Latest News from a Kashmirian \u201cSecond Dharmak\u012brti\u201d: On the Life, Works and Confessional Identity of \u015aa\u1e45karanandana according to New Manuscript Resources",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Cultural Flows across the Western Himalaya",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2015",
+    "pages": "303\u2013363",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Eltschinger 2015",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-07-26T14:19:13Z",
+    "dateModified": "2025-05-20T18:57:45Z"
+  }
+}

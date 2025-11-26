@@ -1,0 +1,97 @@
+{
+  "key": "KTD2NZG4",
+  "version": 4121,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KTD2NZG4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KTD2NZG4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rdo rje rgyal po",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KTD2NZG4",
+    "version": 4121,
+    "itemType": "bookSection",
+    "title": "Phya pa chos kyi seng ge la dpal phag mo gru pas zhu ba phul ba",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Phag mo gru pa rdo rje rgyal po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung 'bum rdo rje rgyal po",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "numberOfVolumes": "9",
+    "edition": "",
+    "place": "Kathmandu",
+    "publisher": "Khenpo Shedrub Tenzin and Lama Thinley Namgyal",
+    "date": "2003",
+    "pages": "586-589",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Phag gru - Phya pa zhu ba phul ba",
+    "url": "http://purl.bdrc.io/resource/MW23891_0AAD49",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "KZTGTQXP"
+    ],
+    "relations": {},
+    "dateAdded": "2025-03-25T14:48:59Z",
+    "dateModified": "2025-05-20T19:00:22Z"
+  }
+}

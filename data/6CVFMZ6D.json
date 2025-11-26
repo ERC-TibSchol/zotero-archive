@@ -1,0 +1,113 @@
+{
+  "key": "6CVFMZ6D",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6CVFMZ6D",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6CVFMZ6D",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Silk et al.",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6CVFMZ6D",
+    "version": 5118,
+    "itemType": "book",
+    "title": "Brill's Encyclopedia of Buddhism. Volume Two: Lives",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Jonathan",
+        "lastName": "Silk"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Richard",
+        "lastName": "Bowring"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Michael",
+        "lastName": "Radich"
+      }
+    ],
+    "abstractNote": "There is no Buddhism without Buddhists, without monks and poets and philosophers, just as there is no Buddhism without the Buddha and the hosts of figures who populate the Buddhist Universe. This second volume of Brills Encyclopedia of Buddhism, devoted to Lives, offers a wide array of entries devoted both to the Buddhist pantheon and to historical Buddhists from throughout Asia in the pre-modern period. Folllowing on the 2015 publication of Volume I, dedicated primarily to Buddhist literature, this volume offers in its first section entries on Buddhas, bodhisattvas, deities and other transhistorical and translocal figures, while the second section presents accounts of historical or semi-historical individuals, organized by geographic region.",
+    "series": "Handbook of Oriental Studies. Section 2 South Asia.",
+    "seriesNumber": "",
+    "volume": "29.2",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden ; Boston",
+    "publisher": "Brill",
+    "date": "2019",
+    "numPages": "1300",
+    "language": "eng",
+    "ISBN": "978-90-04-29937-5",
+    "shortTitle": "Brill's Encyclopedia of Buddhism. Volume Two",
+    "url": "https://brill.com/view/title/23918",
+    "accessDate": "2021-08-31T12:26:41Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "brill.com",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:26:41Z",
+    "dateModified": "2025-05-21T08:20:24Z"
+  }
+}

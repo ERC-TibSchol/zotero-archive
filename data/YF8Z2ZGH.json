@@ -1,0 +1,107 @@
+{
+  "key": "YF8Z2ZGH",
+  "version": 5560,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YF8Z2ZGH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YF8Z2ZGH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Gos Lo tsa ba gZhon nu dpal",
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YF8Z2ZGH",
+    "version": 5560,
+    "itemType": "book",
+    "title": "The Blue Annals",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "1392-1481",
+        "lastName": "'Gos Lo tsa ba gZhon nu dpal"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "translator",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "India)",
+        "lastName": ""
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Motilal Banarsidass",
+    "date": "1996",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "81-208-0471-6",
+    "shortTitle": "Roerich 1996",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2023-11-22T14:09:23Z",
+    "dateModified": "2025-06-02T08:40:20Z"
+  }
+}

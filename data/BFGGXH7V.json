@@ -1,0 +1,90 @@
+{
+  "key": "BFGGXH7V",
+  "version": 4974,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BFGGXH7V",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BFGGXH7V",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BFGGXH7V",
+    "version": 4974,
+    "itemType": "journalArticle",
+    "title": "A Note on the Relationship between the Bka' gdams pa School and Mi nyag/Xi xia",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Zang xue xue kan (Journal of Tibetology)",
+    "volume": "8",
+    "issue": "",
+    "pages": "58-62",
+    "date": "2012",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Iuchi 2012",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Tangut"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "Y45VXADN"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T06:48:39Z",
+    "dateModified": "2025-05-21T08:25:18Z"
+  }
+}

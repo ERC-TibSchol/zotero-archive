@@ -1,0 +1,88 @@
+{
+  "key": "UVTQ9HWQ",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UVTQ9HWQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UVTQ9HWQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UVTQ9HWQ",
+    "version": 5118,
+    "itemType": "journalArticle",
+    "title": "A Brief Survey of Biographies of the Great Masters of Geluk School in Bka' gdams chos 'byung gsal ba'i sgron me",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Qinghai Nationalities University",
+    "volume": "3",
+    "issue": "",
+    "pages": "155-164",
+    "date": "2018",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Iuchi 2018",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T06:51:52Z",
+    "dateModified": "2025-05-21T08:23:38Z"
+  }
+}

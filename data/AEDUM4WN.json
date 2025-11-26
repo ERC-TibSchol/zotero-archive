@@ -1,0 +1,98 @@
+{
+  "key": "AEDUM4WN",
+  "version": 4770,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AEDUM4WN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AEDUM4WN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AEDUM4WN",
+    "version": 4770,
+    "itemType": "journalArticle",
+    "title": "Is Dharmak\u012brti Grabbing the Rabbit by the Horns? A Reassessment of the Scope of <i>prameya</i> in Dharmak\u012brtian Epistemology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy. Special issue: Proceedings of the Philosophy Panel at the XIVth World Sanskrit Conference [Kyoto, Japan, September 1-5, 2009]",
+    "volume": "39.4-5",
+    "issue": "",
+    "pages": "367\u2012389",
+    "date": "2011",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "language": "eng",
+    "DOI": "10.1007/s10781-011-9137-9",
+    "ISSN": "1573-0395",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/M43544VI"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:18:17Z"
+  }
+}

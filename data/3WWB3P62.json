@@ -1,0 +1,85 @@
+{
+  "key": "3WWB3P62",
+  "version": 4104,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3WWB3P62",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3WWB3P62",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Eltschinger",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3WWB3P62",
+    "version": 4104,
+    "itemType": "journalArticle",
+    "title": "Les \u0153uvres de \u015aa\u1e45karanandana : nouvelles ressources manuscrites, chronologie relative et identit\u00e9 confessionnelle",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Annali dell\u2019Istituto Universitario Orientale di Napoli",
+    "volume": "66",
+    "issue": "1-4",
+    "pages": "83-122",
+    "date": "2006",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "fr",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Eltschinger 2006",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-07-26T14:08:57Z",
+    "dateModified": "2025-05-20T18:57:51Z"
+  }
+}

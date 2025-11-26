@@ -1,6 +1,6 @@
 {
-  "key": "8JC3TDMA",
-  "version": 5732,
+  "key": "ITEYGN38",
+  "version": 5811,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/8JC3TDMA",
+      "href": "https://api.zotero.org/groups/4394244/items/ITEYGN38",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/8JC3TDMA",
+      "href": "https://www.zotero.org/groups/tibschol/items/ITEYGN38",
       "type": "text/html"
     }
   },
@@ -34,42 +34,41 @@
         }
       }
     },
-    "creatorSummary": "kun dga'",
-    "parsedDate": "2009",
+    "creatorSummary": "Pa tshab Nyi ma grags",
     "numChildren": 0
   },
   "data": {
-    "key": "8JC3TDMA",
-    "version": 5732,
+    "key": "ITEYGN38",
+    "version": 5811,
     "itemType": "bookSection",
-    "title": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po",
+    "title": "dbu ma rtsa ba shes rab kyi spyi sdom",
     "creators": [
       {
-        "creatorType": "editor",
+        "creatorType": "bookAuthor",
         "firstName": "",
-        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+        "lastName": "Pa tshab Nyi ma grags"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "kun dga'"
+        "lastName": "Pa tshab Nyi ma grags"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
+    "bookTitle": "rTsa shes kyi \u1e6d\u012b ka dang tshig gsal gyi dka\u02bc gnad spyi sdom bcas",
     "series": "",
     "seriesNumber": "",
-    "volume": "88",
-    "numberOfVolumes": "30",
+    "volume": "",
+    "numberOfVolumes": "1",
     "edition": "",
-    "place": "Khreng tu'u",
-    "publisher": "Si khron mi rigs dpe skrun khang",
-    "date": "2009",
-    "pages": "7-219",
+    "place": "gser rta rdzong",
+    "publisher": "gser ljongs bla rung lnga rig nang bstan slob grwa chen mo",
+    "date": "",
+    "pages": "389-397",
     "language": "tib",
-    "ISBN": "978-7-5409-4283-0",
-    "shortTitle": "Kun dga' - rnam 'grel zin bris",
-    "url": "https://purl.bdrc.io/resource/MW1PD153536_9D699C",
+    "ISBN": "",
+    "shortTitle": "Pa tshab - dbu rtsa shes rab spyi sdom ed.",
+    "url": "http://purl.bdrc.io/resource/MW3CN3438",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
@@ -82,14 +81,14 @@
         "tag": "APIS"
       },
       {
-        "tag": "Collected works"
+        "tag": "Madhyamaka"
       }
     ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
+      "dc:relation": "http://zotero.org/groups/4394244/items/7MEK37AB"
     },
-    "dateAdded": "2025-09-23T06:32:41Z",
-    "dateModified": "2025-11-25T09:50:11Z"
+    "dateAdded": "2025-11-25T18:24:10Z",
+    "dateModified": "2025-11-25T18:29:47Z"
   }
 }

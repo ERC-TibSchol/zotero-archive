@@ -1,5 +1,5 @@
 {
-  "key": "8JC3TDMA",
+  "key": "3QX8E324",
   "version": 5732,
   "library": {
     "type": "group",
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/8JC3TDMA",
+      "href": "https://api.zotero.org/groups/4394244/items/3QX8E324",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/8JC3TDMA",
+      "href": "https://www.zotero.org/groups/tibschol/items/3QX8E324",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "kun dga'",
+    "creatorSummary": "Kun dga' rgyal mtshan",
     "parsedDate": "2009",
     "numChildren": 0
   },
   "data": {
-    "key": "8JC3TDMA",
+    "key": "3QX8E324",
     "version": 5732,
     "itemType": "bookSection",
-    "title": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po",
+    "title": "mngon rtogs rgyan gyi rnam bshad rin chen snang pa",
     "creators": [
       {
         "creatorType": "editor",
@@ -52,24 +52,24 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "kun dga'"
+        "lastName": "Kun dga' rgyal mtshan"
       }
     ],
     "abstractNote": "",
     "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
     "series": "",
     "seriesNumber": "",
-    "volume": "88",
+    "volume": "61-90",
     "numberOfVolumes": "30",
     "edition": "",
     "place": "Khreng tu'u",
     "publisher": "Si khron mi rigs dpe skrun khang",
     "date": "2009",
-    "pages": "7-219",
+    "pages": "7-406",
     "language": "tib",
     "ISBN": "978-7-5409-4283-0",
-    "shortTitle": "Kun dga' - rnam 'grel zin bris",
-    "url": "https://purl.bdrc.io/resource/MW1PD153536_9D699C",
+    "shortTitle": "Kun dga' - mngon rtogs rgyan rnam bshad",
+    "url": "",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
@@ -89,7 +89,7 @@
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
     },
-    "dateAdded": "2025-09-23T06:32:41Z",
-    "dateModified": "2025-11-25T09:50:11Z"
+    "dateAdded": "2025-11-25T09:50:11Z",
+    "dateModified": "2025-11-25T09:52:07Z"
   }
 }

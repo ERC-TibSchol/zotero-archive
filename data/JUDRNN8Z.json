@@ -1,0 +1,54 @@
+{
+  "key": "JUDRNN8Z",
+  "version": 2904,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JUDRNN8Z",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JUDRNN8Z",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/P9VAXVKL",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JUDRNN8Z",
+    "version": 2904,
+    "parentItem": "P9VAXVKL",
+    "itemType": "note",
+    "note": "<p>Sprache/Schrift: Einl. engl.</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-01-21T13:17:20Z",
+    "dateModified": "2025-01-21T13:17:20Z"
+  }
+}

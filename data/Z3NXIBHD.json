@@ -1,0 +1,84 @@
+{
+  "key": "Z3NXIBHD",
+  "version": 5748,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z3NXIBHD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z3NXIBHD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Khu byug",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z3NXIBHD",
+    "version": 5748,
+    "itemType": "book",
+    "title": "bod kyi dbu ma'i lta ba'i 'chad nyan dar tshul blo gsal mig 'byed",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Khu byug"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lhasa",
+    "publisher": "China Tibetological Publications",
+    "date": "2004",
+    "numPages": "",
+    "language": "",
+    "ISBN": "",
+    "shortTitle": "Khu byug 2004",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-25T16:03:20Z",
+    "dateModified": "2025-11-25T16:04:04Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "key": "QBUS9UG2",
+  "version": 5481,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QBUS9UG2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QBUS9UG2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "1991",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QBUS9UG2",
+    "version": 5481,
+    "itemType": "book",
+    "title": "Tshad ma sde bdun rgyan gyi me tog",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "bCom ldan rigs pa'i ral gri"
+      },
+      {
+        "creatorType": "editor",
+        "name": "rDo rje rgyal po"
+      }
+    ],
+    "abstractNote": "Exegetical commentary on Pram\u0101\u1e47avini\u015bcaya of Dharmak\u012brti, treatise on Buddhist logic; includes lucid explanatory notes on general treatises of Buddhist logic",
+    "series": "Gangs ljongs shes rig gi nying bcud",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "Par the\u1e45s 1",
+    "place": "China",
+    "publisher": "Krung-go\u02bci Bod kyi shes rig dpe skrun khang : Mtsho-sngon Zhing-chen Zhin-hwa dpe tshong khang gis bkram",
+    "date": "1991",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "978-7-80057-049-0",
+    "shortTitle": "Ral gri - tshad ma sde bdun rgyan me tog 1991 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3300.P735 B35 1991",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/EXBFBKDN",
+        "http://zotero.org/groups/4394244/items/VEQ7EC9V"
+      ]
+    },
+    "dateAdded": "2023-11-14T16:28:25Z",
+    "dateModified": "2025-05-21T06:35:08Z"
+  }
+}

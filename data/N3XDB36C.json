@@ -1,0 +1,98 @@
+{
+  "key": "N3XDB36C",
+  "version": 4447,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N3XDB36C",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N3XDB36C",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tillemans",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "N3XDB36C",
+    "version": 4447,
+    "itemType": "book",
+    "title": "Scripture, Logic, Language: Essays on Dharmakirti and his Tibetan successors",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tom J. F.",
+        "lastName": "Tillemans"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Boston, Mass.",
+    "publisher": "Wisdom Publications",
+    "date": "1999",
+    "numPages": "xvi+318",
+    "language": "eng",
+    "ISBN": "978-0-86171-156-7",
+    "shortTitle": "Tillemans 1999",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "B133.D484",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:42:48Z",
+    "dateModified": "2025-05-21T06:37:02Z"
+  }
+}

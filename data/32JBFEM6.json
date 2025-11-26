@@ -1,0 +1,89 @@
+{
+  "key": "32JBFEM6",
+  "version": 5360,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/32JBFEM6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/32JBFEM6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bTsun pa ston gzhon",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "32JBFEM6",
+    "version": 5360,
+    "itemType": "book",
+    "title": "rNam \u02bcgrel gyi rnam bshad gangs can gyi rgyan",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bTsun pa ston gzhon"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Krung go\u02bci bod kyi shes rig dpe skrun khang",
+    "date": "1993",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "sTon gzhon - rnam 'grel rnam bshad 1993 ed.",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:W20481",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Pram\u0101\u1e47av\u0101rttika"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2024-04-05T09:58:36Z",
+    "dateModified": "2025-06-02T08:41:09Z"
+  }
+}

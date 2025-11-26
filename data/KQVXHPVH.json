@@ -1,0 +1,145 @@
+{
+  "key": "KQVXHPVH",
+  "version": 2936,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KQVXHPVH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KQVXHPVH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Krasser",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KQVXHPVH",
+    "version": 2936,
+    "itemType": "bookSection",
+    "title": "Bh\u0101viveka, Dharmak\u012brti and Kum\u0101rila",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Krasser"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Fran\u00e7ois",
+        "lastName": "Voegeli"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Daniele",
+        "lastName": "Feller"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Maria Piera",
+        "lastName": "Candotti"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Bogdan",
+        "lastName": "Dianescu"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Malhar",
+        "lastName": "Kulkarni"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Fran\u00e7ois",
+        "lastName": "Voegeli"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Daniele",
+        "lastName": "Feller"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Maria Piera",
+        "lastName": "Candotti"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Bogdan",
+        "lastName": "Dianescu"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Malhar",
+        "lastName": "Kulkarni"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bern, etc.",
+    "publisher": "Peter Lang",
+    "date": "2012",
+    "pages": "535\u2013594",
+    "language": "en-US",
+    "ISBN": "",
+    "shortTitle": "Krasser 2012",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-01-24T16:08:40Z",
+    "dateModified": "2025-01-24T16:15:25Z"
+  }
+}

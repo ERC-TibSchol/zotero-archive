@@ -1,0 +1,97 @@
+{
+  "key": "2QJBN2UX",
+  "version": 4432,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2QJBN2UX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2QJBN2UX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Klong chen pa Dri med \u02bcod zer (attributed to) and 'Jad gZhon nu byang chub",
+    "parsedDate": "2000",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2QJBN2UX",
+    "version": 4432,
+    "itemType": "book",
+    "title": "Tshad ma\u02bci de kho na nyid bsdus pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Klong chen pa Dri med \u02bcod zer (attributed to)"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Jad gZhon nu byang chub"
+      }
+    ],
+    "abstractNote": "Commentary on Pram\u0101\u1e47av\u0101rttika of Dharmak\u012brti, 7th cent",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "Par thengs 1",
+    "place": "Chengdu",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "date": "2000",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "978-7-5409-2252-8",
+    "shortTitle": "'Jad - tshad ma de kho na nyid bsdus pa",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3237.D463 K56 2000",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2023-10-24T10:14:47Z",
+    "dateModified": "2025-05-21T06:35:11Z"
+  }
+}

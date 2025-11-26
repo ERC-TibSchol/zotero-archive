@@ -1,0 +1,99 @@
+{
+  "key": "QL2DRSB4",
+  "version": 4762,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QL2DRSB4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QL2DRSB4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QL2DRSB4",
+    "version": 4762,
+    "itemType": "journalArticle",
+    "title": "Arguments by Parallels in the Epistemological Works of Phya pa Chos kyi seng ge",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "The works of the Tibetan logician Phya pa Chos kyi seng ge (1109\u20131169) make abundant use of a particular type of argument that I term \u2018argument by parallels\u2019. Their main characteristic is that the instigator of the argument, addressing a thesis in a domain A, introduces a parallel thesis in an unrelated domain B. And in the ensuing dialogue, each of the instigator\u2019s statements consists in replicating his interlocutor\u2019s previous assertion, mutatis mutandis, in the other domain (A or B). I show that such a dialogue involves two parallel arguments that develop in an intersecting zigzag pattern, and discuss the principles involved in the establishment of the conclusion from the perspective of parity of reasoning and analogical argument. I examine the overall rhetorical strategy directing the use of arguments by parallels and the pedagogical and explanatory functions they can serve. I also evaluate the plausibility of their use in Phya pa Chos kyi seng ge\u2019s works mirroring a contemporary practice of oral debate, and reflect on the status of such arguments in the framework of Indo-Tibetan logic.",
+    "publicationTitle": "Argumentation: An International Journal on Reasoning",
+    "volume": "22.1",
+    "issue": "",
+    "pages": "93\u2013114",
+    "date": "2008",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Argumentation",
+    "language": "eng",
+    "DOI": "10.1007/s10503-007-9074-7",
+    "ISSN": "1572-8374",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "2021-08-11T15:31:26Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Springer Link",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/98VQFKLB"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:17:23Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "key": "RA3FK3BK",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RA3FK3BK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RA3FK3BK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Stearns",
+    "parsedDate": "2001",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "RA3FK3BK",
+    "version": 5118,
+    "itemType": "book",
+    "title": "Luminous lives: the story of the early masters of the Lam'bras tradition in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Cyrus",
+        "lastName": "Stearns"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "Nachdr.",
+    "place": "Boston",
+    "publisher": "Wisdom Publications",
+    "date": "2001",
+    "numPages": "305",
+    "language": "eng",
+    "ISBN": "978-0-86171-307-3",
+    "shortTitle": "Stearns 2001",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "lam 'bras"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2024-02-14T15:41:41Z",
+    "dateModified": "2025-05-21T08:29:03Z"
+  }
+}

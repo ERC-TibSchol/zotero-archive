@@ -1,0 +1,95 @@
+{
+  "key": "WEQ2WCKY",
+  "version": 4776,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WEQ2WCKY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WEQ2WCKY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WEQ2WCKY",
+    "version": 4776,
+    "itemType": "journalArticle",
+    "title": "Interpretations of the <i>trair\u016bpya</i> in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "H\u014drin: Vergleichende Studien zur japanischen Kultur",
+    "volume": "11",
+    "issue": "",
+    "pages": "95\u2013117",
+    "date": "2004",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "H\u014drin",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0945-9634",
+    "shortTitle": "Hugon 2004",
+    "url": "https://www.iudicium.de/katalog/520-0.htm",
+    "accessDate": "2021-08-11T15:11:55Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/U78MWZX2"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:18:46Z"
+  }
+}

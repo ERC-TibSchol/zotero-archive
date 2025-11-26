@@ -1,0 +1,101 @@
+{
+  "key": "XKL4TD2S",
+  "version": 5351,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XKL4TD2S",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XKL4TD2S",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "sTag lung zhabs drung ngag dbang rnam rgyal",
+    "parsedDate": "1972",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XKL4TD2S",
+    "version": 5351,
+    "itemType": "bookSection",
+    "title": "Chos \u02bcbyung ngo mtshar rgya mtsho las bka\u02bc brgyud spyi\u02bci rnam thar rags tsam smos pa (ta)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "sTag lung zhabs drung ngag dbang rnam rgyal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "A Detailed Account Of The Development Of Buddhism In Tibet With Special Emphasis On The Stag-lun Bka'-brgyud-pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Palampur",
+    "publisher": "Sungrab nyamso gyunpel parkhang",
+    "date": "1972",
+    "pages": "220\u201348",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Chos 'byung ngo mtshar rgya mtsho",
+    "url": "http://purl.bdrc.io/resource/MW23745_5ED49E",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW23745\nWork: WA17276",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T13:31:11Z",
+    "dateModified": "2025-06-02T08:38:30Z"
+  }
+}

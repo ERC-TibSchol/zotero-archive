@@ -1,0 +1,90 @@
+{
+  "key": "DQZ4IIQZ",
+  "version": 4119,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DQZ4IIQZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DQZ4IIQZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DQZ4IIQZ",
+    "version": 4119,
+    "itemType": "journalArticle",
+    "title": "\u30b4\u30af\u30fb\u30ed\u30c7\u30b7\u30a7\u30fc\u30e9\u30d7\u4f5c\u300e\u66f8\u7c21\u30fb\u7518\u9732\u306e\u6ef4\u300f\u306e\u65b0\u51fa\u7248\u672c (rNgog Blo ldan shes rab saku shokan kanro no sizuku no sinshutsu hanbon) [A Xylograph Version of rNgog Blo ldan shes rab's <i>sPring yig bdud rtsi'i thig pa</i>]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u99d2\u6fa4\u5927\u5b66\u4ecf\u6559\u5b66\u90e8\u7814\u7a76\u7d00\u8981 (Komazawa daigaku bukkyogakubu kiyo) [Journal of the Faculty of Buddhism of Komazawa University]",
+    "volume": "78",
+    "issue": "",
+    "pages": "57\u201384",
+    "date": "2020",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap, tib",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Kano 2020",
+    "url": "http://repo.komazawa-u.ac.jp/opac/repository/all/MD40139396/",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/8L2ESYIP"
+    },
+    "dateAdded": "2024-01-24T09:35:41Z",
+    "dateModified": "2025-05-20T19:00:00Z"
+  }
+}

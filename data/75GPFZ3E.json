@@ -1,0 +1,99 @@
+{
+  "key": "75GPFZ3E",
+  "version": 4785,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/75GPFZ3E",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/75GPFZ3E",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "75GPFZ3E",
+    "version": 4785,
+    "itemType": "journalArticle",
+    "title": "Phya pa Chos kyi seng ge on Argumentation by Consequence (<i>thal 'gyur</i>): The Nature, Function, and Form of Consequence Statements",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "This paper presents the main aspects of the views of the Tibetan logician Phya pa Chos kyi seng ge (1109-1169) on argumentation \"by consequence\" (thal 'gyur, Skt. prasa\u1e45ga) based on his exposition of the topic in the fifth chapter of his Tshad ma yid kyi mun sel and on a parallel excursus in his commentary on Dharmak\u012brti's Pram\u0101navini\u015bcaya. It aims at circumscribing primarily the nature and function of consequences (thal 'gyur/thal ba) for this author\u2014in particular the distinction between \"proving consequences\" and \"refuting consequences\"\u2014and the form prescribed for their enunciation in the context of debate. In addition to pointing out differences with the systems adopted by his predecessors, contemporaries and successors, the paper also discusses some of the similarities and differences between Phya pa's understanding of argumentation by consequence and the notion of reductio ad absurdum in Western logic.",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "41.6",
+    "issue": "",
+    "pages": "671\u2013702",
+    "date": "2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "language": "eng",
+    "DOI": "10.1007/s10781-013-9205-4",
+    "ISSN": "0022-1791",
+    "shortTitle": "Phya pa Chos kyi seng ge on Argumentation by Consequence (<i>thal 'gyur</i>)",
+    "url": "https://www.jstor.org/stable/43496655",
+    "accessDate": "2021-08-11T15:49:37Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Springer",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/RS8XET6Z"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:19:33Z"
+  }
+}

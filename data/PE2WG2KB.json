@@ -1,0 +1,87 @@
+{
+  "key": "PE2WG2KB",
+  "version": 4530,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PE2WG2KB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PE2WG2KB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kapstein",
+    "parsedDate": "2024",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "PE2WG2KB",
+    "version": 4530,
+    "itemType": "book",
+    "title": "Tibetan manuscripts and early printed books",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Matthew",
+        "lastName": "Kapstein"
+      }
+    ],
+    "abstractNote": "\"Brings together recent research on the Tibetan book. Volume I includes the manufacture of paper and ink, format and layout, scripts and scribal conventions, illumination and decoration, woodblock printing, book storage, and the use of digital technologies for documentation. Volume II surveys manuscript collections comprising Buddhist scriptural canons, official and administrative documents, works on technical subjects, and Tibetan books from China and Mongolia\"--",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Ithaca",
+    "publisher": "Cornell University Press",
+    "date": "2024",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-1-5017-1621-8 978-1-5017-7125-5",
+    "shortTitle": "Kapstein ed. 2024",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "Z8.T53 T49 2024",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Manuscripts"
+      },
+      {
+        "tag": "Printing"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-03-05T09:46:32Z",
+    "dateModified": "2025-05-21T06:43:36Z"
+  }
+}

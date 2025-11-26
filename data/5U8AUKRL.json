@@ -1,0 +1,85 @@
+{
+  "key": "5U8AUKRL",
+  "version": 2894,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5U8AUKRL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5U8AUKRL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vose",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5U8AUKRL",
+    "version": 2894,
+    "itemType": "journalArticle",
+    "title": "Making and remaking the ultimate in early Tibetan readings of \u015a\u0101ntideva",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kevin",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "32",
+    "issue": "1-2",
+    "pages": "285-318",
+    "date": "2009",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Vose 2009",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-01-16T12:36:40Z",
+    "dateModified": "2025-01-16T12:37:41Z"
+  }
+}

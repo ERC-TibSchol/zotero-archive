@@ -1,6 +1,6 @@
 {
-  "key": "XL5A3G5J",
-  "version": 5733,
+  "key": "A6W2RBJT",
+  "version": 2985,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/XL5A3G5J",
+      "href": "https://api.zotero.org/groups/4394244/items/A6W2RBJT",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/XL5A3G5J",
+      "href": "https://www.zotero.org/groups/tibschol/items/A6W2RBJT",
       "type": "text/html"
     }
   },
@@ -34,49 +34,44 @@
         }
       }
     },
-    "creatorSummary": "Mi nyag Blo gros grags pa",
-    "parsedDate": "2015",
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2006",
     "numChildren": 0
   },
   "data": {
-    "key": "XL5A3G5J",
-    "version": 5733,
+    "key": "A6W2RBJT",
+    "version": 2985,
     "itemType": "bookSection",
-    "title": "Chos mngon pa mdzod kyi rnam bshad slob ma la phan pa",
+    "title": "'brel ba brtag pa rgyan gyi me tog",
     "creators": [
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Mi nyag Blo gros grags pa"
+        "lastName": "bCom ldan rigs pa'i ral gri"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs bzhi pa",
+    "bookTitle": "bCom ldan rigs pa\u02bci ral gri'i gsung 'bum",
     "series": "",
     "seriesNumber": "",
-    "volume": "120",
+    "volume": "10",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Khreng tu'u",
-    "publisher": "Si khron mi rigs dpe skrun khang",
-    "date": "2015",
-    "pages": "355-596",
+    "place": "[lha sa]",
+    "publisher": "[khams sprul bsod nams don grub]",
+    "date": "2006",
+    "pages": "48-56",
     "language": "tib",
-    "ISBN": "978-7-5409-6135-0",
-    "shortTitle": "Blo gros grags - Chos mngon mdzod rnam bshad",
-    "url": "",
+    "ISBN": "",
+    "shortTitle": "Ral gri - 'brel brtag rgyan me tog",
+    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_4A9255",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BUDA ID: MW4PD3076_EA4381",
+    "extra": "BDRC MW00EGS1017426",
     "tags": [
       {
         "tag": "APIS"
@@ -85,10 +80,8 @@
     "collections": [
       "IEP4UFSV"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/5DSBYG9K"
-    },
-    "dateAdded": "2024-11-13T14:02:04Z",
-    "dateModified": "2025-11-25T11:13:52Z"
+    "relations": {},
+    "dateAdded": "2023-11-20T13:51:07Z",
+    "dateModified": "2025-02-10T15:33:23Z"
   }
 }

@@ -1,0 +1,112 @@
+{
+  "key": "CFAJX38L",
+  "version": 4781,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CFAJX38L",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CFAJX38L",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CFAJX38L",
+    "version": 4781,
+    "itemType": "bookSection",
+    "title": "Phya pa Chos kyi seng ge's Views on Perception",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Krasser"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Horst",
+        "lastName": "Lasic"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Eli",
+        "lastName": "Franco"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Birgit",
+        "lastName": "Kellner"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmak\u012brti Conference, Vienna, August 23\u201227, 2005",
+    "series": "Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens 69, Denkschriften / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 424",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2011",
+    "pages": "159\u2013176",
+    "language": "eng",
+    "ISBN": "978-3-7001-7000-6",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "B162.I584",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/F8FSC9SD"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:19:21Z"
+  }
+}

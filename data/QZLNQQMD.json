@@ -1,0 +1,108 @@
+{
+  "key": "QZLNQQMD",
+  "version": 5004,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QZLNQQMD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QZLNQQMD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Steinkellner",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QZLNQQMD",
+    "version": 5004,
+    "itemType": "bookSection",
+    "title": "The Buddhist Tradition of Epistemology and Logic (tshad ma) and Its Significance for Tibetan Civilisation",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Andr\u00e9",
+        "lastName": "Gingrich"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ernst",
+        "lastName": "Steinkellner"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Der Rand und die Mitte: Beitr\u00e4ge zur Sozialanthropologie und Kulturgeschichte Tibets und des Himalaya",
+    "series": "Sitzungsberichte (\u00d6sterreichische Akademie der Wissenschaften. Philosophisch-Historische Klasse)",
+    "seriesNumber": "753",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2006",
+    "pages": "193-210",
+    "language": "eng",
+    "ISBN": "978-3-7001-3784-9",
+    "shortTitle": "Steinkellner 2006",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "GN635.C5",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      }
+    ],
+    "collections": [
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:37:39Z",
+    "dateModified": "2025-05-21T06:37:41Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "key": "DIPDNQZU",
+  "version": 4467,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DIPDNQZU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DIPDNQZU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mTshur ston gZhon nu seng ge",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DIPDNQZU",
+    "version": 4467,
+    "itemType": "book",
+    "title": "mTshur ston gZhon nu seng ge, Tshad ma shes rab sgron ma",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mTshur ston gZhon nu seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde; Heft 60",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistiche Studien",
+    "date": "2004",
+    "numPages": "xxxi+364",
+    "language": "tib eng",
+    "ISBN": "",
+    "shortTitle": "mTshur - Tshad ma shes rab sgron ma 2004 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BC25",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-11T15:16:43Z",
+    "dateModified": "2025-05-21T06:39:07Z"
+  }
+}

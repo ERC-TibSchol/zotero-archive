@@ -1,0 +1,54 @@
+{
+  "key": "R9FQG9UA",
+  "version": 2904,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/R9FQG9UA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/R9FQG9UA",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/P9VAXVKL",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "R9FQG9UA",
+    "version": 2904,
+    "parentItem": "P9VAXVKL",
+    "itemType": "note",
+    "note": "<p>Text tibet.</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-01-21T13:17:20Z",
+    "dateModified": "2025-01-21T13:17:20Z"
+  }
+}

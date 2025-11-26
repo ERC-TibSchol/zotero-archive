@@ -1,6 +1,6 @@
 {
   "key": "8P6V9QCK",
-  "version": 4395,
+  "version": 5740,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "8P6V9QCK",
-    "version": 4395,
+    "version": 5740,
     "itemType": "book",
     "title": "Texte der erkenntnistheoretischen Schule des Buddhismus: systematische \u00dcbersicht \u00fcber die buddhistische Sanskrit-Literatur II = systematic survey of Buddhist Sanskrit literature II",
     "creators": [
@@ -75,13 +75,13 @@
     "libraryCatalog": "Open WorldCat",
     "callNumber": "",
     "rights": "",
-    "extra": "00000",
+    "extra": "",
     "tags": [],
     "collections": [],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/73933/items/Z8763XFS"
     },
     "dateAdded": "2022-03-08T10:14:26Z",
-    "dateModified": "2025-05-21T05:31:54Z"
+    "dateModified": "2025-11-25T13:42:13Z"
   }
 }

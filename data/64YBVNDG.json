@@ -1,0 +1,104 @@
+{
+  "key": "64YBVNDG",
+  "version": 4966,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/64YBVNDG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/64YBVNDG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "64YBVNDG",
+    "version": 4966,
+    "itemType": "journalArticle",
+    "title": "An Early Bka'-gdams-pa Madhyamaka Work Attributed to Ati\u015ba D\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "Although Ati\u015ba is famous for his journey to Tibet and his teaching there, his teachings of Madhyamaka are not extensively commented upon in the works of known and extant indigenous Tibetan scholars. Ati\u015ba's Madhyamaka thought, if even discussed, is minimally acknowledged in recent modern scholarly overviews or sourcebooks on Indian Buddhist thought. The following annotated translation provides a late eleventh century Indo-Tibetan Madhyamaka teaching on the two realities (satyadvaya) attributed to Ati\u015ba D\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (982-1054 C.E.) entitled A General Explanation of, and Framework for Understanding, the Two Realities (bden gnyis spyi bshad dang/bden gnyis 'jog tshul). The text furnishes an exposition of the Middle Way (madhyamaka) thought of N\u0101g\u0101rjuna based on an exegesis of conventional reality and ultimate reality within the framework of Mah\u0101y\u0101na path structures found in texts attributed to Maitreyan\u0101tha. The General Explanation fills an important gap in the historical knowledge of Madhyamaka teachings in eleventh century India and Tibet. The text presents a Madhyamaka teaching brought to Tibet by Ati\u015ba and provides previously unknown evidence for the type of pure Madhyamaka teachings that circulated among the communities of early followers of Ati\u015ba. These teachings were disseminated before the rise of the early Bka'-gdams-pa monastery of Gsang-phu ne'u-thog and its debating traditions that, particularly beginning in the twelfth century, placed emphasis on the merger of Madhyamaka and Epistemology (pram\u0101\u1e47a).",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "44",
+    "issue": "4",
+    "pages": "619-725",
+    "date": "2016",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1007/s10781-015-9275-6",
+    "ISSN": "0022-1791",
+    "shortTitle": "Apple 2016",
+    "url": "https://www.jstor.org/stable/44157326",
+    "accessDate": "2021-08-06T15:38:59Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Springer",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-06T15:38:59Z",
+    "dateModified": "2025-05-21T08:24:07Z"
+  }
+}

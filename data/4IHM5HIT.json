@@ -1,0 +1,86 @@
+{
+  "key": "4IHM5HIT",
+  "version": 5565,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4IHM5HIT",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4IHM5HIT",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gNyag",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4IHM5HIT",
+    "version": 5565,
+    "itemType": "bookSection",
+    "title": "Tshad ma\u02bci spyi skad cung zad bsdus pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "gNyag"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "mKhan po yon tan gyis nyar tshags mdzad pa\u02bci dpe rnying bris ma phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "19",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "gNyag - spyi skad",
+    "url": "purl.bdrc.io/resource/MW3CN57_2988EB",
+    "accessDate": "2024-04-02",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW3CN57_2988EB",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2025-05-23T12:27:55Z",
+    "dateModified": "2025-06-02T08:39:12Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "key": "8JC3TDMA",
-  "version": 5732,
+  "key": "3ZEXC2JQ",
+  "version": 5739,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/8JC3TDMA",
+      "href": "https://api.zotero.org/groups/4394244/items/3ZEXC2JQ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/8JC3TDMA",
+      "href": "https://www.zotero.org/groups/tibschol/items/3ZEXC2JQ",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "kun dga'",
-    "parsedDate": "2009",
+    "creatorSummary": "Anonymous",
+    "parsedDate": "2015",
     "numChildren": 0
   },
   "data": {
-    "key": "8JC3TDMA",
-    "version": 5732,
+    "key": "3ZEXC2JQ",
+    "version": 5739,
     "itemType": "bookSection",
-    "title": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po",
+    "title": "dBu ma chen po\u02bci sgom khrid kyi gdams ngag",
     "creators": [
       {
         "creatorType": "editor",
@@ -52,24 +52,24 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "kun dga'"
+        "lastName": "Anonymous"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs bzhi pa",
     "series": "",
     "seriesNumber": "",
-    "volume": "88",
-    "numberOfVolumes": "30",
+    "volume": "112",
+    "numberOfVolumes": "",
     "edition": "",
     "place": "Khreng tu'u",
     "publisher": "Si khron mi rigs dpe skrun khang",
-    "date": "2009",
-    "pages": "7-219",
+    "date": "2015",
+    "pages": "135-205",
     "language": "tib",
-    "ISBN": "978-7-5409-4283-0",
-    "shortTitle": "Kun dga' - rnam 'grel zin bris",
-    "url": "https://purl.bdrc.io/resource/MW1PD153536_9D699C",
+    "ISBN": "978-7-5409-6135-0",
+    "shortTitle": "Anon - dbu chen man ngag",
+    "url": "http://purl.bdrc.io/resource/MW4PD3076_18C0E7",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
@@ -87,9 +87,9 @@
     ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
+      "dc:relation": "http://zotero.org/groups/4394244/items/5DSBYG9K"
     },
-    "dateAdded": "2025-09-23T06:32:41Z",
-    "dateModified": "2025-11-25T09:50:11Z"
+    "dateAdded": "2025-11-25T11:13:51Z",
+    "dateModified": "2025-11-25T11:16:34Z"
   }
 }

@@ -1,0 +1,94 @@
+{
+  "key": "99J5ZTDZ",
+  "version": 5363,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/99J5ZTDZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/99J5ZTDZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "99J5ZTDZ",
+    "version": 5363,
+    "itemType": "book",
+    "title": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Ral gri - gsung thor bu",
+    "url": "purl.bdrc.io/resource/MW1CZ1041",
+    "accessDate": "2023-11-10",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW1CZ1041",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/KAD94G5L",
+        "http://zotero.org/groups/4394244/items/X32INJTS",
+        "http://zotero.org/groups/4394244/items/TK3LI7IQ"
+      ]
+    },
+    "dateAdded": "2023-11-10T15:45:17Z",
+    "dateModified": "2025-06-02T08:41:29Z"
+  }
+}

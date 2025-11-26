@@ -1,0 +1,87 @@
+{
+  "key": "JCRA4LEG",
+  "version": 2924,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JCRA4LEG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JCRA4LEG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JCRA4LEG",
+    "version": 2924,
+    "itemType": "bookSection",
+    "title": "Rong ston bKa' bcu pa: Notes on the title and travels of a great Tibetan scholastic",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David P.",
+        "lastName": "Jackson"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Pram\u0101\u1e47ak\u012brti\u1e25: papers dedicated to Ernst Steinkellner on the occasion of his 70th birthday",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "Heft 70",
+    "volume": "1",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr tibetische und buddhistische Studien, Universit\u00e4t Wien",
+    "date": "2007",
+    "pages": "345-360",
+    "language": "eng",
+    "ISBN": "978-3-902501-09-7",
+    "shortTitle": "Jackson 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/BKWEMK3V"
+    },
+    "dateAdded": "2024-07-03T09:14:00Z",
+    "dateModified": "2025-01-24T15:45:00Z"
+  }
+}

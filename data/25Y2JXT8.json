@@ -1,0 +1,109 @@
+{
+  "key": "25Y2JXT8",
+  "version": 4788,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/25Y2JXT8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/25Y2JXT8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "25Y2JXT8",
+    "version": 4788,
+    "itemType": "bookSection",
+    "title": "Universals, Demons\u2019 Pots, and Demons\u2019 Permanent Pots: Phya pa Chos kyi seng ge on Unestablished Subjects in Arguments by Consequence",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Birgit",
+        "lastName": "Kellner"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Patrick",
+        "lastName": "McAllister"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Horst",
+        "lastName": "Lasic"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sara",
+        "lastName": "McClintock"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Reverberations of Dharmak\u012brti\u2018s Philosophy: Proceedings of the Fifth International Dharmak\u012brti Conference Heidelberg August 26 to 30, 2014",
+    "series": "Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens 104, Sitzungsberichte / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 904",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Vienna",
+    "publisher": "Austrian Academy of Sciences Press",
+    "date": "2020",
+    "pages": "129\u2013153",
+    "language": "eng",
+    "ISBN": "978-3-7001-8781-3",
+    "shortTitle": "",
+    "url": "https://directory.doabooks.org/handle/20.500.12854/72543",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/4H5B9D68"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:19:54Z"
+  }
+}

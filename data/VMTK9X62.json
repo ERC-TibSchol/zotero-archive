@@ -1,0 +1,100 @@
+{
+  "key": "VMTK9X62",
+  "version": 5015,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VMTK9X62",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VMTK9X62",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VMTK9X62",
+    "version": 5015,
+    "itemType": "bookSection",
+    "title": "snyug bshad gsal byed nor bu",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "rNgog blo ldan shes rab"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung thor bu Blo ldan shes rab",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "bla brang",
+    "publisher": "bla brang bkra shis 'khyil par khang",
+    "date": "",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - snyug bshad",
+    "url": "https://purl.bdrc.io/resource/W3CN18534",
+    "accessDate": "2025-05-20",
+    "archive": "",
+    "archiveLocation": "BDRC No: W3CN18534",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/VDZBUANB",
+        "http://zotero.org/groups/4394244/items/VE889LC9",
+        "http://zotero.org/groups/4394244/items/XCKNA9JH"
+      ]
+    },
+    "dateAdded": "2025-05-20T15:20:19Z",
+    "dateModified": "2025-05-20T19:00:15Z"
+  }
+}

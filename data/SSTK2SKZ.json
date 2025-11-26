@@ -1,0 +1,102 @@
+{
+  "key": "SSTK2SKZ",
+  "version": 4979,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/SSTK2SKZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/SSTK2SKZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ar Byang chub ye shes",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "SSTK2SKZ",
+    "version": 4979,
+    "itemType": "bookSection",
+    "title": "mngon rtogs rgyan gyi \u2019grel ba rnam par \u2019byed pa",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Ar Byang chub ye shes"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Ar Byang chub ye shes"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Ar byang chub ye shes kyi gsung chos skor",
+    "series": "bKa' gdams dpe dkon gces btus",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Krung go'i bod rig pa dpe skrun khang",
+    "date": "2007",
+    "pages": "290\u2013779",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Ar - mngon rtogs rgyan 'grel rnam 'byed",
+    "url": "",
+    "accessDate": "",
+    "archive": "http://purl.bdrc.io/resource/MW2DB4582",
+    "archiveLocation": "BDRC No: MW2DB4582",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/3RESK86J"
+    },
+    "dateAdded": "2024-01-24T14:57:26Z",
+    "dateModified": "2025-05-20T18:59:27Z"
+  }
+}

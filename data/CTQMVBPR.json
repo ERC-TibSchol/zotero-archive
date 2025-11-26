@@ -1,0 +1,79 @@
+{
+  "key": "CTQMVBPR",
+  "version": 2986,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CTQMVBPR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CTQMVBPR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Schwabland",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CTQMVBPR",
+    "version": 2986,
+    "itemType": "thesis",
+    "title": "General Exposition of Valid Cognition: The Initial Chapter of Bcom ldan Ral gri's Introduction to Indian and Tibetan Buddhist Epistemology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Peter",
+        "lastName": "Schwabland"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "M.A. thesis",
+    "university": "University of Washington",
+    "place": "",
+    "date": "1994",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "Schwabland 1994",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-02-10T09:33:52Z",
+    "dateModified": "2025-02-11T07:21:18Z"
+  }
+}

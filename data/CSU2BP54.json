@@ -1,0 +1,92 @@
+{
+  "key": "CSU2BP54",
+  "version": 4954,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CSU2BP54",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CSU2BP54",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon and Kellner",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CSU2BP54",
+    "version": 4954,
+    "itemType": "journalArticle",
+    "title": "Rethinking Scholastic Communities in Medieval Eurasia: Introduction",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Birgit",
+        "lastName": "Kellner"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Medieval Worlds",
+    "volume": "medieval worlds",
+    "issue": "Volume 12. 2020",
+    "pages": "2-11",
+    "date": "2020",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "medievalworlds",
+    "language": "eng",
+    "DOI": "10.1553/medievalworlds_no12_2020s2",
+    "ISSN": "2412-3196, 2412-3196",
+    "shortTitle": "Rethinking Scholastic Communities in Medieval Eurasia",
+    "url": "https://hw.oeaw.ac.at?arp=0x003c0961",
+    "accessDate": "2021-12-20T15:38:31Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-20T15:38:45Z",
+    "dateModified": "2025-05-21T08:19:59Z"
+  }
+}

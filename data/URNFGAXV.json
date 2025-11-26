@@ -1,0 +1,88 @@
+{
+  "key": "URNFGAXV",
+  "version": 5788,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/URNFGAXV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/URNFGAXV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kamarid",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "URNFGAXV",
+    "version": 5788,
+    "itemType": "journalArticle",
+    "title": "Introductory Remarks on Pa tshab Nyi ma grags\u2019s Commentary of the\nM\u016blamadhyamakak\u0101rik\u0101",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "D\u00f6rte",
+        "lastName": "Kamarid"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Sengokuyama Journal of Buddhist Studies",
+    "volume": "XI",
+    "issue": "",
+    "pages": "39-73 [258-224]",
+    "date": "2019",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Kamarid 2019",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-25T16:39:20Z",
+    "dateModified": "2025-11-25T18:17:46Z"
+  }
+}

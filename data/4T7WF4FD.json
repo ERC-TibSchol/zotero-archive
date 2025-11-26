@@ -1,0 +1,100 @@
+{
+  "key": "4T7WF4FD",
+  "version": 4479,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4T7WF4FD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4T7WF4FD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Perdue",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4T7WF4FD",
+    "version": 4479,
+    "itemType": "book",
+    "title": "Debate in Tibetan Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Daniel",
+        "lastName": "Perdue"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Textual studies and translations in Indo-Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Ithaca, N.Y., USA",
+    "publisher": "Snow Lion Publications",
+    "date": "1992",
+    "numPages": "xxvii+938",
+    "language": "eng, tib",
+    "ISBN": "978-0-937938-76-8",
+    "shortTitle": "Perdue 1992",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BC25.P463P4681992",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Debate"
+      }
+    ],
+    "collections": [
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:24:28Z",
+    "dateModified": "2025-05-21T06:38:33Z"
+  }
+}

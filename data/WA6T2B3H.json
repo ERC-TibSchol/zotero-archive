@@ -1,0 +1,80 @@
+{
+  "key": "WA6T2B3H",
+  "version": 2989,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WA6T2B3H",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WA6T2B3H",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Schaeffer",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WA6T2B3H",
+    "version": 2989,
+    "itemType": "book",
+    "title": "The Culture of the Book in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New York",
+    "publisher": "Columbia University Press",
+    "date": "2009",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "9780231147163",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-02-11T07:55:47Z",
+    "dateModified": "2025-02-11T07:56:45Z"
+  }
+}

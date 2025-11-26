@@ -1,0 +1,105 @@
+{
+  "key": "CJPTU9FV",
+  "version": 2999,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CJPTU9FV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CJPTU9FV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Phag mo gru pa rdo rje rgyal po and Schiller",
+    "parsedDate": "2014",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "CJPTU9FV",
+    "version": 2999,
+    "itemType": "book",
+    "title": "Die \"Vier Yoga\"-Stufen der Mah\u0101mudr\u0101-Meditationstradition: eine Anthologie aus den Gesammelten Schriften des M\u00f6nchsgelehrten und Yogin Phag mo gru pa rDo rje rgyal po; kritischer Text und \u00dcbersetzung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Phag mo gru pa rdo rje rgyal po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Alexander",
+        "lastName": "Schiller"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alexander",
+        "lastName": "Schiller"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Indian and Tibetan studies",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Hamburg",
+    "publisher": "Department of Indian and Tibetan Studies, Universit\u00e4t Hamburg",
+    "date": "2014",
+    "numPages": "860",
+    "language": "tib ger",
+    "ISBN": "978-3-945151-01-3",
+    "shortTitle": "Schiller 2014",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-03-01T14:29:22Z",
+    "dateModified": "2025-02-11T14:09:16Z"
+  }
+}

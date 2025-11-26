@@ -1,0 +1,106 @@
+{
+  "key": "XG62IHK6",
+  "version": 4975,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XG62IHK6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XG62IHK6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kujip",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XG62IHK6",
+    "version": 4975,
+    "itemType": "bookSection",
+    "title": "The Bird-faced Monk and the Beginnings of the New Tantric Tradition, Part One",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J",
+        "lastName": "van der Kujip"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Shen",
+        "lastName": "Weirong"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tibetan Genealogies: Studies in Memoriam of Guge Tsering Gyalpo (1961\u20132015)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "China Tibetology Publishing House",
+    "date": "2018",
+    "pages": "403-50",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "van der Kuijp 2018",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Tantric Buddhism"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-12-05T14:18:40Z",
+    "dateModified": "2025-05-21T08:27:23Z"
+  }
+}

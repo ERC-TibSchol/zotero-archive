@@ -1,0 +1,75 @@
+{
+  "key": "RZ74ZGVR",
+  "version": 5759,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RZ74ZGVR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RZ74ZGVR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kamarid",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RZ74ZGVR",
+    "version": 5759,
+    "itemType": "thesis",
+    "title": "Die Einleitungsstrophen der M\u016blamadhyamakak\u0101rik\u0101:\n\u00dcbersetzung und Studie des Kommentars von Pa tshab Nyi ma grags im Vergleich zu fr\u00fchen indischen Kommentaren",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "D\u00f6rte",
+        "lastName": "Kamarid"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Master Thesis",
+    "university": "Universit\u00e4t Wien",
+    "place": "Vienna",
+    "date": "2013",
+    "numPages": "136",
+    "language": "ger",
+    "shortTitle": "Kamarid 2013",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-11-25T16:10:19Z",
+    "dateModified": "2025-11-25T16:11:49Z"
+  }
+}

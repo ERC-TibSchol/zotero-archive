@@ -1,0 +1,91 @@
+{
+  "key": "D6HTUYUR",
+  "version": 4971,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/D6HTUYUR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/D6HTUYUR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "D6HTUYUR",
+    "version": 4971,
+    "itemType": "journalArticle",
+    "title": "An Early Tibetan Commentary on Ati\u015ba\u2019s Satyadvay\u0101vat\u0101ra",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "41",
+    "issue": "3",
+    "pages": "263-329",
+    "date": "6/2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Indian Philos",
+    "language": "eng",
+    "DOI": "10.1007/s10781-013-9180-9",
+    "ISSN": "0022-1791, 1573-0395",
+    "shortTitle": "Apple 2013",
+    "url": "http://link.springer.com/10.1007/s10781-013-9180-9",
+    "accessDate": "2024-05-22T14:41:58Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "http://www.springer.com/tdm",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-05-22T14:41:58Z",
+    "dateModified": "2025-05-21T08:24:58Z"
+  }
+}

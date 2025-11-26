@@ -1,6 +1,6 @@
 {
-  "key": "XL5A3G5J",
-  "version": 5733,
+  "key": "VE889LC9",
+  "version": 5014,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/XL5A3G5J",
+      "href": "https://api.zotero.org/groups/4394244/items/VE889LC9",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/XL5A3G5J",
+      "href": "https://www.zotero.org/groups/tibschol/items/VE889LC9",
       "type": "text/html"
     }
   },
@@ -34,61 +34,68 @@
         }
       }
     },
-    "creatorSummary": "Mi nyag Blo gros grags pa",
-    "parsedDate": "2015",
+    "creatorSummary": "rNgog Blo ldan shes rab",
     "numChildren": 0
   },
   "data": {
-    "key": "XL5A3G5J",
-    "version": 5733,
+    "key": "VE889LC9",
+    "version": 5014,
     "itemType": "bookSection",
-    "title": "Chos mngon pa mdzod kyi rnam bshad slob ma la phan pa",
+    "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi don bsdus pa",
     "creators": [
       {
-        "creatorType": "editor",
+        "creatorType": "bookAuthor",
         "firstName": "",
-        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+        "lastName": "rNgog blo ldan shes rab"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Mi nyag Blo gros grags pa"
+        "lastName": "rNgog Blo ldan shes rab"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs bzhi pa",
+    "bookTitle": "gSung thor bu",
     "series": "",
     "seriesNumber": "",
-    "volume": "120",
+    "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Khreng tu'u",
-    "publisher": "Si khron mi rigs dpe skrun khang",
-    "date": "2015",
-    "pages": "355-596",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "408-525",
     "language": "tib",
-    "ISBN": "978-7-5409-6135-0",
-    "shortTitle": "Blo gros grags - Chos mngon mdzod rnam bshad",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - theg chen rgyud bla don bsdus",
     "url": "",
     "accessDate": "",
     "archive": "",
-    "archiveLocation": "",
+    "archiveLocation": "BDRC No: W3CN18534",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BUDA ID: MW4PD3076_EA4381",
+    "extra": "Fifth work in the gSung thor bu. Folios Kha to Hu.",
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
       }
     ],
     "collections": [
       "IEP4UFSV"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/5DSBYG9K"
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/XCKNA9JH",
+        "http://zotero.org/groups/4394244/items/5GHGCG3G",
+        "http://zotero.org/groups/4394244/items/C73EWRAE",
+        "http://zotero.org/groups/4394244/items/VMTK9X62"
+      ]
     },
-    "dateAdded": "2024-11-13T14:02:04Z",
-    "dateModified": "2025-11-25T11:13:52Z"
+    "dateAdded": "2024-01-24T09:42:15Z",
+    "dateModified": "2025-05-20T18:59:52Z"
   }
 }

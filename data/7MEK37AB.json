@@ -1,0 +1,85 @@
+{
+  "key": "7MEK37AB",
+  "version": 5810,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7MEK37AB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7MEK37AB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Pa tshab Nyi ma grags",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7MEK37AB",
+    "version": 5810,
+    "itemType": "book",
+    "title": "rTsa shes kyi \u1e6d\u012b ka dang tshig gsal gyi dka\u02bc gnad spyi sdom bcas",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Pa tshab Nyi ma grags"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "place": "",
+    "publisher": "gser ljongs bla rung lnga rig nang bstan slob grwa chen mo",
+    "date": "",
+    "numPages": "406",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3438",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/ZQRAI525",
+        "http://zotero.org/groups/4394244/items/ITEYGN38",
+        "http://zotero.org/groups/4394244/items/4NLK49NQ"
+      ]
+    },
+    "dateAdded": "2025-11-25T18:11:45Z",
+    "dateModified": "2025-11-25T18:29:36Z"
+  }
+}

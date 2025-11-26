@@ -1,0 +1,122 @@
+{
+  "key": "8X4UKYZA",
+  "version": 4956,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8X4UKYZA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8X4UKYZA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roesler",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8X4UKYZA",
+    "version": 4956,
+    "itemType": "bookSection",
+    "title": "Ati\u015ba and the Bka\u2019 gdams pa Masters",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Jonathan",
+        "lastName": "Silk"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
+        "lastName": "Eltschinger"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Richard",
+        "lastName": "Bowring"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Michael",
+        "lastName": "Radich"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ulrike",
+        "lastName": "Roesler"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Brill's Encyclopedia of Buddhism, vol. II: Lives",
+    "series": "Handbook of Oriental Studies. Section 2 South Asia.",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Leiden ; Boston",
+    "publisher": "Brill",
+    "date": "2019",
+    "pages": "1145-1158",
+    "language": "eng",
+    "ISBN": "978-90-04-29937-5",
+    "shortTitle": "",
+    "url": "https://brill.com/view/title/23918",
+    "accessDate": "2021-08-31T12:26:41Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "brill.com",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Ati\u015ba"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "Y45VXADN"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:33:52Z",
+    "dateModified": "2025-05-21T08:20:29Z"
+  }
+}

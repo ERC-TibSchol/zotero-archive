@@ -1,0 +1,98 @@
+{
+  "key": "6GGY7MXS",
+  "version": 4430,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6GGY7MXS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6GGY7MXS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Klong chen pa Dri med \u02bcod zer (attributed to) and 'Jad gZhon nu byang chub",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6GGY7MXS",
+    "version": 4430,
+    "itemType": "bookSection",
+    "title": "Tshad ma\u02bci de kho na nyid bsdus pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Klong chen pa Dri med \u02bcod zer (attributed to)"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Jad gZhon nu byang chub"
+      }
+    ],
+    "abstractNote": "Commentary on Pram\u0101\u1e47av\u0101rttika of Dharmak\u012brti, 7th cent",
+    "bookTitle": "don rnam par nges pa shes rab ral gri'i 'grel pa thub bstan yongs su rdzogs pa'i snang byed",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "[cazadero, ca, usa]",
+    "publisher": "Ye shes sde\u02bci chos \u02bckhor \u02bcphrul par khang",
+    "date": "1997",
+    "pages": "1-713",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "'Jad - tshad ma de kho na nyid bsdus pa",
+    "url": "http://purl.bdrc.io/resource/MW1KG4003",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2023-11-14T17:31:05Z",
+    "dateModified": "2025-05-21T06:35:05Z"
+  }
+}

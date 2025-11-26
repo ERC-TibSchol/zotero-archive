@@ -1,0 +1,101 @@
+{
+  "key": "GX36QNF5",
+  "version": 5117,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GX36QNF5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GX36QNF5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Chien",
+    "parsedDate": "2015-07-29",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GX36QNF5",
+    "version": 5117,
+    "itemType": "thesis",
+    "title": "The Life and Collected Works of Tibetan Lojong Master Tokm\u00e9 Zangpo (1295-1369)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Gloria I Ling",
+        "lastName": "Chien"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Karen",
+        "lastName": "Lang"
+      }
+    ],
+    "abstractNote": "This study concerns the biography and Collected Works of Tibetan Lojong master Tokm\u00e9 Zangpo (1295-1369). Among diverse Buddhist spiritual exercises, the cultivation of compassion explored in Tibetan Lojong, or mind training, literature is arguably the most prominent and popular teaching about compassion meditation. Beginning in the early twelfth century, texts about Lojong teachings gradually evolved into a category of Lojong literature, which became a shared heritage across various Tibetan Buddhist schools. Tibetan master Tokm\u00e9 Zangpo is renowned for explaining this material in his Collected Works. Tokm\u00e9 Zangpo\u2019s biography also reflects his Lojong character. This dissertation examines how Tokm\u00e9 Zangpo is portrayed as a unique compassionate personality in his biography. The research also explores his Collected Works as a source to understand the Lojong tradition.  \nChapter 1 investigates the relations between the earliest three Tokm\u00e9 Zangpo biographies. I compare related information in the contents of these three works, as well as other textual evidence to determine their composition times. In so doing, I discover the true identity of the biographer, Zh\u00f6nnu Gyeltsen Pelzangpo, and that Guide to Your Devotion could be the earliest existing version of Tokm\u00e9 Zangpo\u2019s biography. Chapter 2 chooses three themes with which to analyze Tokm\u00e9 Zangpo\u2019s childhood, educational background, and compassionate actions as described in Guide to Your Devotion. Chapter 3 contributes the first research on the authorship and editorship of four editions of Tokm\u00e9 Zangpo\u2019s Collected Works. This chapter investigates their compilation history. Chapter 4 analyzes the textual organization in Deg\u00e9 Collected Works and divides its one hundred and fourteen texts into ten different categories. This analysis discovers that Deg\u00e9 Collected Works functions as a central source for understanding Tokm\u00e9 Zangpo\u2019s Lojong philosophy. Chapter 5 shows that Tokm\u00e9 Zangpo\u2019s concept for his Lojong lineage was shaped by his involvement with Kadam masters and texts. I argue that the unique element of Tokm\u00e9 Zangpo\u2019s Lojong lineage is the inclusion of the five masters who are associated with Asa\u1e45ga. By so doing, Tokm\u00e9 Zangpo created a better credibility for his Lojong lineage. In conclusion, this dissertation contributes to the study of Tokm\u00e9 Zangpo\u2019s biography and Collected Works as related to the subject on Lojong.",
+    "thesisType": "",
+    "university": "University of Virginia",
+    "place": "",
+    "date": "2015-07-29",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "Chien 2015",
+    "url": "https://libraetd.lib.virginia.edu/public_view/xk81jk64w",
+    "accessDate": "2023-02-22T12:51:55Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "All rights reserved (no additional license for public reuse)",
+    "extra": "DOI: 10.18130/V37G56",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2023-02-22T12:51:55Z",
+    "dateModified": "2025-05-21T06:42:29Z"
+  }
+}

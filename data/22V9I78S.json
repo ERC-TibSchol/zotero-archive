@@ -1,0 +1,109 @@
+{
+  "key": "22V9I78S",
+  "version": 4868,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/22V9I78S",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/22V9I78S",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "22V9I78S",
+    "version": 4868,
+    "itemType": "journalArticle",
+    "title": "The Origin of the Theory of Definition and its Place in Phya pa Chos kyi seng ge\u02bcs  Epistemological System",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Kevin",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies. Special issue: Tibetan Scholasticism in the 11th and 12th Centuries: Contributions to a panel at the XVth Congress of the International Association of Buddhist Studies, Atlanta, 23\u201328 June 2008",
+    "volume": "32.1-2",
+    "issue": "",
+    "pages": "319\u2013368",
+    "date": "2009(2010)",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "10.2143/JIABS.32.1.3144385",
+    "ISSN": "2507-0347",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Peeters",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Definition"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "UF2RY449",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/MRRM7VBT"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:17:42Z"
+  }
+}

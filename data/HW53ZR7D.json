@@ -1,0 +1,115 @@
+{
+  "key": "HW53ZR7D",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HW53ZR7D",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HW53ZR7D",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roesler",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HW53ZR7D",
+    "version": 5118,
+    "itemType": "bookSection",
+    "title": "Biographies, prophecies, and hidden treasures: Preliminary remarks on some early bKa' gdams pa sources",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "U",
+        "lastName": "Roesler"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "V",
+        "lastName": "Caumanns"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "M",
+        "lastName": "Sernesi"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "N",
+        "lastName": "Solmsdorf"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Indica et Tibetica",
+    "date": "2019",
+    "pages": "346-366",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Roesler 2019",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-13T12:15:36Z",
+    "dateModified": "2025-05-21T08:20:35Z"
+  }
+}
