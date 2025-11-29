@@ -1,6 +1,6 @@
 {
-  "key": "Y7Z8STMM",
-  "version": 5814,
+  "key": "PLYTWAVE",
+  "version": 5813,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/Y7Z8STMM",
+      "href": "https://api.zotero.org/groups/4394244/items/PLYTWAVE",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/Y7Z8STMM",
+      "href": "https://www.zotero.org/groups/tibschol/items/PLYTWAVE",
       "type": "text/html"
     }
   },
@@ -34,15 +34,14 @@
         }
       }
     },
-    "creatorSummary": "gTsang drug pa rDo rje 'od zer",
-    "parsedDate": "2016",
+    "creatorSummary": "rNgog Blo ldan shes rab",
     "numChildren": 0
   },
   "data": {
-    "key": "Y7Z8STMM",
-    "version": 5814,
+    "key": "PLYTWAVE",
+    "version": 5813,
     "itemType": "bookSection",
-    "title": "tshad ma'i spyi don bsdus pa gtsang drug pa rdo rje 'od zer gyis mdzad pa",
+    "title": "rigs thigs 'grel pa'i don bsdus",
     "creators": [
       {
         "creatorType": "editor",
@@ -52,23 +51,23 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "gTsang drug pa rDo rje 'od zer"
+        "lastName": "rNgog Blo ldan shes rab"
       }
     ],
     "abstractNote": "",
     "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "7 (ja)",
-    "numberOfVolumes": "12",
+    "volume": "7",
+    "numberOfVolumes": "",
     "edition": "",
-    "place": "Khams sde dge",
-    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
-    "date": "2016",
-    "pages": "667-906",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "gTsang drug - tshad ma spyi don bsdus",
+    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
     "url": "http://purl.bdrc.io/resource/MW3CN3014",
     "accessDate": "2023-11-17",
     "archive": "",
@@ -76,17 +75,19 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "BDRC images 625-666",
     "tags": [
       {
         "tag": "APIS"
       }
     ],
-    "collections": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
-    "dateAdded": "2025-09-08T13:03:14Z",
+    "dateAdded": "2023-11-17T08:04:14Z",
     "dateModified": "2025-11-28T15:53:45Z"
   }
 }

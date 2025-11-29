@@ -1,6 +1,6 @@
 {
   "key": "EYBLUINT",
-  "version": 5472,
+  "version": 5813,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "EYBLUINT",
-    "version": 5472,
+    "version": 5813,
     "itemType": "bookSection",
     "title": "rgyud bla'i bsdus don rton pa bzhi ldan",
     "creators": [
@@ -90,6 +90,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2025-05-22T10:26:58Z",
-    "dateModified": "2025-09-08T13:03:14Z"
+    "dateModified": "2025-11-28T15:53:45Z"
   }
 }

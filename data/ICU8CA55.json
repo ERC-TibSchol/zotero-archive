@@ -1,0 +1,54 @@
+{
+  "key": "ICU8CA55",
+  "version": 3023,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ICU8CA55",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ICU8CA55",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/7RUF6F47",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ICU8CA55",
+    "version": 3023,
+    "parentItem": "7RUF6F47",
+    "itemType": "note",
+    "note": "<p>Sprache/Schrift: Text englisch, Tibetisch in lateinischer Transliteration</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-02-17T17:11:22Z",
+    "dateModified": "2025-02-17T17:11:22Z"
+  }
+}

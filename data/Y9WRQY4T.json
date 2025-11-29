@@ -1,0 +1,100 @@
+{
+  "key": "Y9WRQY4T",
+  "version": 4792,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Y9WRQY4T",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Y9WRQY4T",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon and Choi",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Y9WRQY4T",
+    "version": 4792,
+    "itemType": "journalArticle",
+    "title": "Phya pa Chos kyi seng ge on the Invalidating Argument in the Proof of Momentariness",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kyeongjin",
+        "lastName": "Choi"
+      }
+    ],
+    "abstractNote": "This paper introduces the Tibetan Buddhist thinker Phya pa Chos kyi seng ge\u2019s (1109-1169) discussion of the invalidating argument in the proof of momentariness. Our goal is both to supply direct evidence for Phya pa\u2019s views on this important topic in the Buddhist philosophical landscape and, through the translation of the relevant passage, to showcase Phya pa\u2019s style of discourse and argumentation. The introduction (\u00a71) will first recall some important features of the proof of momentariness and milestones in its development in the works of Dharmak\u012brti (7th c.). This section will consider how Indian and Tibetan exegetes understood the role of the subsidiary arguments involved in Dharmak\u012brti\u2019s discussion, in particular that of the inference invoking the causelessness of cessation, and that of the invalidating argument. We shall examine the articulation of these subsidiary arguments in the works of Dharmottara and Phya pa. We shall then present the position of several other Tibetan commentators, offering insights from Kyeongjin Choi\u2019s 2016 doctoral thesis (in Japanese), which deals with the proof of momentariness in the works of bKa\u2019 gdams pa and dGe lugs pa scholars. The second part of the introduction (\u00a71.2) is meant to facilitate the understanding of the passage translated in \u00a72. We present some of the methods Phya pa applies in his discussion of the invalidating argument and provide a summary of the passage. The second part of this paper (\u00a72) offers an English translation of Phya pa\u2019s discussion. This translation was prepared by Kyeongjin Choi and Pascale Hugon on the occasion of a joint reading session held in February 2019 at the Institute for the Cultural and Intellectual History of Asia of the Austrian Academy of Sciences in Vienna. The collated edition of the Tibetan text \u2013 available in two nearly identical versions in \u2019Od zer 126a4\u2013130a1 and Mun sel 62b5\u201366b2 \u2013 can be accessed online at the website 'Materials for the Study of Phya pa Chos kyi seng ge (1109-1169)'.",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "44",
+    "issue": "",
+    "pages": "209\u2013244",
+    "date": "2021",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "10.2143/JIABS.44.0.3290293",
+    "ISSN": "2507-0347",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/ENV5YL3A"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:20:16Z"
+  }
+}

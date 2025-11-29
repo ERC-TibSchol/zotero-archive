@@ -1,6 +1,6 @@
 {
-  "key": "Y7Z8STMM",
-  "version": 5814,
+  "key": "VXXXFAML",
+  "version": 5818,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/Y7Z8STMM",
+      "href": "https://api.zotero.org/groups/4394244/items/VXXXFAML",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/Y7Z8STMM",
+      "href": "https://www.zotero.org/groups/tibschol/items/VXXXFAML",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "gTsang drug pa rDo rje 'od zer",
+    "creatorSummary": "Phya pa Chos kyi seng ge",
     "parsedDate": "2016",
     "numChildren": 0
   },
   "data": {
-    "key": "Y7Z8STMM",
-    "version": 5814,
+    "key": "VXXXFAML",
+    "version": 5818,
     "itemType": "bookSection",
-    "title": "tshad ma'i spyi don bsdus pa gtsang drug pa rdo rje 'od zer gyis mdzad pa",
+    "title": "so thar mdo'i 'grel ba",
     "creators": [
       {
         "creatorType": "editor",
@@ -52,23 +52,23 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "gTsang drug pa rDo rje 'od zer"
+        "lastName": "Phya pa Chos kyi seng ge"
       }
     ],
     "abstractNote": "",
     "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "7 (ja)",
+    "volume": "12",
     "numberOfVolumes": "12",
     "edition": "",
     "place": "Khams sde dge",
     "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
     "date": "2016",
-    "pages": "667-906",
+    "pages": "203-360",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "gTsang drug - tshad ma spyi don bsdus",
+    "shortTitle": "Phya pa - so thar mdo 'grel",
     "url": "http://purl.bdrc.io/resource/MW3CN3014",
     "accessDate": "2023-11-17",
     "archive": "",
@@ -86,7 +86,7 @@
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
-    "dateAdded": "2025-09-08T13:03:14Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateAdded": "2025-11-28T15:53:45Z",
+    "dateModified": "2025-11-28T16:04:42Z"
   }
 }

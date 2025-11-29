@@ -1,6 +1,6 @@
 {
-  "key": "M7G92WIN",
-  "version": 5813,
+  "key": "XJITP8XC",
+  "version": 5364,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/M7G92WIN",
+      "href": "https://api.zotero.org/groups/4394244/items/XJITP8XC",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/M7G92WIN",
+      "href": "https://www.zotero.org/groups/tibschol/items/XJITP8XC",
       "type": "text/html"
     }
   },
@@ -34,42 +34,36 @@
         }
       }
     },
-    "creatorSummary": "Phya pa Chos kyi seng ge",
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
     "numChildren": 0
   },
   "data": {
-    "key": "M7G92WIN",
-    "version": 5813,
-    "itemType": "bookSection",
-    "title": "bDe bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa",
+    "key": "XJITP8XC",
+    "version": 5364,
+    "itemType": "book",
+    "title": "tshad ma bsdus pa rigs pa'i mtshon cha",
     "creators": [
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Chungdak Nangpa"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Phya pa Chos kyi seng ge"
+        "lastName": "bCom ldan rigs pa'i ral gri"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "12",
-    "numberOfVolumes": "12",
+    "volume": "",
+    "numberOfVolumes": "",
     "edition": "",
     "place": "",
-    "publisher": "",
+    "publisher": "sa skya'i dpe rnying bsdu sgrig khang",
     "date": "",
-    "pages": "137-202",
+    "numPages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - grub mtha'",
-    "url": "http://purl.bdrc.io/resource/MW3CN3014_B499C8",
-    "accessDate": "2023-11-17",
+    "shortTitle": "Ral gri - tshad bsdus mtshon cha",
+    "url": "http://purl.bdrc.io/resource/WA3CN4042",
+    "accessDate": "2023-10-24T11:21:37Z",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
@@ -84,10 +78,8 @@
     "collections": [
       "IEP4UFSV"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
-    },
-    "dateAdded": "2024-10-09T11:08:41Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "relations": {},
+    "dateAdded": "2023-10-24T11:23:44Z",
+    "dateModified": "2025-06-02T08:41:32Z"
   }
 }
