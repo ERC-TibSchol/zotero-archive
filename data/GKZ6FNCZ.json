@@ -1,0 +1,90 @@
+{
+  "key": "GKZ6FNCZ",
+  "version": 4799,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GKZ6FNCZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GKZ6FNCZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1986",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GKZ6FNCZ",
+    "version": 4799,
+    "itemType": "journalArticle",
+    "title": "Phya pa Chos kyi seng ge\u2019s Classifications of <i>Thal \u02bcgyur</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Berliner Indologische Studien",
+    "volume": "2",
+    "issue": "",
+    "pages": "65\u201385",
+    "date": "1986",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0935-0004",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/N6QA8KCM"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:20:43Z"
+  }
+}

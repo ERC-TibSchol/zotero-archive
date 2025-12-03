@@ -1,0 +1,90 @@
+{
+  "key": "9WPVQKYL",
+  "version": 4797,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9WPVQKYL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9WPVQKYL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nemoto",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9WPVQKYL",
+    "version": 4797,
+    "itemType": "journalArticle",
+    "title": "Who is a Proper Opponent? The Tibetan Buddhist Concept of <i>phyi rgol yang dag</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Hiroshi (\u6839\u672c \u88d5\u53f2)",
+        "lastName": "Nemoto"
+      }
+    ],
+    "abstractNote": "This paper examines the role of a proper opponent (phyi rgol yang dag) in debate from the standpoint of the Tibetan Buddhist theory of argumentation. A proper opponent is a person who is engaged in the process of truth-seeking. He is not a debater who undertakes to refute the tenets of a proponent. But rather, he is the model debater to whom a proponent can teach truth by using a probative argument in the most effective way. A proper opponent is thus the model thinker conceived by Tibetan Buddhist scholars, especially by the dGe lugs pa exegetes, to explain the idea of \u201cinference for others.\u201d The term phyi rgol yang dag figures in many text books of the dGe lugs pa school. And the germ of the dGe lugs pa's idea of ``proper opponent'' is found in early Tibetan tshad ma literature, too. The present paper shows that the dGe lugs pa scholars are largely concerned with the process by which one obtains an inferential knowledge about the unknown object, and also that they, when talking about a proper opponent, emphasize the pedagogical role of dialectic conversation rather than the competitive feature of debates.",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "41",
+    "issue": "",
+    "pages": "151\u2013165",
+    "date": "2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "language": "eng",
+    "DOI": "10.1007/s10781-013-9177-4",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/IKSUWJI5"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:20:33Z"
+  }
+}

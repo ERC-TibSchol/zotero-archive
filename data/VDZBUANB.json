@@ -1,0 +1,101 @@
+{
+  "key": "VDZBUANB",
+  "version": 5014,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VDZBUANB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VDZBUANB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VDZBUANB",
+    "version": 5014,
+    "itemType": "bookSection",
+    "title": "lo tsa ba chen po'i bsdus don",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung thor bu",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - mngon rtogs rgyan bsdus don",
+    "url": "https://purl.bdrc.io/resource/W3CN18534",
+    "accessDate": "2024-01-17",
+    "archive": "",
+    "archiveLocation": "BDRC No: W3CN18534",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "First text in gSung thor bu, pp. 3-200",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/XCKNA9JH",
+        "http://zotero.org/groups/4394244/items/5GHGCG3G",
+        "http://zotero.org/groups/4394244/items/C73EWRAE",
+        "http://zotero.org/groups/4394244/items/VMTK9X62"
+      ]
+    },
+    "dateAdded": "2024-01-17T07:25:02Z",
+    "dateModified": "2025-05-20T19:01:34Z"
+  }
+}

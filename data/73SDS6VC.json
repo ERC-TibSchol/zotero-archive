@@ -1,0 +1,91 @@
+{
+  "key": "73SDS6VC",
+  "version": 3132,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/73SDS6VC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/73SDS6VC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dBus pa blo gsal",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "73SDS6VC",
+    "version": 3132,
+    "itemType": "bookSection",
+    "title": "rtags kyi 'jug pa'i 'grel pa",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "dBus pa blo gsal"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "dBus pa blo gsal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "dbus pa blo gsal gyi gsung rtsom 'ga' zhig",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "dBus pa blo gsal - rtags 'jug 'grel",
+    "url": "http://purl.bdrc.io/resource/MW3CN2648",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Second manuscript in a collection of writings by Kadam master Upa Losal in 13th century. Handwritten manuscript.",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/XSBSS6QW"
+    },
+    "dateAdded": "2025-02-21T09:21:17Z",
+    "dateModified": "2025-02-21T09:28:19Z"
+  }
+}

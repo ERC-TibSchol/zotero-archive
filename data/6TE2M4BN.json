@@ -1,0 +1,54 @@
+{
+  "key": "6TE2M4BN",
+  "version": 3120,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6TE2M4BN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6TE2M4BN",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/XSBSS6QW",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6TE2M4BN",
+    "version": 3120,
+    "parentItem": "XSBSS6QW",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"8\"><ol>\n<li>\nsum cu pa\u2019i \u2018grel pa, nang tha 37. 11 fols.\n</li>\n<li>\nrtags kyi \u2018jug pa\u2019i \u2018grel pa, 13 fols.\n</li>\n<li>\nbrda\u2019 gsar snying gi rnam par dbye ba, 9 fols.\n</li>\n<li>\nbstan bcos kyi dkar chag. pi. 2(25), 60 fols.\n</li>\n<li>\ngrub pa\u2019i mtha\u2019 rnam par bshad pa\u2019i mdzod, blockprint, 127 fols.\n</li>\n<li>\nrje btsun rdo rje rnal \u2018byor ma nA ro mkha\u2019 spyod kyi pin rhu ra\u2019i dkyil \u2018khor \u2026 E, nang ba. 14 fols.\n</li>\n<li>\nsme title? zhi. 4 fols.\n</li>\n<li>\n8. same title? sgrubs thabs (title on cover page seems modern handwriting with ballpen), 4 fols.\n</li>\n<li>\nlcal dral gyi rji? gnang, 3 fols.\n</li>\n<li>\nsgrol dkar yid bzhin \u2018khro lo\u2019i bla brgyud gsol \u2018debs. Blockprint. 2 fols.\n</li>\n<li>\ncha 196. 1 folios\n</li>\n<li>\n12. * gshin dmar nag gi rjes gnang byed tshul gsal bar gcig. 5 fols.\n</li>\n<li>\ndpal \u2018dod pa\u2019i rgyal po\u2019i bsgrub thabs nor bu. Chi. Handwritten dbu can. 20 fol.\n</li>\n<li>\n1 fol.\n</li>\n<li>\nsgrol dkar yid bzhin \u2018khro lo\u2019i sgrub thabs. 7 fols.\n</li>\n</ol>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-02-21T08:59:57Z",
+    "dateModified": "2025-02-21T09:13:40Z"
+  }
+}

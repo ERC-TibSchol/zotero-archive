@@ -1,0 +1,107 @@
+{
+  "key": "3NUQS25P",
+  "version": 5552,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3NUQS25P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3NUQS25P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Las Chen Kun Dga' Rgyal Mtshan",
+    "parsedDate": "1972",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3NUQS25P",
+    "version": 5552,
+    "itemType": "book",
+    "title": "Bka' Gdams Kyi Rnam Par Thar Pa Bka' Gdams Chos 'byung Gsal Ba'i Sgron Me : A Detailed Account Of The Spread Of The Kadampa Sect In Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Las Chen Kun Dga' Rgyal Mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "New delhi",
+    "publisher": "B jamyang norbu",
+    "date": "1972",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "bka' gdams chos 'byung gsal ba'i sgron me",
+    "url": "http://purl.bdrc.io/resource/MW15964",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW15964\nWork: WA15964",
+    "tags": [
+      {
+        "tag": "Biography"
+      },
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY",
+      "B3TNTFC4",
+      "ZZAJVF3H"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/9BDM28LY"
+    },
+    "dateAdded": "2022-09-30T07:52:12Z",
+    "dateModified": "2025-05-21T08:33:02Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key": "CNFFCR9E",
+  "version": 4855,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CNFFCR9E",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CNFFCR9E",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Moriyama",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CNFFCR9E",
+    "version": 4855,
+    "itemType": "bookSection",
+    "title": "The Relationship Between the Two Truths, <i>bDen pa gnyis</i>, According to Phya pa Chos kyi seng ge, and the Influence of His Interpretation on the dGe lugs pa Tradition",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Seitetsu (\u68ee\u5c71 \u6e05\u5fb9)",
+        "lastName": "Moriyama"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Kark",
+        "lastName": "Maret"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Horst",
+        "lastName": "Lasic"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Studies in the Philosophy and History of Tibet: PIATS 2006, Tibetan studies: Proceedings of the Eleventh Seminar of the International Association for Tibetan Studies, K\u00f6nigswinter 2006",
+    "series": "Beitr\u00e4ge zur Zentralasienforschung",
+    "seriesNumber": "22",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Andiast",
+    "publisher": "IITBS, International Institute for Tibetan and Buddhist Studies",
+    "date": "2010",
+    "pages": "131\u2013143",
+    "language": "eng",
+    "ISBN": "978-3-88280-091-3",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "B5231.I58",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/LMZRN6DW"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:20:29Z"
+  }
+}

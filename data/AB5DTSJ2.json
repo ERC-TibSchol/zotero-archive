@@ -1,0 +1,85 @@
+{
+  "key": "AB5DTSJ2",
+  "version": 5845,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AB5DTSJ2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AB5DTSJ2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ati\u015ba",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AB5DTSJ2",
+    "version": 5845,
+    "itemType": "book",
+    "title": "Jo bo rje dpal ldan a ti sha'i gsung 'bum",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Ati\u015ba"
+      }
+    ],
+    "abstractNote": "",
+    "series": "bKa' gdams dpe dkon gces btus",
+    "seriesNumber": "1",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Krung go'i bod rig pa dpe skrun khang",
+    "date": "2006",
+    "numPages": "1131",
+    "language": "tib",
+    "ISBN": "978-7-80057-573-0",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW1GS66286",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/BIP98IYF",
+        "http://zotero.org/groups/4394244/items/LXMN5JZJ",
+        "http://zotero.org/groups/4394244/items/RF4VPP8B"
+      ]
+    },
+    "dateAdded": "2025-12-02T08:18:05Z",
+    "dateModified": "2025-12-02T11:02:54Z"
+  }
+}

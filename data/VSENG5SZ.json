@@ -1,0 +1,85 @@
+{
+  "key": "VSENG5SZ",
+  "version": 5368,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VSENG5SZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VSENG5SZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Brong bu tshe ring rdo rje",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VSENG5SZ",
+    "version": 5368,
+    "itemType": "journalArticle",
+    "title": "tshad ma'i spyi skad cung zad bsdus pa bzhugs pa lags so dbang hE",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Brong bu tshe ring rdo rje"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Krung gol bod rig pa",
+    "volume": "79",
+    "issue": "3",
+    "pages": "37-45",
+    "date": "2007",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "tib",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "'brong bu 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-23T12:40:19Z",
+    "dateModified": "2025-06-02T08:42:14Z"
+  }
+}

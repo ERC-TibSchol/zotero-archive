@@ -1,0 +1,93 @@
+{
+  "key": "A2PNEQTL",
+  "version": 5014,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A2PNEQTL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A2PNEQTL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A2PNEQTL",
+    "version": 5014,
+    "itemType": "bookSection",
+    "title": "Shes rab kyi pha rol tu phyin pa\u02bci man ngag gi bstan bcos kyi don bsdus pa",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "firstName": "Lobsang",
+        "lastName": "Shastri"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKra shis chos sdings dgon du bzhugs pa\u02bci dpe rnying dpe dkon",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "28",
+    "numberOfVolumes": "65",
+    "edition": "",
+    "place": "reb gong",
+    "publisher": "",
+    "date": "",
+    "pages": "3-180",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "rNgog lo - mngon rtogs rgyan don bsdus",
+    "url": "https://purl.bdrc.io/resource/MW3MS878_C82F3A",
+    "accessDate": "2024-01-17",
+    "archive": "",
+    "archiveLocation": "BDRC bdr:MW3MS878_C82F3a",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/B5E5H3Q7"
+    },
+    "dateAdded": "2024-01-17T07:17:49Z",
+    "dateModified": "2025-05-20T19:01:38Z"
+  }
+}

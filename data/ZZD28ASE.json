@@ -1,0 +1,90 @@
+{
+  "key": "ZZD28ASE",
+  "version": 4134,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZZD28ASE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZZD28ASE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gonta",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZZD28ASE",
+    "version": 4134,
+    "itemType": "journalArticle",
+    "title": "\u30b4\u30af\u30fb\u30ed\u30c7\u30f3\u30b7\u30a7\u30fc\u30e9\u30d7\u306e\u822c\u82e5\u5fc3\u7d4c\u8a3b\u306b\u3064\u3044\u3066--\u8a66\u8a33\u30fbRomanized transcription text [\u542b \u30c1\u30d9\u30c3\u30c8\u8a9e\u6587] \u2013 \u30b4\u30af \u30ed\u30c7\u30f3\u30b7\u30a7\u30fc\u30e9\u30d7 \u30ce \u30cf\u30f3\u30cb\u30e3 \u30b7\u30f3\u30ad\u30e7\u30a6 \u30c1\u30e5\u30a6 \u30cb \u30c4\u30a4\u30c6 \u30b7\u30e4\u30af Romanized transcription text \u30ac\u30f3 \u30c1\u30d9\u30c3\u30c8\u30b4\u30d6\u30f3",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ngawang Woesung",
+        "lastName": "Gonta"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u6771\u6d0b\u5b66\u7814\u7a76",
+    "volume": "48",
+    "issue": "",
+    "pages": "304\u2013285",
+    "date": "2011",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Gonta 2011",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/IQC93C8H"
+    },
+    "dateAdded": "2024-01-15T14:15:50Z",
+    "dateModified": "2025-05-20T19:02:08Z"
+  }
+}

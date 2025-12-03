@@ -1,0 +1,98 @@
+{
+  "key": "LXMN5JZJ",
+  "version": 5851,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LXMN5JZJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LXMN5JZJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Anonymous",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LXMN5JZJ",
+    "version": 5851,
+    "itemType": "bookSection",
+    "title": "bden gnyis spyi bshad dang bden gnyis 'jog tshul",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "name": "Ati\u015ba"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Anonymous"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Jo bo rje dpal ldan a ti sha'i gsung 'bum",
+    "series": "bKa' gdams dpe dkon gces btus",
+    "seriesNumber": "1",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Beijing",
+    "publisher": "Krung go'i bod rig pa dpe skrun khang",
+    "date": "2006",
+    "pages": "697-751",
+    "language": "tib",
+    "ISBN": "978-7-80057-573-0",
+    "shortTitle": "",
+    "url": "http://purl.bdrc.io/resource/MW1GS66286",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/BIP98IYF",
+        "http://zotero.org/groups/4394244/items/RF4VPP8B",
+        "http://zotero.org/groups/4394244/items/AB5DTSJ2"
+      ]
+    },
+    "dateAdded": "2025-12-02T11:02:57Z",
+    "dateModified": "2025-12-02T11:06:01Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "key": "7V8MZYAI",
+  "version": 5370,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7V8MZYAI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7V8MZYAI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "'Gos lo tsA ba gZhon nu dpal",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7V8MZYAI",
+    "version": 5370,
+    "itemType": "book",
+    "title": "'Gos Lo ts\u0101 ba gZhon nu dpal's Commentary on the Ratnagotravibh\u0101gavy\u0101kh\u0101 (theg pa chen po rgyud bla ma'i bstan bcos kyi 'grel bshad de kho na nyid rab tu gsal ba'i me long)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "'Gos lo tsA ba gZhon nu dpal"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Klaus-Dieter",
+        "lastName": "Mathes"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Nepal Research Centre publications",
+    "seriesNumber": "24",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Stuttgart",
+    "publisher": "Steiner",
+    "date": "2003",
+    "numPages": "576",
+    "language": "tib eng",
+    "ISBN": "978-3-515-08358-4",
+    "shortTitle": "'Gos lo - rgyud bla ma me long 2003 ed.",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Buddha nature"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-05-19T18:35:19Z",
+    "dateModified": "2025-06-02T08:43:08Z"
+  }
+}

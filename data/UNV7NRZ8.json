@@ -1,0 +1,91 @@
+{
+  "key": "UNV7NRZ8",
+  "version": 4978,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UNV7NRZ8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UNV7NRZ8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tshe ring rdo rje and Thub bstan 'jigs med 'od zer",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UNV7NRZ8",
+    "version": 4978,
+    "itemType": "book",
+    "title": "Mi nyag dang ra this dgon gyi byung ba brjod pa chu dwangs nor bu\u02bci phung po",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Tshe ring rdo rje"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Thub bstan 'jigs med 'od zer"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "Si khron dpe skrun tshogs pa si khron mi rigs dpe skrun khang",
+    "date": "2007",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Tshe ring rdo rje&Thub bstan \u02bcjigs med 'od zer 2007",
+    "url": "purl.bdrc.io/resource/MW1KG1668",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW1KG1668",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2024-11-13T15:08:12Z",
+    "dateModified": "2025-02-25T10:39:37Z"
+  }
+}

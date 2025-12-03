@@ -1,0 +1,87 @@
+{
+  "key": "ZQX3A6AC",
+  "version": 4994,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ZQX3A6AC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ZQX3A6AC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2000",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ZQX3A6AC",
+    "version": 4994,
+    "itemType": "journalArticle",
+    "title": "\u30ab\u30c0\u30e0\u6d3e\u306e\u7956\u30c9\u30e0\u30c8\u30f3\u306b\u3064\u3044\u3066 [On the Father of Bka' gdams pa 'Brom ston]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u6a58\u53f2\u5b66 Tachibana Shigaku",
+    "volume": "15",
+    "issue": "",
+    "pages": "123-138",
+    "date": "2000",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "Y45VXADN"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T07:04:54Z",
+    "dateModified": "2025-05-21T08:32:15Z"
+  }
+}

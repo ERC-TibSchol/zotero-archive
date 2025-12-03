@@ -1,0 +1,96 @@
+{
+  "key": "4YEPFBIB",
+  "version": 4135,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4YEPFBIB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4YEPFBIB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPa' bo gtsug lag phreng ba",
+    "parsedDate": "1960",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4YEPFBIB",
+    "version": 4135,
+    "itemType": "book",
+    "title": "mKhas pa'i dga' ston",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "dPa' bo gtsug lag phreng ba"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Lokesh",
+        "lastName": "Chandra"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1-4",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "",
+    "date": "1960-1961",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "dPa' - dGa' ston",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/7MQYMJS7"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-05-20T19:02:20Z"
+  }
+}

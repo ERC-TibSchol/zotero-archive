@@ -1,0 +1,91 @@
+{
+  "key": "ECFEZ22F",
+  "version": 5397,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ECFEZ22F",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ECFEZ22F",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kuijp, van der",
+    "parsedDate": "2001",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ECFEZ22F",
+    "version": 5397,
+    "itemType": "journalArticle",
+    "title": "On the Fifteenth Century Lho rong chos \u2019byung by Rta tshag Tshe dbang\nrgyal and Its Importance for Tibetan Political and Religious History",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "Kuijp, van der"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "T",
+        "lastName": "Tsering"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Lungta",
+    "volume": "14",
+    "issue": "",
+    "pages": "57-76",
+    "date": "2001",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 2001",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Aspects of Tibetan History, ed. R. Vitali and T. Tsering",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-06-16T12:38:55Z",
+    "dateModified": "2025-06-16T12:42:56Z"
+  }
+}

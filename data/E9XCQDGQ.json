@@ -1,0 +1,101 @@
+{
+  "key": "E9XCQDGQ",
+  "version": 5552,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/E9XCQDGQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/E9XCQDGQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "paN chen bsod nams grags pa",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "E9XCQDGQ",
+    "version": 5552,
+    "itemType": "book",
+    "title": "bKa\u02bc gdams chos \u02bcbyung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "paN chen bsod nams grags pa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Gangs can khyad nor dpe tshogs",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Lha sa",
+    "publisher": "Ser gtsug nang bstan dpe rnying \u02bctshol bsdu phyogs sgrig khang",
+    "date": "n.d.",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "paN chen - bKa' gdams chos 'byung",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-10T12:20:26Z",
+    "dateModified": "2025-05-21T08:33:08Z"
+  }
+}

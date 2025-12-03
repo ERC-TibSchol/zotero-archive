@@ -1,6 +1,6 @@
 {
   "key": "M3J8XFVK",
-  "version": 5812,
+  "version": 5852,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -35,11 +35,12 @@
       }
     },
     "creatorSummary": "Choi",
+    "parsedDate": "2019",
     "numChildren": 0
   },
   "data": {
     "key": "M3J8XFVK",
-    "version": 5812,
+    "version": 5852,
     "itemType": "webpage",
     "title": "\u30c1\u30d9\u30c3\u30c8\u4ecf\u6559\u30ab\u30c0\u30e0\u6d3e\u306e\u601d\u60f3\u7814\u7a76\u306b\u5411\u3051\u305f\u57fa\u790e\u8cc7\u6599\u306e\u69cb\u7bc9 (Construction of Basic Materials for the Study of the Thoughts of the Kadam School of Tibetan Buddhism)",
     "creators": [
@@ -52,7 +53,7 @@
     "abstractNote": "",
     "websiteTitle": "",
     "websiteType": "",
-    "date": "",
+    "date": "2019-2023",
     "shortTitle": "Choi 2019-2023",
     "url": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K22998/",
     "accessDate": "2025-10-10",
@@ -67,6 +68,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2025-10-10T10:43:50Z",
-    "dateModified": "2025-11-26T08:28:12Z"
+    "dateModified": "2025-12-02T13:22:38Z"
   }
 }

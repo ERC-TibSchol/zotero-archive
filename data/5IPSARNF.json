@@ -1,0 +1,94 @@
+{
+  "key": "5IPSARNF",
+  "version": 5371,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5IPSARNF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5IPSARNF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5IPSARNF",
+    "version": 5371,
+    "itemType": "book",
+    "title": "bCom ldan Ral gri (1227-1305) on Indian Buddhist Logic and Epistemology: His Commentary on Dign\u0101ga's Pram\u0101\u1e47asamuccaya",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Arthur P.",
+        "lastName": "McKeown"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "series": "WSTB, Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "80",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien Universit\u00e4t Wien",
+    "date": "2013",
+    "numPages": "",
+    "language": "en-US, tib",
+    "ISBN": "",
+    "shortTitle": "Ral gri - kun btus rgyan me tog 2013 ed",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-10-19T09:54:02Z",
+    "dateModified": "2025-06-02T08:43:24Z"
+  }
+}
