@@ -1,5 +1,5 @@
 {
-  "key": "Z5AUD7GQ",
+  "key": "S8ND2M27",
   "version": 5853,
   "library": {
     "type": "group",
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/Z5AUD7GQ",
+      "href": "https://api.zotero.org/groups/4394244/items/S8ND2M27",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/Z5AUD7GQ",
+      "href": "https://www.zotero.org/groups/tibschol/items/S8ND2M27",
       "type": "text/html"
     }
   },
@@ -34,35 +34,41 @@
         }
       }
     },
-    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib 'jug khang",
+    "creatorSummary": "rNgog Blo ldan shes rab",
     "parsedDate": "2006",
-    "numChildren": 1
+    "numChildren": 0
   },
   "data": {
-    "key": "Z5AUD7GQ",
+    "key": "S8ND2M27",
     "version": 5853,
-    "itemType": "book",
-    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
+    "itemType": "bookSection",
+    "title": "rigs thigs 'grel don bsdus (tshad ma rnam nges kyi bsdus don)",
     "creators": [
       {
         "creatorType": "editor",
         "firstName": "",
-        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
     "series": "",
     "seriesNumber": "",
-    "volume": "1-30",
+    "volume": "1",
     "numberOfVolumes": "30",
     "edition": "",
     "place": "Khreng tu'u",
     "publisher": "Si khron mi rigs dpe skrun khang",
     "date": "2006",
-    "numPages": "",
+    "pages": "369-409",
     "language": "tib",
     "ISBN": "978-7-5409-32-49-X",
-    "shortTitle": "bKa' gdams gsung 'bum 1",
+    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -74,23 +80,15 @@
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Collected works"
       }
     ],
     "collections": [
       "IEP4UFSV"
     ],
     "relations": {
-      "dc:relation": [
-        "http://zotero.org/groups/4394244/items/S8ND2M27",
-        "http://zotero.org/groups/4394244/items/YY9XCFMT",
-        "http://zotero.org/groups/4394244/items/TNVRTEUX",
-        "http://zotero.org/groups/4394244/items/W826CRU2"
-      ]
+      "dc:relation": "http://zotero.org/groups/4394244/items/Z5AUD7GQ"
     },
-    "dateAdded": "2023-09-26T09:30:46Z",
-    "dateModified": "2025-06-02T08:40:55Z"
+    "dateAdded": "2023-10-02T13:14:16Z",
+    "dateModified": "2025-12-04T10:26:49Z"
   }
 }

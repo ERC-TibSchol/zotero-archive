@@ -1,6 +1,6 @@
 {
-  "key": "Z5AUD7GQ",
-  "version": 5853,
+  "key": "W826CRU2",
+  "version": 5860,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/Z5AUD7GQ",
+      "href": "https://api.zotero.org/groups/4394244/items/W826CRU2",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/Z5AUD7GQ",
+      "href": "https://www.zotero.org/groups/tibschol/items/W826CRU2",
       "type": "text/html"
     }
   },
@@ -34,35 +34,41 @@
         }
       }
     },
-    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib 'jug khang",
+    "creatorSummary": "Rin chen grags",
     "parsedDate": "2006",
-    "numChildren": 1
+    "numChildren": 0
   },
   "data": {
-    "key": "Z5AUD7GQ",
-    "version": 5853,
-    "itemType": "book",
-    "title": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
+    "key": "W826CRU2",
+    "version": 5860,
+    "itemType": "bookSection",
+    "title": "ratna kir tis mdzad pa'i mtha' bral dbu ma'i rnam gzhag gsal byed sgron me",
     "creators": [
       {
         "creatorType": "editor",
         "firstName": "",
         "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Rin chen grags"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
     "series": "",
     "seriesNumber": "",
-    "volume": "1-30",
+    "volume": "29",
     "numberOfVolumes": "30",
     "edition": "",
     "place": "Khreng tu'u",
     "publisher": "Si khron mi rigs dpe skrun khang",
     "date": "2006",
-    "numPages": "",
+    "pages": "187-232",
     "language": "tib",
     "ISBN": "978-7-5409-32-49-X",
-    "shortTitle": "bKa' gdams gsung 'bum 1",
+    "shortTitle": "Rin chen grags - gsal byed sgron me",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -76,21 +82,14 @@
         "tag": "APIS"
       },
       {
-        "tag": "Collected works"
+        "tag": "Madhyamaka"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
-      "dc:relation": [
-        "http://zotero.org/groups/4394244/items/S8ND2M27",
-        "http://zotero.org/groups/4394244/items/YY9XCFMT",
-        "http://zotero.org/groups/4394244/items/TNVRTEUX",
-        "http://zotero.org/groups/4394244/items/W826CRU2"
-      ]
+      "dc:relation": "http://zotero.org/groups/4394244/items/Z5AUD7GQ"
     },
-    "dateAdded": "2023-09-26T09:30:46Z",
-    "dateModified": "2025-06-02T08:40:55Z"
+    "dateAdded": "2025-12-04T10:26:49Z",
+    "dateModified": "2025-12-04T10:29:27Z"
   }
 }

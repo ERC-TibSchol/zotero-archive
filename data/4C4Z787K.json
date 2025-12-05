@@ -1,0 +1,98 @@
+{
+  "key": "4C4Z787K",
+  "version": 5012,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4C4Z787K",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4C4Z787K",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Williams",
+    "parsedDate": "1985",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4C4Z787K",
+    "version": 5012,
+    "itemType": "journalArticle",
+    "title": "Rma bya pa Byang chub brtson 'grus on Madhyamaka method",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Paul",
+        "lastName": "Williams"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "13",
+    "issue": "3",
+    "pages": "205-225",
+    "date": "9/1985",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Indian Philos",
+    "language": "eng",
+    "DOI": "10.1007/BF00163222",
+    "ISSN": "0022-1791, 1573-0395",
+    "shortTitle": "Williams 1985",
+    "url": "http://link.springer.com/10.1007/BF00163222",
+    "accessDate": "2023-02-06T13:31:20Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-02-06T13:31:21Z",
+    "dateModified": "2025-05-21T08:36:45Z"
+  }
+}

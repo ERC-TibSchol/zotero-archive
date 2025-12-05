@@ -1,0 +1,96 @@
+{
+  "key": "DKRLXESH",
+  "version": 5007,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DKRLXESH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DKRLXESH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sperling",
+    "parsedDate": "2004",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DKRLXESH",
+    "version": 5007,
+    "itemType": "journalArticle",
+    "title": "Further Remarks Apropos of the 'Ba'-rom-pa and the Tanguts",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Elliot",
+        "lastName": "Sperling"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Acta Orientalia Academiae Scientiarum Hungaricae",
+    "volume": "57",
+    "issue": "1",
+    "pages": "1-26",
+    "date": "04/2004",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Acta Orientalia Academiae Scientiarum Hungaricae",
+    "language": "eng",
+    "DOI": "10.1556/AOrient.57.2004.1.1",
+    "ISSN": "0001-6446, 1588-2667",
+    "shortTitle": "",
+    "url": "https://akjournals.com/doi/10.1556/aorient.57.2004.1.1",
+    "accessDate": "2021-10-19T12:24:50Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Tangut"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-10-19T12:24:52Z",
+    "dateModified": "2025-05-21T08:35:38Z"
+  }
+}

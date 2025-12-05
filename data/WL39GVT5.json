@@ -1,0 +1,91 @@
+{
+  "key": "WL39GVT5",
+  "version": 5398,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WL39GVT5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WL39GVT5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WL39GVT5",
+    "version": 5398,
+    "itemType": "journalArticle",
+    "title": "Khu lo ts\u0101 ba\u2019s Treatise: Distinguishing the Sv\u0101tantrika/*Pr\u0101sa\u1e45gika Difference in Early Twelfth Century Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "volume": "46",
+    "issue": "5",
+    "pages": "935-981",
+    "date": "11/2018",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Indian Philos",
+    "language": "eng",
+    "DOI": "10.1007/s10781-018-9369-z",
+    "ISSN": "0022-1791, 1573-0395",
+    "shortTitle": "Apple 2018",
+    "url": "http://link.springer.com/10.1007/s10781-018-9369-z",
+    "accessDate": "2021-12-20T08:01:26Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-20T08:01:30Z",
+    "dateModified": "2025-06-27T12:04:09Z"
+  }
+}

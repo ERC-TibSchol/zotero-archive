@@ -1,0 +1,89 @@
+{
+  "key": "PSTH8RCL",
+  "version": 4806,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PSTH8RCL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PSTH8RCL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PSTH8RCL",
+    "version": 4806,
+    "itemType": "journalArticle",
+    "title": "Jay\u0101nanda. A Twelfth Century <i>Guoshi</i> from Kashmir Among the Tangut",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Central Asiatic Journal",
+    "volume": "37.3-4",
+    "issue": "",
+    "pages": "188\u2013197",
+    "date": "1993",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "CAJ",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://www.jstor.org/stable/24467842",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/HAX9PIDN"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:21:17Z"
+  }
+}

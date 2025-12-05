@@ -1,0 +1,95 @@
+{
+  "key": "MI838H4J",
+  "version": 4855,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MI838H4J",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MI838H4J",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vose",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MI838H4J",
+    "version": 4855,
+    "itemType": "book",
+    "title": "Resurrecting Candrak\u012brti: Disputes in the Tibetan Creation of Pr\u0101sa\u1e45gika",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kevin A.",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Boston",
+    "publisher": "Wisdom Publications",
+    "date": "2009",
+    "numPages": "x, 293",
+    "language": "eng",
+    "ISBN": "978-0-86171-520-6",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://lccn.loc.gov/2008052230",
+    "callNumber": "BQ7479.8.C347 V68",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/BJNGZEXL"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:21:01Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "key": "4EAJP8A6",
+  "version": 5402,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4EAJP8A6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4EAJP8A6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4EAJP8A6",
+    "version": 5402,
+    "itemType": "journalArticle",
+    "title": "\u300e\u8ad6\u7406\u5b66\u610f\u95c7\u6255\u62ed\u300f\u306b\u304a\u3051\u308b\u30c1\u30e3\u30d1\u306e\u601d\u60f3\u7684\u7acb\u5834 [The Philosophical Standpoint of Phya pa chos kyi seng ge in his <i>Tshad ma yid kyi mun sel</i>]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "60",
+    "issue": "2",
+    "pages": "1062\u20131059",
+    "date": "2012",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "https://doi.org/10.4259/ibk.60.2_1062",
+    "ISSN": "0019-4344",
+    "shortTitle": "Nishizawa 2012",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/60/2/60_KJ00007978300/_pdf/-char/ja",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/9AY94BYG"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-09-02T12:52:57Z"
+  }
+}

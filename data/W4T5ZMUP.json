@@ -1,0 +1,105 @@
+{
+  "key": "W4T5ZMUP",
+  "version": 4543,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/W4T5ZMUP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/W4T5ZMUP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "S\u00f8rensen and Sonam Dolma",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "W4T5ZMUP",
+    "version": 4543,
+    "itemType": "book",
+    "title": "Rare texts from Tibet: seven sources for the ecclesiastic history of medieval Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Per K.",
+        "lastName": "S\u00f8rensen"
+      },
+      {
+        "creatorType": "author",
+        "name": "Sonam Dolma"
+      },
+      {
+        "creatorType": "contributor",
+        "name": "Lumbini International Research Institute"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Bhairahawa",
+    "publisher": "Lumbini International Research Institute",
+    "date": "2007",
+    "numPages": "404",
+    "language": "eng tib",
+    "ISBN": "978-99946-933-3-7",
+    "shortTitle": "S\u00f8rensen&Dolma 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ7572 .S67 2007",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/NSLF7ZRM",
+        "http://zotero.org/groups/4394244/items/AYG7MKVB",
+        "http://zotero.org/groups/4394244/items/2UHYHY48",
+        "http://zotero.org/groups/4394244/items/SS5MFJ9V",
+        "http://zotero.org/groups/4394244/items/WDILHNDG",
+        "http://zotero.org/groups/4394244/items/LHRFA3U3",
+        "http://zotero.org/groups/4394244/items/5VLDW7VC"
+      ]
+    },
+    "dateAdded": "2024-06-25T07:31:10Z",
+    "dateModified": "2025-05-21T06:44:28Z"
+  }
+}

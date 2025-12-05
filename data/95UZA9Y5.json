@@ -1,0 +1,91 @@
+{
+  "key": "95UZA9Y5",
+  "version": 4140,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/95UZA9Y5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/95UZA9Y5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bSod nams rtse mo",
+    "parsedDate": "1968",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "95UZA9Y5",
+    "version": 4140,
+    "itemType": "book",
+    "title": "Slob dpon phya pa'i bstod pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bSod nams rtse mo"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Sa skya pa'i bka' 'bum",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Tokyo",
+    "publisher": "",
+    "date": "1968,39/4/4-41/3/1",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "bSod nams rtse mo  - bsTod pa",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/ADWD9KWT"
+    },
+    "dateAdded": "2024-01-09T11:17:01Z",
+    "dateModified": "2025-05-20T19:02:41Z"
+  }
+}

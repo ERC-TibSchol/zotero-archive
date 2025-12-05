@@ -1,6 +1,6 @@
 {
   "key": "YY9XCFMT",
-  "version": 5005,
+  "version": 5853,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "YY9XCFMT",
-    "version": 5005,
+    "version": 5853,
     "itemType": "bookSection",
     "title": "tshad ma rnam par nges pa'i 'grel bshad",
     "creators": [
@@ -89,6 +89,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/Z5AUD7GQ"
     },
     "dateAdded": "2024-10-17T07:46:39Z",
-    "dateModified": "2025-02-25T10:36:37Z"
+    "dateModified": "2025-12-04T10:26:49Z"
   }
 }

@@ -1,0 +1,92 @@
+{
+  "key": "GCDJK98S",
+  "version": 5402,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GCDJK98S",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GCDJK98S",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GCDJK98S",
+    "version": 5402,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30e3\u30d1\u30fb\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u306e\u30b4\u30af\u7ffb\u8a33\u5b98\u6279\u5224 \u2014 \u8a8d\u8b58\u624b\u6bb5\u6027\u306e\u78ba\u5b9a\u3092\u3081\u3050\u3063\u3066 \u2014 [Phya pa chos kyi seng ge's Criticism of rNgog Blo ldan shes rab: On the Ascertainment of <i>pr\u0101m\u0101\u1e47ya</i>],",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "59",
+    "issue": "2",
+    "pages": "76\u201379 [999\u2013996]",
+    "date": "2011",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "https://doi.org/10.4259/ibk.59.2_999",
+    "ISSN": "0019-4344",
+    "shortTitle": "Fumihito 2011",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/845LHE5D"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-09-02T12:53:33Z"
+  }
+}

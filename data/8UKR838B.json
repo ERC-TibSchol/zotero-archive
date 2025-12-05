@@ -1,0 +1,95 @@
+{
+  "key": "8UKR838B",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8UKR838B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8UKR838B",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Chos dpal dar byang",
+    "parsedDate": "1981",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8UKR838B",
+    "version": 5118,
+    "itemType": "book",
+    "title": "The Biography of Chag Lo-ts\u0101-ba Chos rje dpal (Dharmasv\u0101min)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Chos dpal dar byang"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Champa Thupten",
+        "lastName": "Zongtse"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "International Academy Of Indian Culture",
+    "date": "1981",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "",
+    "shortTitle": "Zongtse 1981",
+    "url": "http://purl.bdrc.io/resource/MW29250",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2024-02-21T07:21:44Z",
+    "dateModified": "2025-05-21T08:37:00Z"
+  }
+}

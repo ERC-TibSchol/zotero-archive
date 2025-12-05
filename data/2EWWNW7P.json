@@ -1,0 +1,96 @@
+{
+  "key": "2EWWNW7P",
+  "version": 5002,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2EWWNW7P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2EWWNW7P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2EWWNW7P",
+    "version": 5002,
+    "itemType": "bookSection",
+    "title": "Dag yig nyer mkho bsdus pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "rNgog Blo ldan shes rab"
+      },
+      {
+        "creatorType": "contributor",
+        "name": "Dpal brtsegs Bod yig Dpe rnying Zhib \u02bcjug khang"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rNgog lo tsA ba Blo ldan shes rab kyi gsung chos skor",
+    "series": "Bka\u02bc gdams dpe dkon gces btus",
+    "seriesNumber": "3",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "Par thengs 1",
+    "place": "Beijing",
+    "publisher": "Krung go bod rig pa dpe skrun khang",
+    "date": "2009",
+    "pages": "662-670",
+    "language": "tib",
+    "ISBN": "978-7-80253-131-4",
+    "shortTitle": "rNgog lo - Dag yig nyer mkho bsdus pa 2009 ed",
+    "url": "http://purl.bdrc.io/resource/MW1PD104832",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ3300.P735 B55 2009",
+    "rights": "",
+    "extra": "OCLC: ocn671468681",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/LP57KI93",
+        "http://zotero.org/groups/4394244/items/NFIUN2NZ",
+        "http://zotero.org/groups/4394244/items/ZPWUC2AX"
+      ]
+    },
+    "dateAdded": "2023-12-12T15:35:37Z",
+    "dateModified": "2025-05-21T06:44:09Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "key": "AZPZI9S2",
+  "version": 5400,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AZPZI9S2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AZPZI9S2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan",
+    "parsedDate": "2010",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "AZPZI9S2",
+    "version": 5400,
+    "itemType": "bookSection",
+    "title": "rNgog lo ts\u0101 ba chen pos bstan pa ji ltar bskyangs pa\u02bci tshul mdo tsam du bya ba  ngo mtshar gtam gyi rol mo zhes bya ba (dbu med)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Bod kyi lo rgyus rnam thar phyogs bsgrigs(130)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "31",
+    "edition": "Par gzhi dang po",
+    "place": "Zi ling",
+    "publisher": "mTsho sngon mi rigs dpe skrun khang",
+    "date": "2010",
+    "pages": "",
+    "language": "tib",
+    "ISBN": "978-7-5420-1464-1",
+    "shortTitle": "gSer mdog - Rol mo",
+    "url": "http://purl.bdrc.io/resource/MW1KG10687_F5665A",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "W1KG10687\nWork: WA1KG10687",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T10:56:55Z",
+    "dateModified": "2025-07-15T15:04:55Z"
+  }
+}

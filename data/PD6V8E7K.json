@@ -1,0 +1,99 @@
+{
+  "key": "PD6V8E7K",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PD6V8E7K",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PD6V8E7K",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roesler",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PD6V8E7K",
+    "version": 5118,
+    "itemType": "journalArticle",
+    "title": "Between Self-Expression and Convention: Tibetan Reflections on Autobiographical Writing",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ulrike",
+        "lastName": "Roesler"
+      }
+    ],
+    "abstractNote": "This paper addresses the issue of literary criticism within Tibetan autobiographical writing. It begins with a survey of traditional Tibetan forms of life writing and then zooms in on autobiographies and their specific features. Through an analysis of autobiographical prefaces, it filters out certain recurring themes and topics, such as the modes of apology and self-confidence, the debate whether one should write about one\u2019s previous lives or not, and the claim to truthfulness of the autobiographical account. Finally, it addresses the relationship between the autobiographical preface and the work itself by introducing two diametrically opposed types. It concludes that Tibetan autobiographies and their modes of self-presentation are situated between literary convention and personal expression, and each author balances these in individual ways. The choices made are related to parameters such as the time of composition, the purpose of the work, and\u2014last but not least\u2014the individual who is writing.",
+    "publicationTitle": "Life Writing",
+    "volume": "17",
+    "issue": "2",
+    "pages": "163-186",
+    "date": "2020",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1080/14484528.2019.1620581",
+    "ISSN": "1448-4528",
+    "shortTitle": "Between Self-Expression and Convention",
+    "url": "https://doi.org/10.1080/14484528.2019.1620581",
+    "accessDate": "2021-12-13T20:33:25Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Taylor and Francis+NEJM",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-13T20:33:26Z",
+    "dateModified": "2025-05-21T06:45:16Z"
+  }
+}

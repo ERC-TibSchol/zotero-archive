@@ -1,0 +1,98 @@
+{
+  "key": "T4YVD4SV",
+  "version": 4811,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/T4YVD4SV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/T4YVD4SV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Stoltz",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "T4YVD4SV",
+    "version": 4811,
+    "itemType": "journalArticle",
+    "title": "Gettier and Factivity in Indo-Tibetan Epistemology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan",
+        "lastName": "Stoltz"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Philosophical Quarterly",
+    "volume": "57",
+    "issue": "228",
+    "pages": "394\u2013415",
+    "date": "2007",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1111/j.1467-9213.2007.493.x",
+    "ISSN": "0031-8094",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Philosophy"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/BUVMHGG7"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:21:39Z"
+  }
+}

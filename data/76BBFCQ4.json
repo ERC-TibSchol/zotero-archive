@@ -1,0 +1,109 @@
+{
+  "key": "76BBFCQ4",
+  "version": 5008,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/76BBFCQ4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/76BBFCQ4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Krasser",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "76BBFCQ4",
+    "version": 5008,
+    "itemType": "journalArticle",
+    "title": "rNgog lots\u0101ba on the sahopalambhaniyama proof in Dharmak\u012brti\u2019s  Pram\u0101\u1e47avini\u015bcaya",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Krasser"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Marek",
+        "lastName": "Mejor"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Agata",
+        "lastName": "Bareja"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Studia Indologiczne (Aspects of Buddhism. Proceedings of the International Seminar on Buddhist Studies. LIW, 25 June 1994)",
+    "volume": "4",
+    "issue": "",
+    "pages": "63-87",
+    "date": "1997",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Krasser 1997",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:43:10Z",
+    "dateModified": "2025-05-21T08:35:49Z"
+  }
+}

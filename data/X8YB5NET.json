@@ -1,0 +1,93 @@
+{
+  "key": "X8YB5NET",
+  "version": 4855,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/X8YB5NET",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/X8YB5NET",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vose",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "X8YB5NET",
+    "version": 4855,
+    "itemType": "journalArticle",
+    "title": "Do M\u0101dhyamikas See What the Rest of Us See? Early bKa\u2019 gdams pas on \u201cCommonly Appearing Subjects\u201d (<i>chos can mthun snang ba</i>)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kevin A.",
+        "lastName": "Vose"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Buddhist Philosophy",
+    "volume": "1",
+    "issue": "",
+    "pages": "95\u2013135",
+    "date": "2015",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.1353/jbp.2015.0007",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/E6FSMEQN"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:21:12Z"
+  }
+}
