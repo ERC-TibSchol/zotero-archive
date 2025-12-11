@@ -1,0 +1,87 @@
+{
+  "key": "R4U8CIMF",
+  "version": 3389,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/R4U8CIMF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/R4U8CIMF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bSod nams rtse mo",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "R4U8CIMF",
+    "version": 3389,
+    "itemType": "bookSection",
+    "title": "slob dpon phya pa la bstod pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bSod nams rtse mo"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Sa skya bka' 'bum. Scanned from the Khams reprint of the Sde dge edition of the Collected works of the first great Sa skya masters. (Reproduced from the 1736 Derge Edition).",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "New Delhi",
+    "publisher": "Sakya Centre",
+    "date": "1992-1993",
+    "pages": "165-172",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "bsod nams rtse mo - phya bstod",
+    "url": "http://purl.bdrc.io/resource/MW22271_B3F198",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/NDV79SN6"
+    },
+    "dateAdded": "2025-03-11T11:16:50Z",
+    "dateModified": "2025-03-11T11:18:09Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "key": "UN5QNS5N",
+  "version": 5403,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UN5QNS5N",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UN5QNS5N",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UN5QNS5N",
+    "version": 5403,
+    "itemType": "journalArticle",
+    "title": "\u76f4\u63a5\u77e5\u899a\u3068\u5bfe\u8c61\u78ba\u5b9a\u4f5c\u7528\u306b\u95a2\u3059\u308b\u518d\u691c\u8a0e: \u30c0\u30eb\u30de\u30ad\u30fc\u30eb\u30c6\u30a3\u306e\u76f8\u53cd\u3059\u308b\u8a18\u8ff0\u53ca\u3073\u8a3b\u91c8\u8005\u9054\u306e\u89e3\u91c8 [A Reconsideration of <i>pratyak\u1e63a</i> and <i>ni\u015bcaya</i>: Dharmak\u012brti\u2019s Inconsistent Accounts and the Interpretations of \u015a\u0101kyabuddhi and Arca\u1e6da]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "61",
+    "issue": "2",
+    "pages": "115\u2013120 (944-939)",
+    "date": "2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "https://doi.org/10.4259/ibk.61.2_944",
+    "ISSN": "0019-4344",
+    "shortTitle": "Nishizawa 2013",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Dharmak\u012brti"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/G6ANCHKX"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-09-02T13:05:34Z"
+  }
+}
