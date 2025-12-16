@@ -1,0 +1,77 @@
+{
+  "key": "W3AVSE3K",
+  "version": 5881,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/W3AVSE3K",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/W3AVSE3K",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "McNamara",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "W3AVSE3K",
+    "version": 5881,
+    "itemType": "thesis",
+    "title": "Nihilists and Noble Ones:\nRatn\u0101kara\u015b\u0101nti\u2019s Engagement with N\u0101g\u0101rjuna, M\u0101dhyamikas, and the Mah\u0101y\u0101na in the Madhyamak\u0101la\u1e43k\u0101rav\u1e5btti",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Daniel P.",
+        "lastName": "McNamara"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Doctor of Philosophy",
+    "university": "Emory University",
+    "place": "",
+    "date": "2019",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "McNamara 2019",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "3B7U7CE7"
+    ],
+    "relations": {},
+    "dateAdded": "2025-12-15T11:57:56Z",
+    "dateModified": "2025-12-15T11:59:09Z"
+  }
+}

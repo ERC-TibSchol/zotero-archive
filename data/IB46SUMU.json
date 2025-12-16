@@ -1,0 +1,103 @@
+{
+  "key": "IB46SUMU",
+  "version": 4565,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/IB46SUMU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/IB46SUMU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Budapesti",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "IB46SUMU",
+    "version": 4565,
+    "itemType": "bookSection",
+    "title": "Past, Present, and Future of Digital Buddhology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ilona",
+        "lastName": "Budapesti"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Daniel",
+        "lastName": "Veidlinger"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Digital Humanities and Buddhism: An Introduction",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berlin",
+    "publisher": "Walter de Gruyter GmbH & Co KG",
+    "date": "2019",
+    "pages": "25-40",
+    "language": "eng",
+    "ISBN": "978-3-11-051908-2",
+    "shortTitle": "",
+    "url": "https://www.degruyter.com/document/doi/10.1515/9783110519082-002/html",
+    "accessDate": "2021-08-06T15:53:21Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Digital Humanities"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-06T15:51:28Z",
+    "dateModified": "2025-05-21T06:47:38Z"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "key": "YFDYQ9QZ",
+  "version": 5406,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YFDYQ9QZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YFDYQ9QZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YFDYQ9QZ",
+    "version": 5406,
+    "itemType": "journalArticle",
+    "title": "\u30c0\u30eb\u30e2\u30fc\u30c3\u30bf\u30e9\u306e\u76f4\u63a5\u77e5\u899a\u8ad6 [Dharmottara\u2019s Theory of <i>pratyak\u1e63a</i>: Its Originality and Theoretical Background]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "63",
+    "issue": "2",
+    "pages": "90\u201395",
+    "date": "2015",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "https://doi.org/10.4259/ibk.63.2_1005",
+    "ISSN": "0019-4344",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=546463",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/4THGITG2"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-09-02T13:08:23Z"
+  }
+}

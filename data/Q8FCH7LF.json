@@ -1,0 +1,98 @@
+{
+  "key": "Q8FCH7LF",
+  "version": 3428,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q8FCH7LF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Q8FCH7LF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1993",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Q8FCH7LF",
+    "version": 3428,
+    "itemType": "journalArticle",
+    "title": "Two Mongol Xylographs (Hor Par Ma) of the Tibetan Text of Sa Skya Pa\u1e47\u1e0dita's Work on Buddhist Logic and Epistemology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "volume": "16",
+    "issue": "2",
+    "pages": "279-298",
+    "date": "1993",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "0193-600X",
+    "shortTitle": "van der Kuijp 1993",
+    "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8814/2721",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T12:29:19Z",
+    "dateModified": "2025-03-12T08:46:21Z"
+  }
+}

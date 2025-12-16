@@ -1,0 +1,90 @@
+{
+  "key": "ADFWRXFD",
+  "version": 4817,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/ADFWRXFD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/ADFWRXFD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Griffiths",
+    "parsedDate": "2022-10-25",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "ADFWRXFD",
+    "version": 4817,
+    "itemType": "blogPost",
+    "title": "Transkribus in Practice: Improving CER",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Rachael",
+        "lastName": "Griffiths"
+      }
+    ],
+    "abstractNote": "Since joining the ERC-funded project, The Dawn of Tibetan Buddhist Scholasticism (11th-13th C.)(TibSchol),1 at the Austrian Academy of Sciences in 2021, I have been experimenting with Transkribus. \u2026",
+    "blogTitle": "The Digital Orientalist",
+    "websiteType": "",
+    "date": "2022-10-25T14:30:00+00:00",
+    "url": "https://digitalorientalist.com/2022/10/25/transkribus-in-practice-improving-cer/",
+    "accessDate": "2022-11-30T14:28:20Z",
+    "language": "eng",
+    "shortTitle": "Griffiths 2022",
+    "rights": "",
+    "extra": "https://doi.org/10.1553/TibSchol_ERC_Cog_101001002_Griffiths_CER",
+    "tags": [
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH",
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2022-11-30T14:28:21Z",
+    "dateModified": "2025-05-21T07:22:08Z"
+  }
+}

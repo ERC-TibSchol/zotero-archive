@@ -1,0 +1,93 @@
+{
+  "key": "Z9SW2HVR",
+  "version": 5018,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z9SW2HVR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z9SW2HVR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z9SW2HVR",
+    "version": 5018,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u521d\u671f\u4e2d\u89b3\u601d\u60f3\u306b\u304a\u3051\u308b\u7a7a\u6027\u7406\u89e3 : \u30b4\u30af\u7ffb\u8a33\u5e2b,\u30c8\u30eb\u30f3\u30d1,\u30ae\u30e3\u30de\u30eb\u30ef,\u30c1\u30e3\u30d1  [On the Interpretations of Emptiness (<i>\u015b\u016bnyat\u0101</i>) in the Early Tibetan Madhyamaka Thought: rNgog lo tsa ba, Gro lung pa, rGya dmar ba and Phya pa]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u65e5\u672c\u897f\u8535\u5b78\u6703\u3005\u5831",
+    "volume": "64",
+    "issue": "",
+    "pages": "35\u201351",
+    "date": "2018",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/PMQS77QD"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T08:39:08Z"
+  }
+}
