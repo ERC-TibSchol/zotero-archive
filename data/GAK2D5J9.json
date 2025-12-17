@@ -1,0 +1,80 @@
+{
+  "key": "GAK2D5J9",
+  "version": 3437,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GAK2D5J9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GAK2D5J9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tillemans",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GAK2D5J9",
+    "version": 3437,
+    "itemType": "book",
+    "title": "How do Ma\u0304dhyamikas think? and other essays on the Buddhist philosophy of the middle",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tom Johannes Frank",
+        "lastName": "Tillemans"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Somerville (Mass.)",
+    "publisher": "Wisdom",
+    "date": "2016",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "9781614292517",
+    "shortTitle": "How do Ma\u0304dhyamikas think?",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "294.342 042",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-03-13T06:51:47Z",
+    "dateModified": "2025-03-13T06:51:47Z"
+  }
+}

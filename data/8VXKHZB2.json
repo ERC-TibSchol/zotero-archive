@@ -1,0 +1,79 @@
+{
+  "key": "8VXKHZB2",
+  "version": 3453,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8VXKHZB2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8VXKHZB2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Byams pa kun dga' 'byung gnas",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8VXKHZB2",
+    "version": 3453,
+    "itemType": "book",
+    "title": "dPal ldan gsang phu'i gdan rabs bsal ba'i me long",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Byams pa kun dga' 'byung gnas"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "",
+    "publisher": "",
+    "date": "",
+    "numPages": "",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "Byams - gsang phu gdan rabs",
+    "url": "https://web1.otani.ac.jp/cri/twrpe/zogai/",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "\u014ctani No. 13981",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "dbu med manuscript",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-03-13T06:57:14Z",
+    "dateModified": "2025-03-13T07:00:42Z"
+  }
+}

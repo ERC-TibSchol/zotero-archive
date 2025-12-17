@@ -1,0 +1,95 @@
+{
+  "key": "UAHPCR5I",
+  "version": 5023,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UAHPCR5I",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UAHPCR5I",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UAHPCR5I",
+    "version": 5023,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30e3\u30d1\u30fb\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u306e\u6559\u7fa9\u66f8 [The Grub mtha' Literature of Phya pa Chos kyi seng ge]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Report of the Japanese Association for Tibetan Studies (\u65e5\u672c\u897f\u8535\u5b66\u4f1a\u3005\u5831)",
+    "volume": "59",
+    "issue": "",
+    "pages": "67\u201384",
+    "date": "2013",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://buddhism.lib.ntu.edu.tw/DLMBS/jp/search/search_detail.jsp?seq=622170",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Doxography"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/RHCM8R4M"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T08:39:56Z"
+  }
+}

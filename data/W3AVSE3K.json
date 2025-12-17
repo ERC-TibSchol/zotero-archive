@@ -1,6 +1,6 @@
 {
   "key": "W3AVSE3K",
-  "version": 5881,
+  "version": 5883,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "W3AVSE3K",
-    "version": 5881,
+    "version": 5883,
     "itemType": "thesis",
     "title": "Nihilists and Noble Ones:\nRatn\u0101kara\u015b\u0101nti\u2019s Engagement with N\u0101g\u0101rjuna, M\u0101dhyamikas, and the Mah\u0101y\u0101na in the Madhyamak\u0101la\u1e43k\u0101rav\u1e5btti",
     "creators": [
@@ -66,12 +66,16 @@
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [
       "3B7U7CE7"
     ],
     "relations": {},
     "dateAdded": "2025-12-15T11:57:56Z",
-    "dateModified": "2025-12-15T11:59:09Z"
+    "dateModified": "2025-12-16T09:30:26Z"
   }
 }

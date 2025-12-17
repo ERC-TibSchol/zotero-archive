@@ -1,6 +1,6 @@
 {
-  "key": "KAD94G5L",
-  "version": 5893,
+  "key": "WL4AE7U6",
+  "version": 5014,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/KAD94G5L",
+      "href": "https://api.zotero.org/groups/4394244/items/WL4AE7U6",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/KAD94G5L",
+      "href": "https://www.zotero.org/groups/tibschol/items/WL4AE7U6",
       "type": "text/html"
     }
   },
@@ -34,60 +34,58 @@
         }
       }
     },
-    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "creatorSummary": "rNgog Blo ldan shes rab",
     "numChildren": 0
   },
   "data": {
-    "key": "KAD94G5L",
-    "version": 5893,
+    "key": "WL4AE7U6",
+    "version": 5014,
     "itemType": "bookSection",
-    "title": "bKa\u02bc bstan gyi dkar chag bstan pa rgyas pa rgyan gyi nyi \u02bcod",
+    "title": "dag yig nyer mkho bsdus pa",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "bCom ldan ral gri"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "bCom ldan rigs pa'i ral gri"
+        "lastName": "rNgog Blo ldan shes rab"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
-    "series": "",
-    "seriesNumber": "",
-    "volume": "2",
+    "bookTitle": "dPyad gzhi'i yig cha phyogs sgrigs",
+    "series": "\u85cf\u6587\u53f2\u6599\u5f59\u7de8\u7b2c3 \u8f2f",
+    "seriesNumber": "3",
+    "volume": "6",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "",
-    "publisher": "",
-    "date": "",
-    "pages": "3-158",
+    "place": "Tianjin",
+    "publisher": "Tianjin Guji Chubanshe",
+    "date": "[n.d.]",
+    "pages": "",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Ral gri - bstan rgyas rgyan nyid 'od",
-    "url": "http://purl.bdrc.io/resource/MW1CZ1041_A285C1",
-    "accessDate": "2023-11-10",
+    "shortTitle": "rNgog Lo - Dag yig nyer mkho bsdus",
+    "url": "",
+    "accessDate": "",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "bdr:MW1CZ1041_A285C1",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
       }
     ],
     "collections": [
       "IEP4UFSV"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
+      "dc:relation": "http://zotero.org/groups/4394244/items/XK94E4DD"
     },
-    "dateAdded": "2024-09-17T14:30:55Z",
-    "dateModified": "2025-12-16T10:58:36Z"
+    "dateAdded": "2023-12-12T15:31:07Z",
+    "dateModified": "2025-05-20T19:04:01Z"
   }
 }

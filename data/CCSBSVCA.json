@@ -1,0 +1,101 @@
+{
+  "key": "CCSBSVCA",
+  "version": 4145,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CCSBSVCA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CCSBSVCA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "S\u00f8rensen and Hazod",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CCSBSVCA",
+    "version": 4145,
+    "itemType": "book",
+    "title": "Rulers on the Celestial Plain: Ecclesiastic and Secular Hegemony in Medieval Tibet, a Study of Tshal Gung-thang",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Per K.",
+        "lastName": "S\u00f8rensen"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "",
+        "lastName": "Tsering Gyalbo"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Ver\u00f6ffentlichungen zur Sozialanthropologie 10, Denkschriften / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 361",
+    "seriesNumber": "",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "place": "Wien",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "date": "2007",
+    "numPages": "ix, 1011",
+    "language": "eng",
+    "ISBN": "978-3-7001-3828-0",
+    "shortTitle": "S\u00f8rensen&Hazod 2007",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "BQ6349.G85 S67",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/YF8HSG2N"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-20T19:03:09Z"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "key": "X3VFCVMI",
+  "version": 5020,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/X3VFCVMI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/X3VFCVMI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "X3VFCVMI",
+    "version": 5020,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30e3\u30d1\u30fb\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u306e\u4e2d\u89b3\u601d\u60f3 : \u305d\u306e\u72ec\u81ea\u6027\u3068\u601d\u60f3\u7684\u80cc\u666f [Madhyamaka Thought of Phya pa chos kyi seng ge: Its Originality and Theoretical Background]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u65e5\u672c\u897f\u8535\u5b78\u6703\u3005\u5831",
+    "volume": "62",
+    "issue": "",
+    "pages": "25\u201339",
+    "date": "2017",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://researchmap.jp/50646643/published_papers/15620982",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/8N6Y4M9E"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T08:39:19Z"
+  }
+}

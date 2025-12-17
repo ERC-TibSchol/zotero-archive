@@ -1,0 +1,54 @@
+{
+  "key": "2T2MTL47",
+  "version": 5902,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2T2MTL47",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2T2MTL47",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/KWQVWBU6",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2T2MTL47",
+    "version": 5902,
+    "parentItem": "KWQVWBU6",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>4th text in the gSung thor bu</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-12-16T11:00:13Z",
+    "dateModified": "2025-12-16T11:00:22Z"
+  }
+}

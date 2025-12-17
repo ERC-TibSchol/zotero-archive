@@ -1,0 +1,98 @@
+{
+  "key": "CCNE9MKL",
+  "version": 4821,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CCNE9MKL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CCNE9MKL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Cabez\u00f3n",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CCNE9MKL",
+    "version": 4821,
+    "itemType": "book",
+    "title": "Buddhism and Language: A Study of Indo-Tibetan scholasticism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      }
+    ],
+    "abstractNote": "Taking language as its general theme, this book explores how the tradition of Indo-Tibetan Buddhist philosophical speculation exemplifies the character of scholasticism.\n\nScholasticism, as an abstract and general category, is developed as a valuable theoretical tool for understanding a variety of intellectual movements in the history of philosophy of religion. The book investigates the Buddhist Scholastic theory and use of scripture, the nature of doctrine and its transcendence in experience, Mahayana Buddhist hermeneutics, the theory and practice of exegesis, and questions concerning the authority of sacred texts. It also deals with the Buddhist Scholastic theory of conceptual thought as the mirror of language, the Scholastic defense of logic and rationality as a method, as well as the role of language in the idealist and nominalist ontologies of the Mahayana. Finally, the author treats the question of ineffability and the silence of the Buddha from a new perspective.",
+    "series": "SUNY series, toward a comparative philosophy of religions",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Albany",
+    "publisher": "State University of New York Press",
+    "date": "1994",
+    "numPages": "xiii+299",
+    "language": "eng",
+    "ISBN": "978-0-7914-1899-4",
+    "shortTitle": "Buddhism and language",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "IND) 12 B 99",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-06T15:58:20Z",
+    "dateModified": "2025-05-21T07:22:30Z"
+  }
+}

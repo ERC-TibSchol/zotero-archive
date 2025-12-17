@@ -1,0 +1,85 @@
+{
+  "key": "7JUD7TIJ",
+  "version": 3430,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7JUD7TIJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7JUD7TIJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7JUD7TIJ",
+    "version": 3430,
+    "itemType": "journalArticle",
+    "title": "Dating the two Lde'u chronicles of Buddhism in India and Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Asiatische Studien / Etudes asiatiques",
+    "volume": "46",
+    "issue": "",
+    "pages": "468-491",
+    "date": "1992",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "10.5169/SEALS-146968",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 1992",
+    "url": "https://www.e-periodica.ch/digbib/view?pid=ast-002:1992:46::795",
+    "accessDate": "2024-02-16T15:26:23Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Datacite)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-02-16T15:27:22Z",
+    "dateModified": "2025-03-12T08:46:42Z"
+  }
+}

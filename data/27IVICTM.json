@@ -1,0 +1,81 @@
+{
+  "key": "27IVICTM",
+  "version": 5442,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/27IVICTM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/27IVICTM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2022-12-20",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "27IVICTM",
+    "version": 5442,
+    "itemType": "journalArticle",
+    "title": "\u5e30\u8b2c\u6d3e\uff08thal\u2004\u2019gyur\u2004ba\uff09\u3068\u81ea\u7acb\u6d3e\uff08rang\u2004rgyud\u2004pa\uff09\u306e\u5206\u985e\u306e\u8d77\u6e90\u306b\u3064\u3044\u3066\u2015\u2015\u30d1\u30c4\u30a1\u30d7\u7ffb\u8a33\u5e2b\u306e\u4e2d\u89b3\u8ad6\u66f8\u3092\u8cc7\u6599\u3068\u3057\u3066\u2015\u2015 [On the Origin of the Division of the M\u0101dhyamika School into <i>Thal \u2019gyur ba</i> and <i>Rang rgyud pa</i>: With Reference to the Madhyamaka Texts of Pa tshab lo ts\u0101 ba Nyi ma grags]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "The division of the M\u0101dhyamika School into thal \u2019gyur ba and rang rgyud pa has not been discovered in any Indian original texts, and the terms pr\u0101sa\u1e45gika and sv\u0101tantrika regarded as their Sanskrit equivalents are nothing more than Sanskrit reconstructions posited by modern scholars. We do not exactly known yet whether this division is of Indian or Tibetan origin. Fortunately, however, I was able to find a key to solve this issue in the Madhyamaka texts of Pa tshab lo ts\u0101 ba Nyi ma grags \uff08ca. 1070-1140\uff09, namely in two commentaries on the M\u016blamadhyamakak\u0101rik\u0101 \uff08MK\uff09 and Prasannapad\u0101 \uff08Pras\uff09, both of which have recently become available in the bKa\u2019 gdams gsung \u2019bum. In this paper, first I have surveyed how Tibetan scholars treated this issue, and then tried to trace back the origin of these two terms. At this result, I have reached the following conclusions:\n\n1. These two terms, thal \u2019gyur ba and rang rgyud pa, were newly created by Pa tshab in his commentary on MK, probably composed around 1105 in Ka\u015bm\u012br. This is mainly supported by the following two reasons:\u2002\uff081\uff09 Pa tshab did not use these two terms at all in his commentary on Pras, composed later at lHa sa under the instruction of Tshong dpon pa\u1e47\u1e0dita, alias, Ka\u015bm\u012br pa\u1e47\u1e0dita Kanakavarman. This fact suggests that Kanakavarman did not know their Sanskrit equivalents. \uff082\uff09 Pa tshab used these two terms in his commentary on MK with double meanings\u2015the names of sub-schools of M\u0101dhyamika and the names of two logical reasons as well, that is, svatantrahetu and prasa\u1e45gahetu \u2015 based on the Tibetan word-formation by suffixing pa/ba \uff08named bdag sgra in Tibetan classical grammar\uff09 to thal \u2019gyur/ rang rgyud. Therefore, these two terms should be regarded as Tibetan creations or as of Tibetan origin.\n\n2. Pa tshab originally created these two terms in order to express two different interpretations of MK 1.1, that is, to clarify the contrasting views of Buddhap\u0101lita and Candrak\u012brti and Bh\u0101viveka. He respectively named the first two of them, who interpret non-origination in four cases discussed in MK. 1.1 as thal \u2019gyur \uff08prasa\u1e45ga\uff09, \u201cthal \u2019gyur ba,\u201d while the last, who interprets it as rang rgyud \uff08svatantra\uff09, he called \u201crang rgyud pa.\u201d These are just the original meanings of thal \u2019gyur ba/ rang rgyud pa.\n\n3. On the other hand, Pa tshab uses these two terms in the following contexts, which discuss neither-one-nor-many-ness \uff08gcig du bral, *ek\u0101nekarahitatva\uff09, with more extended meanings, which can be regarded as the names of sub-schools of M\u0101dhyamika. In this context, he applied these two terms to all four kinds of main logical reasons for the emptiness as well, and presumably counts Kamala\u015b\u012bla as a rang rgyud pa since he interprets neither-one-nor-many-ness as rang rgyud, while taking \u015a\u0101ntarak\u1e63ita as a thal \u2019gyur ba who interprets it as thal \u2019gyur. This is just the original interpretation of Pa tshab. In this sense, Pa tshab can be identified as the first person who established the way of dividing the M\u0101dhyamika school into thal \u2019gyur ba and rang rgyud pa.\n\n4. Based on the above-mentioned reasons, we can conclude that Pa tshab not only first created these two terms, but also substantially established them as expressions of the sub-schools of M\u0101dhyamika beyond their original meanings in the same text.",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "71",
+    "issue": "1",
+    "pages": "323-317",
+    "date": "2022-12-20",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "10.4259/ibk.71.1_323",
+    "ISSN": "0019-4344, 1884-0051",
+    "shortTitle": "On the Origin of the Division of the M\u0101dhyamika School into <i>Thal \u2019gyur ba</i> and <i>Rang rgyud pa</i>",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/71/1/71_323/_article/-char/ja/",
+    "accessDate": "2025-09-02T13:13:05Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:13:05Z",
+    "dateModified": "2025-09-02T13:19:09Z"
+  }
+}

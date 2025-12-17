@@ -1,0 +1,98 @@
+{
+  "key": "VKBZTBWN",
+  "version": 4155,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VKBZTBWN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VKBZTBWN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan",
+    "parsedDate": "1975",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VKBZTBWN",
+    "version": 4155,
+    "itemType": "bookSection",
+    "title": "rNgog lo ts\u0101 ba chen pos bstan pa ji ltar bskyangs pa\u2019i tshul mdo tsam du bya ba ngo mtshar gtam gyi rol mo",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "gSer mdog Pa\u1e47 chen \u015a\u0101kya mchog ldan"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Kunzang Tobgey"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Collected Works - The Complete Works (<i>gSung 'bum</i>) of gSer mdog pa\u1e47 chen \u015a\u0101kya mchog ldan",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "16",
+    "numberOfVolumes": "24",
+    "edition": "",
+    "place": "Timphu",
+    "publisher": "",
+    "date": "1975",
+    "pages": "443\u2013456",
+    "language": "tib",
+    "ISBN": "",
+    "shortTitle": "gSer mdog Pa\u1e47 chen - rNgog lo rol mo",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Reprint Nagwang Topgyal, Delhi, 1988",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/M6LUHNEX"
+    },
+    "dateAdded": "2023-12-12T08:03:17Z",
+    "dateModified": "2025-05-20T19:04:07Z"
+  }
+}

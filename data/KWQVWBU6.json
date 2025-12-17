@@ -1,6 +1,6 @@
 {
-  "key": "KAD94G5L",
-  "version": 5893,
+  "key": "KWQVWBU6",
+  "version": 5900,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/KAD94G5L",
+      "href": "https://api.zotero.org/groups/4394244/items/KWQVWBU6",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/KAD94G5L",
+      "href": "https://www.zotero.org/groups/tibschol/items/KWQVWBU6",
       "type": "text/html"
     }
   },
@@ -34,60 +34,61 @@
         }
       }
     },
-    "creatorSummary": "bCom ldan rigs pa'i ral gri",
-    "numChildren": 0
+    "creatorSummary": "bCom ldan ral gri",
+    "numChildren": 1
   },
   "data": {
-    "key": "KAD94G5L",
-    "version": 5893,
+    "key": "KWQVWBU6",
+    "version": 5900,
     "itemType": "bookSection",
-    "title": "bKa\u02bc bstan gyi dkar chag bstan pa rgyas pa rgyan gyi nyi \u02bcod",
+    "title": "dbu ma rtsa she rgyan gyi me tog",
     "creators": [
       {
         "creatorType": "bookAuthor",
         "firstName": "",
-        "lastName": "bCom ldan ral gri"
+        "lastName": "bCom ldan rigs pa'i ral gri"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "bCom ldan rigs pa'i ral gri"
+        "lastName": "bCom ldan ral gri"
       }
     ],
     "abstractNote": "",
     "bookTitle": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
     "series": "",
     "seriesNumber": "",
-    "volume": "2",
-    "numberOfVolumes": "",
+    "volume": "1",
+    "numberOfVolumes": "2",
     "edition": "",
     "place": "",
     "publisher": "",
     "date": "",
-    "pages": "3-158",
+    "pages": "137-362",
     "language": "tib",
     "ISBN": "",
-    "shortTitle": "Ral gri - bstan rgyas rgyan nyid 'od",
-    "url": "http://purl.bdrc.io/resource/MW1CZ1041_A285C1",
-    "accessDate": "2023-11-10",
+    "shortTitle": "Ral gri - dbu rtsa she rgyan me tog",
+    "url": "http://purl.bdrc.io/resource/MW1CZ1041_C0C1D2",
+    "accessDate": "2025-11-10",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "bdr:MW1CZ1041_A285C1",
+    "extra": "BDRC bdr:MW1CZ1041",
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
     },
-    "dateAdded": "2024-09-17T14:30:55Z",
-    "dateModified": "2025-12-16T10:58:36Z"
+    "dateAdded": "2025-12-16T10:58:36Z",
+    "dateModified": "2025-12-16T11:00:03Z"
   }
 }

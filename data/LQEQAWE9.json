@@ -1,0 +1,98 @@
+{
+  "key": "LQEQAWE9",
+  "version": 4825,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LQEQAWE9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LQEQAWE9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LQEQAWE9",
+    "version": 4825,
+    "itemType": "book",
+    "title": "The Sound of Two Hands Clapping: The Education of a Tibetan Buddhist Monk",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges B. J.",
+        "lastName": "Dreyfus"
+      }
+    ],
+    "abstractNote": "A unique insider's account of day-to-day life inside a Tibetan monastery, The Sound of Two Hands Clapping reveals to Western audiences the fascinating details of monastic education. Georges B. J. Dreyfus, the first Westerner to complete the famous Ge-luk curriculum and achieve the distinguished title of geshe, weaves together eloquent and moving autobiographical reflections with a historical overview of Tibetan Buddhism and insights into its teachings.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Berkeley",
+    "publisher": "University of California Press",
+    "date": "2003",
+    "numPages": "",
+    "language": "eng",
+    "ISBN": "978-0-520-23259-4",
+    "shortTitle": "Dreyfus 2003",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist education"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/XF752TJI",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/Q9V7Y494"
+    },
+    "dateAdded": "2021-08-10T16:13:16Z",
+    "dateModified": "2025-05-21T07:22:50Z"
+  }
+}

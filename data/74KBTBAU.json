@@ -1,0 +1,69 @@
+{
+  "key": "74KBTBAU",
+  "version": 5447,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/74KBTBAU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/74KBTBAU",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/8Y45XTRN",
+      "type": "application/json"
+    },
+    "enclosure": {
+      "type": "application/pdf",
+      "href": "https://api.zotero.org/groups/4394244/items/74KBTBAU/file/view",
+      "title": "Kotani - 2022 - On the Source of Cittaviprayuktasa\u1e43sk\u0101ra in.pdf",
+      "length": 123726
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "74KBTBAU",
+    "version": 5447,
+    "parentItem": "8Y45XTRN",
+    "itemType": "attachment",
+    "linkMode": "imported_url",
+    "title": "Full Text",
+    "accessDate": "2025-09-02T13:13:47Z",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/70/3/70_1203/_pdf",
+    "note": "",
+    "contentType": "application/pdf",
+    "charset": "",
+    "filename": "Kotani - 2022 - On the Source of Cittaviprayuktasa\u1e43sk\u0101ra in.pdf",
+    "md5": "cb070c3f7c35b4348160df1a1cdf5999",
+    "mtime": 1756818827064,
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:13:47Z",
+    "dateModified": "2025-09-02T13:13:47Z"
+  }
+}

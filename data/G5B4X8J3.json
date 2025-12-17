@@ -1,0 +1,81 @@
+{
+  "key": "G5B4X8J3",
+  "version": 5445,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/G5B4X8J3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/G5B4X8J3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2018-12-20",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "G5B4X8J3",
+    "version": 5445,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u521d\u671f\u4e2d\u89b3\u601d\u60f3\u306b\u304a\u3051\u308b\u4e8c\u8ae6\u8aac\u2015\u2015\u4e8c\u8ae6\u306e\u5206\u985e\u306e\u610f\u5473\u3092\u3081\u3050\u3063\u3066\u2015\u2015 [The Two-truths (<i>Satyadvaya</i>) Theory of Early Tibetan Madhyamaka Thought: With Reference to the Meaning of the Division of the Two-truths]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "I previously investigated a series of interpretations of rNgog lo ts\u0101 ba, Gro lung pa, rGya dmar ba and Phya pa of the definitions of the Two-truths, especially focused on the ultimate truth (param\u0101rthasatya, i.e., \u015b\u016bnyat\u0101), and elucidated the following points:\n\n1. Sa skya pa\u2019s Madhyamaka thought, the so-called \u201cmTha\u2019 bral dBu mar smra ba,\u201d probably has its root, or at least one of its roots, in the interpretations of Gro lung pa and his master rNgog lo ts\u0101 ba\u2019s line.\n\n2. Phya pa and his master rGya dmar ba established their interpretations that regard emptiness (\u015b\u016bnyat\u0101) as the object of cognition by criticizing the interpretation of rNgog\u2019s line, and the interpretation of Phya pa\u2019s line was probably accepted by dGe lug pa in later periods.\n\n3. It was on how to interpret k. 3cd and k. 4 of the Satyadvayavibha\u1e45ga that Gro lung pa and Phya pa went their separate ways, and, as a result of their controversies, two different lines of Madhyamaka thought were generated in Tibet.\n\nIf the above-mentioned assumptions were correct, Tsong kha pa would have established his own Madhyamaka thought under the strong influence of the interpretation of Phya pa\u2019s line, which was based on *Sv\u0101tantrika-Madhyamaka thought. This would further make us re-evaluate the prevailing interpretation that Tsong kha pa established his own Madhyamaka thought in accordance with the *Pr\u0101sa\u1e45gika-Madhyamaka line under the mysterious instruction of Ma\u00f1ju\u015br\u012b with the assistance of the translator Bla ma dBu ma pa.\n\nIn this paper, I have investigated the subject of \u201cthe meaning of division (dbye ba\u2019i don)\u201d of the Two-truths, which is closely related with the definitions (mtshan nyid) of the Two-truths, and drawn the following conclusions:\n\n1. On this subject, Tsong kha pa introduced two different interpretations of early Tibetan scholars: (1) \u201cgcig pa bkag pa\u2019i tha dad\u201d and (2) \u201cngo bo gcig la ldog pa tha dad\u201d, The former is identifed with Gro lung pa\u2019s interpretation, while the latter is identified with that of Phya pa.\n\n2. Tsong kha pa accepted the latter interpretation of Phya pa\u2019s line as his own, together with the source of Bodhicittavivara\u1e47a k. 68 cited in Phya pa\u2019s text, and this interpretation was generally accepted by his followers in the dGe lugs pa tradition.\n\n3. On the other hand, the former interpretation of Gro lung pa\u2019s line was generally accepted by Sa skya pa scholars such as Go ram pa and others.",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "67",
+    "issue": "1",
+    "pages": "333-328",
+    "date": "2018-12-20",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "10.4259/ibk.67.1_333",
+    "ISSN": "0019-4344, 1884-0051",
+    "shortTitle": "The Two-truths (<i>Satyadvaya</i>) Theory of Early Tibetan Madhyamaka Thought",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/67/1/67_333/_article/-char/ja/",
+    "accessDate": "2025-09-02T13:10:24Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:10:24Z",
+    "dateModified": "2025-09-02T13:20:14Z"
+  }
+}

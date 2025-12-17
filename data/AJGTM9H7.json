@@ -1,0 +1,81 @@
+{
+  "key": "AJGTM9H7",
+  "version": 5451,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AJGTM9H7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AJGTM9H7",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2017",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "AJGTM9H7",
+    "version": 5451,
+    "itemType": "journalArticle",
+    "title": "\u4e2d\u89b3\u5e30\u8b2c\u6d3e\u306e\u958b\u7956\u306b\u3064\u3044\u3066 [On the Founder of dBu ma thal \u2019gyur pa (*Pr\u0101sa\u1e45gika): With Reference to the dGe lugs pa\u2019s Tradition]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "It is well-known that the tradition of M\u0101dhyamika was divided into two, the so called Rang rgyud pa (*Sv\u0101tantrika) and Thal \u2019gyur pa, through the controversies among Buddhap\u0101lita, Bh\u0101viveka, and Candrak\u012brti on the issue of how to establish emptiness (Skt. \u015b\u016bnyat\u0101). It is noteworthy that the scholars of the dGe lugs pa of later periods were split into two groups on the issue of which of Buddhap\u0101lita and Candrak\u012brti should be regarded as the founder (Tib. shing rta\u2019i srol \u2019byed, lit., one who [first] makes a wheel track, i.e., opens a way) of the Thal \u2019gyur pa, although they shared the same interpretation on the founder of the Rang rgyud pa. In this small essay, I have investigated this issue mainly based on the discussion found in the lCang skya grub mtha\u2019, and drawn the following conclusions.\n\n1. Tsong kha pa (1357\u20131419) explained in his Legs bshad snying po that the M\u0101dhyamika was divided into the Rang rgyud pa and Thal \u2019gyur pa through the above-mentioned controversies of the three Indian scholars. He did not clearly mention, however, which of Buddhap\u0101lita and Candrak\u012brti should be regarded as the founder of the Thal \u2019gyur pa.\n\n2. mKhas grub rje (1385\u20131438) established Buddhap\u0101lita as the first person who advocated the doctrine of the Thal \u2019gyur pa in his sTong thun chen mo. He also did not clearly establish, however, Buddhap\u0101lita as the founder of the Thal \u2019gyur pa.\n\n3. These facts left room for further discussions on the founder of the Thal \u2019gyur pa to later dGe lugs pa scholars.\n\n4. Pa\u1e47 chen bsod nams grags pa (1478\u20131554) first clearly mentioned that the founder of the Thal \u2019gyur pa is Buddhap\u0101lita, probably based on a statement of the sTong thun chen mo.\n\n5. On the other hand, Se ra rje btsun pa (1469\u20131544), who was contemporary with Pa\u1e47 chen, established Candrak\u012brti as the founder of the Thal \u2019gyur pa. According to Se ra rje btsun pa, the following two requirements must be fulfilled for the founder of the Thal \u2019gyur pa: (1) the first is to show that N\u0101g\u0101rjuna\u2019s final understanding abides in the doctrine of the Thal \u2019gyur pa and (2) the second is to show that the doctrine of the Rang rgyud pa is incorrect.\n\n6. This controversy between Pa\u1e47 chen and Se ra rje btsun pa, whose works were adopted as the textbooks (yig cha) of \u2019Bras spungs blo gsal gling and Se ra byes colleges respectively, caused the followers of the dGe lugs pa to split into two groups on the issue of the founder of the Thal \u2019gyur pa.\n\n7. lCang skya rol pa\u2019i rdo rje (1717\u20131786), based on this controversy of Pa\u1e47 chen and Se ra rje btsun pa, took the interpretation of Se ra rje btsun pa by criticising that of Pa\u1e47 chen as that of \u201crang re\u2019i mkhas pa kha cig\u201d (a scholar of our [dGe lugs pa]). lCang skya accepted the above-mentioned two requriements for the founder of the Thal \u2019gyur pa in his Grub mtha\u2019.\n\n8. On the other hand, \u2019Jam dbyangs bzhad pa (1648\u20131721), whose works were adopted as the textbooks of \u2019Bras spungs sgo mang college, shared the same interpretation as Pa\u1e47 chen, although lCang skya insisted that he shares the same interpretation as \u2019Jam dbyangs bzhad pa.",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "65",
+    "issue": "2",
+    "pages": "944-939",
+    "date": "2017",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "10.4259/ibk.65.2_944",
+    "ISSN": "0019-4344, 1884-0051",
+    "shortTitle": "On the Founder of dBu ma thal \u2019gyur pa (*Pr\u0101sa\u1e45gika)",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/65/2/65_944/_article/-char/ja/",
+    "accessDate": "2025-09-02T13:09:22Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:09:22Z",
+    "dateModified": "2025-09-02T13:23:05Z"
+  }
+}

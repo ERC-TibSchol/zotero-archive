@@ -1,0 +1,91 @@
+{
+  "key": "8Y45XTRN",
+  "version": 5437,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8Y45XTRN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8Y45XTRN",
+      "type": "text/html"
+    },
+    "attachment": {
+      "href": "https://api.zotero.org/groups/4394244/items/74KBTBAU",
+      "type": "application/json",
+      "attachmentType": "application/pdf",
+      "attachmentSize": 123726
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kotani",
+    "parsedDate": "2022-03-25",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "8Y45XTRN",
+    "version": 5437,
+    "itemType": "journalArticle",
+    "title": "On the Source of <i>Cittaviprayuktasa\u1e43sk\u0101ra</i> in Phya pa\u2019s<i> grub mtha\u2019</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Akihisa",
+        "lastName": "Kotani"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "70",
+    "issue": "3",
+    "pages": "1203-1206",
+    "date": "2022-3-25",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "eng",
+    "DOI": "10.4259/ibk.70.3_1203",
+    "ISSN": "0019-4344, 1884-0051",
+    "shortTitle": "",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/70/3/70_1203/_article/-char/ja/",
+    "accessDate": "2025-09-02T13:13:44Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:13:44Z",
+    "dateModified": "2025-09-02T13:15:51Z"
+  }
+}

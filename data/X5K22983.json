@@ -1,0 +1,109 @@
+{
+  "key": "X5K22983",
+  "version": 4827,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/X5K22983",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/X5K22983",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Cabez\u00f3n et al.",
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "X5K22983",
+    "version": 4827,
+    "itemType": "book",
+    "title": "Tibetan Literature: Studies in Genre",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Roger R.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Geshe",
+        "lastName": "Lhundub Sopa"
+      }
+    ],
+    "abstractNote": "Tibetan Literature addresses the immense variety of Tibet's literary heritage. An introductory essay by the editors attempts to assess the overall nature of 'literature' in Tibet and to understand some of the ways in which it may be analyzed into genres. The remainder of the book contains articles by nearly thirty scholars from America, Europe, and Asia--each of whom addresses an important genre of Tibetan literature. These articles are distributed among eight major rubrics: two on history and biography, six on canonical and quasi-canonical texts, four on philosophical literature, four on literature on the paths, four on ritual, four on literary arts, four on non-literary arts and sciences, and two on guidebooks and reference works.",
+    "series": "Studies in Indo-Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Ithaca, N.Y",
+    "publisher": "Snow Lion",
+    "date": "1996",
+    "numPages": "549",
+    "language": "eng",
+    "ISBN": "978-1-55939-044-6",
+    "shortTitle": "Tibetan literature",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "PL3705",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Tibetan literature"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/AXC5KZK3"
+    },
+    "dateAdded": "2021-08-31T12:15:48Z",
+    "dateModified": "2025-05-21T07:23:06Z"
+  }
+}

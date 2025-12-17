@@ -1,6 +1,6 @@
 {
   "key": "TK3LI7IQ",
-  "version": 5016,
+  "version": 5893,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "TK3LI7IQ",
-    "version": 5016,
+    "version": 5893,
     "itemType": "bookSection",
     "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi rgyan gyi me tog",
     "creators": [
@@ -88,6 +88,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
     },
     "dateAdded": "2025-05-20T09:01:53Z",
-    "dateModified": "2025-05-20T09:03:57Z"
+    "dateModified": "2025-12-16T10:58:36Z"
   }
 }

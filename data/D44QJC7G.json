@@ -1,0 +1,54 @@
+{
+  "key": "D44QJC7G",
+  "version": 5890,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/D44QJC7G",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/D44QJC7G",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/E6UGHETX",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "D44QJC7G",
+    "version": 5890,
+    "parentItem": "E6UGHETX",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>6th text in vol. 1 of the gSung thor bu.</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2025-12-16T09:44:35Z",
+    "dateModified": "2025-12-16T09:44:46Z"
+  }
+}

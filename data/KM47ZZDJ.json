@@ -1,0 +1,87 @@
+{
+  "key": "KM47ZZDJ",
+  "version": 3484,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KM47ZZDJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KM47ZZDJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KM47ZZDJ",
+    "version": 3484,
+    "itemType": "journalArticle",
+    "title": "Remarks on the\" Person of Authority\" in the Dga'ldan pa/Dge lugs pa School of Tibetan Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the American Oriental Society",
+    "volume": "119",
+    "issue": "4",
+    "pages": "646\u2013672",
+    "date": "1999",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JAOS",
+    "language": "eng",
+    "DOI": "10/fwcg25",
+    "ISSN": "",
+    "shortTitle": "van der Kuijp 1999",
+    "url": "http://www.jstor.org/stable/10.2307/604840",
+    "accessDate": "2013-04-01T04:34:46Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Google Scholar",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/2BGKZDRV"
+    },
+    "dateAdded": "2023-10-04T13:43:43Z",
+    "dateModified": "2025-03-13T08:46:33Z"
+  }
+}

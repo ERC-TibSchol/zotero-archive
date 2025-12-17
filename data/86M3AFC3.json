@@ -1,0 +1,100 @@
+{
+  "key": "86M3AFC3",
+  "version": 4568,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/86M3AFC3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/86M3AFC3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "D'Intino and Pollock",
+    "parsedDate": "2018",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "86M3AFC3",
+    "version": 4568,
+    "itemType": "book",
+    "title": "L'espace du sens: approches de la philologie indienne = The Space of Meaning, Approaches to Indian Philology",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Silvia",
+        "lastName": "D'Intino"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sheldon I.",
+        "lastName": "Pollock"
+      }
+    ],
+    "abstractNote": "Pour le philologue, le texte est un \u00ab\u2009terrain\u2009\u00bb qu\u2019il entreprend d\u2019explorer dans le menu d\u00e9tail et dont il retrace \u00e0 la fois une g\u00e9n\u00e9alogie et l\u2019av\u00e8nement du sens. Il s\u2019agit d\u2019explorer les traditions \u00e0 l\u2019int\u00e9rieur desquelles le texte fait sens, ou contre lesquelles il s\u2019inscrit, de relever aussi tout ce qui se rapporte \u00e0 son sens \u2015 ses origines, ses d\u00e9veloppements, ses formes, ses nuances, ses particularit\u00e9s. Si le sens d\u2019un texte n\u2019est jamais singulier, et qu\u2019il faut l\u2019envisager comme \u00ab\u2009la somme des significations qu\u2019il re\u00e7oit au cours de son histoire\u2009\u00bb (S. Pollock), c\u2019est seulement dans un contexte culturel donn\u00e9 qu\u2019il prend forme. Autant que du temps, le sens d\u2019un texte est une fonction de l\u2019espace, de l\u2019univers et du r\u00e9seau \u00e0 l\u2019int\u00e9rieur duquel il est perp\u00e9tu\u00e9, transform\u00e9, reconfigur\u00e9. Nous avons essay\u00e9 de mettre l\u2019accent sur cet ancrage dans un espace culturel donn\u00e9, et sur les pratiques de la philologie comme autant d\u2019approches possibles de cet espace du sens.",
+    "series": "Publications de l'Institut de civilisation indienne. S\u00e9rie in-8o ; fasc. 84",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Paris",
+    "publisher": "Coll\u00e8ge de France",
+    "date": "2018",
+    "numPages": "",
+    "language": "fr, eng",
+    "ISBN": "978-2-86803-084-9",
+    "shortTitle": "L'espace du sens",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "PK1508",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Philology"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-10T16:28:29Z",
+    "dateModified": "2025-05-21T06:48:18Z"
+  }
+}

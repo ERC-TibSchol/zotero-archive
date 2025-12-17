@@ -1,0 +1,93 @@
+{
+  "key": "NW3E9B52",
+  "version": 5029,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NW3E9B52",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NW3E9B52",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "NW3E9B52",
+    "version": 5029,
+    "itemType": "journalArticle",
+    "title": "\u30b5\u30f3\u30d7\u6559\u5b66\u306e\u6b74\u53f2\u7684\u5c55\u958b\u306b\u95a2\u3059\u308b\u4e00\u8003\u5bdf [A Brief Survey on the Historical Development of the gSang phu Scholasticism]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Report of the Japanese Association for Tibetan Studies / Nihon Chibetto Gakkai kaih\u014d (\u65e5\u672c\u897f\u8535\u5b66\u4f1a\u4f1a\u5831)",
+    "volume": "58",
+    "issue": "",
+    "pages": "1\u201314",
+    "date": "2012",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://ndlonline.ndl.go.jp/#!/detail/R300000002-I024018377-00",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "gSang phu"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "Y3D78K94"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/2XIMKKW8"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T08:40:41Z"
+  }
+}

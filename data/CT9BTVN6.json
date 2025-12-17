@@ -1,0 +1,87 @@
+{
+  "key": "CT9BTVN6",
+  "version": 4823,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CT9BTVN6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CT9BTVN6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Huang",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CT9BTVN6",
+    "version": 4823,
+    "itemType": "thesis",
+    "title": "A Record of a Tibetan Medieval Debate: History, Language, and Efficacy of Tibetan Buddhist Debate.",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Chun Yuan",
+        "lastName": "Huang"
+      }
+    ],
+    "abstractNote": "This dissertation is intended to serve as a thorough examination of a particular debate between Lho pa Thugs rje dpal and Rong ston Shakya rgyal mtshan (1367-1449). According to the colophon of this medieval Tibetan debate record, which also appears to be the only currently surviving medieval Tibetan debate record in Tibetan literature, this debate took place in Sa skya and was recorded by both debaters' disciples without bias. The date of this debate was sometime between 1388 and 1393 during Rong ston's first visit to the Gtsang area.",
+    "thesisType": "",
+    "university": "Harvard University",
+    "place": "Cambridge, Massachusetts",
+    "date": "2014",
+    "numPages": "",
+    "language": "eng",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://dash.harvard.edu/handle/1/12269848?show=full",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Debate"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/VHJXHA3B"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:22:40Z"
+  }
+}

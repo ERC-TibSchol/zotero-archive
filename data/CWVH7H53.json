@@ -1,0 +1,98 @@
+{
+  "key": "CWVH7H53",
+  "version": 4585,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CWVH7H53",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CWVH7H53",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CWVH7H53",
+    "version": 4585,
+    "itemType": "journalArticle",
+    "title": "Can one be a M\u0101dhyamika, a Crypto-Vaibh\u0101\u1e63ika, and a Faithful Interpreter of Dharmak\u012brti? On Phya pa Chos kyi seng ge's Doxographical Divisions and his own Philosophical Standpoint",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "This paper examines the philosophical position adopted by the Tibetan Buddhist scholar Phya pa Chos kyi seng ge (1109-1169) within a fourfold set defined by the options idealism vs. realism and representationalism vs. non-representationalism. These represent positions pertaining to the conventional level in a Madhyamaka framework. Based on parallel discussions on this topic in four of Phya pa's works (his doxography, his Summary of Madhyamaka, his Summary of Epistemology and his commentary on Dharmak\u012brti's Pram\u0101\u1e47avini\u015bcaya), I examine Phya pa's arguments against three of these views and the tenets involved in the view he himself adopts, non-representational external realism. I discuss to what extent the later description of Phya pa's view in terms of \"Vaibh\u0101\u1e63ika-Madhyamaka\" is substantiated, and the problems raised by the adoption of such a view in the framework of the exegesis of Dharmak\u012brti's epistemology. In the appendices, I provide an edition and an English translation of the relevant passages from the four texts considered.",
+    "publicationTitle": "Journal of Tibetology / Zangxue xuekan / Bod rig pa'i dus deb",
+    "volume": "15",
+    "issue": "",
+    "pages": "51\u2013153",
+    "date": "2016",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Can one be a M\u0101dhyamika, a Crypto-Vaibh\u0101\u1e63ika, and a Faithful Interpreter of Dharmak\u012brti?",
+    "url": "https://www.academia.edu/37786811/Can_one_be_a_M%C4%81dhyamika_a_Crypto_Vaibh%C4%81%E1%B9%A3ika_and_a_Faithful_Interpreter_of_Dharmak%C4%ABrti_On_Phya_pa_Chos_kyi_seng_ges_Doxographical_Divisions_and_his_own_Philosophical_Standpoint_Journal_of_Tibetology_15_2016_51_153",
+    "accessDate": "2021-08-11T16:03:31Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.academia.edu",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/JSGKY3US"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T06:49:59Z"
+  }
+}

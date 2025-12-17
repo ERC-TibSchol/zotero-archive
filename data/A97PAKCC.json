@@ -1,0 +1,100 @@
+{
+  "key": "A97PAKCC",
+  "version": 4586,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A97PAKCC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A97PAKCC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A97PAKCC",
+    "version": 4586,
+    "itemType": "book",
+    "title": "Recognizing Reality: Dharmak\u012brti's Philosophy and Its Tibetan Interpretations",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges B. J.",
+        "lastName": "Dreyfus"
+      }
+    ],
+    "abstractNote": "Dreyfus examines the central ideas of Dharmakirti, one of the most important Indian Buddhist philosophers, and their reception among Tibetan thinkers. During the golden age of ancient Indian civilization, Dharmakirti articulated and defended Buddhist philosophical principles. He did so more systematically than anyone before his time (the seventh century CE) and was followed by a rich tradition of profound thinkers in India and Tibet. This work presents a detailed picture of this Buddhist tradition and its relevance to the history of human ideas. Its perspective is mostly philosophical, but it also uses historical considerations as they relate to the evolution of ideas.",
+    "series": "SUNY series in Buddhist studies",
+    "seriesNumber": "0-585-08965-5 978-0-585-08965-2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Albany",
+    "publisher": "State University of New York Press",
+    "date": "1997",
+    "numPages": "xxi+622",
+    "language": "eng",
+    "ISBN": "978-0-7914-3097-2",
+    "shortTitle": "Dreyfus 1997",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "B133.D484",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Dharmak\u012brti"
+      }
+    ],
+    "collections": [
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T16:11:40Z",
+    "dateModified": "2025-05-21T06:50:08Z"
+  }
+}

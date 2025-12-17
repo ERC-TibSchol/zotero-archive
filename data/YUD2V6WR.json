@@ -1,0 +1,92 @@
+{
+  "key": "YUD2V6WR",
+  "version": 5409,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/YUD2V6WR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/YUD2V6WR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "YUD2V6WR",
+    "version": 5409,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30e3\u30d1\u30fb\u30c1\u30e5\u30fc\u30ad\u30bb\u30f3\u30b2\u306e\u76f4\u63a5\u77e5\u899a\u8ad6 : \u76f4\u63a5\u77e5\u899a\u3068\u5bfe\u8c61\u78ba\u5b9a\u4f5c\u7528\u306e\u95a2\u4fc2\u3092\u4e2d\u5fc3\u3068\u3057\u3066 [Phya pa chos kyi seng ge\u2019s Theory of <i>pratyak\u1e63a</i>: Focused on the Relationship between <i>pratyak\u1e63a</i> and <i>ni\u015bcaya</i>]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "64",
+    "issue": "2",
+    "pages": "71\u201375 [972\u2013968]",
+    "date": "2016",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "https://doi.org/10.4259/ibk.64.2_972",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=569593&q",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phya pa"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/5B2PP8QC"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-09-02T13:08:50Z"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "key": "PK2BYKTT",
+  "version": 5440,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PK2BYKTT",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PK2BYKTT",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2021-12-20",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "PK2BYKTT",
+    "version": 5440,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u4e2d\u89b3\u601d\u60f3\u306b\u304a\u3051\u308b\u4e8c\u8ae6\u8aac\u306e\u8a2d\u5b9a\u306e\u8d77\u6e90\u306b\u3064\u3044\u3066\u2015\u2015\u521d\u671f\u30c1\u30d9\u30c3\u30c8\u4eba\u5b66\u8005\u306e\u4e2d\u89b3\u5178\u7c4d\u3092\u8cc7\u6599\u3068\u3057\u3066\u2015\u2015 [On the Origin of the <i>Sa-bcad</i> Format of the Two-Truths \uff08*<i>Satyadvaya</i>\uff09 Theory in Tibetan Madhyamaka Tradition: With Reference to Madhyamaka Texts of the Early Tibetan Scholars]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "\u6284\u9332\n\nAlthough various subjects were discussed in Madhyamaka texts both of India and Tibet, the two-truths \uff08Skt. satyadvaya/ Tib. bden gnyis\uff09 theory is one of the most important subjects. In discussing the two-truths theory, dGe lugs pa and Sa skya pa scholars of later periods shared the same Sa-bcad format which consists of the following six topics: \uff081\uff09 base of division \uff08dbye gzhi\uff09; \uff082\uff09 meaning of division \uff08dbye ba\u2019i don\uff09; \uff083\uff09 literal meaning \uff08ming gi don\uff09; \uff084\uff09 number-determination \uff08grangs nges pa\uff09; \uff085\uff09 definition \uff08mtshan nyid\uff09; and \uff086\uff09 valid cognition \uff08*pram\u0101\u1e47a\uff09 which ascertains a definition \uff08mtshan nyid nges byed kyi tshad ma\uff09. What is to be investigated is by whom and when this Sa-bcad format of six topics was created. I have tried to search for its origin in Madhyamaka texts of the early Tibetan scholars of gSang phu ne\u2019u thog and Pa tshab lo ts\u0101 ba Nyi ma grags \uff08ca. 1070-1140\uff09 and his followers, and drawn the following three conclusions:\n\n1. It is the early Tibetan scholars of gSang phu ne\u2019u thog around 11-12th centuries who created this Sa-bcad format of six topics, which was commonly accepted by dGe lugs pa and Sa skya pa scholars of later periods.\n\n2. On the other hand, Pa tshab lo ts\u0101 ba and his followers did not adopt this format, and more likely, even did not regard the two-truths theory itself as an essential topic of their Madhyamaka thought. They instead regarded Dependent-arising \uff08Skt. prat\u012btyasamutp\u0101da/ Tib. rten \u2019brel\uff09 as a core theory of their Madhyamaka thought.\n\n3. Therefore, two different interpretations of Madhyamaka thought were established by early Tibetan scholars around 11-12th centuries: \uff081\uff09 the interpretation that placed the two-truth theory at the core of Madhyamaka thought, largely accepted by the early gShang phu scholars; and \uff082\uff09 the interpretation that placed the dependent-arising theory at its core, separately propagated by Pa tshab lo ts\u0101 ba and his followers.",
+    "publicationTitle": "Journal of Indian and Buddhist Studies / Indogaku bukky\u014dgaku kenky\u016b (\u5370\u5ea6\u5b78\u4f5b\u6559\u5b78\u7814\u7a76)",
+    "volume": "70",
+    "issue": "1",
+    "pages": "376-369",
+    "date": "2021-12-20",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "IBK",
+    "language": "jap",
+    "DOI": "10.4259/ibk.70.1_376",
+    "ISSN": "0019-4344, 1884-0051",
+    "shortTitle": "On the Origin of the <i>Sa-bcad</i> Format of the Two-Truths \uff08*<i>Satyadvaya</i>\uff09 Theory in Tibetan Madhyamaka Tradition",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/70/1/70_376/_article/-char/ja/",
+    "accessDate": "2025-09-02T13:11:56Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-09-02T13:11:56Z",
+    "dateModified": "2025-09-02T13:18:17Z"
+  }
+}
