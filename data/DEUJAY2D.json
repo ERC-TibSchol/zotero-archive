@@ -1,0 +1,92 @@
+{
+  "key": "DEUJAY2D",
+  "version": 4157,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DEUJAY2D",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DEUJAY2D",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Akahane",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DEUJAY2D",
+    "version": 4157,
+    "itemType": "journalArticle",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u306b\u65bc\u3051\u308b\u300e\u4e8c\u8ae6\u5206\u5225\u8ad6\u300d\u306b\u5bfe\u3059\u308b\u4e09\u7de8\u306e\u6ce8\u91c8\u66f8 [Three Tibetan Commentaries on <i>dBu ma bden gnyis</i>]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ritsu (\u8d64\u7fbd\u5f8b)",
+        "lastName": "Akahane"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Report of the Japanese Association for Tibetan Studies / Nihon Chibetto Gakkai kaih\u014d (\u65e5\u672c\u897f\u8535\u5b66\u4f1a\u4f1a\u5831)",
+    "volume": "56",
+    "issue": "",
+    "pages": "77\u201385",
+    "date": "2010",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "jap",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "Akahane 2010",
+    "url": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=622156&comefrom=journaldetail",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=622156&comefrom=journaldetail",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/2RDB4Q39"
+    },
+    "dateAdded": "2023-12-06T14:07:45Z",
+    "dateModified": "2025-05-20T19:04:27Z"
+  }
+}

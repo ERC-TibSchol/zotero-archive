@@ -1,6 +1,6 @@
 {
-  "key": "BG8579LF",
-  "version": 5910,
+  "key": "92DJZ8WM",
+  "version": 4598,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/BG8579LF",
+      "href": "https://api.zotero.org/groups/4394244/items/92DJZ8WM",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/BG8579LF",
+      "href": "https://www.zotero.org/groups/tibschol/items/92DJZ8WM",
       "type": "text/html"
     }
   },
@@ -35,14 +35,14 @@
       }
     },
     "creatorSummary": "Hugon",
-    "parsedDate": "2023",
+    "parsedDate": "2020",
     "numChildren": 0
   },
   "data": {
-    "key": "BG8579LF",
-    "version": 5910,
+    "key": "92DJZ8WM",
+    "version": 4598,
     "itemType": "bookSection",
-    "title": "Who is the proponent of Candrak\u012brti portrayed by Phya pa Chos kyi seng ge in the <i>sNying po</i>?",
+    "title": "Vaibh\u0101\u1e63ika-Madhyamaka: A Fleeting Episode in the History of Tibetan Philosophy",
     "creators": [
       {
         "creatorType": "author",
@@ -52,33 +52,33 @@
       {
         "creatorType": "editor",
         "firstName": "Vincent",
+        "lastName": "Tournier"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Vincent",
         "lastName": "Eltschinger"
       },
       {
         "creatorType": "editor",
-        "firstName": "Jowita",
-        "lastName": "Kramer"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "Chizuko",
-        "lastName": "Yoshimizu"
+        "firstName": "Marta",
+        "lastName": "Sernesi"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Burlesque of the Philosophers. Indian and Buddhist Studies in Memory of Helmut Krasser",
-    "series": "Hamburg Buddhist Studies Series",
-    "seriesNumber": "19",
-    "volume": "",
+    "bookTitle": "Archaeologies of the Written: Indian, Tibetan, and Buddhist Studies in Honour of Cristina Scherrer-Schaub",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "LXXXIX",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Bochum/Freiburg",
-    "publisher": "projekt verlag",
-    "date": "2023",
-    "pages": "153-200",
+    "place": "Naples",
+    "publisher": "Universita degli Studi di Napoli \u201cL\u2019Orientale\u201d (Series Minor",
+    "date": "2020",
+    "pages": "323\u2013372",
     "language": "eng",
     "ISBN": "",
-    "shortTitle": "Hugon 2023",
+    "shortTitle": "",
     "url": "",
     "accessDate": "",
     "archive": "",
@@ -89,12 +89,17 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Madhyamaka"
       }
     ],
-    "collections": [],
+    "collections": [
+      "3B9JCMU7"
+    ],
     "relations": {},
-    "dateAdded": "2025-10-15T07:00:48Z",
-    "dateModified": "2025-12-17T14:38:19Z"
+    "dateAdded": "2021-12-16T08:31:52Z",
+    "dateModified": "2025-05-21T06:51:41Z"
   }
 }

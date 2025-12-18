@@ -1,0 +1,94 @@
+{
+  "key": "JTS8KSXW",
+  "version": 5468,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JTS8KSXW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JTS8KSXW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2025-06",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JTS8KSXW",
+    "version": 5468,
+    "itemType": "journalArticle",
+    "title": "The Tibetan \"Treatise on Music\" (c.1200 CE) by Sa skya pa\u1e47\u1e0dita Kun dga\u2019 rgyal mtshan: A Critical Edition and Translation of Chapter One and the Tibetan Commentary",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Ethnomusicology Translations",
+    "volume": "18",
+    "issue": "",
+    "pages": "1\u2013135",
+    "date": "2025-06",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "eng tib",
+    "DOI": "https://doi.org/10.14434/emt.No.18.41716",
+    "ISSN": "",
+    "shortTitle": "Ma 2025",
+    "url": "https://scholarworks.iu.edu/journals/index.php/emt/article/view/41716",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "WJPXDFDF"
+    ],
+    "relations": {},
+    "dateAdded": "2025-06-11T08:49:18Z",
+    "dateModified": "2025-09-02T14:31:24Z"
+  }
+}

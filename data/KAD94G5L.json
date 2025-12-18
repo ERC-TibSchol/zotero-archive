@@ -1,6 +1,6 @@
 {
   "key": "KAD94G5L",
-  "version": 5893,
+  "version": 5908,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "KAD94G5L",
-    "version": 5893,
+    "version": 5908,
     "itemType": "bookSection",
     "title": "bKa\u02bc bstan gyi dkar chag bstan pa rgyas pa rgyan gyi nyi \u02bcod",
     "creators": [
@@ -88,6 +88,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
     },
     "dateAdded": "2024-09-17T14:30:55Z",
-    "dateModified": "2025-12-16T10:58:36Z"
+    "dateModified": "2025-12-17T09:35:46Z"
   }
 }

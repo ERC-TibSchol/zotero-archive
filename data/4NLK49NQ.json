@@ -1,6 +1,6 @@
 {
   "key": "4NLK49NQ",
-  "version": 5806,
+  "version": 5906,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "4NLK49NQ",
-    "version": 5806,
+    "version": 5906,
     "itemType": "bookSection",
     "title": "dbu ma rtsa ba shes rab kyi Ti ka sgron ma gsal byed",
     "creators": [
@@ -61,7 +61,7 @@
     "volume": "",
     "numberOfVolumes": "1",
     "edition": "",
-    "place": "",
+    "place": "gser rta rdzong",
     "publisher": "gser ljongs bla rung lnga rig nang bstan slob grwa chen mo",
     "date": "",
     "pages": "1-237",
@@ -89,6 +89,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/7MEK37AB"
     },
     "dateAdded": "2025-11-25T18:14:44Z",
-    "dateModified": "2025-11-25T18:28:09Z"
+    "dateModified": "2025-12-17T09:18:29Z"
   }
 }

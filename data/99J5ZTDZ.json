@@ -1,6 +1,6 @@
 {
   "key": "99J5ZTDZ",
-  "version": 5893,
+  "version": 5908,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "99J5ZTDZ",
-    "version": 5893,
+    "version": 5908,
     "itemType": "book",
     "title": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
     "creators": [
@@ -87,7 +87,8 @@
         "http://zotero.org/groups/4394244/items/X32INJTS",
         "http://zotero.org/groups/4394244/items/TK3LI7IQ",
         "http://zotero.org/groups/4394244/items/E6UGHETX",
-        "http://zotero.org/groups/4394244/items/KWQVWBU6"
+        "http://zotero.org/groups/4394244/items/KWQVWBU6",
+        "http://zotero.org/groups/4394244/items/L9YB73ZA"
       ]
     },
     "dateAdded": "2023-11-10T15:45:17Z",

@@ -1,6 +1,6 @@
 {
-  "key": "FFQQBB4J",
-  "version": 5903,
+  "key": "N4B3FMA6",
+  "version": 5467,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/FFQQBB4J",
+      "href": "https://api.zotero.org/groups/4394244/items/N4B3FMA6",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/FFQQBB4J",
+      "href": "https://www.zotero.org/groups/tibschol/items/N4B3FMA6",
       "type": "text/html"
     }
   },
@@ -34,65 +34,49 @@
         }
       }
     },
-    "creatorSummary": "Dreyfus and Tsering",
-    "parsedDate": "2009",
+    "creatorSummary": "Samuels, Jonathan",
+    "parsedDate": "2024",
     "numChildren": 0
   },
   "data": {
-    "key": "FFQQBB4J",
-    "version": 5903,
+    "key": "N4B3FMA6",
+    "version": 5467,
     "itemType": "journalArticle",
-    "title": "Pa Tshab and the Origin of Prasangika",
+    "title": "Neutral Third Parties in Buddhist Disputation Practice",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Georges",
-        "lastName": "Dreyfus"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Drongbu",
-        "lastName": "Tsering"
+        "name": "Samuels, Jonathan"
       }
     ],
     "abstractNote": "",
     "publicationTitle": "Journal of the International Association of Buddhist Studies",
-    "volume": "32",
-    "issue": "1-2",
-    "pages": "387-417",
-    "date": "2009",
+    "volume": "47",
+    "issue": "",
+    "pages": "359\u2013413",
+    "date": "2024",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
     "journalAbbreviation": "JIABS",
     "language": "eng",
-    "DOI": "",
-    "ISSN": "",
-    "shortTitle": "Dreyfus and Tsering 2009",
-    "url": "",
-    "accessDate": "",
+    "DOI": "10.2143/JIABS.47.0.3294227",
+    "ISSN": "2507-0347, 2507-0347",
+    "shortTitle": "Samuels 2024",
+    "url": "https://doi.org/10.2143/JIABS.47.0.3294227",
+    "accessDate": "2025-09-02T14:28:09Z",
     "archive": "",
     "archiveLocation": "",
-    "libraryCatalog": "",
+    "libraryCatalog": "DOI.org (CSL JSON)",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      },
-      {
-        "tag": "Madhyamaka"
-      }
-    ],
+    "tags": [],
     "collections": [
-      "3B9JCMU7"
+      "WJPXDFDF"
     ],
-    "relations": {
-      "owl:sameAs": "http://zotero.org/groups/73933/items/WV28PHTK",
-      "dc:replaces": "http://zotero.org/groups/4394244/items/UY36XHFX"
-    },
-    "dateAdded": "2021-12-16T09:22:59Z",
-    "dateModified": "2025-12-17T09:15:49Z"
+    "relations": {},
+    "dateAdded": "2025-09-02T14:28:09Z",
+    "dateModified": "2025-09-02T14:31:07Z"
   }
 }

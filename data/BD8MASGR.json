@@ -1,0 +1,106 @@
+{
+  "key": "BD8MASGR",
+  "version": 4855,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/BD8MASGR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/BD8MASGR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tauscher",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "BD8MASGR",
+    "version": 4855,
+    "itemType": "bookSection",
+    "title": "Phya pa Chos kyi seng ge as a Sv\u0101tantrika",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Georges B. J.",
+        "lastName": "Dreyfus"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sara L.",
+        "lastName": "McClintock"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Sv\u0101tantrika-Pr\u0101sa\u1e45gika Distinction: What Difference Does a Difference Make?",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "place": "Boston",
+    "publisher": "Wisdom Publications",
+    "date": "2003",
+    "pages": "207\u2013255",
+    "language": "eng",
+    "ISBN": "978-0-86171-324-0",
+    "shortTitle": "",
+    "url": "http://www.loc.gov/catdir/toc/fy037/2002151800.html",
+    "accessDate": "2021-08-10T16:21:02Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BQ7478.S73",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7",
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/RMRAPAHK"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:23:13Z"
+  }
+}

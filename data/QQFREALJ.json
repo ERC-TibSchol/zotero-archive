@@ -1,0 +1,86 @@
+{
+  "key": "QQFREALJ",
+  "version": 5032,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QQFREALJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QQFREALJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nishizawa",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QQFREALJ",
+    "version": 5032,
+    "itemType": "thesis",
+    "title": "\u30c1\u30d9\u30c3\u30c8\u4ecf\u6559\u8ad6\u7406\u5b66\u306e\u5f62\u6210\u3068\u5c55\u958b \u2014 \u8a8d\u8b58\u624b\u6bb5\u8ad6\u306e\u6b74\u53f2\u7684\u5909\u9077\u3092\u4e2d\u5fc3\u3068\u3057\u3066 \u2014 [The Formation and Development of Tibetan Buddhist Logic \u2014 With Reference to the Historical Transition of Pram\u0101\u1e47a Theory \u2014]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fumihito (\u897f\u6ca2 \u53f2\u4ec1)",
+        "lastName": "Nishizawa"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "University of Tokyo",
+    "place": "Tokyo",
+    "date": "2011",
+    "numPages": "4 vols.",
+    "language": "jap",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Unpublished",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/9K25WN4K"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T08:41:19Z"
+  }
+}
