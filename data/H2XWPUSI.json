@@ -1,0 +1,91 @@
+{
+  "key": "H2XWPUSI",
+  "version": 5920,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H2XWPUSI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H2XWPUSI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lhop a kun mkhyen rin chen dpal",
+    "parsedDate": "1995",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H2XWPUSI",
+    "version": 5920,
+    "itemType": "book",
+    "title": "sPyod \u2019jug zin bris \u2019jam dpal zhal lung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Lhop a kun mkhyen rin chen dpal"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1995",
+    "publisher": "dpal ldan sa skya'i gsung rab publications",
+    "place": "Delhi",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW23697",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "lho pa - spyod 'jug zin bris",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-01-14T16:22:59Z",
+    "dateModified": "2026-01-14T16:24:29Z"
+  }
+}

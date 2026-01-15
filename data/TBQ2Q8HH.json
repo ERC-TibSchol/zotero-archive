@@ -1,0 +1,105 @@
+{
+  "key": "TBQ2Q8HH",
+  "version": 4829,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TBQ2Q8HH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TBQ2Q8HH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bSod nams rgyal mtshan and Stearns",
+    "parsedDate": "2000",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TBQ2Q8HH",
+    "version": 4829,
+    "itemType": "book",
+    "title": "Hermit of Go Cliffs: timeless instructions from a Tibetan mystic",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ko brag pa",
+        "lastName": "bSod nams rgyal mtshan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Cyrus",
+        "lastName": "Stearns"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2000",
+    "publisher": "Wisdom Publications",
+    "place": "Boston",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "xiii, 209 p.",
+    "ISBN": "0-86171-164-5",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng, tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-01-13T17:51:51Z",
+    "dateModified": "2025-05-21T07:23:19Z"
+  }
+}

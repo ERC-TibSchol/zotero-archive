@@ -1,0 +1,91 @@
+{
+  "key": "Y6NGTTC6",
+  "version": 5118,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Y6NGTTC6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Y6NGTTC6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kersten",
+    "parsedDate": "2018-12",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Y6NGTTC6",
+    "version": 5118,
+    "itemType": "thesis",
+    "title": "Biographies of the First Karma-pa Dus-gsum-mkhyen-pa, Critical Text Edition and Translation of two biographical works; and an Overview of the Dus-gsum-mkhyen-pa Collection",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Peter",
+        "lastName": "Kersten"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Theses",
+    "university": "Universit\u00e9 Paris sciences et lettres",
+    "place": "",
+    "date": "2018-12",
+    "series": "",
+    "seriesNumber": "",
+    "numPages": "",
+    "DOI": "",
+    "ISBN": "",
+    "citationKey": "",
+    "url": "https://theses.hal.science/tel-02176973",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Kersten 2018",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Issue: 2018PSLEP055",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Biography"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {},
+    "dateAdded": "2024-03-01T11:38:49Z",
+    "dateModified": "2025-05-21T06:51:57Z"
+  }
+}

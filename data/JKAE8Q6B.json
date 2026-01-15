@@ -1,0 +1,90 @@
+{
+  "key": "JKAE8Q6B",
+  "version": 5469,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JKAE8Q6B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JKAE8Q6B",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Moriyama",
+    "parsedDate": "2001",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JKAE8Q6B",
+    "version": 5469,
+    "itemType": "bookSection",
+    "title": "Kamarash\u012bra no Ch\u016bgan-k\u014dmy\u014d-ron to Geruku-ha no Nitai-setsu no Kaishaku: Ap\u014dha-ron to Gejinmikky\u014d ni motozuku Sh\u014dgi-tai to Sezoku-tai no Kubun [Kamala\u015b\u012bla\u2019s Madhyamak\u0101loka and the Interpretation of the Two Truths in the Gelug School: The Division between Ultimate and Conventional Truth Based on the Apoha Theory and the Sa\u1e43dhinirmocanas\u016btra]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Seitetsu",
+        "lastName": "Moriyama"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Ishigami Zen\u2019\u014d Ky\u014dju Kokikinen Ronbunsh\u016b Kank\u014dkai, Bukky\u014d bunka no kich\u014d to tenkai: Ishigami Zen\u2019\u014d ky\u014dju koki kinen ronbunsh\u016b [Festschrift for Zen\u2019\u014d Ishigami on the Occasion of His Seventieth Birthday],",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2001",
+    "publisher": "Sankib\u014d Busshorin",
+    "place": "Tokyo",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "283-306",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "jap",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2025-09-08T09:34:08Z",
+    "dateModified": "2025-09-08T09:34:08Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key": "IWEZ79V4",
+  "version": 4158,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/IWEZ79V4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/IWEZ79V4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kano and Kawasaki",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "IWEZ79V4",
+    "version": 4158,
+    "itemType": "journalArticle",
+    "title": "\u30ea\u30f3\u30c1\u30a7\u30f3\u30b5\u30f3\u30dd\u8457\u300e\u30c1\u30e3\u30af\u30e9\u30b5\u30f3\u30f4\u30a1\u30e9\u30fb\u30a2\u30d3\u30b5\u30de\u30e4\u6ce8\u300f\u2015\u8535\u6587\u6821\u8a02\u30c6\u30af\u30b9\u30c8\u2015 (Rin chen bzang po cho 'Cakrasa\u1e43var\u0101bhisam\u0101ya ch\u016b' \u2013 zobun k\u014dtei tekisuto) [A Critical Edition of Rin chen bzang po's <i>Cakrasa\u1e43var\u0101bhisam\u0101ya</i> Commentary]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuo (\u52a0\u7d0d\u548c\u96c4)",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kazuhiro (\u5ddd\u5d0e\u4e00\u6d0b)",
+        "lastName": "Kawasaki"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u9ad8\u91ce\u5c71\u5927\u5b66\u8ad6\u53e2 (K\u014dyasan Daigaku Rons\u014d)",
+    "publisher": "",
+    "place": "",
+    "date": "2014",
+    "volume": "49",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "1\u201336",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0452-6333",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Kano and Kawasaki 2014",
+    "language": "jap, tib",
+    "libraryCatalog": "https://cir.nii.ac.jp/crid/1520853834390773376?lang=en",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/8VZGZLSV"
+    },
+    "dateAdded": "2023-12-04T15:30:16Z",
+    "dateModified": "2025-05-20T19:04:32Z"
+  }
+}

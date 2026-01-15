@@ -1,0 +1,97 @@
+{
+  "key": "K9NNDTDS",
+  "version": 3564,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/K9NNDTDS",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/K9NNDTDS",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "K9NNDTDS",
+    "version": 3564,
+    "itemType": "bookSection",
+    "title": "Notes on J\u00f1\u0101namitra\u2019s Commentary on the Abhidharmasamuccaya",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ulrich T.",
+        "lastName": "Kragh"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "The Foundation of Yoga Practitioners. The Buddhist Yog\u0101c\u0101rabh\u016bmi Treatise and Its\nAdaptation in India, East Asia, and Tibet",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2013",
+    "publisher": "Harvard University Press",
+    "place": "Cambridge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "1388-1429",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 2013",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-04-09T07:28:17Z",
+    "dateModified": "2025-03-18T15:42:22Z"
+  }
+}

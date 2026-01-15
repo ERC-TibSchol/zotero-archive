@@ -1,0 +1,101 @@
+{
+  "key": "MF8XXCWV",
+  "version": 5034,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MF8XXCWV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MF8XXCWV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Horiuchi",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MF8XXCWV",
+    "version": 5034,
+    "itemType": "journalArticle",
+    "title": "\u30b4\u30af\u30fb\u30ed\u30c7\u30f3\u30b7\u30a7\u30fc\u30e9\u30d7\u8457\u300e\u300e\u822c\u82e5\u5fc3\u3014\u7d4c\u3015\u306e\u5e83\u5927\u6ce8\u300f\u306e\u89e3\u8aac\u300f\u6821\u8a02\u30c6\u30af\u30b9\u30c8\u3068\u8a33\u6ce8 [rNgog Blo ldan shes rab's <i>Shes rab snying po'i rgya cher 'grel gyi bshad pa</i>: A Critical Edition and Annotated Japanese Translation]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Toshio (\u5800\u5185 \u4fca\u90ce)",
+        "lastName": "Horiuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Bulletin of the International Institute for Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "2019",
+    "volume": "2",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "107\u2013140",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Horiuchi 2019",
+    "language": "jap",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      },
+      {
+        "tag": "rNgog Blo ldan shes rab"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/SZJ9UCBR"
+    },
+    "dateAdded": "2024-01-15T14:22:57Z",
+    "dateModified": "2025-05-21T08:41:54Z"
+  }
+}
