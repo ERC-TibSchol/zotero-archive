@@ -1,0 +1,98 @@
+{
+  "key": "9Q6UTPFV",
+  "version": 3600,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9Q6UTPFV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9Q6UTPFV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9Q6UTPFV",
+    "version": 3600,
+    "itemType": "bookSection",
+    "title": "mDo sde rgyan gyi don bsdus las btus pa",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "tho yon ye shes don grub bstan pa'i rgyal mtshan"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Legs par bshad pa bka' gdams rin po che'i gsung gi gces btus nor bu'i bang mdzod",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1996",
+    "publisher": "mTsho sngon mi rigs dpe skrun khang",
+    "place": "Xining",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "148\u2013150",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Anon - mdo sde rgyan don bsdus btus",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Gateway"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/KXXMNRDD"
+    },
+    "dateAdded": "2024-01-17T15:18:21Z",
+    "dateModified": "2025-03-21T17:26:28Z"
+  }
+}

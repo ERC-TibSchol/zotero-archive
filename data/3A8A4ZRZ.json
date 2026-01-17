@@ -1,0 +1,101 @@
+{
+  "key": "3A8A4ZRZ",
+  "version": 4830,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3A8A4ZRZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3A8A4ZRZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "S\u00f8rensen",
+    "parsedDate": "2002",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3A8A4ZRZ",
+    "version": 4830,
+    "itemType": "bookSection",
+    "title": "An XIth Century Ascetic of Buddhist Eclecticism: Kha-rag sgom-chung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Per K.",
+        "lastName": "S\u00f8rensen"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tractata Tibetica et Mongolica. Festschrift f\u00fcr Klaus Sagaster zum 65. Geburtstag",
+    "series": "Asiatische Forschungen",
+    "seriesNumber": "",
+    "volume": "145",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2002",
+    "publisher": "Harrassowitz-Verlag",
+    "place": "Wiesbaden",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "241-254",
+    "ISBN": "3-447-04576-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-11-22T15:02:10Z",
+    "dateModified": "2025-05-21T07:23:31Z"
+  }
+}

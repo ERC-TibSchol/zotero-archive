@@ -1,0 +1,93 @@
+{
+  "key": "UUCA9YLQ",
+  "version": 4963,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/UUCA9YLQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/UUCA9YLQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lo chen skyabs mchog dpal",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "UUCA9YLQ",
+    "version": 4963,
+    "itemType": "book",
+    "title": "dBu ma la \u02bcjug pa\u02bci rgya cher bshad pa gsung rab rgya mtsho\u02bci de kho na nyid rab tu gsal ba",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Lo chen skyabs mchog dpal"
+      }
+    ],
+    "abstractNote": "Detailed commentary on the Madhyamakavatara of Candrakirti. Written by Lochen Kyabchok Palsang (14th cent.)",
+    "series": "Dus mkhyen dpe tshogs",
+    "seriesNumber": "23",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2016",
+    "publisher": "Mtshur dgon nang bstan slob gling nas bsgrigs",
+    "place": "Stod lunng rdzong",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "1",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN560",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "skyabs mchog dpal - dbu ma 'jug bshad pa",
+    "language": "tib",
+    "libraryCatalog": "library.bdrc.io",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2024-09-16T10:59:31Z",
+    "dateModified": "2025-05-21T06:52:30Z"
+  }
+}

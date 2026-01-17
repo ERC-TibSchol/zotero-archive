@@ -1,0 +1,94 @@
+{
+  "key": "AYX5ETGN",
+  "version": 5930,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AYX5ETGN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AYX5ETGN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Thub bstan smon lam and Shes rab bzang po",
+    "parsedDate": "2015",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "AYX5ETGN",
+    "version": 5930,
+    "itemType": "book",
+    "title": "dpal sa skya'i bzhed gzhung pod chen drug gam grags chen bco brgyad",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      }
+    ],
+    "abstractNote": "",
+    "series": "'phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "69 (tu)",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "date": "2015",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "Lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "79",
+    "ISBN": "978-7-80589-670-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://archive.org/details/bdrc-W3CN3408/",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "tib",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW3CN3408",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/DSJTRHLU"
+    },
+    "dateAdded": "2026-01-16T08:29:17Z",
+    "dateModified": "2026-01-16T08:38:03Z"
+  }
+}

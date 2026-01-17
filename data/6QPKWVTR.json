@@ -1,0 +1,94 @@
+{
+  "key": "6QPKWVTR",
+  "version": 4161,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6QPKWVTR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6QPKWVTR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6QPKWVTR",
+    "version": 4161,
+    "itemType": "bookSection",
+    "title": "'brel pa brtag pa'i rab tu 'byed pa ('brel ba brtag pa\u2019i rab tu \u2018byed pa'i mchan)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bCom ldan rigs pa\u02bci ral gri'i gsung 'bum",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "10",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2006",
+    "publisher": "[khams sprul bsod nams don grub]",
+    "place": "[lha sa]",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "57-67",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_8BB87F",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Ral gri - 'brel brtag rab 'byed mchan",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC MW00EGS1017426",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2023-11-17T08:26:15Z",
+    "dateModified": "2025-05-20T19:04:58Z"
+  }
+}

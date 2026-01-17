@@ -1,0 +1,96 @@
+{
+  "key": "AEAX7W8D",
+  "version": 5471,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AEAX7W8D",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AEAX7W8D",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPal brtsegs bod yig dpe rnying zhib 'jug khang",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AEAX7W8D",
+    "version": 5471,
+    "itemType": "bookSection",
+    "title": "Tshad ma'i legs bshad dri med bcud kyi bdud rtsi",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bKa' gdams gsung 'bum phyogs bsgrigs thengs gnyis pa",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "88",
+    "numberOfVolumes": "30",
+    "edition": "",
+    "date": "2007",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "place": "Khreng tu'u",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "220-311",
+    "ISBN": "978-7-5409-3431-6 978-7-5409-4283-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW1PD89084_5FFACC",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Anon - tshad ma bdud rtsi",
+    "language": "tib",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/UJDXNMGD"
+    },
+    "dateAdded": "2023-11-17T08:15:07Z",
+    "dateModified": "2025-09-08T12:49:28Z"
+  }
+}

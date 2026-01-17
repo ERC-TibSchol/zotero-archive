@@ -1,0 +1,116 @@
+{
+  "key": "Z3SGRB7A",
+  "version": 4831,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Z3SGRB7A",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Z3SGRB7A",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kellner",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Z3SGRB7A",
+    "version": 4831,
+    "itemType": "bookSection",
+    "title": "Types of Incompatibility (<i>\u2019gal ba</i>) and Types of Non-Cognition (<i>ma</i>/<i>mi dmigs</i>) in Early Tibetan <i>tshad ma</i> Literature",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Birgit",
+        "lastName": "Kellner"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Krasser"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Michael Torsten",
+        "lastName": "Much"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ernst",
+        "lastName": "Steinkellner"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tibetan Studies: Proceedings of the 7th Seminar of the International Association for Tibetan Studies, Graz 1995, Tibetan Studies, Volume 1",
+    "series": "Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens 21, Denkschriften / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 256",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1997",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "place": "Wien",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "495\u2013510",
+    "ISBN": "3-7001-2657-3",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "DS785.A1",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/KB6VEYIZ"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:23:38Z"
+  }
+}

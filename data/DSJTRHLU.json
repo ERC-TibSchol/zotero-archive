@@ -1,0 +1,104 @@
+{
+  "key": "DSJTRHLU",
+  "version": 5942,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/DSJTRHLU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/DSJTRHLU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Lho pa kun mkhyen rin chen dpal",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "DSJTRHLU",
+    "version": 5942,
+    "itemType": "bookSection",
+    "title": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Lho pa kun mkhyen rin chen dpal"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "dpal sa skya'i bzhed gzhung pod chen drug gam grags chen bco brgyad las phar phyin skor",
+    "series": "'phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "69 (tu)",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "date": "2015",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "Lha sa",
+    "originalDate": "",
+    "originalPublisher": "smon bzang dpe rnying 'tshol bsdu khang / bod ljongs bod yig dpe rnying dpe skrung khang",
+    "originalPlace": "",
+    "format": "",
+    "pages": "24-218",
+    "ISBN": "978-7-80589-670-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_5702FB",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "lho pa - spyod 'jug dka' 'grel 2015 ed.",
+    "language": "tib",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC bdr:MW3CN3408_5702FB",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/AYX5ETGN"
+    },
+    "dateAdded": "2026-01-16T08:38:07Z",
+    "dateModified": "2026-01-16T09:55:15Z"
+  }
+}

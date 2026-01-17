@@ -1,0 +1,108 @@
+{
+  "key": "XCTMRW2B",
+  "version": 5559,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XCTMRW2B",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XCTMRW2B",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2018-03-31",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XCTMRW2B",
+    "version": 5559,
+    "itemType": "bookSection",
+    "title": "The Bka' gdams chos 'byung Genre and the Newly Published Ye shes erse mo's Bka' gdams chos 'byung",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "In recent years, many rare texts related to Bka' gdams pa school have arrived from Lhasa, such as the collection of 'Bras spungs Monastery, and they have been become available to scholars. Among these rare texts, one Bka' gdams chos 'byung (history of Bka' gdams pa school) text, which was not accessible for a long time, was published by the Ser gtsug nang bstan dpe rnying 'tshol bsdu phyogs sgrig khang (henceforth, Ser gtsug Institute) , Lhasa in 2015. The newly published, Bka' gdams rin po che'i bstan 'dzin rnams kyi byung khungs pa\u1e47 chen ye shes rtse mos mdzad pa [The origin of the holders of the precious teachings of Bka' gdams written by Pa\u1e47 chen Ye shes rtse mo] ( henceforth, Ye shes rtse mo's Bka' gdams chos 'byung) written by Pa\u1e47 chen Ye shes rtse mo (1433-?) , who was the forth abbot of Bkra shis lhun po Monastery, is thought to be the earliest Bka' gdams chos 'byung work along with the same genre work by Bsod nams lha'i dbang po (1423-1496) . This paper will give an overview of the Bka' gdams chos 'byung genre and the details of Ye shes rtse mo's Bka' gdams chos 'byung, such as the context, author, date of the text, and specific descriptions of the text with compared to other Bka' gdams chos 'byung works.",
+    "bookTitle": "\u30c1\u30d9\u30c3\u30c8\u30fb\u30d2\u30de\u30e9\u30e4\u6587\u660e\u306e\u6b74\u53f2\u7684\u5c55\u958b",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "31.03.2018",
+    "publisher": "\u4eac\u90fd\u5927\u5b66\u4eba\u6587\u79d1\u5b66\u7814\u7a76\u6240 Institute for Research in Humanities, Kyoto University",
+    "place": "Kyoto",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "337-356",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/235463",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "https://core.ac.uk/download/162294527.pdf",
+    "tags": [
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2022-01-11T09:33:07Z",
+    "dateModified": "2025-05-21T08:42:11Z"
+  }
+}

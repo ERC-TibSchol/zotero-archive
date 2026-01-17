@@ -1,0 +1,93 @@
+{
+  "key": "V4DZTVU8",
+  "version": 3598,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/V4DZTVU8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/V4DZTVU8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "V4DZTVU8",
+    "version": 3598,
+    "itemType": "journalArticle",
+    "title": "Review of: Tshad ma sde bdun rgyan gyi me tog by Bcom ldan Rigs pa'i ral gri; Rdo rje rgyal po",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the American Oriental Society",
+    "publisher": "",
+    "place": "",
+    "date": "1994",
+    "volume": "114",
+    "issue": "2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "304-306",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JAOS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://links.jstor.org/sici?sici=0003-0279%28199404%2F06%29114%3A2%3C304%3ATMSBRG%3E2.0.CO%3B2-9",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1994",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-03-20T07:08:42Z",
+    "dateModified": "2025-03-20T07:10:16Z"
+  }
+}

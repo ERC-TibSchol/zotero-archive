@@ -1,0 +1,94 @@
+{
+  "key": "E6VWU8AU",
+  "version": 4163,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/E6VWU8AU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/E6VWU8AU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "E6VWU8AU",
+    "version": 4163,
+    "itemType": "bookSection",
+    "title": "rtsod rigs rgyan gyi me tog",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung \u02bcbum bcom ldan rig pa\u02bci ral gri",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2006",
+    "publisher": "[khams sprul bsod nams don grub]",
+    "place": "[lha sa]",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "93-243",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_84FF2A",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Ral gri - rtsod rigs rgyan me tog",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "BDRC MW00EGS1017426",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2023-11-17T07:52:58Z",
+    "dateModified": "2025-05-20T19:05:10Z"
+  }
+}
