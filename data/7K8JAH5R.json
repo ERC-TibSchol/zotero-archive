@@ -1,6 +1,6 @@
 {
-  "key": "G36YV3ZE",
-  "version": 5560,
+  "key": "7K8JAH5R",
+  "version": 5040,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/G36YV3ZE",
+      "href": "https://api.zotero.org/groups/4394244/items/7K8JAH5R",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/G36YV3ZE",
+      "href": "https://www.zotero.org/groups/tibschol/items/7K8JAH5R",
       "type": "text/html"
     }
   },
@@ -45,52 +45,42 @@
         }
       }
     },
-    "creatorSummary": "Gos Lo-tsa-ba Gzon-nu-dpal",
-    "parsedDate": "1949",
-    "numChildren": 2
+    "creatorSummary": "Roesler and Roesler",
+    "parsedDate": "2004",
+    "numChildren": 0
   },
   "data": {
-    "key": "G36YV3ZE",
-    "version": 5560,
+    "key": "7K8JAH5R",
+    "version": 5040,
     "itemType": "book",
-    "title": "The blue annals. Parts 1 and 2 / [translated and edited] by George N. Roerich",
+    "title": "Kadampa sites of Phempo: a guide to some early Buddhist monasteries in central Tibet",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "1392-1481",
-        "lastName": "Gos Lo-tsa-ba Gzon-nu-dpal"
+        "firstName": "Ulrike",
+        "lastName": "Roesler"
       },
       {
-        "creatorType": "editor",
-        "firstName": "George",
-        "lastName": "Roerich"
-      },
-      {
-        "creatorType": "translator",
-        "firstName": "George",
-        "lastName": "Roerich"
-      },
-      {
-        "creatorType": "seriesEditor",
-        "firstName": "India)",
-        "lastName": "Asiatic Society (Calcutta"
+        "creatorType": "author",
+        "firstName": "Hans-Ulrich",
+        "lastName": "Roesler"
       }
     ],
     "abstractNote": "",
-    "series": "Asiatic Society monograph series ; v. 7.",
-    "seriesNumber": "Accessed from https://nla.gov.au/nla.cat-vn1930162",
+    "series": "Bauddha books",
+    "seriesNumber": "2",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1949",
-    "publisher": "Royal Asiatic Society of Bengal",
-    "place": "Calcutta",
+    "date": "2004",
+    "publisher": "Vajra Publications",
+    "place": "Kathmandu",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
-    "ISBN": "",
+    "numPages": "83",
+    "ISBN": "978-99933-695-3-0",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -98,26 +88,27 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Roerich (tr.) 1949",
-    "language": "",
-    "libraryCatalog": "",
-    "callNumber": "",
+    "shortTitle": "Kadampa sites of Phempo",
+    "language": "eng tib",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ6349.P44 R64 2004",
     "rights": "",
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Monastery"
       },
       {
-        "tag": "History"
+        "tag": "bKa' gdams pa"
       }
     ],
     "collections": [
       "H3YINC3T",
-      "ZZAJVF3H"
+      "4JFH24VK",
+      "Y45VXADN"
     ],
     "relations": {},
-    "dateAdded": "2022-09-30T11:54:15Z",
-    "dateModified": "2025-09-22T07:43:32Z"
+    "dateAdded": "2021-10-19T12:48:10Z",
+    "dateModified": "2025-05-21T08:43:33Z"
   }
 }

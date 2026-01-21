@@ -1,6 +1,6 @@
 {
   "key": "GX36QNF5",
-  "version": 5117,
+  "version": 5946,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "GX36QNF5",
-    "version": 5117,
+    "version": 5946,
     "itemType": "thesis",
     "title": "The Life and Collected Works of Tibetan Lojong Master Tokm\u00e9 Zangpo (1295-1369)",
     "creators": [
@@ -74,7 +74,7 @@
     "series": "",
     "seriesNumber": "",
     "numPages": "",
-    "DOI": "",
+    "DOI": "10.18130/V37G56",
     "ISBN": "",
     "citationKey": "",
     "url": "https://libraetd.lib.virginia.edu/public_view/xk81jk64w",
@@ -87,7 +87,7 @@
     "libraryCatalog": "DOI.org (Datacite)",
     "callNumber": "",
     "rights": "All rights reserved (no additional license for public reuse)",
-    "extra": "DOI: 10.18130/V37G56",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"

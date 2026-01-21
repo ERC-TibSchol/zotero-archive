@@ -1,0 +1,99 @@
+{
+  "key": "7BUQIVZA",
+  "version": 5038,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7BUQIVZA",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7BUQIVZA",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2010",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7BUQIVZA",
+    "version": 5038,
+    "itemType": "journalArticle",
+    "title": "\u30ed\u5bfa--\u521d\u671f\u30ab\u30c0\u30e0\u6d3e\u5bfa\u9662\u306e\u5909\u9077 [The history of Lo dgon pa: the vicissitudes of an early bKa' gdams pa monastery]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "\u5927\u8c37\u5927\u5b66\u7814\u7a76\u5e74\u5831 (The annual report of researches of Otani University)",
+    "publisher": "",
+    "place": "",
+    "date": "2010",
+    "volume": "62",
+    "issue": "3",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "37-77",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I10749696",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "jap",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Monastery"
+      },
+      {
+        "tag": "bKa' gdams pa"
+      }
+    ],
+    "collections": [
+      "4JFH24VK",
+      "Y45VXADN"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-18T06:57:30Z",
+    "dateModified": "2025-05-21T08:42:49Z"
+  }
+}

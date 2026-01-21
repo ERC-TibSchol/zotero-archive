@@ -1,6 +1,6 @@
 {
-  "key": "F2PEN2D9",
-  "version": 5943,
+  "key": "XV53HEA6",
+  "version": 5953,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/F2PEN2D9",
+      "href": "https://api.zotero.org/groups/4394244/items/XV53HEA6",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/F2PEN2D9",
+      "href": "https://www.zotero.org/groups/tibschol/items/XV53HEA6",
       "type": "text/html"
     }
   },
@@ -34,62 +34,69 @@
         }
       }
     },
-    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "creatorSummary": "sNar thang pa bSam gtan bzang po",
     "parsedDate": "2006",
     "numChildren": 0
   },
   "data": {
-    "key": "F2PEN2D9",
-    "version": 5943,
+    "key": "XV53HEA6",
+    "version": 5953,
     "itemType": "bookSection",
-    "title": "bCom ldan rigs pa\u02bci ral gri\u02bci gsung rtsom dkar chag",
+    "title": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing",
     "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "bCom ldan rigs pa'i ral gri"
+        "lastName": "sNar thang pa bSam gtan bzang po"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bCom ldan rigs pa\u02bci ral gri'i gsung 'bum",
+    "bookTitle": "gSung \u02bcbum bcom ldan rig pa\u02bci ral gri",
     "series": "",
     "seriesNumber": "",
     "volume": "1",
-    "numberOfVolumes": "",
+    "numberOfVolumes": "10",
     "edition": "",
     "date": "2006",
-    "publisher": "[khams sprul bsod nams don grub]",
-    "place": "[lha sa]",
+    "publisher": "Khams sprul bsod nams don grub",
+    "place": "lha sa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "24-38",
+    "pages": "41-94",
     "ISBN": "",
     "DOI": "",
-    "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_6EAAE1",
+    "citationKey": "bsam gtan bzang po - ral gri rnam thar",
+    "url": "",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ral gri - dkar chag",
+    "shortTitle": "",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BDRC MW00EGS1017426",
+    "extra": "http://purl.bdrc.io/resource/MW00EGS1017426_372F9F",
     "tags": [
       {
         "tag": "APIS"
       },
       {
-        "tag": "Catalogue"
+        "tag": "Collected works"
       }
     ],
     "collections": [],
-    "relations": {},
-    "dateAdded": "2025-02-05T12:37:19Z",
-    "dateModified": "2026-01-20T10:20:19Z"
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/KFT6V6MT"
+    },
+    "dateAdded": "2026-01-20T10:21:41Z",
+    "dateModified": "2026-01-20T10:28:00Z"
   }
 }

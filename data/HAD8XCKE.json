@@ -1,0 +1,106 @@
+{
+  "key": "HAD8XCKE",
+  "version": 4832,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HAD8XCKE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HAD8XCKE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HAD8XCKE",
+    "version": 4832,
+    "itemType": "bookSection",
+    "title": "Phya pa Chos kyi seng ge\u2019s Theory of <i>\u2019gal ba</i>",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sh\u014dren",
+        "lastName": "Ihara"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Zuih\u014d",
+        "lastName": "Yamaguchi"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Buddhist Philosophy and Literature: Tibetan Studies: Proceedings of the 5th Seminar of the International Association for Tibetan Studies, Narita 1989, Volume 1",
+    "series": "Monograph series of Naritasan Institute for Buddhist Studies. Occasional papers",
+    "seriesNumber": "2",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1992",
+    "publisher": "Naritasan Shinshoji",
+    "place": "Narita",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "197\u2013202",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "https://lccn.loc.gov/93175218",
+    "callNumber": "DS785.A1 I54",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/GZBNEINR"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:23:44Z"
+  }
+}

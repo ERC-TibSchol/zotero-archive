@@ -1,0 +1,124 @@
+{
+  "key": "3ABM39BB",
+  "version": 4609,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3ABM39BB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3ABM39BB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nockels et al.",
+    "parsedDate": "2022-06-17",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3ABM39BB",
+    "version": 4609,
+    "itemType": "journalArticle",
+    "title": "Understanding the application of handwritten text recognition technology in heritage contexts: a systematic review of Transkribus in published research",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Joe",
+        "lastName": "Nockels"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Paul",
+        "lastName": "Gooding"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sarah",
+        "lastName": "Ames"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Melissa",
+        "lastName": "Terras"
+      }
+    ],
+    "abstractNote": "Handwritten Text Recognition (HTR) technology is now a mature machine learning tool, becoming integrated in the digitisation processes of libraries and archives, speeding up the transcription of primary sources and facilitating full text searching and analysis of historic texts at scale. However, research into how HTR is changing our information environment is scant. This paper presents a systematic literature review regarding how researchers are using one particular HTR platform, Transkribus, to indicate the domains where HTR is applied, the approach taken, and how the technology is understood. 381 papers from 2015 to 2020 were gathered from Google Scholar, Scopus, and Web of Science, then grouped and coded into categories using quantitative and qualitative approaches. Published research that mentions Transkribus is international and rapidly growing. Transkribus features primarily in archival and library science publications, while a long tail of broad and eclectic disciplines, including history, computer science, citizen science, law and education, demonstrate the wider applicability of the tool. The most common paper categories were humanities applications (67%), technological (25%), users (5%) and tutorials (3%). This paper presents the first overarching review of HTR as featured in published research, while also elucidating how HTR is affecting the information environment.",
+    "publicationTitle": "Archival Science",
+    "publisher": "",
+    "place": "",
+    "date": "2022-06-17",
+    "volume": "",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Arch Sci",
+    "DOI": "10.1007/s10502-022-09397-0",
+    "citationKey": "",
+    "url": "https://doi.org/10.1007/s10502-022-09397-0",
+    "accessDate": "2022-07-19T08:02:15Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1573-7500",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Understanding the application of handwritten text recognition technology in heritage contexts",
+    "language": "eng",
+    "libraryCatalog": "Springer Link",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2022-07-19T08:03:16Z",
+    "dateModified": "2025-05-21T06:53:23Z"
+  }
+}

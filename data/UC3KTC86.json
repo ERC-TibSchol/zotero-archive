@@ -1,6 +1,6 @@
 {
   "key": "UC3KTC86",
-  "version": 4986,
+  "version": 5943,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "UC3KTC86",
-    "version": 4986,
+    "version": 5943,
     "itemType": "bookSection",
     "title": "bCom ldan ral gri\u02bci rnam thar (dbu med)",
     "creators": [
@@ -67,22 +67,32 @@
     "volume": "6",
     "numberOfVolumes": "31",
     "edition": "Par gzhi dang po",
-    "place": "Zi ling",
-    "publisher": "mTsho sngon mi rigs dpe skrun khang",
     "date": "2010",
-    "pages": "565\u201392",
-    "language": "tib",
+    "publisher": "mTsho sngon mi rigs dpe skrun khang",
+    "place": "Zi ling",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "557-583 (565\u2013592)",
     "ISBN": "978-7-5420-1464-1",
-    "shortTitle": "",
+    "DOI": "",
+    "citationKey": "bsam gtan bzang po - ral gri rnam thar",
     "url": "http://purl.bdrc.io/resource/MW1KG10687_C16B42",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "W1KG10687",
     "tags": [
+      {
+        "tag": "APIS"
+      },
       {
         "tag": "Biography"
       }
@@ -94,6 +104,6 @@
     ],
     "relations": {},
     "dateAdded": "2022-10-05T13:38:35Z",
-    "dateModified": "2025-05-21T07:44:25Z"
+    "dateModified": "2026-01-20T10:16:32Z"
   }
 }

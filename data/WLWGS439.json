@@ -1,0 +1,92 @@
+{
+  "key": "WLWGS439",
+  "version": 3607,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WLWGS439",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WLWGS439",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Werner",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WLWGS439",
+    "version": 3607,
+    "itemType": "thesis",
+    "title": "Phywa-pa Chos-kyi-seng-ge's (1109\u20131169) Depiction of Mah\u0101y\u0101na Philosophy: A Critical Edition and Annotated Translation of the Chapters on Yog\u0101c\u0101ra and M\u0101dhyamaka Philosophy from the <i>gZhung lugs rnam \u2019byed</i>, a Doxography of the Twelfth Century",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Eric",
+        "lastName": "Werner"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Master thesis",
+    "university": "Universit\u00e4t Hamburg",
+    "place": "Hamburg",
+    "date": "2014",
+    "series": "",
+    "seriesNumber": "",
+    "numPages": "",
+    "DOI": "",
+    "ISBN": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Werner 2014",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Unpublished",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/FFUPZVYQ"
+    },
+    "dateAdded": "2023-12-11T17:42:09Z",
+    "dateModified": "2025-03-21T17:27:17Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "key": "5ENG67Z7",
-  "version": 4855,
+  "version": 5947,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "5ENG67Z7",
-    "version": 4855,
+    "version": 5947,
     "itemType": "journalArticle",
     "title": "Proving Emptiness: The Epistemological Background for the \u201cNeither One Nor Many\u201d Argument and the Nature of Its Probandum in Phya pa Chos kyi seng ge\u2019s Works",
     "creators": [
@@ -52,7 +52,7 @@
     ],
     "abstractNote": "",
     "publicationTitle": "Journal of Buddhist Philosophy",
-    "publisher": "",
+    "publisher": "State University of New York Press",
     "place": "",
     "date": "2015",
     "volume": "1",
@@ -79,7 +79,7 @@
     "libraryCatalog": "Project MUSE",
     "callNumber": "",
     "rights": "",
-    "extra": "Publisher: State University of New York Press",
+    "extra": "",
     "tags": [
       {
         "tag": "Madhyamaka"

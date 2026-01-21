@@ -1,0 +1,103 @@
+{
+  "key": "FYJN55WB",
+  "version": 4853,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FYJN55WB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FYJN55WB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roerich and 'Gos lo ts\u0101 ba gZhon nu dpal",
+    "parsedDate": "1949",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FYJN55WB",
+    "version": 4853,
+    "itemType": "book",
+    "title": "The Blue Annals",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "George",
+        "lastName": "Roerich"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "'Gos lo ts\u0101 ba gZhon nu dpal"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Royal Asiatic Society of Bengal. Monograph series",
+    "seriesNumber": "7",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "date": "1949-1953",
+    "publisher": "Royal Asiatic Society of Bengal",
+    "place": "Calcutta",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "xxi, 1275 pages",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://worldcat.org/de/title/2289406",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng, tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/G6QNJ5SW"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:23:51Z"
+  }
+}

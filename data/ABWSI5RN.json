@@ -1,6 +1,6 @@
 {
-  "key": "F2PEN2D9",
-  "version": 5943,
+  "key": "ABWSI5RN",
+  "version": 4164,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/F2PEN2D9",
+      "href": "https://api.zotero.org/groups/4394244/items/ABWSI5RN",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/F2PEN2D9",
+      "href": "https://www.zotero.org/groups/tibschol/items/ABWSI5RN",
       "type": "text/html"
     }
   },
@@ -39,10 +39,10 @@
     "numChildren": 0
   },
   "data": {
-    "key": "F2PEN2D9",
-    "version": 5943,
+    "key": "ABWSI5RN",
+    "version": 4164,
     "itemType": "bookSection",
-    "title": "bCom ldan rigs pa\u02bci ral gri\u02bci gsung rtsom dkar chag",
+    "title": "rtsod pa\u02bci rigs pa\u02bci bsdus don",
     "creators": [
       {
         "creatorType": "author",
@@ -51,12 +51,12 @@
       }
     ],
     "abstractNote": "",
-    "bookTitle": "bCom ldan rigs pa\u02bci ral gri'i gsung 'bum",
+    "bookTitle": "bCom ldan rigs pa'i ral gri'i gsung 'bum",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
+    "volume": "8",
     "numberOfVolumes": "",
-    "edition": "",
+    "edition": "[khams sprul bsod nams don grub]",
     "date": "2006",
     "publisher": "[khams sprul bsod nams don grub]",
     "place": "[lha sa]",
@@ -64,32 +64,31 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "24-38",
+    "pages": "245-260",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_6EAAE1",
+    "url": "http://purl.bdrc.io/resource/MW00EGS1017426_4E1558",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ral gri - dkar chag",
+    "shortTitle": "Ral gri - rtsod rigs bsdus don",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BDRC MW00EGS1017426",
+    "extra": "BDRC MW00EGS1017426. Typset edition in dpe cha format based on a manuscript from gnas bcu lha khang.",
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Catalogue"
       }
     ],
-    "collections": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
     "relations": {},
-    "dateAdded": "2025-02-05T12:37:19Z",
-    "dateModified": "2026-01-20T10:20:19Z"
+    "dateAdded": "2023-11-17T07:37:47Z",
+    "dateModified": "2025-05-20T19:05:14Z"
   }
 }

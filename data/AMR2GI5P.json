@@ -1,0 +1,93 @@
+{
+  "key": "AMR2GI5P",
+  "version": 5039,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AMR2GI5P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AMR2GI5P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Iuchi",
+    "parsedDate": "2008",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AMR2GI5P",
+    "version": 5039,
+    "itemType": "journalArticle",
+    "title": "'Dan ma: The Place of the Second Diffusion of Buddhism in Eastern Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Maho",
+        "lastName": "Iuchi"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian and Buddhist Studies (Indogaku Bukkyogaku Kenkyu)",
+    "publisher": "",
+    "place": "",
+    "date": "2008",
+    "volume": "57",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "465-457",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIBS",
+    "DOI": "10.4259/ibk.57.1_465",
+    "citationKey": "",
+    "url": "https://www.jstage.jst.go.jp/article/ibk/57/1/57_KJ00005130403/_article/-char/ja/",
+    "accessDate": "2024-10-18T07:06:18Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0019-4344, 1884-0051",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Iuchi 2008",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-10-18T07:06:19Z",
+    "dateModified": "2025-05-21T08:43:00Z"
+  }
+}
