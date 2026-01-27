@@ -1,0 +1,119 @@
+{
+  "key": "WVLM4KTW",
+  "version": 5946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WVLM4KTW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WVLM4KTW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Massot et al.",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WVLM4KTW",
+    "version": 5946,
+    "itemType": "journalArticle",
+    "title": "Transcribing Foucault's Handwriting with Transkribus",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Marie-Laure",
+        "lastName": "Massot"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Arianna",
+        "lastName": "Sforzini"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Vincent",
+        "lastName": "Ventresque"
+      }
+    ],
+    "abstractNote": "The Foucault Fiches de Lecture (FFL) project aims both to explore and to make available online a large set of Michel Foucault\u2019s reading notes (organized citations, references and comments) held at the BnF since 2013. Therefore, the team is digitizing, describing and enriching the reading notes that the philosopher gathered while preparing his books and lectures, thus providing a new corpus that will allow a new approach to his work. In order to release the manuscripts online, and to collectively produce the data, the team is also developing a collaborative platform, based on RDF technologies, and designed to link together archival content and bibliographic data. This project is financed by the ANR (2017-2020) and coordinated by Michel Senellart, professor of philosophy at the ENS Lyon. It benefits from the partnerships of the ENS/PSL and the BnF. In addition, a collaboration with the European READ/Transkribus project has been started so as to produce automatic transcription of the reading notes.",
+    "publicationTitle": "Journal of Data Mining and Digital Humanities",
+    "publisher": "Episciences.org",
+    "place": "",
+    "date": "2019",
+    "volume": "Atelier Digit_Hum",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://hal.archives-ouvertes.fr/hal-01913435",
+    "accessDate": "2021-08-31T14:32:44Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "HAL Archives Ouvertes",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T14:32:44Z",
+    "dateModified": "2025-05-21T06:53:47Z"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "key": "RDC6PED3",
+  "version": 4834,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RDC6PED3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RDC6PED3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tauscher",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RDC6PED3",
+    "version": 4834,
+    "itemType": "bookSection",
+    "title": "Phya pa chos kyi seng ge's Opinion on <i>prasa\u1e45ga</i> in His dBu ma'i shar gsum gyi stong thun",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sh\u014dry\u016b",
+        "lastName": "Katsura"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Dharmak\u012brti's Thought and Its Impact on Indian and Tibetan Philosophy: Proceedings of the Third International Dharmak\u012brti Conference, Hiroshima, November 4-6, 1997",
+    "series": "Beitr\u00e4ge zur Kultur- und Geistesgeschichte Asiens 32, Denkschriften / \u00d6sterreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 281",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1999",
+    "publisher": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften",
+    "place": "Wien",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "387\u2013393",
+    "ISBN": "3-7001-2852-5",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Version Number: 2013-07-30 14:19:45\n_eprint: 6689",
+    "tags": [
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/UIG48VUX"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-05-21T07:23:57Z"
+  }
+}

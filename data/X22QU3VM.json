@@ -1,0 +1,102 @@
+{
+  "key": "X22QU3VM",
+  "version": 4167,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/X22QU3VM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/X22QU3VM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kawasaki",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "X22QU3VM",
+    "version": 4167,
+    "itemType": "bookSection",
+    "title": "\u30ab\u30c0\u30e0\u5168\u96c6\u300f\u6240\u53ce\u306e\u30ea\u30f3\u30c1\u30a7\u30f3\u30b5\u30f3\u30dd\u306e\u8457\u4f5c\u306b\u3064\u3044\u3066 [Rin chen bzang po's Works Included in the <i>bKa' gdams gsung 'bum</i>]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kazuhiro (\u5ddd\u5d0e \u4e00\u6d0b)",
+        "lastName": "Kawasaki"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Seiichi (\u52a0\u85e4\u7cbe\u4e00)",
+        "lastName": "Kat\u014d"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "\u52a0\u85e4\u7cbe\u4e00\u535a\u58eb\u53e4\u5e0c\u8a18\u5ff5\u8ad6\u6587\u96c6 \u771f\u8a00\u5bc6\u6559\u3068\u65e5\u672c\u6587\u5316\uff1c\u4e0b\uff1e (Kat\u014d Seiichi hakase koki kinen ronsh\u016b: Shingonmikky\u014d to nihon bunka ge) [Shingon Esoteric Buddhism and Japanese Culture: In honour of Litt. D. KATO Seiichi on his seventieth birthday]",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "\u5927\u6b63\u5927\u5b66\u771f\u8a00\u5b66\u8c4a\u5c71\u7814\u7a76\u5ba4\u52a0\u85e4\u7cbe\u4e00\u535a\u58eb\u53e4\u7a00\u8a18\u5ff5\u8ad6\u6587\u96c6\u520a\u884c\u4f1a",
+    "date": "2007",
+    "publisher": "Nonburu",
+    "place": "Tokyo",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "211-233",
+    "ISBN": "978-4-903470-26-9",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://tripitaka.l.u-tokyo.ac.jp/INBUDS/search.php?m=trdd&usid=211108&a=",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Kawasaki 2008",
+    "language": "jap, tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/users/8397006/items/NDGWXVAZ"
+    },
+    "dateAdded": "2023-11-14T14:36:26Z",
+    "dateModified": "2025-05-20T19:05:33Z"
+  }
+}

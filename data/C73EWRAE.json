@@ -1,6 +1,6 @@
 {
   "key": "C73EWRAE",
-  "version": 5649,
+  "version": 5955,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -38,7 +38,7 @@
   },
   "data": {
     "key": "C73EWRAE",
-    "version": 5649,
+    "version": 5955,
     "itemType": "bookSection",
     "title": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me",
     "creators": [],
@@ -49,21 +49,28 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "",
-    "publisher": "",
     "date": "",
+    "publisher": "",
+    "place": "",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "201-387",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Anon. - mngon rtogs rgyan 'grel gsal sgron ma",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "2025-11-07",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "BDRC No: W3CN18534",
+    "shortTitle": "Anon. - mngon rtogs rgyan 'grel gsal sgron ma",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Second text in gSung thor bu Blo ldan shes rab",
     "tags": [
       {
         "tag": "APIS"
@@ -83,6 +90,6 @@
       ]
     },
     "dateAdded": "2024-09-17T13:14:43Z",
-    "dateModified": "2025-11-07T17:12:37Z"
+    "dateModified": "2026-01-26T12:15:44Z"
   }
 }

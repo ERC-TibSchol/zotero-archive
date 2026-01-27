@@ -1,6 +1,6 @@
 {
   "key": "5GHGCG3G",
-  "version": 5014,
+  "version": 5954,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "5GHGCG3G",
-    "version": 5014,
+    "version": 5954,
     "itemType": "bookSection",
     "title": "spring yig bdud rtsi'i thig le",
     "creators": [
@@ -72,7 +72,7 @@
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "https://purl.bdrc.io/resource/MW3CN18534",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
@@ -102,6 +102,6 @@
       ]
     },
     "dateAdded": "2024-01-24T13:21:44Z",
-    "dateModified": "2025-05-20T18:59:43Z"
+    "dateModified": "2026-01-26T12:12:51Z"
   }
 }
