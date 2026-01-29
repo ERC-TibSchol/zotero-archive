@@ -1,0 +1,106 @@
+{
+  "key": "647FFPZR",
+  "version": 3608,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/647FFPZR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/647FFPZR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vitali",
+    "parsedDate": "2015-02",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "647FFPZR",
+    "version": 3608,
+    "itemType": "journalArticle",
+    "title": "The Book of Names of Nyang stod bla ma-s: Masters and Events of the Years 997-1354",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "February 2015",
+    "volume": "31",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "511-576",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1768-2959",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Vitali 2015",
+    "language": "eng",
+    "libraryCatalog": "http://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_31_29.pdf",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-05-30T20:35:22Z",
+    "dateModified": "2025-03-21T17:27:21Z"
+  }
+}

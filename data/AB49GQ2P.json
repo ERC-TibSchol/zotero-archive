@@ -1,0 +1,91 @@
+{
+  "key": "AB49GQ2P",
+  "version": 4173,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AB49GQ2P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AB49GQ2P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Chandra",
+    "parsedDate": "1963",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AB49GQ2P",
+    "version": 4173,
+    "itemType": "book",
+    "title": "Materials for a history of Tibetan literature",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Lokesh",
+        "lastName": "Chandra"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Materials for a history of Tibetan literature",
+    "seriesNumber": "Part 3",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1963",
+    "publisher": "International Academy of Indian Culture",
+    "place": "New Delhi",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://books.google.at/books?id=VGJkAAAAMAAJ",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Chandra 1963",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "LCCN: sa64006710",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-10-02T14:56:05Z",
+    "dateModified": "2025-05-20T19:06:09Z"
+  }
+}

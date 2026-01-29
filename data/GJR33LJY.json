@@ -1,0 +1,100 @@
+{
+  "key": "GJR33LJY",
+  "version": 4835,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GJR33LJY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GJR33LJY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Mathes",
+    "parsedDate": "2012",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GJR33LJY",
+    "version": 4835,
+    "itemType": "journalArticle",
+    "title": "The gzhan stong model of reality - Some more material on its origin, transmission, and interpretation",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Klaus-Dieter",
+        "lastName": "Mathes"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "2012",
+    "volume": "34",
+    "issue": "1-2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "187-223",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "blob:https://journals.ub.uni-heidelberg.de/ba783a31-4f77-4e59-bd3c-098e3466f535",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "ISSN 0193-600X",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-09-14T20:25:20Z",
+    "dateModified": "2025-05-21T07:24:05Z"
+  }
+}

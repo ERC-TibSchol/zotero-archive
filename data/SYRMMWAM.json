@@ -1,0 +1,377 @@
+{
+  "key": "SYRMMWAM",
+  "version": 5946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/SYRMMWAM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/SYRMMWAM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Muehlberger et al.",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "SYRMMWAM",
+    "version": 5946,
+    "itemType": "journalArticle",
+    "title": "Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Guenter",
+        "lastName": "Muehlberger"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Louise",
+        "lastName": "Seaward"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Melissa",
+        "lastName": "Terras"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sofia",
+        "lastName": "Ares Oliveira"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Vicente",
+        "lastName": "Bosch"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Maximilian",
+        "lastName": "Bryan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sebastian",
+        "lastName": "Colutto"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Herv\u00e9",
+        "lastName": "D\u00e9jean"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Markus",
+        "lastName": "Diem"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Stefan",
+        "lastName": "Fiel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Basilis",
+        "lastName": "Gatos"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Albert",
+        "lastName": "Greinoecker"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tobias",
+        "lastName": "Gr\u00fcning"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Guenter",
+        "lastName": "Hackl"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Vili",
+        "lastName": "Haukkovaara"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Gerhard",
+        "lastName": "Heyer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lauri",
+        "lastName": "Hirvonen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tobias",
+        "lastName": "Hodel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Matti",
+        "lastName": "Jokinen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Philip",
+        "lastName": "Kahle"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mario",
+        "lastName": "Kallio"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Frederic",
+        "lastName": "Kaplan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Florian",
+        "lastName": "Kleber"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Roger",
+        "lastName": "Labahn"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Eva Maria",
+        "lastName": "Lang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "S\u00f6ren",
+        "lastName": "Laube"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Gundram",
+        "lastName": "Leifert"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Georgios",
+        "lastName": "Louloudis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Rory",
+        "lastName": "McNicholl"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jean-Luc",
+        "lastName": "Meunier"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Johannes",
+        "lastName": "Michael"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Elena",
+        "lastName": "M\u00fchlbauer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nathanael",
+        "lastName": "Philipp"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ioannis",
+        "lastName": "Pratikakis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Joan",
+        "lastName": "Puigcerver P\u00e9rez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hannelore",
+        "lastName": "Putz"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "George",
+        "lastName": "Retsinas"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ver\u00f3nica",
+        "lastName": "Romero"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Robert",
+        "lastName": "Sablatnig"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Joan Andreu",
+        "lastName": "S\u00e1nchez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Philip",
+        "lastName": "Schofield"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Giorgos",
+        "lastName": "Sfikas"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christian",
+        "lastName": "Sieber"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nikolaos",
+        "lastName": "Stamatopoulos"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tobias",
+        "lastName": "Strau\u00df"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tamara",
+        "lastName": "Terbul"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alejandro H\u00e9ctor",
+        "lastName": "Toselli"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Berthold",
+        "lastName": "Ulreich"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mauricio",
+        "lastName": "Villegas"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Enrique",
+        "lastName": "Vidal"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Johanna",
+        "lastName": "Walcher"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Max",
+        "lastName": "Weidemann"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Herbert",
+        "lastName": "Wurster"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Konstantinos",
+        "lastName": "Zagoris"
+      }
+    ],
+    "abstractNote": "Purpose An overview of the current use of handwritten text recognition (HTR) on archival manuscript material, as provided by the EU H2020 funded Transkribus platform. It explains HTR, demonstrates Transkribus, gives examples of use cases, highlights the affect HTR may have on scholarship, and evidences this turning point of the advanced use of digitised heritage content. The paper aims to discuss these issues. Design/methodology/approach This paper adopts a case study approach, using the development and delivery of the one openly available HTR platform for manuscript material. Findings Transkribus has demonstrated that HTR is now a useable technology that can be employed in conjunction with mass digitisation to generate accurate transcripts of archival material. Use cases are demonstrated, and a cooperative model is suggested as a way to ensure sustainability and scaling of the platform. However, funding and resourcing issues are identified. Research limitations/implications The paper presents results from projects: further user studies could be undertaken involving interviews, surveys, etc. Practical implications Only HTR provided via Transkribus is covered: however, this is the only publicly available platform for HTR on individual collections of historical documents at time of writing and it represents the current state-of-the-art in this field. Social implications The increased access to information contained within historical texts has the potential to be transformational for both institutions and individuals. Originality/value This is the first published overview of how HTR is used by a wide archival studies community, reporting and showcasing current application of handwriting technology in the cultural heritage sector.",
+    "publicationTitle": "Journal of Documentation",
+    "publisher": "Emerald Publishing Limited",
+    "place": "",
+    "date": "2019",
+    "volume": "75",
+    "issue": "5",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "954-976",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "10.1108/JD-07-2018-0114",
+    "citationKey": "",
+    "url": "https://doi.org/10.1108/JD-07-2018-0114",
+    "accessDate": "2021-08-31T13:58:24Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0022-0418",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Transforming scholarship in the archives through handwritten text recognition",
+    "language": "eng",
+    "libraryCatalog": "Emerald Insight",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Digital Humanities"
+      },
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T13:58:24Z",
+    "dateModified": "2025-05-21T06:53:53Z"
+  }
+}

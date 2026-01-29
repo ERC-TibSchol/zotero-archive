@@ -1,6 +1,6 @@
 {
   "key": "4G8T8CP3",
-  "version": 2331,
+  "version": 5957,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "4G8T8CP3",
-    "version": 2331,
+    "version": 5957,
     "itemType": "bookSection",
     "title": "Fourteenth Century Tibetan Cultural History IV: The Tshad ma'i byung tshul 'chad nyan gyi rgyan: A Tibetan History of Indian Buddhist Pram\u0101\u1e47av\u0101da",
     "creators": [
@@ -67,17 +67,24 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Reinbek",
-    "publisher": "Verlag f\u00fcr Orientalistische Fachpublikationen",
     "date": "1994",
+    "publisher": "Verlag f\u00fcr Orientalistische Fachpublikationen",
+    "place": "Reinbek",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "375\u2013401",
-    "language": "eng",
     "ISBN": "",
-    "shortTitle": "Kuijp 1994",
+    "DOI": "",
+    "citationKey": "van der Kuijp 1994",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1994",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -92,6 +99,6 @@
       "owl:sameAs": "http://zotero.org/groups/5224793/items/8UUX8TBU"
     },
     "dateAdded": "2024-04-03T14:52:24Z",
-    "dateModified": "2024-04-03T14:54:31Z"
+    "dateModified": "2026-01-28T14:37:46Z"
   }
 }

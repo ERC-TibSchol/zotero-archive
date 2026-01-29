@@ -1,0 +1,108 @@
+{
+  "key": "CM86HFZP",
+  "version": 5553,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CM86HFZP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CM86HFZP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 16097655,
+      "username": "michael.ium",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/michael.ium",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "sTag lung zhabs drung ngag dbang rnam rgyal",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CM86HFZP",
+    "version": 5553,
+    "itemType": "book",
+    "title": "Chos 'byung ngo mtshar rgya mtsho",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "sTag lung zhabs drung ngag dbang rnam rgyal"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Gangs can rig mdzod",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par thengs dang po",
+    "date": "1992",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "Lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "7-80589-013-7",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW17276",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Chos 'byung ngo mtshar rgya mtsho",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
+    "collections": [
+      "ISJJ5QGY",
+      "KZTGTQXP",
+      "ZZAJVF3H"
+    ],
+    "relations": {},
+    "dateAdded": "2025-02-19T16:27:30Z",
+    "dateModified": "2025-05-21T08:45:21Z"
+  }
+}
