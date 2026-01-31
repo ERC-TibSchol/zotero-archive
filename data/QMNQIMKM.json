@@ -1,6 +1,6 @@
 {
   "key": "QMNQIMKM",
-  "version": 5813,
+  "version": 6004,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,7 +39,7 @@
   },
   "data": {
     "key": "QMNQIMKM",
-    "version": 5813,
+    "version": 6004,
     "itemType": "bookSection",
     "title": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa",
     "creators": [
@@ -61,17 +61,24 @@
     "volume": "12",
     "numberOfVolumes": "12",
     "edition": "",
-    "place": "",
-    "publisher": "",
     "date": "",
+    "publisher": "",
+    "place": "",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "437-522",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Phya - dbu ma rgyan 'grel bshad",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014_B499C8",
     "accessDate": "2023-11-22",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Phya - dbu ma rgyan 'grel bshad",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -88,6 +95,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2023-11-22T10:23:12Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }

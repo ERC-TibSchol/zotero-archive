@@ -1,0 +1,106 @@
+{
+  "key": "2U5M75NJ",
+  "version": 5532,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2U5M75NJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2U5M75NJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2022-09-14",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2U5M75NJ",
+    "version": 5532,
+    "itemType": "journalArticle",
+    "title": "Introduction to Speculative Thinking: A Hitherto Unknown Work of Maja Jangchup Ts\u00f6ndr\u00fc (d. 1185, rMa bya Byang chub brtson \u2019grus) in Tangut Translation",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "This paper is a study of a Tangut Buddhist text translated from a Tibetan treatise on Buddhist epistemology and logic (Skt. pram\u0101\u1e47a, Tib. tshad ma), titled Sew2 \u02d1jij1 \u02d1o2 \u015bjij1 d\u017aju1 sji2 lju\u03312 tshj\u1ecbj2 [The Ornament that Clarifies the Introduction to Speculative Thinking] (Tib. *rTog ge la \u2019jug pa gsal bar byed pa\u2019i rgyan). The paper identifies the author of the text, \u2018Master Bodhi Diligence of Central Tibet\u2019 (Tang. Lji2 ph\u02591 gu2 lhj\u1ecbj2 Po1 tj\u0268j1 \u02d1j\u0268r2 dzji\u0331j2), with Maja Jangchup Ts\u00f6ndr\u00fc (d. 1185, Tib. rMa bya Byang chub brtson \u2019grus). Based on an appraisal of the content of the work, this paper observes that the treatise belongs to the genre of summary (Tib. bsdus pa) in the Sangpu Neutok (Tib. gSang phu ne\u2019u thog) scholastic tradition of Buddhist epistemology. In addition to the text\u2019s content, this paper also discusses some features of Tangut manuscripts themselves and attempts to peer into the classroom of Tangut monks. The paper further explores the connection between Maja and the Tangut Empire, especially Maja\u2019s ties to Mt. Mati (Chin. Mati shan \u99ac\u8e44\u5c71). It concludes that he might have been the same person as \u2018Grand Master Diligence\u2019 (Tang. Khu1 d\u017ajij1 m\u0259r2 dzji\u0331j2), who transmitted certain teachings of the Great Seal (Skt. mah\u0101mudr\u0101, Tib. phyag rgya chen po) to the Tanguts.",
+    "publicationTitle": "",
+    "publisher": "",
+    "place": "",
+    "date": "2022-09-14",
+    "volume": "",
+    "issue": "1.5",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "",
+    "series": "BuddhistRoad Papers",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "10.46586/rub.br.244.221",
+    "citationKey": "",
+    "url": "https://omp.ub.rub.de/index.php/BuddhistRoad/catalog/book/244",
+    "accessDate": "2022-10-10T08:52:30Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Ma 2022",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-10T08:52:30Z",
+    "dateModified": "2025-05-20T19:06:46Z"
+  }
+}

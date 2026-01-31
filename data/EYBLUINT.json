@@ -1,6 +1,6 @@
 {
   "key": "EYBLUINT",
-  "version": 5813,
+  "version": 6004,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "EYBLUINT",
-    "version": 5813,
+    "version": 6004,
     "itemType": "bookSection",
     "title": "rgyud bla'i bsdus don rton pa bzhi ldan",
     "creators": [
@@ -62,17 +62,24 @@
     "volume": "3",
     "numberOfVolumes": "12",
     "edition": "",
-    "place": "Khams sde dge",
-    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
     "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "417-430",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Karma - rgyud bla bsdus don",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014_5D7B5E",
     "accessDate": "2023-11-17",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Karma - rgyud bla bsdus don",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -90,6 +97,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2025-05-22T10:26:58Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }

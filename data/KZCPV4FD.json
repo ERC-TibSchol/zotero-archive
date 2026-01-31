@@ -1,0 +1,112 @@
+{
+  "key": "KZCPV4FD",
+  "version": 5946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KZCPV4FD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KZCPV4FD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Rabus",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KZCPV4FD",
+    "version": 5946,
+    "itemType": "journalArticle",
+    "title": "Recognizing Handwritten Text in Slavic Manuscripts: a Neural-Network Approach Using Transkribus",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Achim",
+        "lastName": "Rabus"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Scripta & e-Scripta",
+    "publisher": "\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0437\u0430 \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430 - BAN",
+    "place": "",
+    "date": "2019",
+    "volume": "",
+    "issue": "19",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "9-32",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.ceeol.com/search/article-detail?id=793865",
+    "accessDate": "2021-08-31T14:34:34Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1312-238X, 2603-3364",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Recognizing Handwritten Text in Slavic Manuscripts",
+    "language": "eng",
+    "libraryCatalog": "www.ceeol.com",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Digital Humanities"
+      },
+      {
+        "tag": "HTR"
+      },
+      {
+        "tag": "Transkribus"
+      }
+    ],
+    "collections": [
+      "VYE3ZZPH"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-31T14:34:34Z",
+    "dateModified": "2025-05-21T06:53:59Z"
+  }
+}

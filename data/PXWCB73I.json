@@ -1,6 +1,6 @@
 {
   "key": "PXWCB73I",
-  "version": 5813,
+  "version": 6004,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "PXWCB73I",
-    "version": 5813,
+    "version": 6004,
     "itemType": "bookSection",
     "title": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal",
     "creators": [
@@ -62,17 +62,24 @@
     "volume": "1",
     "numberOfVolumes": "12",
     "edition": "",
-    "place": "Khams sde dge",
-    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
     "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "117-200",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "skyabs mchog - dbu ma rtsa shes rab 'grel",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014",
     "accessDate": "2023-11-17",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "skyabs mchog - dbu ma rtsa shes rab 'grel",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -89,6 +96,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2024-09-16T10:00:43Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }

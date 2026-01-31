@@ -1,0 +1,112 @@
+{
+  "key": "AXC5KZK3",
+  "version": 4614,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AXC5KZK3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AXC5KZK3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AXC5KZK3",
+    "version": 4614,
+    "itemType": "bookSection",
+    "title": "The bsTan rim (\u201cStages of the Doctrine\u201d) and Similar Graded Expositions of the Bodhisattva\u2019s Path",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Roger R.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Geshe",
+        "lastName": "Lhundub Sopa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "David P.",
+        "lastName": "Jackson"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tibetan Literature: Studies in Genre",
+    "series": "Studies in Indo-Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1996",
+    "publisher": "Snow Lion",
+    "place": "Ithaca, N.Y",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "229-243",
+    "ISBN": "978-1-55939-044-6",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Jackson 1996",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "PL3705",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Tibetan literature"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/X5K22983"
+    },
+    "dateAdded": "2025-02-20T20:32:23Z",
+    "dateModified": "2025-05-21T06:54:21Z"
+  }
+}

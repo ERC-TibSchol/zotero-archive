@@ -1,6 +1,6 @@
 {
-  "key": "VCT7QV3S",
-  "version": 6004,
+  "key": "4ASUY9XM",
+  "version": 5075,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/VCT7QV3S",
+      "href": "https://api.zotero.org/groups/4394244/items/4ASUY9XM",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/VCT7QV3S",
+      "href": "https://www.zotero.org/groups/tibschol/items/4ASUY9XM",
       "type": "text/html"
     }
   },
@@ -34,67 +34,78 @@
         }
       }
     },
-    "creatorSummary": "Ar Byang chub ye shes",
+    "creatorSummary": "Beckwith",
+    "parsedDate": "2011",
     "numChildren": 0
   },
   "data": {
-    "key": "VCT7QV3S",
-    "version": 6004,
+    "key": "4ASUY9XM",
+    "version": 5075,
     "itemType": "bookSection",
-    "title": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa",
+    "title": "The Sarv\u0101stiv\u0101din Buddhist scholastic method in medieval Islam and Tibet",
     "creators": [
       {
         "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Chungdak Nangpa"
+        "firstName": "Anna",
+        "lastName": "Akasoy"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Charles",
+        "lastName": "Burnett"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ronit",
+        "lastName": "Yoeli-Tlalim"
       },
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Ar Byang chub ye shes"
+        "firstName": "Christopher",
+        "lastName": "Beckwith"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "bookTitle": "Islam and Tibet \u2013 Interactions along the Musk Routes",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
-    "numberOfVolumes": "12",
+    "volume": "",
+    "numberOfVolumes": "",
     "edition": "",
-    "date": "",
+    "date": "2011",
     "publisher": "",
-    "place": "",
+    "place": "Farnham",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "3-144",
+    "pages": "163-175",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW3CN3014_693257",
-    "accessDate": "2023-11-22",
+    "url": "",
+    "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ar - Sher phyin sdud tshigs bcad rnam bshad",
-    "language": "tib",
+    "shortTitle": "",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Scholasticism"
       }
     ],
     "collections": [
-      "IEP4UFSV"
+      "YVHDSL7M"
     ],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+      "dc:relation": "http://zotero.org/groups/4394244/items/TVXRNQT6"
     },
-    "dateAdded": "2023-11-22T09:47:38Z",
-    "dateModified": "2026-01-30T15:44:00Z"
+    "dateAdded": "2025-05-21T09:28:07Z",
+    "dateModified": "2025-05-21T09:31:16Z"
   }
 }

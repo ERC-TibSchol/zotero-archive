@@ -1,6 +1,6 @@
 {
-  "key": "VCT7QV3S",
-  "version": 6004,
+  "key": "FEMTNQNF",
+  "version": 6001,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,16 +14,27 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/VCT7QV3S",
+      "href": "https://api.zotero.org/groups/4394244/items/FEMTNQNF",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/VCT7QV3S",
+      "href": "https://www.zotero.org/groups/tibschol/items/FEMTNQNF",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
       "id": 8397006,
       "username": "PascaleHugon",
       "name": "",
@@ -34,55 +45,55 @@
         }
       }
     },
-    "creatorSummary": "Ar Byang chub ye shes",
+    "creatorSummary": "bCom ldan rigs pa'i ral gri",
     "numChildren": 0
   },
   "data": {
-    "key": "VCT7QV3S",
-    "version": 6004,
+    "key": "FEMTNQNF",
+    "version": 6001,
     "itemType": "bookSection",
-    "title": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa",
+    "title": "Chos mngon pa kun las btus pa'i rgyan gyi me tog",
     "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "bCom ldan rigs pa'i ral gri"
+      },
       {
         "creatorType": "editor",
         "firstName": "",
         "lastName": "Chungdak Nangpa"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "Ar Byang chub ye shes"
       }
     ],
     "abstractNote": "",
     "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
+    "volume": "7 (ja)",
     "numberOfVolumes": "12",
     "edition": "",
     "date": "",
-    "publisher": "",
-    "place": "",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "3-144",
+    "pages": "1-374",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW3CN3014_693257",
-    "accessDate": "2023-11-22",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014_8E11A6",
+    "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ar - Sher phyin sdud tshigs bcad rnam bshad",
+    "shortTitle": "Ral gri - chos mngon kun btus rgyan me tog",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "fols. 63 to 186 appear a second time on pp. 375-622",
     "tags": [
       {
         "tag": "APIS"
@@ -91,10 +102,8 @@
     "collections": [
       "IEP4UFSV"
     ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
-    },
-    "dateAdded": "2023-11-22T09:47:38Z",
-    "dateModified": "2026-01-30T15:44:00Z"
+    "relations": {},
+    "dateAdded": "2023-08-19T14:06:10Z",
+    "dateModified": "2026-01-30T15:40:23Z"
   }
 }

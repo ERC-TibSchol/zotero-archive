@@ -1,6 +1,6 @@
 {
   "key": "Y7Z8STMM",
-  "version": 5814,
+  "version": 6005,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "Y7Z8STMM",
-    "version": 5814,
+    "version": 6005,
     "itemType": "bookSection",
     "title": "tshad ma'i spyi don bsdus pa gtsang drug pa rdo rje 'od zer gyis mdzad pa",
     "creators": [
@@ -62,17 +62,24 @@
     "volume": "7 (ja)",
     "numberOfVolumes": "12",
     "edition": "",
-    "place": "Khams sde dge",
-    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
     "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "667-906",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "gTsang drug - tshad ma spyi don bsdus",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014",
     "accessDate": "2023-11-17",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "gTsang drug - tshad ma spyi don bsdus",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -87,6 +94,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2025-09-08T13:03:14Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }

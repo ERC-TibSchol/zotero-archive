@@ -1,0 +1,121 @@
+{
+  "key": "P7XVSUCU",
+  "version": 4615,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/P7XVSUCU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/P7XVSUCU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Onoda",
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "P7XVSUCU",
+    "version": 4615,
+    "itemType": "bookSection",
+    "title": "bsDus grwa",
+    "creators": [
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Roger R.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "seriesEditor",
+        "firstName": "Geshe",
+        "lastName": "Lhundub Sopa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Tibetan Literature: Studies in Genre",
+    "series": "Studies in Indo-Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1996",
+    "publisher": "Snow Lion",
+    "place": "Ithaca, N.Y",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "187-201",
+    "ISBN": "978-1-55939-044-6",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "PL3705",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist logic"
+      },
+      {
+        "tag": "Tibetan literature"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-31T12:16:36Z",
+    "dateModified": "2025-05-21T06:54:27Z"
+  }
+}

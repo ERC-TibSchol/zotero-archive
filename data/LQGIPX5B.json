@@ -1,6 +1,6 @@
 {
-  "key": "VCT7QV3S",
-  "version": 6004,
+  "key": "LQGIPX5B",
+  "version": 6011,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/VCT7QV3S",
+      "href": "https://api.zotero.org/groups/4394244/items/LQGIPX5B",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/VCT7QV3S",
+      "href": "https://www.zotero.org/groups/tibschol/items/LQGIPX5B",
       "type": "text/html"
     }
   },
@@ -34,14 +34,15 @@
         }
       }
     },
-    "creatorSummary": "Ar Byang chub ye shes",
+    "creatorSummary": "gNyal zhig 'Jam pa'i rdo rje",
+    "parsedDate": "2016",
     "numChildren": 0
   },
   "data": {
-    "key": "VCT7QV3S",
-    "version": 6004,
+    "key": "LQGIPX5B",
+    "version": 6011,
     "itemType": "bookSection",
-    "title": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa",
+    "title": "mngon par rtogs pa'i rgyan gyi 'grel bshad theg po chen po la 'jug pa",
     "creators": [
       {
         "creatorType": "editor",
@@ -51,33 +52,33 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Ar Byang chub ye shes"
+        "lastName": "gNyal zhig 'Jam pa'i rdo rje"
       }
     ],
     "abstractNote": "",
     "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
+    "volume": "2",
     "numberOfVolumes": "12",
     "edition": "",
-    "date": "",
-    "publisher": "",
-    "place": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "3-144",
+    "pages": "3-505",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW3CN3014_693257",
-    "accessDate": "2023-11-22",
+    "url": "ks \thttps://purl.bdrc.io/resource/MW3CN3014_5BFFE2",
+    "accessDate": "2023-11-17",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ar - Sher phyin sdud tshigs bcad rnam bshad",
+    "shortTitle": "gNyal zhig - mngon rtogs rgyal 'grel bshad",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -88,13 +89,11 @@
         "tag": "APIS"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
-    "dateAdded": "2023-11-22T09:47:38Z",
-    "dateModified": "2026-01-30T15:44:00Z"
+    "dateAdded": "2026-01-30T15:44:00Z",
+    "dateModified": "2026-01-30T15:47:55Z"
   }
 }

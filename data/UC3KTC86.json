@@ -1,6 +1,6 @@
 {
   "key": "UC3KTC86",
-  "version": 5943,
+  "version": 5958,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "UC3KTC86",
-    "version": 5943,
+    "version": 5958,
     "itemType": "bookSection",
     "title": "bCom ldan ral gri\u02bci rnam thar (dbu med)",
     "creators": [
@@ -83,7 +83,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "bsam gtan bzang po - ral gri rnam thar",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -104,6 +104,6 @@
     ],
     "relations": {},
     "dateAdded": "2022-10-05T13:38:35Z",
-    "dateModified": "2026-01-20T10:16:32Z"
+    "dateModified": "2026-01-30T12:15:26Z"
   }
 }

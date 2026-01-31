@@ -1,6 +1,6 @@
 {
   "key": "PLYTWAVE",
-  "version": 5813,
+  "version": 6004,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -35,11 +35,12 @@
       }
     },
     "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "2016",
     "numChildren": 0
   },
   "data": {
     "key": "PLYTWAVE",
-    "version": 5813,
+    "version": 6004,
     "itemType": "bookSection",
     "title": "rigs thigs 'grel pa'i don bsdus",
     "creators": [
@@ -58,20 +59,27 @@
     "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "series": "",
     "seriesNumber": "",
-    "volume": "7",
-    "numberOfVolumes": "",
+    "volume": "7 (ja)",
+    "numberOfVolumes": "12",
     "edition": "",
-    "place": "",
-    "publisher": "",
-    "date": "",
-    "pages": "",
-    "language": "tib",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "623-664",
     "ISBN": "",
-    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014",
     "accessDate": "2023-11-17",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -88,6 +96,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2023-11-17T08:04:14Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }

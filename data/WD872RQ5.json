@@ -1,0 +1,117 @@
+{
+  "key": "WD872RQ5",
+  "version": 6004,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WD872RQ5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WD872RQ5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Chungdak Nangpa",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WD872RQ5",
+    "version": 6004,
+    "itemType": "book",
+    "title": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      }
+    ],
+    "abstractNote": "Collected writings of rare manuscript of Tibetan Buddhist root texts and commentary etc. Includes a tshad ma text by gTsang drug pa rDo rje 'od zer included in the bKa' gdams gsung 'bum (MW1PD89084_9E1627)",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014",
+    "accessDate": "2023-11-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "dpe rnying pa slog phyogs bsdus",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/PLYTWAVE",
+        "http://zotero.org/groups/4394244/items/KNVAID52",
+        "http://zotero.org/groups/4394244/items/DA24RPE9",
+        "http://zotero.org/groups/4394244/items/VCT7QV3S",
+        "http://zotero.org/groups/4394244/items/QMNQIMKM",
+        "http://zotero.org/groups/4394244/items/PXWCB73I",
+        "http://zotero.org/groups/4394244/items/M7G92WIN",
+        "http://zotero.org/groups/4394244/items/EYBLUINT",
+        "http://zotero.org/groups/4394244/items/YCPV4E9H",
+        "http://zotero.org/groups/4394244/items/Y7Z8STMM",
+        "http://zotero.org/groups/4394244/items/VXXXFAML",
+        "http://zotero.org/groups/4394244/items/LQGIPX5B"
+      ]
+    },
+    "dateAdded": "2023-05-30T12:48:43Z",
+    "dateModified": "2025-05-21T07:24:42Z"
+  }
+}

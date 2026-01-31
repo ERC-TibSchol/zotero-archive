@@ -1,0 +1,112 @@
+{
+  "key": "R9BXZFWL",
+  "version": 4836,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/R9BXZFWL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/R9BXZFWL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon et al.",
+    "parsedDate": "2020",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "R9BXZFWL",
+    "version": 4836,
+    "itemType": "book",
+    "title": "Dharmottara\u2019s Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 Chapter 3: diplomatic edition",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Takashi",
+        "lastName": "Iwata"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Toshikazu",
+        "lastName": "Watanabe"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Sanskrit Texts from the Tibetan Autonomous Region",
+    "seriesNumber": "21",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2020",
+    "publisher": "China Tibetology Publishing House",
+    "place": "Beijing Vienna",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "248",
+    "ISBN": "9783700186434 9787521102727",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Dharmottara\u2019s Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 Chapter 3",
+    "language": "skt",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Pram\u0101\u1e47avini\u015bcaya"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-10-19T09:17:26Z",
+    "dateModified": "2025-05-21T07:24:32Z"
+  }
+}

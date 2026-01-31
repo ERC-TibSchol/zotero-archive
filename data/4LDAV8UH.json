@@ -1,0 +1,108 @@
+{
+  "key": "4LDAV8UH",
+  "version": 5945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4LDAV8UH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4LDAV8UH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vitali",
+    "parsedDate": "2002-01-01",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4LDAV8UH",
+    "version": 5945,
+    "itemType": "bookSection",
+    "title": "The History of the Lineages of Gnas rnying Summarised as its \u2018Ten Greatnesses\u2019: A Survey of the Period from the Second Half of the 8th Century to the Beginning of the Sa Skya Pa Rule",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Henk",
+        "lastName": "Blezer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Proceedings of the Ninth Seminar of the IATS, 2000. Volume 1: Tibet, Past and Present",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2002-01-01",
+    "publisher": "Brill",
+    "place": "Leiden",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "81-107",
+    "ISBN": "978-90-04-48307-1 978-90-04-12775-3",
+    "DOI": "10.1163/9789004483071_008",
+    "citationKey": "",
+    "url": "https://brill.com/view/book/edcoll/9789004483071/B9789004483071_s008.xml",
+    "accessDate": "2022-05-06T10:31:11Z",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Vitali 2002",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-05-06T10:31:11Z",
+    "dateModified": "2025-03-21T17:27:33Z"
+  }
+}

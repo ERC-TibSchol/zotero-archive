@@ -1,6 +1,6 @@
 {
   "key": "YCPV4E9H",
-  "version": 5813,
+  "version": 6004,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "YCPV4E9H",
-    "version": 5813,
+    "version": 6004,
     "itemType": "bookSection",
     "title": "rgyud bla'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed",
     "creators": [
@@ -62,17 +62,24 @@
     "volume": "3",
     "numberOfVolumes": "12",
     "edition": "",
-    "place": "Khams sde dge",
-    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
     "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "241-416",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Karma - rgyud bla dga' byed",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3014_D6EAC8",
     "accessDate": "2023-11-17",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Karma - rgyud bla dga' byed",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -90,6 +97,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2025-05-22T10:08:30Z",
-    "dateModified": "2025-11-28T15:53:45Z"
+    "dateModified": "2026-01-30T15:44:00Z"
   }
 }
