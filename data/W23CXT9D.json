@@ -1,0 +1,96 @@
+{
+  "key": "W23CXT9D",
+  "version": 6023,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/W23CXT9D",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/W23CXT9D",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "St. Petersburg Branch of the Institute of Oriental Studies of the Russian Academy of Sciences et al.",
+    "parsedDate": "2025",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "W23CXT9D",
+    "version": 6023,
+    "itemType": "book",
+    "title": "Ecang Heishuicheng wenxian \u4fc4\u85cf\u9ed1\u6c34\u57ce\u6587\u737b [Khara-Khoto manuscripts collected in the St. Petersburg Branch of the Institute of Oriental Studies of the Russian Academy of Sciences]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "St. Petersburg Branch of the Institute of Oriental Studies of the Russian Academy of Sciences"
+      },
+      {
+        "creatorType": "author",
+        "name": "Zhongguo Shehui Kexueyuan Minzu Yanjiusuo"
+      },
+      {
+        "creatorType": "author",
+        "name": "Shanghai Guji Chubanshe"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "32",
+    "edition": "",
+    "date": "2025",
+    "publisher": "Shanghai Guji Chubanshe",
+    "place": "Shanghai",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2026-02-01T20:43:32Z",
+    "dateModified": "2026-02-01T20:48:29Z"
+  }
+}

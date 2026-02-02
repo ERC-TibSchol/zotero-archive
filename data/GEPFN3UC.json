@@ -1,0 +1,105 @@
+{
+  "key": "GEPFN3UC",
+  "version": 4180,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GEPFN3UC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GEPFN3UC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "dPang lo ts\u0101 ba blo gros brtan pa",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GEPFN3UC",
+    "version": 4180,
+    "itemType": "book",
+    "title": "chos mngon pa kun las btus kyi rgya cher 'grel pa shes bya gsal byed",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "dPang lo ts\u0101 ba blo gros brtan pa"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "",
+    "date": "1999",
+    "publisher": "Sa-skya Rgyal Yongs Gsung Rab Slob Gnyer Khang",
+    "place": "Kathmandu",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "743",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/W23638",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "dPang lo - chos mngon kun btus 'grel 1999 ed.",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "MW23638\nWork: WA23638",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV",
+      "ISJJ5QGY"
+    ],
+    "relations": {},
+    "dateAdded": "2022-10-06T09:03:59Z",
+    "dateModified": "2025-05-20T19:06:50Z"
+  }
+}

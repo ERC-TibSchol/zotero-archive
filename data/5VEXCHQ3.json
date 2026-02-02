@@ -1,0 +1,98 @@
+{
+  "key": "5VEXCHQ3",
+  "version": 3610,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5VEXCHQ3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5VEXCHQ3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vitali",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5VEXCHQ3",
+    "version": 3610,
+    "itemType": "book",
+    "title": "Records of Tho-Ling: A Literary and Visual Reconstruction of the \"Mother\" Monastery in Gu-ge",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1999",
+    "publisher": "High Asia",
+    "place": "New Delhi",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "226",
+    "ISBN": "81-86227-24-5",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Vitali 1999",
+    "language": "eng, tib",
+    "libraryCatalog": "https://lccn.loc.gov/99953927",
+    "callNumber": "BQ6349.T552 T488",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973569/items/CF9GWG2C"
+    },
+    "dateAdded": "2023-12-04T15:40:53Z",
+    "dateModified": "2025-03-21T17:27:47Z"
+  }
+}

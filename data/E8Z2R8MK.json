@@ -1,0 +1,98 @@
+{
+  "key": "E8Z2R8MK",
+  "version": 4618,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/E8Z2R8MK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/E8Z2R8MK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "E8Z2R8MK",
+    "version": 4618,
+    "itemType": "journalArticle",
+    "title": "Apropos of Some Recently Recovered Texts Belonging to the Lam 'bras Teachings of the Sa skya pa and Ko brag pa",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "1994",
+    "volume": "17",
+    "issue": "2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "175-201",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1994",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "lam 'bras"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/QKIK57EN"
+    },
+    "dateAdded": "2023-09-08T12:40:05Z",
+    "dateModified": "2025-05-21T06:54:57Z"
+  }
+}

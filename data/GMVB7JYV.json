@@ -1,0 +1,107 @@
+{
+  "key": "GMVB7JYV",
+  "version": 4840,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/GMVB7JYV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/GMVB7JYV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Broido",
+    "parsedDate": "1983",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "GMVB7JYV",
+    "version": 4840,
+    "itemType": "bookSection",
+    "title": "Bshad thabs: Some Tibetan Methods of Explaining the Tantras",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michael M.",
+        "lastName": "Broido"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Ernst",
+        "lastName": "Steinkellner"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Contributions on Tibetan and Buddhist Religion and Philosophy. Proceedings of the Csoma de K\u00f6r\u00f6s Symposium held at Velm-Vienna, Austria, 13-19 September 1981",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde 11",
+    "seriesNumber": "",
+    "volume": "2",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1983",
+    "publisher": "",
+    "place": "Vienna",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "15-45",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Broido 1983",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Hermeneutics"
+      },
+      {
+        "tag": "Tantric Buddhism"
+      }
+    ],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-14T07:11:16Z",
+    "dateModified": "2025-05-21T07:25:44Z"
+  }
+}
