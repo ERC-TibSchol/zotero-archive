@@ -1,0 +1,100 @@
+{
+  "key": "7UHU6278",
+  "version": 4256,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/7UHU6278",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/7UHU6278",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1985",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "7UHU6278",
+    "version": 4256,
+    "itemType": "journalArticle",
+    "title": "Notes on the Transmission of Nagarjuna's Ratnavali in Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Tibet Journal",
+    "publisher": "",
+    "place": "",
+    "date": "1985",
+    "volume": "10",
+    "issue": "2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "3-19",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.jstor.org/stable/43300165",
+    "accessDate": "2023-04-03T14:19:46Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0970-5368",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1985",
+    "language": "eng",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-04-03T14:19:47Z",
+    "dateModified": "2025-05-20T19:17:55Z"
+  }
+}

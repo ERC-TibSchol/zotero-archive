@@ -1,0 +1,100 @@
+{
+  "key": "I2Z3T87F",
+  "version": 5047,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/I2Z3T87F",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/I2Z3T87F",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kapstein",
+    "parsedDate": "2000",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "I2Z3T87F",
+    "version": 5047,
+    "itemType": "book",
+    "title": "The Tibetan assimilation of Buddhism: Conversion, Contestation, and Memory",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Matthew",
+        "lastName": "Kapstein"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2000",
+    "publisher": "Oxford University Press",
+    "place": "Oxford; New York",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "xx+316",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://ezproxy-prd.bodleian.ox.ac.uk/login?url=http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=1591306",
+    "accessDate": "2021-08-24T14:39:38Z",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "The Tibetan assimilation of Buddhism [electronic resource]",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BQ7576",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/NPTK3CD7"
+    },
+    "dateAdded": "2021-08-24T14:39:38Z",
+    "dateModified": "2025-05-20T19:13:11Z"
+  }
+}

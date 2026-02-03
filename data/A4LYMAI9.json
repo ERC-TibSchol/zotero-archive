@@ -1,0 +1,99 @@
+{
+  "key": "A4LYMAI9",
+  "version": 6096,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/A4LYMAI9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/A4LYMAI9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Bu ston seng ge 'od",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "A4LYMAI9",
+    "version": 6096,
+    "itemType": "bookSection",
+    "title": "legs spyad nyi ma'i 'od zer mtshon cha'i rgyal po",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Bu ston seng ge 'od"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "9 (na)",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "3-522",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://purl.bdrc.io/resource/MW3CN3014_B499C8",
+    "accessDate": "2023-11-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2026-02-02T14:48:56Z",
+    "dateModified": "2026-02-02T14:52:09Z"
+  }
+}

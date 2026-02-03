@@ -1,0 +1,107 @@
+{
+  "key": "WR6YC64Y",
+  "version": 4624,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WR6YC64Y",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WR6YC64Y",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Davidson",
+    "parsedDate": "2005",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WR6YC64Y",
+    "version": 4624,
+    "itemType": "book",
+    "title": "Tibetan Renaissance: Tantric Buddhism in the Rebirth of Tibetan Culture",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ronald M.",
+        "lastName": "Davidson"
+      }
+    ],
+    "abstractNote": "How did a society on the edge of collapse and dominated by wandering bands of armed men give way to a vibrant Buddhist culture, led by yogins and scholars? Ronald M. Davidson explores how the translation and spread of esoteric Buddhist texts dramatically shaped Tibetan society and led to its rise as the center of Buddhist culture throughout Asia, replacing India as the perceived source of religious ideology and tradition. During the Tibetan Renaissance (950-1200 C.E.), monks and yogins translated an enormous number of Indian Buddhist texts. They employed the evolving literature and practices of esoteric Buddhism as the basis to reconstruct Tibetan religious, cultural, and political institutions. Many translators achieved the de facto status of feudal lords and while not always loyal to their Buddhist vows, these figures helped solidify political power in the hands of religious authorities and began a process that led to the Dalai Lama's theocracy. Davidson's vivid portraits of the monks, priests, popular preachers, yogins, and aristocratic clans who changed Tibetan society and culture further enhance his perspectives on the tensions and transformations that characterized medieval Tibet.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2005",
+    "publisher": "Columbia University Press",
+    "place": "New York",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "xiv+596",
+    "ISBN": "978-0-231-13470-5",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Davidson 2005",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BQ7612.D382004",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "History"
+      },
+      {
+        "tag": "Tantric Buddhism"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T15:56:58Z",
+    "dateModified": "2025-05-21T06:55:37Z"
+  }
+}

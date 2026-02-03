@@ -1,0 +1,104 @@
+{
+  "key": "FEHIEFEB",
+  "version": 3615,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FEHIEFEB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FEHIEFEB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2014",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FEHIEFEB",
+    "version": 3615,
+    "itemType": "journalArticle",
+    "title": "Studies in Btsun pa Ston gzhon's Pram\u0101\u1e47av\u0101rttika Commentary of ?1297",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "2014",
+    "volume": "30",
+    "issue": "4",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "111-198",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_30_04.pdf",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1768-2959",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 2014",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-12-01T14:46:20Z",
+    "dateModified": "2025-03-21T17:28:39Z"
+  }
+}

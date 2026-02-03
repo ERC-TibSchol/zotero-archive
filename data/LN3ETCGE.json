@@ -1,0 +1,99 @@
+{
+  "key": "LN3ETCGE",
+  "version": 6090,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LN3ETCGE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LN3ETCGE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tshul khrims dpal",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LN3ETCGE",
+    "version": 6090,
+    "itemType": "bookSection",
+    "title": "chos nyid rnam par 'byed pa lta ba'i me long",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Tshul khrims dpal"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3 (ga)",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "431-444",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014_B91FB3",
+    "accessDate": "2023-11-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "tshul khrims dpal - chos chos nyid rnam 'byed lta me long",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2026-02-02T13:34:14Z",
+    "dateModified": "2026-02-02T14:48:56Z"
+  }
+}

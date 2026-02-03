@@ -1,0 +1,98 @@
+{
+  "key": "5JWHYPVE",
+  "version": 4621,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5JWHYPVE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5JWHYPVE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus",
+    "parsedDate": "1997",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5JWHYPVE",
+    "version": 4621,
+    "itemType": "journalArticle",
+    "title": "Tibetan Scholastic Education and The Role of Soteriology",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges",
+        "lastName": "Dreyfus"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "1997",
+    "volume": "20",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "31-62",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Dreyfus 1997",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist education"
+      },
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/DFVEIG5B"
+    },
+    "dateAdded": "2021-12-16T09:23:26Z",
+    "dateModified": "2025-05-21T06:55:11Z"
+  }
+}

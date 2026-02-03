@@ -1,6 +1,6 @@
 {
   "key": "PXWCB73I",
-  "version": 6004,
+  "version": 6089,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "PXWCB73I",
-    "version": 6004,
+    "version": 6089,
     "itemType": "bookSection",
     "title": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal",
     "creators": [
@@ -73,7 +73,7 @@
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW3CN3014",
+    "url": "https://purl.bdrc.io/resource/MW3CN3014_205930",
     "accessDate": "2023-11-17",
     "ISSN": "",
     "archive": "",
@@ -96,6 +96,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2024-09-16T10:00:43Z",
-    "dateModified": "2026-01-30T15:44:00Z"
+    "dateModified": "2026-02-02T14:48:56Z"
   }
 }

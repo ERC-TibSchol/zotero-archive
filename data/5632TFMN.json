@@ -1,0 +1,93 @@
+{
+  "key": "5632TFMN",
+  "version": 3613,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5632TFMN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5632TFMN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2022",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5632TFMN",
+    "version": 3613,
+    "itemType": "journalArticle",
+    "title": "Studies in Btsun pa Ston gzhon's Pram\u0101\u1e47av\u0101rttika Commentary of 1297 Part Two(a): 'U yug pa Rigs pa'i seng ge (ca. 1195\u2013after 1267)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W.J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "2022",
+    "volume": "64",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "307-343",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 2022",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-09-20T14:28:37Z",
+    "dateModified": "2025-03-21T17:28:17Z"
+  }
+}

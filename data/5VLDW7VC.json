@@ -1,0 +1,99 @@
+{
+  "key": "5VLDW7VC",
+  "version": 4978,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/5VLDW7VC",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/5VLDW7VC",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "5VLDW7VC",
+    "version": 4978,
+    "itemType": "bookSection",
+    "title": "gdan sa chen po dpal dwags lha sgam po'i ngo mtshar gyi bkod pa dad pa'i gter chen",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "Per K.",
+        "lastName": "S\u00f8rensen"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "name": "Sonam Dolma"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Rare texts from Tibet: Seven sources for the ecclesiastic history of medieval Tibet",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2007",
+    "publisher": "Lumbini International Research Institute",
+    "place": "Bhairahawa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "248-273",
+    "ISBN": "978-99946-933-3-7",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "dad gter chen",
+    "language": "tib",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ7572 .S67 2007",
+    "rights": "",
+    "extra": "Text G",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/W4T5ZMUP"
+    },
+    "dateAdded": "2025-02-21T12:12:08Z",
+    "dateModified": "2025-05-21T06:58:30Z"
+  }
+}

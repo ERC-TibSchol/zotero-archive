@@ -1,0 +1,102 @@
+{
+  "key": "L54RJSWG",
+  "version": 6030,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/L54RJSWG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/L54RJSWG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Karma dkon mchog gzhon nu",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "L54RJSWG",
+    "version": 6030,
+    "itemType": "bookSection",
+    "title": "theg pa chen po rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Karma dkon mchog gzhon nu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Karma dkon mchog gzhon nu"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "gSung \u02bcbum karma dkon mchog gzhon nu",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "numberOfVolumes": "2",
+    "edition": "par gzhi dang po",
+    "date": "2021",
+    "publisher": "Ma h\u0101 shr\u012b gsung rab gling",
+    "place": "stold lung",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "126-419",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN26813",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Karma dkon mchog - rgyu bla 'grel dga' byed 2021 ed.",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "bdr:MW3CN26813",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/CDT96KV7"
+    },
+    "dateAdded": "2026-02-02T13:02:04Z",
+    "dateModified": "2026-02-02T13:05:44Z"
+  }
+}

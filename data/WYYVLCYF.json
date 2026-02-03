@@ -1,0 +1,98 @@
+{
+  "key": "WYYVLCYF",
+  "version": 4246,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WYYVLCYF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WYYVLCYF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2013",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WYYVLCYF",
+    "version": 4246,
+    "itemType": "bookSection",
+    "title": "A Note on Manorathanandin's Pram\u0101\u1e47av\u0101rttikav\u1e5btti in Tibet",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Sarah F.",
+        "lastName": "Haynes"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Michelle J.",
+        "lastName": "Sorensen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Wading into the Stream of Wisdom. Essays in Honor of Leslie S. Kawamura",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2013",
+    "publisher": "Institute of Buddhist Studies and BDK America, Inc.",
+    "place": "Berkeley",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "161-192",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-10-04T13:16:22Z",
+    "dateModified": "2025-05-20T19:16:59Z"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "key": "FZ6N88AU",
+  "version": 5945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/FZ6N88AU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/FZ6N88AU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "FZ6N88AU",
+    "version": 5945,
+    "itemType": "journalArticle",
+    "title": "A Treatise on Buddhist Epistemology and Logic Attributed to Klong chen  Rab 'byams pa (1308-1364) and Its Place in Indo-Tibetan Intellectual History",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "publisher": "Springer",
+    "place": "",
+    "date": "2003",
+    "volume": "31",
+    "issue": "4",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "381\u2013437",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.jstor.org/stable/23496832",
+    "accessDate": "2021-08-31T12:51:17Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0022-1791",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 2003",
+    "language": "eng",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/GQZCCT73",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/CGCMDYBY"
+    },
+    "dateAdded": "2021-08-31T12:51:17Z",
+    "dateModified": "2025-03-21T17:28:43Z"
+  }
+}

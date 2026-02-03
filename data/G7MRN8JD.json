@@ -1,0 +1,100 @@
+{
+  "key": "G7MRN8JD",
+  "version": 4212,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/G7MRN8JD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/G7MRN8JD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Richardson",
+    "parsedDate": "1957",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "G7MRN8JD",
+    "version": 4212,
+    "itemType": "journalArticle",
+    "title": "A Tibetan Inscription from Rgyal Lha-Kha\u1e45; and a note on Tibetan Chronology from A.D. 841 to A.D. 1042",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "H. E.",
+        "lastName": "Richardson"
+      }
+    ],
+    "abstractNote": "According to the \n              Deb-ther S\u1e45on-po \n              of \u1e96gos Lo-tsa-ba the \n              lha-hha\u1e45 \n              of Rgyal Lug-lhas in Hphan-po was founded by Sna-nam Rdo-rjedba\u1e45-phyug in a.d. 1012 during the early years of the restoration of Buddhism after its suppression by Gla\u1e45-dar-ma. The outline of that revival, known in Tibetan as- \n              Bstan-pa phyi-dar \n              \u2014the Later Spreading of the Doctrine\u2014is vague and the details scanty and uncertain. From the \n              Deb-s\u1e45on (Deb-ther S\u1e45on-po) \n              it can be gathered that, although in Central Tibet the religion could be practised only in secret, in parts of the kingdom remote from the capital\u2014such as M\u1e45a-ris in the west and Khams in the east\u2014there remained communities of Buddhist teachers untouched by the persecution.",
+    "publicationTitle": "Journal of the Royal Asiatic Society",
+    "publisher": "",
+    "place": "",
+    "date": "04/1957",
+    "volume": "89",
+    "issue": "1-2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "57-78",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JRAS",
+    "DOI": "10.1017/S0035869X00107373",
+    "citationKey": "",
+    "url": "https://www.cambridge.org/core/product/identifier/S0035869X00107373/type/journal_article",
+    "accessDate": "2022-02-11T14:57:05Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1356-1863, 1474-0591",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-02-11T14:57:07Z",
+    "dateModified": "2025-05-20T19:11:15Z"
+  }
+}

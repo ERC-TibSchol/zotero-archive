@@ -1,0 +1,107 @@
+{
+  "key": "3WHMEPJR",
+  "version": 4641,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3WHMEPJR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3WHMEPJR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Cabez\u00f3n",
+    "parsedDate": "1998",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3WHMEPJR",
+    "version": 4641,
+    "itemType": "book",
+    "title": "Scholasticism: Cross-cultural and Comparative Perspectives",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      }
+    ],
+    "abstractNote": "Leading scholars in the field of religious studies show that scholasticism as a comparative category is useful in the analysis of a variety of religious and philosophical traditions and even in the task of cultural criticism.\n\nLeading religious studies scholars join forces in this book to show that scholasticism as a comparative category is a useful tool in the analysis of a variety of religious and philosophical traditions, and even in the task of cultural criticism. The discussions range from explorations of Latin, Jewish, and Muslim modes of scholastic thought to examinations of their counterparts in India, Tibet, China, and contemporary Euro-American academic culture.\n\nThe contributors consider the heterogeneous nature of traditions generally, and of scholastic traditions in particular, by demonstrating the rich, internal texture that is the result of the historical interaction of different religious and philosophical schools. They also explore what it means to construct a comparative category like scholasticism by applying it sensitively and dialogically to a variety of religious and intellectual movements across cultures.\n'\nFocusing thematically on scholasticism, the book offers detailed reflections regarding its relevance to a variety of traditions (Hindu, Confucian, Taoist, Buddhist, Jewish, Islamic, and Christian). But while grounded in the rich, historical particularity of these various religions and cultures, the volume also makes a considerable contribution to theory. The contributors are committed to a form of analysis that balances \"similarities\" with \"differences,\" one that also does not disregard either the diachronic element or the relevance of the social-material evidence. By offering a nuanced and sophisticated treatment of the problematics of constructing a comparative category like scholasticism, this volume represents a major contribution to the comparative philosophy of religion. With its breadth of scope and its richness of both historical detail and theoretical insight, the book will interest a wide audience ranging from medievalists to historians of religion, from philosophers to cultural critics.",
+    "series": "SUNY series, toward a comparative philosophy of religions",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1998",
+    "publisher": "State University of New York Press",
+    "place": "Albany",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "ix+264",
+    "ISBN": "978-0-7914-3777-3",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Cabez\u00f3n 1998",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "B839",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Buddhist philosophy"
+      },
+      {
+        "tag": "Scholasticism"
+      }
+    ],
+    "collections": [
+      "YVHDSL7M"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-06T16:01:33Z",
+    "dateModified": "2025-05-21T06:57:30Z"
+  }
+}

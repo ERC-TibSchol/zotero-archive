@@ -1,6 +1,6 @@
 {
   "key": "BA7CVGHQ",
-  "version": 4101,
+  "version": 6052,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "BA7CVGHQ",
-    "version": 4101,
+    "version": 6052,
     "itemType": "book",
     "title": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "creators": [
@@ -61,17 +61,24 @@
     "volume": "",
     "numberOfVolumes": "80",
     "edition": "",
-    "place": "lha sa",
-    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "numPages": "",
-    "language": "tib",
     "ISBN": "ISBN 978-7-80589-670-0",
-    "shortTitle": "",
-    "url": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -83,10 +90,11 @@
         "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
         "http://zotero.org/groups/4394244/items/AF6KJGIA",
-        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
+        "http://zotero.org/groups/4394244/items/AS5QBRJL"
       ]
     },
     "dateAdded": "2024-09-20T13:00:14Z",
-    "dateModified": "2025-05-20T18:57:05Z"
+    "dateModified": "2026-02-02T13:57:08Z"
   }
 }

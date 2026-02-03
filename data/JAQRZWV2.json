@@ -1,0 +1,109 @@
+{
+  "key": "JAQRZWV2",
+  "version": 4627,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JAQRZWV2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JAQRZWV2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus and McClintock",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JAQRZWV2",
+    "version": 4627,
+    "itemType": "book",
+    "title": "The Sv\u0101tantrika-Pr\u0101sa\u1e45gika Distinction: What Difference Does a Difference Make?",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Georges B. J.",
+        "lastName": "Dreyfus"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Sara L.",
+        "lastName": "McClintock"
+      }
+    ],
+    "abstractNote": "1. Bh\u0101vaviveka's own view of his differences with Buddhap\u0101lita / William L. Ames -- 2. Was Candrak\u012brti a Pr\u0101sa\u1e45gika? / C.W. Huntington, Jr. -- 3. Metaphysics for M\u0101dhyamikas / Tom J.F. Tillemans -- 4. The role of the \"given\" in the Classification of \u015a\u0101ntarak\u1e63ita and Kamala\u015b\u012bla as Sv\u0101tantrika-M\u0101dhyamikas / Sara L. McClintock -- 5. The satisfaction of no analysis: on Tsong kha pa's approach to Sv\u0101tantrika-Madhyamaka / Malcolm David Eckel -- 6. Phya pa chos kyi seng ge as a Sv\u0101tantrika / Helmut Tauscher -- 7. Tsong kha pa's reevaluation of Candrak\u012brti's criticism of autonomous inference / Chizuko Yoshimizu -- 8. Two views on the Sv\u0101tantrika-Pr\u0101sa\u1e45gika distinction in fourteenth-century Tibet / Jos\u00e9 Ignacio Cabez\u00f3n -- 9. Would the true Pr\u0101sa\u1e45gika please stand? The Case and View of 'Ju Mi pham -- Georges B.J. Dreyfus.",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2003",
+    "publisher": "Wisdom Publications",
+    "place": "Boston",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "vi+402",
+    "ISBN": "978-0-86171-324-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://www.loc.gov/catdir/toc/fy037/2002151800.html",
+    "accessDate": "2021-08-10T16:21:02Z",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "The Sv\u0101tantrika-Pr\u0101sa\u1e45gika Distinction",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "BQ7478",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2021-08-10T16:21:02Z",
+    "dateModified": "2025-05-21T06:55:59Z"
+  }
+}

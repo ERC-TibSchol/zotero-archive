@@ -1,0 +1,97 @@
+{
+  "key": "C72WGHN5",
+  "version": 4843,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/C72WGHN5",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/C72WGHN5",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Broido",
+    "parsedDate": "1983",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "C72WGHN5",
+    "version": 4843,
+    "itemType": "journalArticle",
+    "title": "A Note on dgos-'brel",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michael M.",
+        "lastName": "Broido"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the Tibet Society",
+    "publisher": "",
+    "place": "",
+    "date": "1983",
+    "volume": "3",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "5-19",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Broido 1983",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Hermeneutics"
+      }
+    ],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/GVG699TT"
+    },
+    "dateAdded": "2021-12-20T08:33:29Z",
+    "dateModified": "2025-05-21T07:26:02Z"
+  }
+}

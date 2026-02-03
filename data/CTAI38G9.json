@@ -1,0 +1,106 @@
+{
+  "key": "CTAI38G9",
+  "version": 3619,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CTAI38G9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CTAI38G9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1995",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CTAI38G9",
+    "version": 3619,
+    "itemType": "journalArticle",
+    "title": "Fourteenth century Tibetan cultural history. VI: The transmission of Indian Buddhist pram\u0101nav\u0101da according to early Tibetan gsan yig-s",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft",
+    "publisher": "",
+    "place": "",
+    "date": "1995",
+    "volume": "49",
+    "issue": "4",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "919-941",
+    "series": "",
+    "seriesTitle": "\u00c9tudes asiatiques: revue de la Soci\u00e9t\u00e9 Suisse-Asie",
+    "seriesText": "",
+    "journalAbbreviation": "AS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.e-periodica.ch/digbib/view?pid=ast-002:1995:49::1100#935",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "2235-5871",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1995",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-05-24T12:10:48Z",
+    "dateModified": "2025-03-21T17:29:19Z"
+  }
+}

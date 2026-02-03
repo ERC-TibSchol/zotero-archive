@@ -1,0 +1,97 @@
+{
+  "key": "H8TK7HQI",
+  "version": 4841,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H8TK7HQI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H8TK7HQI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Funayama",
+    "parsedDate": "1995",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H8TK7HQI",
+    "version": 4841,
+    "itemType": "journalArticle",
+    "title": "Arca\u1e6da, \u015a\u0101ntarak\u1e63ita, Jinendrabuddhi, and Kamala\u015b\u012bla on the Aim of a Treatise (prayojana)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Toru",
+        "lastName": "Funayama"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Wiener Zeitschrift f\u00fcr die Kunde S\u00fcdasiens",
+    "publisher": "",
+    "place": "",
+    "date": "1995",
+    "volume": "39",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "181-201",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Funayama 1995",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Hermeneutics"
+      }
+    ],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/W6DUXJV6"
+    },
+    "dateAdded": "2021-12-20T08:44:37Z",
+    "dateModified": "2025-05-21T07:25:49Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "key": "NA9AMDH6",
+  "version": 4184,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/NA9AMDH6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/NA9AMDH6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kun dga' blo gros",
+    "parsedDate": "2010",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "NA9AMDH6",
+    "version": 4184,
+    "itemType": "bookSection",
+    "title": "nyang stod bla ma'i mtshan gyi deb ther",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Kun dga' blo gros"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "bod kyi lo rgyus rnam thar phyogs bsgrigs chen mo",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "da",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2010",
+    "publisher": "mtsho mngon mi rigs dpe skrun khang",
+    "place": "Zi ling",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "15 folio",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Nyang stod deb ther",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "IEP4UFSV"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T10:17:04Z",
+    "dateModified": "2025-05-20T19:07:10Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "key": "3QX8E324",
-  "version": 5732,
+  "version": 6065,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "3QX8E324",
-    "version": 5732,
+    "version": 6065,
     "itemType": "bookSection",
     "title": "mngon rtogs rgyan gyi rnam bshad rin chen snang pa",
     "creators": [
@@ -59,20 +59,27 @@
     "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
     "series": "",
     "seriesNumber": "",
-    "volume": "61-90",
+    "volume": "74",
     "numberOfVolumes": "30",
     "edition": "",
-    "place": "Khreng tu'u",
-    "publisher": "Si khron mi rigs dpe skrun khang",
     "date": "2009",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "place": "Khreng tu'u",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "7-406",
-    "language": "tib",
     "ISBN": "978-7-5409-4283-0",
-    "shortTitle": "Kun dga' - mngon rtogs rgyan rnam bshad",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Kun dga' - mngon rtogs rgyan rnam bshad",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -90,6 +97,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
     },
     "dateAdded": "2025-11-25T09:50:11Z",
-    "dateModified": "2025-11-25T09:52:07Z"
+    "dateModified": "2026-02-02T14:22:38Z"
   }
 }

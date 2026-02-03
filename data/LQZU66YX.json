@@ -1,0 +1,102 @@
+{
+  "key": "LQZU66YX",
+  "version": 4856,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LQZU66YX",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LQZU66YX",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ruegg",
+    "parsedDate": "2000",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "LQZU66YX",
+    "version": 4856,
+    "itemType": "book",
+    "title": "Three Studies in the History of Indian and Tibetan Madhyamaka Philosophy. Studies in Indian and Tibetan Madhyamaka Thought 1",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David Seyfort",
+        "lastName": "Ruegg"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
+    "seriesNumber": "50",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2000",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "place": "Wien",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "xiv+322",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Seyfort Ruegg 2000",
+    "language": "eng",
+    "libraryCatalog": "http://pi.lib.uchicago.edu/1001/cat/bib/4477946",
+    "callNumber": "BQ7457.R844",
+    "rights": "",
+    "extra": "Google-Books-ID: 41XYAAAAMAAJ",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2023-06-28T10:17:54Z",
+    "dateModified": "2025-05-21T07:30:33Z"
+  }
+}

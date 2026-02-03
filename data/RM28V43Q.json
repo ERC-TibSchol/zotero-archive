@@ -1,0 +1,93 @@
+{
+  "key": "RM28V43Q",
+  "version": 3611,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RM28V43Q",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RM28V43Q",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Vitali",
+    "parsedDate": "1999",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RM28V43Q",
+    "version": 3611,
+    "itemType": "journalArticle",
+    "title": "On Byams Pa and Thub Chen Lha Khang of Glo sMos Thang",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Roberto",
+        "lastName": "Vitali"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Tibet Journal",
+    "publisher": "",
+    "place": "",
+    "date": "1999",
+    "volume": "24",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "3-28",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://www.jstor.org/stable/43302394",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Vitali 1999",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2024-03-20T13:25:44Z",
+    "dateModified": "2025-03-21T17:28:02Z"
+  }
+}

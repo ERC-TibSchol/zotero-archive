@@ -1,0 +1,100 @@
+{
+  "key": "2X2E3882",
+  "version": 3614,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2X2E3882",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2X2E3882",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2016-04",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2X2E3882",
+    "version": 3614,
+    "itemType": "journalArticle",
+    "title": "The Lives of Bu ston Rin chen grub and the Date and Sources of His <i>Chos \u2018byung</i>, a Chronicle of Buddhism in India and Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "April 2016",
+    "volume": "35",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "203\u2013308",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_35_06.pdf",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 2016",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/DDJLN3BJ"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-03-21T17:28:34Z"
+  }
+}

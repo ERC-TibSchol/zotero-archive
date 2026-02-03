@@ -1,0 +1,99 @@
+{
+  "key": "JZ7IN6CW",
+  "version": 6090,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JZ7IN6CW",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JZ7IN6CW",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Anon",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "JZ7IN6CW",
+    "version": 6090,
+    "itemType": "bookSection",
+    "title": "mngon rtogs rgyan gyi rnam bshad rin chen snang ba",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Anon"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4 (nga)",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "167-566",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://purl.bdrc.io/resource/MW3CN3014_2A91C6",
+    "accessDate": "2023-11-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Anon - mngon rtogs rgyan rnam bshad rin chen snang",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2026-02-02T14:22:51Z",
+    "dateModified": "2026-02-02T14:48:56Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "key": "WD872RQ5",
-  "version": 6004,
+  "version": 6089,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "WD872RQ5",
-    "version": 6004,
+    "version": 6089,
     "itemType": "book",
     "title": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
     "creators": [
@@ -108,7 +108,14 @@
         "http://zotero.org/groups/4394244/items/YCPV4E9H",
         "http://zotero.org/groups/4394244/items/Y7Z8STMM",
         "http://zotero.org/groups/4394244/items/VXXXFAML",
-        "http://zotero.org/groups/4394244/items/LQGIPX5B"
+        "http://zotero.org/groups/4394244/items/LQGIPX5B",
+        "http://zotero.org/groups/4394244/items/LN3ETCGE",
+        "http://zotero.org/groups/4394244/items/URVEWJWN",
+        "http://zotero.org/groups/4394244/items/A4LYMAI9",
+        "http://zotero.org/groups/4394244/items/TKAZRHKZ",
+        "http://zotero.org/groups/4394244/items/JZ7IN6CW",
+        "http://zotero.org/groups/4394244/items/3QEBF6IB",
+        "http://zotero.org/groups/4394244/items/NUWGTBDA"
       ]
     },
     "dateAdded": "2023-05-30T12:48:43Z",

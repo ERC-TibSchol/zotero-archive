@@ -1,0 +1,91 @@
+{
+  "key": "W8L3K3PB",
+  "version": 5946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/W8L3K3PB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/W8L3K3PB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Broido",
+    "parsedDate": "1984",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "W8L3K3PB",
+    "version": 5946,
+    "itemType": "journalArticle",
+    "title": "Abhipr\u0101ya and implication in Tibetan linguistics",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Michael M.",
+        "lastName": "Broido"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "publisher": "Springer",
+    "place": "",
+    "date": "1984",
+    "volume": "12",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "1-33",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://www.jstor.org/stable/23444186",
+    "accessDate": "2022-09-14",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "00221791, 15730395",
+    "archive": "JSTOR",
+    "archiveLocation": "",
+    "shortTitle": "Broido 1984",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-14T06:58:40Z",
+    "dateModified": "2025-05-20T19:15:05Z"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "key": "B5E5H3Q7",
+  "version": 4239,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/B5E5H3Q7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/B5E5H3Q7",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Shastri",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "B5E5H3Q7",
+    "version": 4239,
+    "itemType": "book",
+    "title": "bKra shis chos sdings dgon du bzhugs pa\u02bci dpe rnying dpe dkon",
+    "creators": [
+      {
+        "creatorType": "contributor",
+        "firstName": "Shastri",
+        "lastName": "Shastri"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "65",
+    "edition": "",
+    "date": "",
+    "publisher": "",
+    "place": "reb gong",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://purl.bdrc.io/resource/MW3MS878",
+    "accessDate": "2024-01-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "BDRC bdr:MW3MS878",
+    "shortTitle": "",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/A2PNEQTL"
+    },
+    "dateAdded": "2024-01-17T07:15:42Z",
+    "dateModified": "2025-05-20T19:15:31Z"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "key": "2V6H2FBU",
+  "version": 4185,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2V6H2FBU",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2V6H2FBU",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Harter",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2V6H2FBU",
+    "version": 4185,
+    "itemType": "thesis",
+    "title": "Buddhas in the making: Path, perfectibility, and gnosis in the Abhisamay\u0101la\u1e45k\u0101ra literature",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pierre-Julien",
+        "lastName": "Harter"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "University of Chicago",
+    "place": "",
+    "date": "2015",
+    "series": "",
+    "seriesNumber": "",
+    "numPages": "",
+    "DOI": "",
+    "ISBN": "",
+    "citationKey": "",
+    "url": "http://pi.lib.uchicago.edu/1001/cat/bib/10773128",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Harter 2015",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2022-09-23T14:22:46Z",
+    "dateModified": "2025-05-20T19:07:16Z"
+  }
+}

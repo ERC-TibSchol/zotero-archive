@@ -1,0 +1,99 @@
+{
+  "key": "TKAZRHKZ",
+  "version": 6090,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/TKAZRHKZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/TKAZRHKZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "lho brag pa dharma seng ge",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "TKAZRHKZ",
+    "version": 6090,
+    "itemType": "bookSection",
+    "title": "rgyud bla'i 'grel pa lho brag pas mdzad pa",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Chungdak Nangpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "lho brag pa dharma seng ge"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "rTsa 'grel gzhung bshad sogs lag bris dpe rnying par slog phyogs bsdus",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3 (ga)",
+    "numberOfVolumes": "12",
+    "edition": "",
+    "date": "2016",
+    "publisher": "rdzong sar khams bye'i glog klad 'dzin grwa",
+    "place": "Khams sde dge",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "145-240",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3014_AE0154",
+    "accessDate": "2023-11-17",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "lho brag - rgyud bla 'grel",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
+    },
+    "dateAdded": "2026-02-02T13:16:47Z",
+    "dateModified": "2026-02-02T14:48:56Z"
+  }
+}

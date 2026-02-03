@@ -1,0 +1,109 @@
+{
+  "key": "AS5QBRJL",
+  "version": 6053,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AS5QBRJL",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AS5QBRJL",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "mkhas pa rin chen blo gros",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AS5QBRJL",
+    "version": 6053,
+    "itemType": "bookSection",
+    "title": "chos dang chos nyid rnam par \u02bcbyed pa\u02bci \u02bcgrel pa",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "mkhas pa rin chen blo gros"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "60",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "110-131",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_5EE069",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+      ]
+    },
+    "dateAdded": "2026-02-02T13:54:30Z",
+    "dateModified": "2026-02-02T13:57:24Z"
+  }
+}

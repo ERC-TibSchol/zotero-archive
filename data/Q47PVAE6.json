@@ -1,0 +1,108 @@
+{
+  "key": "Q47PVAE6",
+  "version": 5945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/Q47PVAE6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/Q47PVAE6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Kramer",
+    "parsedDate": "2007",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "Q47PVAE6",
+    "version": 5945,
+    "itemType": "book",
+    "title": "The Great Tibetan Translator: Life and Works of rNgog Blo ldan shes rab (1059\u20131109)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ralf",
+        "lastName": "Kramer"
+      }
+    ],
+    "abstractNote": "Second only to the famous Rin chen bzang po (958\u20131055) in receiving the title of a \u201cGreat Translator\u201d (lo chen) during the period of the \u201cLater Propagation\u201d (phyi dar) of Buddhism in Tibet, rNgog lo ts\u0101 ba Blo ldan shes rab (or rNgog lo) was one of the most influential figures in the establishment of Tibetan Buddhist scholasticism. After having devoted seventeen years of his life to the study of Sanskrit under scholars in Kashmir, India and Nepal, he became renowned for his more than fifty painstaking translations and revisions of Buddhist scriptures. Apart from being the foremost Tibetan translator of works on Buddhist logic and epistemology (Pram\u0101\u1e47a), rNgog lo\u2019s activities as a commentator and teacher are regarded as fundamental for the later development of this field of learning in Tibet, and his tradition came to be well-known in Tibetan literature as the \u201crNgog tradition\u201d (rngog lugs). This book presents a detailed examination of rNgog lo\u2019s life based on the available Tibetan accounts, including his biography (rnam thar) written by Gro lung pa Blo gros \u2019byung gnas (fl. late 11th to 12th c.). Annotated translations of great parts from the latter work (one of the earliest surviving examples of the rnam thar genre, possibly unique regarding its complicated and elegant style) are included in the book. rNgog lo\u2019s oeuvre as a translator and writer is dealt with in detail, making the book an important source on this hitherto little studied scholar and his tradition.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2007",
+    "publisher": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "place": "M\u00fcnchen",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "180",
+    "ISBN": "978-3-940659-00-2",
+    "DOI": "10.5282/ubm/epub.6834",
+    "citationKey": "",
+    "url": "https://epub.ub.uni-muenchen.de/6834/",
+    "accessDate": "2021-08-24T14:40:52Z",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Kramer 2007",
+    "language": "eng",
+    "libraryCatalog": "solo.bodleian.ox.ac.uk",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T",
+      "B3TNTFC4",
+      "9MT453MZ"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4394244/items/4BULFBCM"
+    },
+    "dateAdded": "2021-08-24T14:40:52Z",
+    "dateModified": "2025-05-20T19:09:03Z"
+  }
+}

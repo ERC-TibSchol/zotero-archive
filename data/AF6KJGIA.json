@@ -1,6 +1,6 @@
 {
   "key": "AF6KJGIA",
-  "version": 3800,
+  "version": 6047,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AF6KJGIA",
-    "version": 3800,
+    "version": 6047,
     "itemType": "bookSection",
     "title": "dBus mtha'i bsdus don",
     "creators": [
@@ -67,17 +67,24 @@
     "volume": "59",
     "numberOfVolumes": "80",
     "edition": "par gzhi dang po",
-    "place": "lha sa",
-    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "101-104",
-    "language": "tib",
     "ISBN": "ISBN 978-7-80589-670-0",
-    "shortTitle": "bSod nams rgyal mtshan - dbus mtha bsdus don",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "bSod nams rgyal mtshan - dbus mtha bsdus don",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -96,6 +103,6 @@
       ]
     },
     "dateAdded": "2025-03-24T13:01:09Z",
-    "dateModified": "2025-04-02T08:15:39Z"
+    "dateModified": "2026-02-02T13:54:30Z"
   }
 }

@@ -1,0 +1,96 @@
+{
+  "key": "8BGIPPRD",
+  "version": 4847,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/8BGIPPRD",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/8BGIPPRD",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Verhagen",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "8BGIPPRD",
+    "version": 4847,
+    "itemType": "journalArticle",
+    "title": "Studies in Tibetan Indigenous Grammar (4): A Sixteenth-century\nSurvey of Sum rtags and Related Literature (Appendix: Sa skya Pa\u1e47\u1e0dita's Mkhas pa'i kha rgyan)",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pieter C.",
+        "lastName": "Verhagen"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "2017",
+    "volume": "42",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "217-245",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_42_05.pdf",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Verhagen 2017",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Sakya Pa\u1e47\u1e0dita"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-09-08T07:12:02Z",
+    "dateModified": "2025-05-21T07:26:40Z"
+  }
+}

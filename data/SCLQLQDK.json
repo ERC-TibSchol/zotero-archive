@@ -1,0 +1,100 @@
+{
+  "key": "SCLQLQDK",
+  "version": 5945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/SCLQLQDK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/SCLQLQDK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 7979322,
+      "username": "Rachael.Griffiths",
+      "name": "Rachael Griffiths",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/rachael.griffiths",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Krasser",
+    "parsedDate": "2003",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "SCLQLQDK",
+    "version": 5945,
+    "itemType": "journalArticle",
+    "title": "On the Ascertainment of Validity in the Buddhist Epistemological Tradition",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Krasser"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "publisher": "Springer",
+    "place": "",
+    "date": "2003",
+    "volume": "31",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "161-184",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.jstor.org/stable/23497041",
+    "accessDate": "2021-08-24T14:45:14Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0022-1791",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Krasser 2003",
+    "language": "eng",
+    "libraryCatalog": "JSTOR",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2021-08-24T14:45:14Z",
+    "dateModified": "2025-05-20T19:13:20Z"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "key": "J4L5X9AG",
+  "version": 4190,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/J4L5X9AG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/J4L5X9AG",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "J4L5X9AG",
+    "version": 4190,
+    "itemType": "bookSection",
+    "title": "Mapping recently recovered early Tibetan epistemological works",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Volker",
+        "lastName": "Caumanns"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "J\u00f6rg",
+        "lastName": "Heimbel"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Kazuo",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Alexander",
+        "lastName": "Schiller"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Gateways to Tibetan Studies: A Collection of Essays in Honour of David P. Jackson on the Occasion of his 70th Birthday",
+    "series": "Indian and Tibetan Studies",
+    "seriesNumber": "12.1-2",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "date": "2021",
+    "publisher": "Department of Indian and Tibetan Studies, Universit\u00e4t Hamburg",
+    "place": "Hamburg",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "415-460",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Hugon 2021",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-20T15:45:39Z",
+    "dateModified": "2025-05-20T19:07:45Z"
+  }
+}

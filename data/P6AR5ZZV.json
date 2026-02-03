@@ -1,0 +1,100 @@
+{
+  "key": "P6AR5ZZV",
+  "version": 5945,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/P6AR5ZZV",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/P6AR5ZZV",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Verhagen",
+    "parsedDate": "2005",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "P6AR5ZZV",
+    "version": 5945,
+    "itemType": "journalArticle",
+    "title": "Studies in Indo-Tibetan Buddhist Hermeneutics (4): The Vy\u0101khy\u0101yukti by Vasubandhu",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pieter C.",
+        "lastName": "Verhagen"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal Asiatique",
+    "publisher": "",
+    "place": "",
+    "date": "2005",
+    "volume": "293",
+    "issue": "2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "559-602",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "zotero-42633",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Verhagen 2005",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Hermeneutics"
+      },
+      {
+        "tag": "Vasubandhu"
+      }
+    ],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/VQWZW84Z"
+    },
+    "dateAdded": "2021-12-20T08:38:33Z",
+    "dateModified": "2025-05-21T07:26:53Z"
+  }
+}
