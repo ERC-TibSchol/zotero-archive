@@ -1,6 +1,6 @@
 {
-  "key": "SHITMM8R",
-  "version": 5156,
+  "key": "8S7FDMCJ",
+  "version": 3623,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/SHITMM8R",
+      "href": "https://api.zotero.org/groups/4394244/items/8S7FDMCJ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/SHITMM8R",
+      "href": "https://www.zotero.org/groups/tibschol/items/8S7FDMCJ",
       "type": "text/html"
     }
   },
@@ -34,37 +34,37 @@
         }
       }
     },
-    "creatorSummary": "Almogi",
-    "parsedDate": "2016",
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1983",
     "numChildren": 0
   },
   "data": {
-    "key": "SHITMM8R",
-    "version": 5156,
+    "key": "8S7FDMCJ",
+    "version": 3623,
     "itemType": "book",
-    "title": "Tibetan manuscript and xylograph traditions: the written word and its media within the Tibetan culture sphere",
+    "title": "Contributions to the Development of Tibetan Buddhist Epistemology: From Eleventh to the Thirteenth Century.",
     "creators": [
       {
-        "creatorType": "editor",
-        "firstName": "Orna",
-        "lastName": "Almogi"
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
       }
     ],
     "abstractNote": "",
-    "series": "Indian and Tibetan studies",
-    "seriesNumber": "4",
+    "series": "Alt- und neu-indische Studien",
+    "seriesNumber": "26",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2016",
-    "publisher": "Department of Indian and Tibetan Studies, Universit\u00e4t Hamburg",
-    "place": "Hamburg",
+    "date": "1983",
+    "publisher": "Franz Steiner Verlag GmbH",
+    "place": "Wiesbaden",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "415",
-    "ISBN": "978-3-945151-03-7",
+    "numPages": "IX, 330",
+    "ISBN": "3-515-03584-2",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,16 +72,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Tibetan manuscript and xylograph traditions",
-    "language": "eng",
-    "libraryCatalog": "BnF ISBN",
-    "callNumber": "",
+    "shortTitle": "van der Kuijp 1983",
+    "language": "eng, tib",
+    "libraryCatalog": "",
+    "callNumber": "BQ4440.K85",
     "rights": "",
     "extra": "",
-    "tags": [],
-    "collections": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
     "relations": {},
-    "dateAdded": "2025-05-21T12:29:55Z",
-    "dateModified": "2025-05-21T12:30:19Z"
+    "dateAdded": "2022-01-24T06:47:55Z",
+    "dateModified": "2025-03-21T17:29:43Z"
   }
 }

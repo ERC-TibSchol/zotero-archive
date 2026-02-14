@@ -1,0 +1,89 @@
+{
+  "key": "VPNTIFPI",
+  "version": 6097,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VPNTIFPI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VPNTIFPI",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Ma",
+    "parsedDate": "2021",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VPNTIFPI",
+    "version": 6097,
+    "itemType": "journalArticle",
+    "title": "The Ny\u0101yabindu in Tangut Translation",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zhouyang",
+        "lastName": "Ma"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "publisher": "",
+    "place": "",
+    "date": "12/2021",
+    "volume": "49",
+    "issue": "5",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "779-825",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Indian Philos",
+    "DOI": "10.1007/s10781-021-09479-w",
+    "citationKey": "",
+    "url": "https://link.springer.com/10.1007/s10781-021-09479-w",
+    "accessDate": "2026-02-13T12:03:18Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "0022-1791, 1573-0395",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-02-13T12:03:18Z",
+    "dateModified": "2026-02-13T12:03:18Z"
+  }
+}

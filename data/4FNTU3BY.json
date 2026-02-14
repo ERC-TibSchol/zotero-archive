@@ -1,0 +1,94 @@
+{
+  "key": "4FNTU3BY",
+  "version": 4265,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/4FNTU3BY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/4FNTU3BY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Dreyfus",
+    "parsedDate": "2006",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "4FNTU3BY",
+    "version": 4265,
+    "itemType": "journalArticle",
+    "title": "Where do Commentarial Schools come from? Reflections on the History of Tibetan Scholasticism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georges",
+        "lastName": "Dreyfus"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "2006",
+    "volume": "28",
+    "issue": "2",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "273-297",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIABS",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Dreyfus 2006",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "ECVPTFB9"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/73933/items/TTKH95XE",
+      "dc:replaces": "http://zotero.org/groups/4394244/items/TY99QTAI"
+    },
+    "dateAdded": "2021-08-10T16:17:34Z",
+    "dateModified": "2025-05-20T19:18:45Z"
+  }
+}
