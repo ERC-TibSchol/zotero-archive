@@ -1,0 +1,100 @@
+{
+  "key": "F4UK2S8P",
+  "version": 3629,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/F4UK2S8P",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/F4UK2S8P",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Tauscher",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "F4UK2S8P",
+    "version": 3629,
+    "itemType": "journalArticle",
+    "title": "Remarks on Phya pa Chos kyi seng ge and his Madhyamaka Treatises",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helmut",
+        "lastName": "Tauscher"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Tibet Journal. Special issue: The Earth Ox Papers",
+    "publisher": "",
+    "place": "",
+    "date": "2009-2010",
+    "volume": "34.3-35.2",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "1\u201335",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.jstor.org/stable/43302064",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Tauscher 2009-2010",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/6YG882H8"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-03-21T17:30:22Z"
+  }
+}

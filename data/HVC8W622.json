@@ -1,0 +1,93 @@
+{
+  "key": "HVC8W622",
+  "version": 6122,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HVC8W622",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HVC8W622",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Apple",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HVC8W622",
+    "version": 6122,
+    "itemType": "journalArticle",
+    "title": "Contributions to the Development and Classification of Abhisamay\u0101la\u1e43k\u0101ra Literature in Tibet from the Ninth to Fourteenth Centuries",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James B.",
+        "lastName": "Apple"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of the International Association of Tibetan Studies",
+    "publisher": "",
+    "place": "",
+    "date": "2009",
+    "volume": "5",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "1-57",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Apple 2009",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-02-16T19:13:36Z",
+    "dateModified": "2026-02-16T19:15:16Z"
+  }
+}

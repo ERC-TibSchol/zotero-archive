@@ -1,6 +1,6 @@
 {
-  "key": "4S87NQPF",
-  "version": 5171,
+  "key": "G3A38VJG",
+  "version": 6100,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/4S87NQPF",
+      "href": "https://api.zotero.org/groups/4394244/items/G3A38VJG",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/4S87NQPF",
+      "href": "https://www.zotero.org/groups/tibschol/items/G3A38VJG",
       "type": "text/html"
     }
   },
@@ -34,20 +34,20 @@
         }
       }
     },
-    "creatorSummary": "Kapstein",
-    "parsedDate": "2001",
+    "creatorSummary": "Ruegg",
+    "parsedDate": "1966",
     "numChildren": 0
   },
   "data": {
-    "key": "4S87NQPF",
-    "version": 5171,
+    "key": "G3A38VJG",
+    "version": 6100,
     "itemType": "book",
-    "title": "Reason's Traces: Identity and Interpretation in Indian & Buddhist Thought",
+    "title": "The Life of Bu ston Rin po che. With the Tibetan Text of the Bu ston rNam thar",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Matthew",
-        "lastName": "Kapstein"
+        "firstName": "David Seyfort",
+        "lastName": "Ruegg"
       }
     ],
     "abstractNote": "",
@@ -56,15 +56,15 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2001",
-    "publisher": "Oxford University \tPress",
-    "place": "New Delhi",
+    "date": "1966",
+    "publisher": "SOR",
+    "place": "Roma",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
     "numPages": "",
-    "ISBN": "0 19 566827 8",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,16 +72,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "eng",
+    "shortTitle": "Ruegg 1966",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
-    "tags": [],
+    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 333",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [],
-    "relations": {},
-    "dateAdded": "2025-05-21T12:41:06Z",
-    "dateModified": "2025-05-21T12:42:06Z"
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/5224793/items/WYBAT588"
+    },
+    "dateAdded": "2026-02-16T11:17:51Z",
+    "dateModified": "2026-02-16T11:18:19Z"
   }
 }

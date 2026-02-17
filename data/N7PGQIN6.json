@@ -1,0 +1,76 @@
+{
+  "key": "N7PGQIN6",
+  "version": 6110,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N7PGQIN6",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N7PGQIN6",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Martin",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "N7PGQIN6",
+    "version": 6110,
+    "itemType": "webpage",
+    "title": "Layakpa Jangchub Ngodrub",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dan",
+        "lastName": "Martin"
+      }
+    ],
+    "abstractNote": "",
+    "websiteTitle": "Treasury of Lives",
+    "websiteType": "",
+    "date": "",
+    "publisher": "",
+    "place": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://treasuryoflives.org/biographies/view/Layakpa-Jangchub-Ngodrub/10258",
+    "accessDate": "2026-02-16",
+    "shortTitle": "Martin - la yag pa",
+    "language": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-02-16T14:42:46Z",
+    "dateModified": "2026-02-16T14:44:16Z"
+  }
+}

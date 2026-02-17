@@ -1,6 +1,6 @@
 {
-  "key": "4S87NQPF",
-  "version": 5171,
+  "key": "YHLJKFU5",
+  "version": 4854,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/4S87NQPF",
+      "href": "https://api.zotero.org/groups/4394244/items/YHLJKFU5",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/4S87NQPF",
+      "href": "https://www.zotero.org/groups/tibschol/items/YHLJKFU5",
       "type": "text/html"
     }
   },
@@ -34,37 +34,37 @@
         }
       }
     },
-    "creatorSummary": "Kapstein",
-    "parsedDate": "2001",
+    "creatorSummary": "Tucci",
+    "parsedDate": "1949",
     "numChildren": 0
   },
   "data": {
-    "key": "4S87NQPF",
-    "version": 5171,
+    "key": "YHLJKFU5",
+    "version": 4854,
     "itemType": "book",
-    "title": "Reason's Traces: Identity and Interpretation in Indian & Buddhist Thought",
+    "title": "Tibetan Painted Scrolls",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Matthew",
-        "lastName": "Kapstein"
+        "firstName": "Giuseppe",
+        "lastName": "Tucci"
       }
     ],
     "abstractNote": "",
     "series": "",
     "seriesNumber": "",
-    "volume": "",
-    "numberOfVolumes": "",
+    "volume": "1 & 2",
+    "numberOfVolumes": "2",
     "edition": "",
-    "date": "2001",
-    "publisher": "Oxford University \tPress",
-    "place": "New Delhi",
+    "date": "1949",
+    "publisher": "Libreria dello Stato",
+    "place": "Roma",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
-    "ISBN": "0 19 566827 8",
+    "numPages": "XV & VIII, 798 pages",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,16 +72,30 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "eng",
+    "shortTitle": "Tucci 1949",
+    "language": "eng, tib",
     "libraryCatalog": "",
-    "callNumber": "",
+    "callNumber": "ND1046.T5 T8",
     "rights": "",
     "extra": "",
-    "tags": [],
-    "collections": [],
-    "relations": {},
-    "dateAdded": "2025-05-21T12:41:06Z",
-    "dateModified": "2025-05-21T12:42:06Z"
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Phyapa Website"
+      },
+      {
+        "tag": "checked"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE"
+    ],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/4973554/items/CJQ3CEDY"
+    },
+    "dateAdded": "2024-01-09T08:50:35Z",
+    "dateModified": "2025-03-21T17:30:03Z"
   }
 }

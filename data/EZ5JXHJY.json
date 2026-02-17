@@ -1,0 +1,96 @@
+{
+  "key": "EZ5JXHJY",
+  "version": 3624,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/EZ5JXHJY",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/EZ5JXHJY",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "1978",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "EZ5JXHJY",
+    "version": 3624,
+    "itemType": "journalArticle",
+    "title": "Phya-pa Chos-kyi seng-ge's Impact on Tibetan Epistemological Theory",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Indian Philosophy",
+    "publisher": "",
+    "place": "",
+    "date": "1978",
+    "volume": "5",
+    "issue": "4",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "355\u2013369",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "JIP",
+    "DOI": "10/ckjh9k",
+    "citationKey": "",
+    "url": "http://www.springerlink.com/index/T333J775HR516822.pdf",
+    "accessDate": "2013-04-01T04:34:46Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "https://www.jstor.org/stable/23440751",
+    "archiveLocation": "",
+    "shortTitle": "van der Kuijp 1978",
+    "language": "eng",
+    "libraryCatalog": "Google Scholar",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "NVIEWWIE",
+      "DC68IMMR"
+    ],
+    "relations": {},
+    "dateAdded": "2021-12-16T08:32:03Z",
+    "dateModified": "2025-03-21T17:29:51Z"
+  }
+}
