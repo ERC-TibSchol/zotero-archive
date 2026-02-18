@@ -1,6 +1,6 @@
 {
-  "key": "YW5L3CIG",
-  "version": 4280,
+  "key": "4LWBNM7B",
+  "version": 3632,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/YW5L3CIG",
+      "href": "https://api.zotero.org/groups/4394244/items/4LWBNM7B",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/YW5L3CIG",
+      "href": "https://www.zotero.org/groups/tibschol/items/4LWBNM7B",
       "type": "text/html"
     }
   },
@@ -34,37 +34,37 @@
         }
       }
     },
-    "creatorSummary": "van der Kuijp",
-    "parsedDate": "1985",
+    "creatorSummary": "Stoltz",
+    "parsedDate": "2022",
     "numChildren": 0
   },
   "data": {
-    "key": "YW5L3CIG",
-    "version": 4280,
+    "key": "4LWBNM7B",
+    "version": 3632,
     "itemType": "journalArticle",
-    "title": "Miscellanea Apropos of the Philosophy of Mind in Tibet: Mind in Tibetan Buddhism",
+    "title": "The Place of Dan \u2019bag pa sMra ba\u2019i seng ge in the Tibetan Epistemological Tradition",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Leonard W. J.",
-        "lastName": "van der Kuijp"
+        "firstName": "Jonathan",
+        "lastName": "Stoltz"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
     "publisher": "",
     "place": "",
-    "date": "1985",
-    "volume": "The Tibet Journal",
-    "issue": "10.1",
+    "date": "2022",
+    "volume": "65",
+    "issue": "",
     "section": "",
     "partNumber": "",
     "partTitle": "",
-    "pages": "32-43",
+    "pages": "104-126",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
-    "journalAbbreviation": "TJ",
+    "journalAbbreviation": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -74,18 +74,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "van der Kuijp 1985",
+    "shortTitle": "Stoltz 2022",
     "language": "eng",
-    "libraryCatalog": "",
+    "libraryCatalog": "Zotero",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [
-      "MMDISFTC"
+      "DC68IMMR"
     ],
     "relations": {},
-    "dateAdded": "2021-12-16T09:03:57Z",
-    "dateModified": "2025-05-20T19:20:25Z"
+    "dateAdded": "2022-10-18T13:22:39Z",
+    "dateModified": "2025-03-21T17:30:44Z"
   }
 }

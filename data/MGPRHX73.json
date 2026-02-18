@@ -1,6 +1,6 @@
 {
-  "key": "YW5L3CIG",
-  "version": 4280,
+  "key": "MGPRHX73",
+  "version": 3633,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/YW5L3CIG",
+      "href": "https://api.zotero.org/groups/4394244/items/MGPRHX73",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/YW5L3CIG",
+      "href": "https://www.zotero.org/groups/tibschol/items/MGPRHX73",
       "type": "text/html"
     }
   },
@@ -34,58 +34,62 @@
         }
       }
     },
-    "creatorSummary": "van der Kuijp",
-    "parsedDate": "1985",
-    "numChildren": 0
+    "creatorSummary": "Stoltz",
+    "parsedDate": "2020-10",
+    "numChildren": 1
   },
   "data": {
-    "key": "YW5L3CIG",
-    "version": 4280,
+    "key": "MGPRHX73",
+    "version": 3633,
     "itemType": "journalArticle",
-    "title": "Miscellanea Apropos of the Philosophy of Mind in Tibet: Mind in Tibetan Buddhism",
+    "title": "On the Authorship of the Tshad ma'i de kho na nyid bsdus pa",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Leonard W. J.",
-        "lastName": "van der Kuijp"
+        "firstName": "Jonathan",
+        "lastName": "Stoltz"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
     "publisher": "",
     "place": "",
-    "date": "1985",
-    "volume": "The Tibet Journal",
-    "issue": "10.1",
+    "date": "October 2020",
+    "volume": "56",
+    "issue": "",
     "section": "",
     "partNumber": "",
     "partTitle": "",
-    "pages": "32-43",
+    "pages": "46-69",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
-    "journalAbbreviation": "TJ",
+    "journalAbbreviation": "RET",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "https://himalaya.socanth.cam.ac.uk/collections/journals/ret/pdf/ret_56_02.pdf",
     "accessDate": "",
     "PMID": "",
     "PMCID": "",
-    "ISSN": "",
+    "ISSN": "1768-2959",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "van der Kuijp 1985",
+    "shortTitle": "Stoltz 2020",
     "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
-    "collections": [
-      "MMDISFTC"
+    "tags": [
+      {
+        "tag": "APIS"
+      }
     ],
-    "relations": {},
-    "dateAdded": "2021-12-16T09:03:57Z",
-    "dateModified": "2025-05-20T19:20:25Z"
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/5224793/items/88F89US6"
+    },
+    "dateAdded": "2023-11-14T17:16:30Z",
+    "dateModified": "2025-03-21T17:30:48Z"
   }
 }

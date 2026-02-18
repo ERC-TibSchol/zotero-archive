@@ -1,6 +1,6 @@
 {
-  "key": "2HY7DVYD",
-  "version": 4277,
+  "key": "N7FZJ6CJ",
+  "version": 6134,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,27 +14,16 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/2HY7DVYD",
+      "href": "https://api.zotero.org/groups/4394244/items/N7FZJ6CJ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/2HY7DVYD",
+      "href": "https://www.zotero.org/groups/tibschol/items/N7FZJ6CJ",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8444710,
-      "username": "Serena.Biondo",
-      "name": "",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/serena.biondo",
-          "type": "text/html"
-        }
-      }
-    },
-    "lastModifiedByUser": {
       "id": 8397006,
       "username": "PascaleHugon",
       "name": "",
@@ -45,35 +34,47 @@
         }
       }
     },
-    "creatorSummary": "A mo gha si ddhi",
+    "creatorSummary": "Sernesi et al.",
+    "parsedDate": "2019",
     "numChildren": 0
   },
   "data": {
-    "key": "2HY7DVYD",
-    "version": 4277,
+    "key": "N7FZJ6CJ",
+    "version": 6134,
     "itemType": "book",
-    "title": "Chos grwa chen po dpal zhwa lu gser khang gi bdag po jo bo lce\u02bci gdung rabs",
+    "title": "Unearthing Himalayan Treasures: Festschrift for Franz-Karl Ehrhard",
     "creators": [
       {
-        "creatorType": "author",
-        "name": "A mo gha si ddhi"
+        "creatorType": "editor",
+        "firstName": "Marta",
+        "lastName": "Sernesi"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Volker",
+        "lastName": "Caumanns"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Nikolai",
+        "lastName": "Solmsdorf"
       }
     ],
     "abstractNote": "",
     "series": "",
-    "seriesNumber": "",
+    "seriesNumber": "59",
     "volume": "",
-    "numberOfVolumes": "1",
+    "numberOfVolumes": "",
     "edition": "",
-    "date": "",
-    "publisher": "",
-    "place": "",
+    "date": "2019",
+    "publisher": "Indica et Tibetica Verlag",
+    "place": "Marburg",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
     "numPages": "",
-    "ISBN": "",
+    "ISBN": "978-3-923776-62-7",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -82,17 +83,17 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "",
-    "language": "tib",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [],
-    "collections": [
-      "ISJJ5QGY"
-    ],
-    "relations": {},
-    "dateAdded": "2022-02-16T08:37:33Z",
-    "dateModified": "2025-05-20T19:20:07Z"
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/VHF9JLT4"
+    },
+    "dateAdded": "2026-02-17T08:51:06Z",
+    "dateModified": "2026-02-17T08:52:50Z"
   }
 }

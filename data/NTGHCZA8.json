@@ -1,6 +1,6 @@
 {
   "key": "NTGHCZA8",
-  "version": 4885,
+  "version": 5945,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "NTGHCZA8",
-    "version": 4885,
+    "version": 5945,
     "itemType": "thesis",
     "title": "Building Place and Shaping Lives: Nartang Monastery from the Twelfth through Fifteenth Centuries",
     "creators": [
@@ -86,17 +86,23 @@
     "university": "University of Virginia",
     "place": "",
     "date": "2016",
+    "series": "",
+    "seriesNumber": "",
     "numPages": "",
-    "language": "eng",
-    "shortTitle": "Schuman 2016",
+    "DOI": "10.18130/V39G5T",
+    "ISBN": "",
+    "citationKey": "",
     "url": "https://libraetd.lib.virginia.edu/public_view/2b88qc50s",
     "accessDate": "2021-10-19T12:27:21Z",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Schuman 2016",
+    "language": "eng",
     "libraryCatalog": "DOI.org (Datacite)",
     "callNumber": "",
     "rights": "All rights reserved (no additional license for public reuse)",
-    "extra": "DOI: 10.18130/V39G5T",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"

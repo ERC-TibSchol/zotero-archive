@@ -1,0 +1,105 @@
+{
+  "key": "VHF9JLT4",
+  "version": 6139,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VHF9JLT4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VHF9JLT4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sernesi",
+    "parsedDate": "2019",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VHF9JLT4",
+    "version": 6139,
+    "itemType": "bookSection",
+    "title": "Writing Local Religious History: The Abbatial History of Brag dkar rta so",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Marta",
+        "lastName": "Sernesi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Marta",
+        "lastName": "Sernesi"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Volker",
+        "lastName": "Caumanns"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Nikolai",
+        "lastName": "Solmsdorf"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Unearthing Himalayan Treasures: Festschrift for Franz-Karl Ehrhard",
+    "series": "",
+    "seriesNumber": "59",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2019",
+    "publisher": "Indica et Tibetica Verlag",
+    "place": "Marburg",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "387-415",
+    "ISBN": "978-3-923776-62-7",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://hal.science/hal-03043766v1",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Sernesi 2019",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/N7FZJ6CJ"
+    },
+    "dateAdded": "2026-02-17T08:52:59Z",
+    "dateModified": "2026-02-17T08:53:44Z"
+  }
+}
