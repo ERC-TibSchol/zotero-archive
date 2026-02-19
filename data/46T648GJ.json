@@ -1,6 +1,6 @@
 {
   "key": "46T648GJ",
-  "version": 4408,
+  "version": 6140,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,9 +51,9 @@
   },
   "data": {
     "key": "46T648GJ",
-    "version": 4408,
+    "version": 6140,
     "itemType": "bookSection",
-    "title": "On the Sanskrit and Tibetan Versions of the Pram\u0101\u1e47avini\u015bcaya \u2013 A look into the  translator\u2019s workshop of r\u1e44og Blo ldan \u015bes rab",
+    "title": "On the Sanskrit and Tibetan Versions of the Pram\u0101\u1e47avini\u015bcaya \u2013 A look into the translator\u2019s workshop of r\u1e44og Blo ldan \u015bes rab",
     "creators": [
       {
         "creatorType": "author",
@@ -78,17 +78,24 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Beijing",
-    "publisher": "China Tibetology Publishing House",
     "date": "2016",
+    "publisher": "China Tibetology Publishing House",
+    "place": "Beijing",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "49-113",
-    "language": "eng",
     "ISBN": "",
-    "shortTitle": "",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -99,6 +106,6 @@
     ],
     "relations": {},
     "dateAdded": "2021-08-24T14:17:00Z",
-    "dateModified": "2025-05-21T05:34:43Z"
+    "dateModified": "2026-02-18T08:48:31Z"
   }
 }
