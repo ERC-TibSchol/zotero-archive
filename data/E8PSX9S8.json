@@ -1,6 +1,6 @@
 {
-  "key": "UKA7IH83",
-  "version": 6141,
+  "key": "E8PSX9S8",
+  "version": 6146,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/UKA7IH83",
+      "href": "https://api.zotero.org/groups/4394244/items/E8PSX9S8",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/UKA7IH83",
+      "href": "https://www.zotero.org/groups/tibschol/items/E8PSX9S8",
       "type": "text/html"
     }
   },
@@ -34,50 +34,52 @@
         }
       }
     },
-    "creatorSummary": "Doctor",
-    "parsedDate": "2014",
+    "creatorSummary": "Jackson",
+    "parsedDate": "1985",
     "numChildren": 0
   },
   "data": {
-    "key": "UKA7IH83",
-    "version": 6141,
-    "itemType": "book",
-    "title": "Reason and experience in Tibetan Buddhism: Mabja Jangchub Tso\u0308ndru\u0308 and the traditions of the Middle Way",
+    "key": "E8PSX9S8",
+    "version": 6146,
+    "itemType": "journalArticle",
+    "title": "Two Grub mtha' Treatises of Sa-skya Pa\u1e47\u1e0dita - One Lost and One Forged",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Thomas H.",
-        "lastName": "Doctor"
+        "firstName": "David P.",
+        "lastName": "Jackson"
       }
     ],
     "abstractNote": "",
-    "series": "Routledge critical studies in Buddhism",
-    "seriesNumber": "",
-    "volume": "",
-    "numberOfVolumes": "",
-    "edition": "",
-    "date": "2014",
-    "publisher": "Routledge",
-    "place": "London",
-    "originalDate": "",
-    "originalPublisher": "",
-    "originalPlace": "",
-    "format": "",
-    "numPages": "",
-    "ISBN": "9780415722469",
+    "publicationTitle": "Tibet Journal",
+    "publisher": "",
+    "place": "",
+    "date": "1985",
+    "volume": "10/1",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "3\u201313",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
     "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Doctor 2014",
+    "shortTitle": "Jackson 1985",
     "language": "eng",
-    "libraryCatalog": "BnF ISBN",
+    "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 323",
     "tags": [
       {
         "tag": "APIS"
@@ -85,7 +87,7 @@
     ],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-10-09T14:45:50Z",
-    "dateModified": "2026-02-23T11:36:12Z"
+    "dateAdded": "2026-02-23T12:20:17Z",
+    "dateModified": "2026-02-23T12:20:52Z"
   }
 }

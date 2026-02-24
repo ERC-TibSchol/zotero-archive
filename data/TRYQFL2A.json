@@ -1,6 +1,6 @@
 {
-  "key": "29CK7B9K",
-  "version": 4281,
+  "key": "TRYQFL2A",
+  "version": 3634,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,22 +14,22 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/29CK7B9K",
+      "href": "https://api.zotero.org/groups/4394244/items/TRYQFL2A",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/29CK7B9K",
+      "href": "https://www.zotero.org/groups/tibschol/items/TRYQFL2A",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8444710,
-      "username": "Serena.Biondo",
+      "id": 16097655,
+      "username": "michael.ium",
       "name": "",
       "links": {
         "alternate": {
-          "href": "https://www.zotero.org/serena.biondo",
+          "href": "https://www.zotero.org/michael.ium",
           "type": "text/html"
         }
       }
@@ -45,56 +45,59 @@
         }
       }
     },
-    "creatorSummary": "Ngorchen Kunga Zangpo",
-    "parsedDate": "1990",
+    "creatorSummary": "sTag tshang pa dpal \u02bcbyor bzang po",
+    "parsedDate": "1985",
     "numChildren": 0
   },
   "data": {
-    "key": "29CK7B9K",
-    "version": 4281,
-    "itemType": "bookSection",
-    "title": "Thob yig rgya mtsho",
+    "key": "TRYQFL2A",
+    "version": 3634,
+    "itemType": "book",
+    "title": "rGya bod yig tshang chen mo",
     "creators": [
       {
         "creatorType": "author",
-        "name": "Ngorchen Kunga Zangpo"
+        "name": "sTag tshang pa dpal \u02bcbyor bzang po"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "The Complete Works Of Ngor-chen Kun-dga'-bzang-po",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
-    "numberOfVolumes": "4",
-    "edition": "",
-    "date": "1990\u20131999",
-    "publisher": "[Sakya centre]",
-    "place": "[Dehra Dun]",
+    "volume": "",
+    "numberOfVolumes": "1",
+    "edition": "Par gzhi dang po",
+    "date": "1985",
+    "publisher": "Si khron mi rigs dpe skrun khang",
+    "place": "Khreng tu\u02bcu",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "181\u2013436",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW11577_3F6F75",
+    "url": "http://purl.bdrc.io/resource/MW20848",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "rGya bod yig tshang chen mo",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "MW11577_3F6F75\nEntire work link: http://purl.bdrc.io/resource/MW11577\nWork: WA11577",
-    "tags": [],
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [
-      "IEP4UFSV"
+      "ISJJ5QGY"
     ],
     "relations": {},
-    "dateAdded": "2022-10-06T08:53:25Z",
-    "dateModified": "2025-05-20T19:20:33Z"
+    "dateAdded": "2025-02-19T16:19:09Z",
+    "dateModified": "2025-03-21T17:30:54Z"
   }
 }
