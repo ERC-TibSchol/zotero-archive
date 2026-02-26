@@ -1,6 +1,6 @@
 {
-  "key": "P6ETAAHN",
-  "version": 5192,
+  "key": "Q8WU9EDW",
+  "version": 4868,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/P6ETAAHN",
+      "href": "https://api.zotero.org/groups/4394244/items/Q8WU9EDW",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/P6ETAAHN",
+      "href": "https://www.zotero.org/groups/tibschol/items/Q8WU9EDW",
       "type": "text/html"
     }
   },
@@ -34,62 +34,62 @@
         }
       }
     },
-    "creatorSummary": "Tillemans",
-    "parsedDate": "1989",
+    "creatorSummary": "Schwabland",
+    "parsedDate": "1995",
     "numChildren": 0
   },
   "data": {
-    "key": "P6ETAAHN",
-    "version": 5192,
+    "key": "Q8WU9EDW",
+    "version": 4868,
     "itemType": "journalArticle",
-    "title": "Formal and semantic aspects of Tibetan Buddhist debate logic",
+    "title": "Direct and indirect cognition and the definition of pram\u0101na in early Tibetan epistemology",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Tom J. F.",
-        "lastName": "Tillemans"
+        "firstName": "Peter A.",
+        "lastName": "Schwabland"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "Journal of Indian Philosophy",
+    "publicationTitle": "Asiatische Studien : Zeitschrift der Schweizerischen Asiengesellschaft = \u00c9tudes asiatiques : revue de la Soci\u00e9t\u00e9 Suisse-Asie",
     "publisher": "",
     "place": "",
-    "date": "1989",
-    "volume": "17",
-    "issue": "3",
+    "date": "1995",
+    "volume": "49",
+    "issue": "4",
     "section": "",
     "partNumber": "",
     "partTitle": "",
-    "pages": "265-297",
+    "pages": "793-816",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
     "journalAbbreviation": "",
-    "DOI": "",
+    "DOI": "10.5169/SEALS-147199",
     "citationKey": "",
-    "url": "",
-    "accessDate": "",
+    "url": "https://www.e-periodica.ch/digbib/view?pid=ast-002:1995:49::1095",
+    "accessDate": "2024-02-26T14:39:07Z",
     "PMID": "",
     "PMCID": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Schwabland 1995",
     "language": "eng",
-    "libraryCatalog": "",
+    "libraryCatalog": "DOI.org (Datacite)",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
       {
-        "tag": "Debate"
+        "tag": "APIS"
       }
     ],
     "collections": [
-      "DC68IMMR"
+      "UF2RY449"
     ],
     "relations": {},
-    "dateAdded": "2025-05-21T12:49:47Z",
-    "dateModified": "2025-05-21T12:50:40Z"
+    "dateAdded": "2024-02-26T14:40:20Z",
+    "dateModified": "2025-03-21T17:31:19Z"
   }
 }

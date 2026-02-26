@@ -1,0 +1,96 @@
+{
+  "key": "KHA9ZVGP",
+  "version": 3640,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/KHA9ZVGP",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/KHA9ZVGP",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Schaeffer and van der Kuijp",
+    "parsedDate": "2009",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "KHA9ZVGP",
+    "version": 3640,
+    "itemType": "book",
+    "title": "An Early Tibetan Survey of Buddhist Literature: The Bstan pa rgyas pa rgyan gyi nyi 'od of Bcom ldan ral gri",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Leonard W. J.",
+        "lastName": "van der Kuijp"
+      }
+    ],
+    "abstractNote": "This is a study and edition of Bcom Idan ral gri's \"Bstan pa rgyas pa rgyan gyi nyi 'od\". Probably composed in the last decades of the 13th century, this systematic list of Buddhist Sutras, Tantras, Shastras, and related genres translated primarily from Sanskrit languages, holds an important place in the history of Buddhist literature in Tibet.",
+    "series": "Harvard Oriental Series",
+    "seriesNumber": "64",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2009",
+    "publisher": "Dept. of Sanskrit and Indian Studies, Harvard University : Distributed by Harvard University Press",
+    "place": "Cambridge, Mass.",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "0674014596 : 9780674014596",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Schaeffer and van der Kuijp 2009",
+    "language": "eng, tib",
+    "libraryCatalog": "Open WorldCat",
+    "callNumber": "0000",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2023-10-19T10:26:56Z",
+    "dateModified": "2025-03-21T17:31:36Z"
+  }
+}

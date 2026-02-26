@@ -1,6 +1,6 @@
 {
-  "key": "P6ETAAHN",
-  "version": 5192,
+  "key": "GJBGD75B",
+  "version": 6162,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,53 +14,52 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/P6ETAAHN",
+      "href": "https://api.zotero.org/groups/4394244/items/GJBGD75B",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/P6ETAAHN",
+      "href": "https://www.zotero.org/groups/tibschol/items/GJBGD75B",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8397006,
-      "username": "PascaleHugon",
+      "id": 4983698,
+      "username": "mazhouyang",
       "name": "",
       "links": {
         "alternate": {
-          "href": "https://www.zotero.org/pascalehugon",
+          "href": "https://www.zotero.org/mazhouyang",
           "type": "text/html"
         }
       }
     },
-    "creatorSummary": "Tillemans",
-    "parsedDate": "1989",
+    "creatorSummary": "Nemoto Hiroshi \u6839\u672c\u88d5\u53f2",
+    "parsedDate": "2025-03",
     "numChildren": 0
   },
   "data": {
-    "key": "P6ETAAHN",
-    "version": 5192,
+    "key": "GJBGD75B",
+    "version": 6162,
     "itemType": "journalArticle",
-    "title": "Formal and semantic aspects of Tibetan Buddhist debate logic",
+    "title": "Fuzai no chikaku \u4e0d\u5728\u306e\u77e5\u899a/Perceiving No-thing-ness",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Tom J. F.",
-        "lastName": "Tillemans"
+        "name": "Nemoto Hiroshi \u6839\u672c\u88d5\u53f2"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "Journal of Indian Philosophy",
+    "publicationTitle": "Hikaku ronrigaku kenky\u016b \u6bd4\u8f03\u8ad6\u7406\u5b66\u7814\u7a76/The Annals of the Research Project Center for the Comparative Study of Logic",
     "publisher": "",
     "place": "",
-    "date": "1989",
-    "volume": "17",
-    "issue": "3",
+    "date": "2025-03",
+    "volume": "23",
+    "issue": "",
     "section": "",
     "partNumber": "",
     "partTitle": "",
-    "pages": "265-297",
+    "pages": "199\u2013240",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
@@ -75,21 +74,17 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "",
-    "language": "eng",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "Debate"
-      }
-    ],
+    "tags": [],
     "collections": [
-      "DC68IMMR"
+      "3B9JCMU7"
     ],
     "relations": {},
-    "dateAdded": "2025-05-21T12:49:47Z",
-    "dateModified": "2025-05-21T12:50:40Z"
+    "dateAdded": "2026-02-25T07:41:17Z",
+    "dateModified": "2026-02-25T07:41:55Z"
   }
 }

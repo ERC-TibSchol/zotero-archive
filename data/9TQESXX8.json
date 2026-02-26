@@ -1,0 +1,90 @@
+{
+  "key": "9TQESXX8",
+  "version": 6155,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9TQESXX8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9TQESXX8",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 4983698,
+      "username": "mazhouyang",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/mazhouyang",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Pengmao Caidan \u5f6d\u6bdb\u624d\u65e6 [Phag mo tshe brtan]",
+    "parsedDate": "2023-06",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9TQESXX8",
+    "version": 6155,
+    "itemType": "journalArticle",
+    "title": "Xunnu xiangqu \"Apidamo jilun guangshi\" zai Zangchuan Fojiao Zhongguan sixiang shi Shang de diwei \u718f\u5974\u7965\u66f2\u300a\u963f\u6bd7\u9054\u78e8\u96c6\u8ad6\u5ee3\u91cb\u300b\u5728\u85cf\u50b3\u4f5b\u6559\u4e2d\u89c0\u601d\u60f3\u53f2\u4e0a\u7684\u5730\u4f4d\u201c [The Position of Gzhon nu byang chub\u2019s \u201cChos mngon pa kun las btus pa'i ti ka\u201d in the History of Madhyamaka of Tibetan Buddhism]",
+    "creators": [
+      {
+        "creatorType": "author",
+        "name": "Pengmao Caidan \u5f6d\u6bdb\u624d\u65e6 [Phag mo tshe brtan]"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Taida foxue yanjiu \u81fa\u5927\u4f5b\u5b78\u7814\u7a76/Taiwan Journal of Buddhist Studies",
+    "publisher": "",
+    "place": "",
+    "date": "2023-06",
+    "volume": "45",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "1\u201330",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "10.6727/TJBS.202306_(45).0001",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "3B9JCMU7"
+    ],
+    "relations": {},
+    "dateAdded": "2026-02-25T07:38:36Z",
+    "dateModified": "2026-02-25T07:40:01Z"
+  }
+}

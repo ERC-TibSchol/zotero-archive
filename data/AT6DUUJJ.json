@@ -1,0 +1,106 @@
+{
+  "key": "AT6DUUJJ",
+  "version": 5946,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/AT6DUUJJ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/AT6DUUJJ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sparham",
+    "parsedDate": "1996",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "AT6DUUJJ",
+    "version": 5946,
+    "itemType": "journalArticle",
+    "title": "A Note on Gnyal zhig 'Jam pa'i rdo rje, the Author of a Handwritten Sher phyin Commentary from about 1200",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Gareth",
+        "lastName": "Sparham"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Tibet Journal",
+    "publisher": "Library of Tibetan Works and Archives",
+    "place": "",
+    "date": "1996",
+    "volume": "21",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "19-29",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "TJ",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://www.jstor.org/stable/43300559",
+    "accessDate": "2022-09-30",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "09705368",
+    "archive": "JSTOR",
+    "archiveLocation": "",
+    "shortTitle": "Sparham 1996",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-09-30T20:22:16Z",
+    "dateModified": "2025-03-21T17:31:13Z"
+  }
+}
