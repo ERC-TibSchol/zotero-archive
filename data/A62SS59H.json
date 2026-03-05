@@ -56,17 +56,24 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Wien; Beijing",
-    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien; China Tibetology Research Center",
     "date": "2004",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien; China Tibetology Research Center",
+    "place": "Wien; Beijing",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "numPages": "xxx, 80",
-    "language": "eng, tib",
     "ISBN": "3-902501-00-6",
-    "shortTitle": "Dram Dul 2004",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Dram Dul 2004",
+    "language": "eng, tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -86,8 +93,8 @@
       }
     ],
     "collections": [
-      "NVIEWWIE",
-      "B3TNTFC4"
+      "B3TNTFC4",
+      "NVIEWWIE"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/3WBRV3CD"

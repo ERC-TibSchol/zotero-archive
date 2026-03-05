@@ -1,0 +1,114 @@
+{
+  "key": "RSAHY7SM",
+  "version": 3643,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RSAHY7SM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RSAHY7SM",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Rong-ston Shes-bya-kun-rig et al.",
+    "parsedDate": "1988",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RSAHY7SM",
+    "version": 3643,
+    "itemType": "book",
+    "title": "Rong-ston on the Praj\u00f1\u0101p\u0101ramit\u0101 philosophy of the Abhisamay\u0101la\u1e43k\u0101ra : his sub-commentary on Haribhadra's 'Sphu\u1e6d\u0101rth\u0101'",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Rong-ston Shes-bya-kun-rig"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "David Paul",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Biblia Tibetica Series",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "date": "1988",
+    "publisher": "Nagata Bunshodo",
+    "place": "Kyoto",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Rong - mngon rtogs rgyan 'grel",
+    "language": "eng, tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "H3YINC3T"
+    ],
+    "relations": {},
+    "dateAdded": "2022-06-07T18:50:09Z",
+    "dateModified": "2025-03-21T17:32:09Z"
+  }
+}

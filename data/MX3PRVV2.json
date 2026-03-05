@@ -1,0 +1,98 @@
+{
+  "key": "MX3PRVV2",
+  "version": 6170,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/MX3PRVV2",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/MX3PRVV2",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Halkias and Drukgyel",
+    "parsedDate": "2025-03-28",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "MX3PRVV2",
+    "version": 6170,
+    "itemType": "journalArticle",
+    "title": "Other-Emptiness in the Work of an Unknown Mystic Illuminating the Path to Freedom by Jamyang Sarma Sherab \u00d6zer",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Georgios",
+        "lastName": "Halkias"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tsering",
+        "lastName": "Drukgyel"
+      }
+    ],
+    "abstractNote": "In this article, we investigate the previously unstudied life and works of the late-12th/early-13th century Tibetan polymath Jamyang Sarma Sherab \u00d6zer (\u2018Jam dbyang gsar ma shes rab \u2018od zer), an important Buddhist master in the Dro lineage of the K\u0101lacakra Tantra. We will focus on his unique syncretic work, Illuminating the Path to Freedom (Thar lam sgron me), and provide an overview of his surviving literary output. Jamyang Sarma predates D\u00f6lpopa Sherab Gyeltsen (Dol po pa shes rab rgyal mtshan, 1292\u20131361) in the use of the term \u2018other-emptiness\u2019, or \u2018extrinsic emptiness\u2019 (gzhan stong), in his writings, as opposed to the well-known view of Madhyamaka on \u2018self-emptiness\u2019 (rang stong). While conventional historiography has predominantly attributed the earliest systematic deployment of the technical term gzhan stong to D\u00f6lpopa, whose writings indeed represent the most comprehensive theoretical exposition within the Jonang tradition, current philological evidence suggests more complex lines of transmission through earlier Tibetan masters. This essay will shed new light on this issue by looking into Jamyang Sarma\u2019s Illuminating the Path to Freedom.",
+    "publicationTitle": "Religions",
+    "publisher": "",
+    "place": "",
+    "date": "2025-03-28",
+    "volume": "16",
+    "issue": "4",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "435 (16 pages)",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Religions",
+    "DOI": "10.3390/rel16040435",
+    "citationKey": "",
+    "url": "https://www.mdpi.com/2077-1444/16/4/435",
+    "accessDate": "2026-03-04T11:37:19Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "2077-1444",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Halkias and Drukgyel 2025",
+    "language": "eng",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-03-04T11:37:19Z",
+    "dateModified": "2026-03-04T11:38:22Z"
+  }
+}
