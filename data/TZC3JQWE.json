@@ -1,6 +1,6 @@
 {
-  "key": "JSUBIUQV",
-  "version": 5197,
+  "key": "TZC3JQWE",
+  "version": 6186,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/JSUBIUQV",
+      "href": "https://api.zotero.org/groups/4394244/items/TZC3JQWE",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/JSUBIUQV",
+      "href": "https://www.zotero.org/groups/tibschol/items/TZC3JQWE",
       "type": "text/html"
     }
   },
@@ -34,47 +34,47 @@
         }
       }
     },
-    "creatorSummary": "Cox",
-    "parsedDate": "1992",
+    "creatorSummary": "Martin",
+    "parsedDate": "2002",
     "numChildren": 0
   },
   "data": {
-    "key": "JSUBIUQV",
-    "version": 5197,
+    "key": "TZC3JQWE",
+    "version": 6186,
     "itemType": "bookSection",
-    "title": "The unbroken treatise: Scripture and argument in early Buddhist scholasticism",
+    "title": "Tracing the Tibetan Teaching Transmission of the Mngon-pa Kun-btus (Abhidharmasamuccaya) through\nthe Early Period of Disunity",
     "creators": [
       {
-        "creatorType": "editor",
-        "firstName": "Michael",
-        "lastName": "Williams"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "Collett",
-        "lastName": "Cox"
-      },
-      {
         "creatorType": "author",
-        "firstName": "Collett",
-        "lastName": "Cox"
+        "firstName": "Dan",
+        "lastName": "Martin"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Helmut",
+        "lastName": "Eimer"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "David",
+        "lastName": "Germano"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Innovation in Religious Traditions",
+    "bookTitle": "The Many Canons of Tibetan\nBuddhism",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1992",
-    "publisher": "",
-    "place": "Berlin",
+    "date": "2002",
+    "publisher": "Brill",
+    "place": "Leiden",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "143-189",
+    "pages": "335-357",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -83,7 +83,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Martin 2002",
     "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
@@ -91,16 +91,12 @@
     "extra": "",
     "tags": [
       {
-        "tag": "Scholasticism"
+        "tag": "APIS"
       }
     ],
-    "collections": [
-      "YVHDSL7M"
-    ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/PFU4PG3K"
-    },
-    "dateAdded": "2025-05-21T09:37:39Z",
-    "dateModified": "2025-05-21T12:54:43Z"
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-03-06T14:56:36Z",
+    "dateModified": "2026-03-06T14:59:52Z"
   }
 }

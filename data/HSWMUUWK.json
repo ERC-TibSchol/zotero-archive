@@ -1,0 +1,81 @@
+{
+  "key": "HSWMUUWK",
+  "version": 3644,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HSWMUUWK",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HSWMUUWK",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Roberts",
+    "parsedDate": "2000",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HSWMUUWK",
+    "version": 3644,
+    "itemType": "thesis",
+    "title": "The Biographies of Ras-chung-pa: The Evolution of a Tibetan Hagiography",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Peter Alan",
+        "lastName": "Roberts"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Thesis submitted for the degree of Doctor of Philosophy in the Faculty of Oriental Studies",
+    "university": "University of Oxford",
+    "place": "",
+    "date": "2000",
+    "series": "",
+    "seriesNumber": "",
+    "numPages": "",
+    "DOI": "",
+    "ISBN": "",
+    "citationKey": "",
+    "url": "https://ora.ox.ac.uk/objects/uuid:e4d7b22b-5a36-4d7c-8e41-3616935d4a78",
+    "accessDate": "2025-03-18",
+    "ISSN": "",
+    "archive": "ORA",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "File No. 602363051",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2025-03-18T13:50:58Z",
+    "dateModified": "2025-03-21T17:32:24Z"
+  }
+}
