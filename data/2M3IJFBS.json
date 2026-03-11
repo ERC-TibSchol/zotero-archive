@@ -1,6 +1,6 @@
 {
-  "key": "MKQ72HFF",
-  "version": 4298,
+  "key": "2M3IJFBS",
+  "version": 6196,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/MKQ72HFF",
+      "href": "https://api.zotero.org/groups/4394244/items/2M3IJFBS",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/MKQ72HFF",
+      "href": "https://www.zotero.org/groups/tibschol/items/2M3IJFBS",
       "type": "text/html"
     }
   },
@@ -34,41 +34,42 @@
         }
       }
     },
-    "creatorSummary": "Rinbochay and Napper",
-    "parsedDate": "1980",
+    "creatorSummary": "Frauwallner",
+    "parsedDate": "1933",
     "numChildren": 0
   },
   "data": {
-    "key": "MKQ72HFF",
-    "version": 4298,
-    "itemType": "book",
-    "title": "Mind in Tibetan Buddhism",
+    "key": "2M3IJFBS",
+    "version": 6196,
+    "itemType": "bookSection",
+    "title": "Dign\u0101ga und anderes",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Lati",
-        "lastName": "Rinbochay"
+        "firstName": "Erich",
+        "lastName": "Frauwallner"
       },
       {
-        "creatorType": "author",
-        "firstName": "Elizabeth",
-        "lastName": "Napper"
+        "creatorType": "editor",
+        "firstName": "Otto Stein und Wilhelm",
+        "lastName": "Gampert"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "Festschrift Moriz Winternitz 1863 - 23. Dezember 1933",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1980",
-    "publisher": "Snow Lion Publications",
-    "place": "Ithaca",
+    "date": "1933",
+    "publisher": "Otto Harrassowitz",
+    "place": "Leipzig",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
+    "pages": "237\u2013242",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -77,18 +78,20 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "eng",
+    "shortTitle": "Frauwallner 1933",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
-    "tags": [],
-    "collections": [
-      "MMDISFTC"
+    "extra": "Version Number: 2009-07-22 12:57:42\n_eprint: 2607",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
     ],
+    "collections": [],
     "relations": {},
-    "dateAdded": "2021-12-16T09:26:13Z",
-    "dateModified": "2025-05-20T19:22:26Z"
+    "dateAdded": "2026-03-10T09:05:24Z",
+    "dateModified": "2026-03-10T09:05:51Z"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "key": "2477SX3F",
-  "version": 4990,
+  "key": "E7QQ8GLF",
+  "version": 4959,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,27 +14,16 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/2477SX3F",
+      "href": "https://api.zotero.org/groups/4394244/items/E7QQ8GLF",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/2477SX3F",
+      "href": "https://www.zotero.org/groups/tibschol/items/E7QQ8GLF",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 16097655,
-      "username": "michael.ium",
-      "name": "",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/michael.ium",
-          "type": "text/html"
-        }
-      }
-    },
-    "lastModifiedByUser": {
       "id": 8397006,
       "username": "PascaleHugon",
       "name": "",
@@ -45,39 +34,51 @@
         }
       }
     },
-    "parsedDate": "1970",
+    "creatorSummary": "rNgog Blo ldan shes rab",
+    "parsedDate": "2018",
     "numChildren": 0
   },
   "data": {
-    "key": "2477SX3F",
-    "version": 4990,
+    "key": "E7QQ8GLF",
+    "version": 4959,
     "itemType": "bookSection",
-    "title": "bDe gshegs phag mo gru pa'i rnam par thar pa",
-    "creators": [],
+    "title": "mdo sde rgyan gyi don bsdus",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "sMon bzang dpe rnying 'tshol bsdu khang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "rNgog Blo ldan shes rab"
+      }
+    ],
     "abstractNote": "",
-    "bookTitle": "'Ba' ra bka' brgyud gser 'phreng chen mo",
+    "bookTitle": "sTong ra mkhan brgyud kyi gsung 'bum",
     "series": "",
     "seriesNumber": "",
     "volume": "1",
-    "numberOfVolumes": "4",
+    "numberOfVolumes": "3",
     "edition": "",
-    "date": "1970",
-    "publisher": "Ngawang Gyaltsen And Ngawang Lungtok",
-    "place": "Dehra Dun",
+    "date": "2018",
+    "publisher": "Bod ljongs bod yig dpe rnying dpe skrung khang",
+    "place": "Lhasa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "335-364",
+    "pages": "152\u2013240",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "https://purl.bdrc.io/resource/MW19231_854861",
+    "url": "",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
-    "archiveLocation": "",
-    "shortTitle": "Phag gru rnam thar - 'Ba' ra gser 'phreng",
+    "archiveLocation": "BDRC No: MW3CN21546",
+    "shortTitle": "rNgog lo - mdo sde rgyan don bsdus 2018 ed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -88,16 +89,16 @@
         "tag": "APIS"
       },
       {
-        "tag": "Biography"
+        "tag": "Gateway"
       }
     ],
     "collections": [
-      "B3TNTFC4",
-      "ISJJ5QGY",
-      "KZTGTQXP"
+      "IEP4UFSV"
     ],
-    "relations": {},
-    "dateAdded": "2025-03-10T16:56:37Z",
-    "dateModified": "2025-05-21T07:43:12Z"
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/8WSB3UGM"
+    },
+    "dateAdded": "2024-01-17T15:02:19Z",
+    "dateModified": "2025-03-21T17:32:47Z"
   }
 }

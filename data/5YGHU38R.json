@@ -1,5 +1,5 @@
 {
-  "key": "NNLCB2EF",
+  "key": "5YGHU38R",
   "version": 4959,
   "library": {
     "type": "group",
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/NNLCB2EF",
+      "href": "https://api.zotero.org/groups/4394244/items/5YGHU38R",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/NNLCB2EF",
+      "href": "https://www.zotero.org/groups/tibschol/items/5YGHU38R",
       "type": "text/html"
     }
   },
@@ -39,10 +39,10 @@
     "numChildren": 0
   },
   "data": {
-    "key": "NNLCB2EF",
+    "key": "5YGHU38R",
     "version": 4959,
     "itemType": "bookSection",
-    "title": "dbus mtha'i don bsdus",
+    "title": "shes rab kyi pha rol tu phyin pa'i man ngag bstan bcos mngon par rtogs pa'i rgyan 'grel rin chen sgron me",
     "creators": [
       {
         "creatorType": "editor",
@@ -69,7 +69,7 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "241\u2013285",
+    "pages": "2-151",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -78,7 +78,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "BDRC No: MW3CN21546",
-    "shortTitle": "rNgog lo - dbus mtha don bsdus",
+    "shortTitle": "rNgog lo - mngon rtogs rgyan don bsdus",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -98,7 +98,7 @@
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/8WSB3UGM"
     },
-    "dateAdded": "2024-01-23T10:05:42Z",
-    "dateModified": "2025-03-21T17:32:52Z"
+    "dateAdded": "2024-01-17T07:01:42Z",
+    "dateModified": "2025-03-21T17:32:38Z"
   }
 }

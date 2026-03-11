@@ -1,6 +1,6 @@
 {
-  "key": "PI2R73WI",
-  "version": 5647,
+  "key": "AAIEJBMW",
+  "version": 6197,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/PI2R73WI",
+      "href": "https://api.zotero.org/groups/4394244/items/AAIEJBMW",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/PI2R73WI",
+      "href": "https://www.zotero.org/groups/tibschol/items/AAIEJBMW",
       "type": "text/html"
     }
   },
@@ -34,34 +34,26 @@
         }
       }
     },
-    "creatorSummary": "Sur",
-    "parsedDate": "2021",
     "numChildren": 0
   },
   "data": {
-    "key": "PI2R73WI",
-    "version": 5647,
+    "key": "AAIEJBMW",
+    "version": 6197,
     "itemType": "webpage",
-    "title": "Rongzom Chokyi Zangpo",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Dominic",
-        "lastName": "Sur"
-      }
-    ],
+    "title": "EAST - Epistemology and Argumentation in South Asia and Tibet",
+    "creators": [],
     "abstractNote": "",
-    "websiteTitle": "treasuryoflives.org",
+    "websiteTitle": "Epistemology and Argumentation in South Asia and Tibet",
     "websiteType": "",
-    "date": "2021",
+    "date": "",
     "publisher": "",
     "place": "",
     "DOI": "",
     "citationKey": "",
-    "url": "https://treasuryoflives.org/zh/biographies/view/Rongzom-Chokyi-Zangpo/6194",
-    "accessDate": "2025-11-02",
-    "shortTitle": "Sur 2021",
-    "language": "eng",
+    "url": "https://east.ikga.oeaw.ac.at/",
+    "accessDate": "2026-03-10",
+    "shortTitle": "EAST",
+    "language": "",
     "rights": "",
     "extra": "",
     "tags": [
@@ -71,7 +63,7 @@
     ],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-11-02T18:09:10Z",
-    "dateModified": "2025-11-02T18:10:10Z"
+    "dateAdded": "2026-03-10T08:22:38Z",
+    "dateModified": "2026-03-10T09:06:04Z"
   }
 }

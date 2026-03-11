@@ -1,6 +1,6 @@
 {
-  "key": "MKQ72HFF",
-  "version": 4298,
+  "key": "35UK579T",
+  "version": 6201,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/MKQ72HFF",
+      "href": "https://api.zotero.org/groups/4394244/items/35UK579T",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/MKQ72HFF",
+      "href": "https://www.zotero.org/groups/tibschol/items/35UK579T",
       "type": "text/html"
     }
   },
@@ -34,41 +34,42 @@
         }
       }
     },
-    "creatorSummary": "Rinbochay and Napper",
-    "parsedDate": "1980",
+    "creatorSummary": "Funayama",
+    "parsedDate": "2001",
     "numChildren": 0
   },
   "data": {
-    "key": "MKQ72HFF",
-    "version": 4298,
-    "itemType": "book",
-    "title": "Mind in Tibetan Buddhism",
+    "key": "35UK579T",
+    "version": 6201,
+    "itemType": "bookSection",
+    "title": "On the Date of Vinitadeva",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Lati",
-        "lastName": "Rinbochay"
+        "firstName": "Toru",
+        "lastName": "Funayama"
       },
       {
-        "creatorType": "author",
-        "firstName": "Elizabeth",
-        "lastName": "Napper"
+        "creatorType": "editor",
+        "firstName": "Raffaele",
+        "lastName": "Torella"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "Le Parole e i Marmi",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1980",
-    "publisher": "Snow Lion Publications",
-    "place": "Ithaca",
+    "date": "2001",
+    "publisher": "",
+    "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
+    "pages": "309\u2013325",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -77,18 +78,20 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "eng",
+    "shortTitle": "Funayama 2001",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
-    "tags": [],
-    "collections": [
-      "MMDISFTC"
+    "extra": "Version Number: 2010-03-19 02:15:58\n_eprint: 3235",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
     ],
+    "collections": [],
     "relations": {},
-    "dateAdded": "2021-12-16T09:26:13Z",
-    "dateModified": "2025-05-20T19:22:26Z"
+    "dateAdded": "2026-03-10T14:40:25Z",
+    "dateModified": "2026-03-10T14:40:43Z"
   }
 }
