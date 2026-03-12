@@ -1,6 +1,6 @@
 {
-  "key": "TUCR92B2",
-  "version": 6215,
+  "key": "N77QW83A",
+  "version": 6213,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/TUCR92B2",
+      "href": "https://api.zotero.org/groups/4394244/items/N77QW83A",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/TUCR92B2",
+      "href": "https://www.zotero.org/groups/tibschol/items/N77QW83A",
       "type": "text/html"
     }
   },
@@ -34,45 +34,52 @@
         }
       }
     },
-    "creatorSummary": "Fermer",
-    "parsedDate": "2025-09-28",
-    "numChildren": 3
+    "creatorSummary": "van der Kuijp",
+    "parsedDate": "2013",
+    "numChildren": 0
   },
   "data": {
-    "key": "TUCR92B2",
-    "version": 6215,
-    "itemType": "report",
-    "title": "dGe 'dun sgang",
+    "key": "N77QW83A",
+    "version": 6213,
+    "itemType": "journalArticle",
+    "title": "Some Remarks on the Textual Transmission and Text of Bu ston Rin chen grub's Chos 'byung, a Chronicle of Buddhism in India and Tibet",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Mathias",
-        "lastName": "Fermer"
+        "firstName": "Leonard",
+        "lastName": "van der Kuijp"
       }
     ],
     "abstractNote": "",
-    "reportNumber": "",
-    "reportType": "",
-    "institution": "",
+    "publicationTitle": "Revue d'Etudes Tib\u00e9taines",
+    "publisher": "",
     "place": "",
-    "date": "2025-09-28",
+    "date": "2013",
+    "volume": "25",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "115-193",
+    "series": "",
     "seriesTitle": "",
-    "seriesNumber": "",
-    "pages": "",
+    "seriesText": "",
+    "journalAbbreviation": "RET",
     "DOI": "",
-    "ISBN": "",
     "citationKey": "",
     "url": "",
     "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Fermer (pers. comm.)",
-    "language": "",
+    "shortTitle": "van der Kuijp 2013",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "Personal communication",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
@@ -80,7 +87,7 @@
     ],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-10-17T12:10:01Z",
-    "dateModified": "2026-03-11T17:27:28Z"
+    "dateAdded": "2026-03-11T08:59:15Z",
+    "dateModified": "2026-03-11T09:00:41Z"
   }
 }

@@ -62,17 +62,24 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "London",
-    "publisher": "",
     "date": "2007",
+    "publisher": "",
+    "place": "London",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "10\u2013388",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Lo dgon - 'Od stong",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Lo dgon - 'Od stong",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -89,8 +96,8 @@
       }
     ],
     "collections": [
-      "IEP4UFSV",
-      "B3TNTFC4"
+      "B3TNTFC4",
+      "IEP4UFSV"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/FYDHV7WZ"
