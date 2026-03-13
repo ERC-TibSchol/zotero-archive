@@ -1,0 +1,85 @@
+{
+  "key": "WGRMI54Z",
+  "version": 6228,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/WGRMI54Z",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/WGRMI54Z",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Li",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "WGRMI54Z",
+    "version": 6228,
+    "itemType": "thesis",
+    "title": "A Critical Study of the Life of the 13th-Century Tibetan Monk U rgyan pa Rin chen dpal Based on his Biographies",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Brenda W.L.",
+        "lastName": "Li"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "Doctoral Thesis",
+    "university": "University of Oxford",
+    "place": "Oxford",
+    "date": "2011",
+    "series": "",
+    "seriesNumber": "",
+    "numPages": "",
+    "DOI": "",
+    "ISBN": "",
+    "citationKey": "",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://files01.core.ac.uk/download/29721113.pdf&ved=2ahUKEwiiidrG8ZmTAxX0S_EDHXdnHK0QFnoECDkQAQ&usg=AOvVaw0LESL9Mctml4YLrjK6aEtr",
+    "accessDate": "2026-03-12",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Li 2011",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-03-12T08:11:09Z",
+    "dateModified": "2026-03-12T08:12:56Z"
+  }
+}
