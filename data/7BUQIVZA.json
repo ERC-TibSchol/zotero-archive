@@ -1,6 +1,6 @@
 {
   "key": "7BUQIVZA",
-  "version": 5038,
+  "version": 6230,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "7BUQIVZA",
-    "version": 5038,
+    "version": 6230,
     "itemType": "journalArticle",
     "title": "\u30ed\u5bfa--\u521d\u671f\u30ab\u30c0\u30e0\u6d3e\u5bfa\u9662\u306e\u5909\u9077 [The history of Lo dgon pa: the vicissitudes of an early bKa' gdams pa monastery]",
     "creators": [
@@ -74,13 +74,16 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Iuchi 2010",
     "language": "jap",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
+      {
+        "tag": "APIS"
+      },
       {
         "tag": "Monastery"
       },
@@ -94,6 +97,6 @@
     ],
     "relations": {},
     "dateAdded": "2024-10-18T06:57:30Z",
-    "dateModified": "2025-05-21T08:42:49Z"
+    "dateModified": "2026-03-13T10:00:43Z"
   }
 }
