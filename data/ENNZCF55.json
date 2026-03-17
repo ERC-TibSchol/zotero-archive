@@ -1,6 +1,6 @@
 {
-  "key": "GBZKSES8",
-  "version": 5675,
+  "key": "ENNZCF55",
+  "version": 6244,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/GBZKSES8",
+      "href": "https://api.zotero.org/groups/4394244/items/ENNZCF55",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/GBZKSES8",
+      "href": "https://www.zotero.org/groups/tibschol/items/ENNZCF55",
       "type": "text/html"
     }
   },
@@ -34,50 +34,51 @@
         }
       }
     },
-    "creatorSummary": "rMa bya bRtson 'grus seng ge",
-    "parsedDate": "1975",
+    "creatorSummary": "Burchardi",
+    "parsedDate": "2002",
     "numChildren": 0
   },
   "data": {
-    "key": "GBZKSES8",
-    "version": 5675,
-    "itemType": "book",
-    "title": "Dbu ma rtsa ba \u015bes rab kyi \u02bcgrel pa \u02bcThad pa\u02bci rgyan :a 12th century Tibetan commentary on N\u0101g\u0101rjuna's Mulamadhyamak\u0101rik\u0101 /by Rma-bya-ba Brtson-\u02bcgrus-se\u1e45ge",
+    "key": "ENNZCF55",
+    "version": 6244,
+    "itemType": "bookSection",
+    "title": "Towards an Understanding of Tath\u0101gatagarbha Interpretation in Tibet with Special Reference to the Ratnagotravibh\u0101ga",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "rMa bya bRtson 'grus seng ge"
+        "firstName": "Anne",
+        "lastName": "Burchardi"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "Religion and Secular Culture in Tibet",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1975",
-    "publisher": "dharma chakra center",
-    "place": "rumtek",
+    "date": "2002",
+    "publisher": "Brill",
+    "place": "Leiden",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "312",
+    "pages": "59-77",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW14060",
+    "url": "",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "rMa bya - 'thad rgyan 1975 ed.",
-    "language": "tib",
+    "shortTitle": "Burchardi 2002",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "reproduced from a sde-dge print prepared under the inspiration of 'jam-dbyans mkhyen-brtse'i-dban-po",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
@@ -85,7 +86,7 @@
     ],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-11-11T15:07:13Z",
-    "dateModified": "2025-11-11T15:09:18Z"
+    "dateAdded": "2026-03-16T16:15:55Z",
+    "dateModified": "2026-03-16T16:17:02Z"
   }
 }

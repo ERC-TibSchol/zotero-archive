@@ -1,6 +1,6 @@
 {
   "key": "GJR33LJY",
-  "version": 4835,
+  "version": 6232,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "GJR33LJY",
-    "version": 4835,
+    "version": 6232,
     "itemType": "journalArticle",
     "title": "The gzhan stong model of reality - Some more material on its origin, transmission, and interpretation",
     "creators": [
@@ -85,16 +85,20 @@
     "ISSN": "ISSN 0193-600X",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Mathe 2012",
     "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [],
     "relations": {},
     "dateAdded": "2022-09-14T20:25:20Z",
-    "dateModified": "2025-05-21T07:24:05Z"
+    "dateModified": "2026-03-16T15:28:00Z"
   }
 }
