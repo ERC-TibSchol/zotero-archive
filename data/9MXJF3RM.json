@@ -1,0 +1,59 @@
+{
+  "key": "9MXJF3RM",
+  "version": 375,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9MXJF3RM",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9MXJF3RM",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/NTGHCZA8",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    }
+  },
+  "data": {
+    "key": "9MXJF3RM",
+    "version": 375,
+    "parentItem": "NTGHCZA8",
+    "itemType": "attachment",
+    "linkMode": "linked_url",
+    "title": "thesis downloadable at",
+    "accessDate": "",
+    "url": "https://libraetd.lib.virginia.edu/downloads/rv042t42v?filename=Schuman-Dissertation.pdf",
+    "note": "",
+    "contentType": "",
+    "charset": "",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2021-10-19T12:34:37Z",
+    "dateModified": "2021-10-19T12:34:37Z"
+  }
+}

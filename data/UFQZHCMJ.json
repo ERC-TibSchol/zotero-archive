@@ -1,6 +1,6 @@
 {
-  "key": "E6UZHVB5",
-  "version": 4315,
+  "key": "UFQZHCMJ",
+  "version": 6259,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,27 +14,16 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/E6UZHVB5",
+      "href": "https://api.zotero.org/groups/4394244/items/UFQZHCMJ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/E6UZHVB5",
+      "href": "https://www.zotero.org/groups/tibschol/items/UFQZHCMJ",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 7979322,
-      "username": "Rachael.Griffiths",
-      "name": "Rachael Griffiths",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/rachael.griffiths",
-          "type": "text/html"
-        }
-      }
-    },
-    "lastModifiedByUser": {
       "id": 8397006,
       "username": "PascaleHugon",
       "name": "",
@@ -45,54 +34,65 @@
         }
       }
     },
-    "creatorSummary": "Karma Phuntsho",
-    "parsedDate": "2023",
+    "creatorSummary": "Mar pa lo tsA ba chos kyi blo gros",
     "numChildren": 0
   },
   "data": {
-    "key": "E6UZHVB5",
-    "version": 4315,
-    "itemType": "book",
-    "title": "sKyo ston smon lam tshul khrims kyi mdzad rnam dang gsung rtsom. The Life and Works of Kyoton Monlam Tsultrim",
+    "key": "UFQZHCMJ",
+    "version": 6259,
+    "itemType": "bookSection",
+    "title": "rGyud bla ma'i tshig don rnam par 'grel pa",
     "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Mar pa lo tsA ba chos kyi blo gros"
+      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Karma Phuntsho"
+        "lastName": "Mar pa lo tsA ba chos kyi blo gros"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "gSung \u02bcbum chos kyi blo gros",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2023",
-    "publisher": "Loden Foundation",
+    "date": "",
+    "publisher": "Ser gtsug nang bstan dpe rnying \u02bctshol bsdu phyogs sgrig khang",
     "place": "",
-    "originalDate": "",
+    "originalDate": "2012",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
-    "ISBN": "978-99980-831-1-0",
+    "pages": "414-522",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "https://buddhanature.tsadra.org/images/1/15/Phuntsho-2023-The_Life_and_Works_of_Kyoton_Monlam_Tsultrim_REDUCED.pdf",
+    "url": "https://purl.bdrc.io/resource/MW1KG12222",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "tib, eng",
+    "shortTitle": "Mar pa - rgyud bla 'grel 2012 ed.",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [],
-    "relations": {},
-    "dateAdded": "2023-06-30T15:33:43Z",
-    "dateModified": "2025-05-20T19:24:03Z"
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/XKGWXV76"
+    },
+    "dateAdded": "2026-03-17T07:21:14Z",
+    "dateModified": "2026-03-17T07:24:51Z"
   }
 }

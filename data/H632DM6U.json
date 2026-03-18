@@ -1,0 +1,54 @@
+{
+  "key": "H632DM6U",
+  "version": 455,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/H632DM6U",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/H632DM6U",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/FUFWUVQQ",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8444710,
+      "username": "Serena.Biondo",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/serena.biondo",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "H632DM6U",
+    "version": 455,
+    "parentItem": "FUFWUVQQ",
+    "itemType": "note",
+    "note": "<p>Translation (and transliteration in footnotes) of 2_050_03 <em>Theg chen rgyud bla ma'i gdams pa</em>. It also briefly discusses 2_050_16 <em>Chos nyid kyi khrid</em>.</p>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2021-10-19T13:34:37Z",
+    "dateModified": "2021-10-19T13:39:01Z"
+  }
+}

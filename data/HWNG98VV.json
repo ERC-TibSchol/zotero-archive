@@ -1,6 +1,6 @@
 {
-  "key": "EWAS9REC",
-  "version": 5222,
+  "key": "HWNG98VV",
+  "version": 6281,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/EWAS9REC",
+      "href": "https://api.zotero.org/groups/4394244/items/HWNG98VV",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/EWAS9REC",
+      "href": "https://www.zotero.org/groups/tibschol/items/HWNG98VV",
       "type": "text/html"
     }
   },
@@ -34,42 +34,43 @@
         }
       }
     },
-    "creatorSummary": "Mathes and Kemp",
-    "parsedDate": "2022",
+    "creatorSummary": "Mathes",
+    "parsedDate": "2002",
     "numChildren": 0
   },
   "data": {
-    "key": "EWAS9REC",
-    "version": 5222,
-    "itemType": "book",
-    "title": "Buddha nature across Asia",
+    "key": "HWNG98VV",
+    "version": 6281,
+    "itemType": "bookSection",
+    "title": "'Gos Lo ts\u0101 ba gZhon nu dpal\u00b4s Extensive Commentary on and Study of the Ratna\u00adgotra\u00advibh\u0101gavy\u0101khy\u0101",
     "creators": [
       {
-        "creatorType": "editor",
+        "creatorType": "author",
         "firstName": "Klaus-Dieter",
         "lastName": "Mathes"
       },
       {
         "creatorType": "editor",
-        "firstName": "Casey",
-        "lastName": "Kemp"
+        "firstName": "Henk",
+        "lastName": "Blezer"
       }
     ],
     "abstractNote": "",
-    "series": "Wiener Studien zur Tibetologie und Buddhismuskunde",
-    "seriesNumber": "103",
+    "bookTitle": "Religion and Secular Culture in Tibet. Tibetan Studies II. PIATS 2000, Vol. 2/2",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2022",
-    "publisher": "Arbeitskreis f\u00fcr tibetische und buddhistische Studien Universit\u00e4t Wien",
-    "place": "Wien",
+    "date": "2002",
+    "publisher": "Brill",
+    "place": "Leiden, Boston, K\u00f6ln",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "495",
-    "ISBN": "978-3-902501-41-7",
+    "pages": "79\u201395",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -77,22 +78,20 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "WSTB 103",
+    "shortTitle": "Mathes 2002",
     "language": "eng",
-    "libraryCatalog": "K10plus ISBN",
+    "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 426",
     "tags": [
       {
-        "tag": "Buddha nature"
+        "tag": "APIS"
       }
     ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/NCQ5GCTN"
-    },
-    "dateAdded": "2025-05-19T18:38:40Z",
-    "dateModified": "2025-05-21T13:14:46Z"
+    "relations": {},
+    "dateAdded": "2026-03-17T09:07:52Z",
+    "dateModified": "2026-03-17T09:08:10Z"
   }
 }

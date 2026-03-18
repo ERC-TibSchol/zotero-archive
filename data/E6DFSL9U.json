@@ -1,6 +1,6 @@
 {
   "key": "E6DFSL9U",
-  "version": 5947,
+  "version": 6262,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "E6DFSL9U",
-    "version": 5947,
+    "version": 6262,
     "itemType": "journalArticle",
     "title": "Unveiling Gsang phu Madhyamaka Thought in Xixia: The Tangut Version of the Analysis of the Essence of Madhyamaka",
     "creators": [
@@ -74,13 +74,16 @@
     "ISSN": "0001-6446, 1588-2667",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Unveiling Gsang phu Madhyamaka Thought in Xixia",
+    "shortTitle": "Ma 2023",
     "language": "eng",
     "libraryCatalog": "akjournals.com",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
+      {
+        "tag": "APIS"
+      },
       {
         "tag": "Madhyamaka"
       },
@@ -93,6 +96,6 @@
     ],
     "relations": {},
     "dateAdded": "2023-06-28T10:02:44Z",
-    "dateModified": "2025-05-21T07:31:39Z"
+    "dateModified": "2026-03-17T07:48:45Z"
   }
 }
