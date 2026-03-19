@@ -1,0 +1,77 @@
+{
+  "key": "N36JWNQN",
+  "version": 6291,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/N36JWNQN",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/N36JWNQN",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hazod",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "N36JWNQN",
+    "version": 6291,
+    "itemType": "webpage",
+    "title": "The Burial Mounds of Central Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Guntram",
+        "lastName": "Hazod"
+      }
+    ],
+    "abstractNote": "",
+    "websiteTitle": "",
+    "websiteType": "",
+    "date": "2016",
+    "publisher": "",
+    "place": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://ttt.univie.ac.at/",
+    "accessDate": "",
+    "shortTitle": "TTT",
+    "language": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-03-18T12:27:38Z",
+    "dateModified": "2026-03-18T12:28:32Z"
+  }
+}
