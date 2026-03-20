@@ -56,17 +56,24 @@
     "volume": "1 & 2",
     "numberOfVolumes": "2",
     "edition": "",
-    "place": "Wien",
-    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
     "date": "1987",
+    "publisher": "Arbeitskreis f\u00fcr Tibetische und Buddhistische Studien, Universit\u00e4t Wien",
+    "place": "Wien",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "numPages": "xi & v, 619",
-    "language": "eng, tib",
     "ISBN": "",
-    "shortTitle": "Jackson 1983",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Jackson 1983",
+    "language": "eng, tib",
     "libraryCatalog": "",
     "callNumber": "BQ7950.S344",
     "rights": "",
@@ -83,8 +90,8 @@
       }
     ],
     "collections": [
-      "NVIEWWIE",
-      "DC68IMMR"
+      "DC68IMMR",
+      "NVIEWWIE"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/5W6VC83V"

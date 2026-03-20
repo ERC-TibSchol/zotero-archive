@@ -57,17 +57,24 @@
     "volume": "1",
     "numberOfVolumes": "",
     "edition": "",
-    "place": "Lhasa",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
     "date": "1990",
+    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
+    "place": "Lhasa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "272\u2013275",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Ye shes rgyal mtshan - Se spyil bu ba'i rnam thar",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "BDRC No: W1CZ2730",
+    "shortTitle": "Ye shes rgyal mtshan - Se spyil bu ba'i rnam thar",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -84,8 +91,8 @@
       }
     ],
     "collections": [
-      "IEP4UFSV",
-      "B3TNTFC4"
+      "B3TNTFC4",
+      "IEP4UFSV"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/S2X2RRKQ"

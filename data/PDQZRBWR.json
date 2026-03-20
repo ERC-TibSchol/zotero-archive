@@ -1,0 +1,93 @@
+{
+  "key": "PDQZRBWR",
+  "version": 6305,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/PDQZRBWR",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/PDQZRBWR",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Sperling",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "PDQZRBWR",
+    "version": 6305,
+    "itemType": "journalArticle",
+    "title": "H\u00fcleg\u00fc and Tibet",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Elliot",
+        "lastName": "Sperling"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Acta Orientalia Academiae Scientiarum Hungaricae",
+    "publisher": "",
+    "place": "",
+    "date": "1990",
+    "volume": "44",
+    "issue": "1",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "145-157",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://www.zotero.org/groups/4394244/tibschol/library",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Sperling 1990",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-03-19T17:07:52Z",
+    "dateModified": "2026-03-19T17:09:12Z"
+  }
+}
