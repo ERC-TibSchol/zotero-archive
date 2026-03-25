@@ -1,6 +1,6 @@
 {
-  "key": "9QBYRSDI",
-  "version": 4327,
+  "key": "K6W3EA42",
+  "version": 6309,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/9QBYRSDI",
+      "href": "https://api.zotero.org/groups/4394244/items/K6W3EA42",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/9QBYRSDI",
+      "href": "https://www.zotero.org/groups/tibschol/items/K6W3EA42",
       "type": "text/html"
     }
   },
@@ -34,30 +34,36 @@
         }
       }
     },
-    "creatorSummary": "Dar-ma-rin-chen",
-    "parsedDate": "1982",
+    "creatorSummary": "Ruegg",
+    "parsedDate": "1981",
     "numChildren": 0
   },
   "data": {
-    "key": "9QBYRSDI",
-    "version": 4327,
+    "key": "K6W3EA42",
+    "version": 6309,
     "itemType": "book",
-    "title": "The collected works (gsu\u1e45 'bum) of the lord rgyal-tshab rje dar-ma-rin-chen : reproduced from a set of prints from the 1897 Lha-sa old \u017aol (dga-'ldan-phun-tshogs-gli\u1e45) blocks. 1, Volume 1",
+    "title": "The Literature of the Madhyamaka School of Philosophy in India",
     "creators": [
       {
         "creatorType": "author",
-        "name": "Dar-ma-rin-chen"
+        "firstName": "David Seyfort",
+        "lastName": "Ruegg"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Jan",
+        "lastName": "Gonda"
       }
     ],
     "abstractNote": "",
-    "series": "rJe yab sras gsum gyi gsu\u1e45 'bum ; 19",
-    "seriesNumber": "",
+    "series": "HIL, History of Indian Literature",
+    "seriesNumber": "7",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1982",
-    "publisher": "Mongolian Lama Gurudeva",
-    "place": "New Delhi",
+    "date": "1981",
+    "publisher": "",
+    "place": "Wiesbaden",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
@@ -71,18 +77,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
-    "language": "tib, eng",
+    "shortTitle": "Seyfort Ruegg 1981",
+    "language": "en-US",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
-    "collections": [
-      "IEP4UFSV"
+    "tags": [
+      {
+        "tag": "APIS"
+      }
     ],
-    "relations": {},
-    "dateAdded": "2023-09-01T14:34:57Z",
-    "dateModified": "2025-05-20T19:25:02Z"
+    "collections": [],
+    "relations": {
+      "owl:sameAs": "http://zotero.org/groups/5224793/items/6T85KXXL"
+    },
+    "dateAdded": "2026-03-24T09:37:54Z",
+    "dateModified": "2026-03-24T09:38:26Z"
   }
 }
