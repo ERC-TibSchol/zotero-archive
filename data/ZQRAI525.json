@@ -1,6 +1,6 @@
 {
   "key": "ZQRAI525",
-  "version": 5907,
+  "version": 6311,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -39,9 +39,9 @@
   },
   "data": {
     "key": "ZQRAI525",
-    "version": 5907,
+    "version": 6311,
     "itemType": "bookSection",
-    "title": "tshig gsal gyi dka' gnad pa",
+    "title": "tshig gsal gyi dka' gnad bshad pa",
     "creators": [
       {
         "creatorType": "bookAuthor",
@@ -62,7 +62,7 @@
     "numberOfVolumes": "1",
     "edition": "",
     "date": "",
-    "publisher": "gser ljongs bla rung lnga rig nang bstan slob grwa chen mo",
+    "publisher": "gser thang bla rung lnga rig nang bstan slob gling",
     "place": "gser rta rdzong",
     "originalDate": "",
     "originalPublisher": "",
@@ -93,6 +93,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/7MEK37AB"
     },
     "dateAdded": "2025-11-25T18:20:04Z",
-    "dateModified": "2025-12-17T09:22:53Z"
+    "dateModified": "2026-03-25T11:33:31Z"
   }
 }
