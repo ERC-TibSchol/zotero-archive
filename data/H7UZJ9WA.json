@@ -1,6 +1,6 @@
 {
-  "key": "8JC3TDMA",
-  "version": 6314,
+  "key": "H7UZJ9WA",
+  "version": 6324,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/8JC3TDMA",
+      "href": "https://api.zotero.org/groups/4394244/items/H7UZJ9WA",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/8JC3TDMA",
+      "href": "https://www.zotero.org/groups/tibschol/items/H7UZJ9WA",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "kun dga'",
+    "creatorSummary": "Dharma smon lam",
     "parsedDate": "2009",
     "numChildren": 0
   },
   "data": {
-    "key": "8JC3TDMA",
-    "version": 6314,
+    "key": "H7UZJ9WA",
+    "version": 6324,
     "itemType": "bookSection",
-    "title": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po",
+    "title": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed",
     "creators": [
       {
         "creatorType": "editor",
@@ -52,15 +52,15 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "kun dga'"
+        "lastName": "Dharma smon lam"
       }
     ],
     "abstractNote": "",
     "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs gsum pa",
     "series": "",
     "seriesNumber": "",
-    "volume": "88",
-    "numberOfVolumes": "30",
+    "volume": "80",
+    "numberOfVolumes": "120",
     "edition": "",
     "date": "2009",
     "publisher": "Si khron mi rigs dpe skrun khang",
@@ -69,16 +69,16 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "7-219",
+    "pages": "461-657",
     "ISBN": "978-7-5409-4283-0",
     "DOI": "",
     "citationKey": "",
-    "url": "https://purl.bdrc.io/resource/MW1PD153536_9D699C",
+    "url": "https://purl.bdrc.io/resource/MW1PD153536_2CC379",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Kun dga' - rnam 'grel zin bris",
+    "shortTitle": "Dharma smon lam - chos mngon kun btus gsal byed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -87,16 +87,13 @@
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Collected works"
       }
     ],
     "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
     },
-    "dateAdded": "2025-09-23T06:32:41Z",
-    "dateModified": "2026-04-07T09:17:52Z"
+    "dateAdded": "2026-04-07T09:17:51Z",
+    "dateModified": "2026-04-07T09:20:27Z"
   }
 }

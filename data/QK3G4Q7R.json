@@ -1,6 +1,6 @@
 {
   "key": "QK3G4Q7R",
-  "version": 5732,
+  "version": 6313,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "QK3G4Q7R",
-    "version": 5732,
+    "version": 6313,
     "itemType": "bookSection",
     "title": "Chos mngon pa mdzod kyi bsdus don",
     "creators": [
@@ -96,6 +96,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/KUYBGM7V"
     },
     "dateAdded": "2024-11-13T15:46:12Z",
-    "dateModified": "2025-11-25T09:50:11Z"
+    "dateModified": "2026-04-07T09:17:52Z"
   }
 }
