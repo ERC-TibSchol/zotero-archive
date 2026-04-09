@@ -1,6 +1,6 @@
 {
-  "key": "DEEWSZTK",
-  "version": 4928,
+  "key": "B8PE93RQ",
+  "version": 6336,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/DEEWSZTK",
+      "href": "https://api.zotero.org/groups/4394244/items/B8PE93RQ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/DEEWSZTK",
+      "href": "https://www.zotero.org/groups/tibschol/items/B8PE93RQ",
       "type": "text/html"
     }
   },
@@ -34,37 +34,37 @@
         }
       }
     },
-    "creatorSummary": "Blo gros mtshungs med",
-    "parsedDate": "1999",
+    "creatorSummary": "Roach",
+    "parsedDate": "2001",
     "numChildren": 0
   },
   "data": {
-    "key": "DEEWSZTK",
-    "version": 4928,
+    "key": "B8PE93RQ",
+    "version": 6336,
     "itemType": "bookSection",
-    "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me",
+    "title": "English Introduction",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "",
-        "lastName": "Blo gros mtshungs med"
+        "firstName": "Michael",
+        "lastName": "Roach"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Sa-skya pa'i mkhas-pa rnams-kyi gsungs skor pod gsum-pa'i dkar-chag: The Collection Works of the Ancient Sa-skya-pa Scholars",
+    "bookTitle": "Gro lung pa: bstan rim chen mo",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
+    "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1999",
-    "publisher": "Sakya College",
-    "place": "Kathmandu",
+    "date": "2001",
+    "publisher": "Library of His Eminence Trijang Rinpoche",
+    "place": "Mundgod",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "",
+    "pages": "i-xi",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -73,8 +73,8 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Blo gros mtshungs med - rgyud bla sgron me",
-    "language": "tib",
+    "shortTitle": "Roach 2001",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -85,10 +85,8 @@
       }
     ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/UBK3ARCZ"
-    },
-    "dateAdded": "2025-05-15T15:25:52Z",
-    "dateModified": "2025-05-21T07:47:26Z"
+    "relations": {},
+    "dateAdded": "2026-04-08T13:43:28Z",
+    "dateModified": "2026-04-08T13:45:10Z"
   }
 }

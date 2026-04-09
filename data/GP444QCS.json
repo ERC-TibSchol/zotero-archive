@@ -1,6 +1,6 @@
 {
-  "key": "DEEWSZTK",
-  "version": 4928,
+  "key": "GP444QCS",
+  "version": 6346,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/DEEWSZTK",
+      "href": "https://api.zotero.org/groups/4394244/items/GP444QCS",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/DEEWSZTK",
+      "href": "https://www.zotero.org/groups/tibschol/items/GP444QCS",
       "type": "text/html"
     }
   },
@@ -34,46 +34,38 @@
         }
       }
     },
-    "creatorSummary": "Blo gros mtshungs med",
-    "parsedDate": "1999",
+    "parsedDate": "1985",
     "numChildren": 0
   },
   "data": {
-    "key": "DEEWSZTK",
-    "version": 4928,
-    "itemType": "bookSection",
-    "title": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "Blo gros mtshungs med"
-      }
-    ],
+    "key": "GP444QCS",
+    "version": 6346,
+    "itemType": "book",
+    "title": "bod kyi bstan bcos khag cig gi mtshan byang dri med shel dkar phreng ba",
+    "creators": [],
     "abstractNote": "",
-    "bookTitle": "Sa-skya pa'i mkhas-pa rnams-kyi gsungs skor pod gsum-pa'i dkar-chag: The Collection Works of the Ancient Sa-skya-pa Scholars",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
+    "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1999",
-    "publisher": "Sakya College",
-    "place": "Kathmandu",
+    "date": "1985",
+    "publisher": "mtsho sngon mi rigs dpe skrun khang",
+    "place": "zi ling",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "",
+    "numPages": "687",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "https://purl.bdrc.io/resource/MW19849",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Blo gros mtshungs med - rgyud bla sgron me",
+    "shortTitle": "bla brang dkar chag",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -85,10 +77,8 @@
       }
     ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/UBK3ARCZ"
-    },
-    "dateAdded": "2025-05-15T15:25:52Z",
-    "dateModified": "2025-05-21T07:47:26Z"
+    "relations": {},
+    "dateAdded": "2026-04-08T14:53:22Z",
+    "dateModified": "2026-04-08T14:54:36Z"
   }
 }
