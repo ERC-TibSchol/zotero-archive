@@ -1,0 +1,96 @@
+{
+  "key": "9CGVLUHH",
+  "version": 6351,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9CGVLUHH",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9CGVLUHH",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Nyima",
+    "parsedDate": "2017",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9CGVLUHH",
+    "version": 6351,
+    "itemType": "book",
+    "title": "The Crystal Mirror of Philosophical Systems: A Tibetan Study of Asian Religious Thought",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Thuken Losang Chokyi",
+        "lastName": "Nyima"
+      },
+      {
+        "creatorType": "contributor",
+        "firstName": "Roger R.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "contributor",
+        "name": "Lhun-grub-bsod-pa"
+      }
+    ],
+    "abstractNote": "Cover -- Title -- Copyright -- Contents -- General Editor's Preface -- Translator's Preface -- Editor's Introduction -- Map of Tibet -- Technical Note -- The Crystal Mirror: An Excellent Explanation Showing the Sources and Assertions of All Philosophical Systems -- 1. Preface -- 2. Indian Schools -- 3. Introduction to Tibetan Buddhism -- 4. The Nyingma Tradition -- 5. The Kadam Tradition -- 6. The Kagy\u00fc Tradition -- 7. The Shij\u00e9 Tradition -- 8. The Sakya Tradition -- 9. The Jonang and Minor Traditions -- 10. The Geluk Tradition 1: Tsongkhapa -- 11. The Geluk Tradition 2: Tsongkhapa's Successors -- 12. The Geluk Tradition 3: The Distinctiveness of Geluk -- 13. The B\u00f6n Tradition -- 14. Chinese Traditions 1: Non-Buddhist -- 15. Chinese Traditions 2: Buddhist -- 16. Central Asian Traditions -- 17. Conclusion -- Appendix: Detailed Outline of Thuken's Text -- Notes -- Glossary -- Glossary of Enumerations -- Bibliography -- Index -- About the Contribuors",
+    "series": "Library of Tibetan Classics",
+    "seriesNumber": "v.25",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2017",
+    "publisher": "Wisdom Publications",
+    "place": "Somerville",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "1",
+    "ISBN": "9780861714643 9780861717866",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "The Crystal Mirror of Philosophical Systems",
+    "language": "eng",
+    "libraryCatalog": "K10plus ISBN",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-04-09T12:41:38Z",
+    "dateModified": "2026-04-09T12:41:38Z"
+  }
+}

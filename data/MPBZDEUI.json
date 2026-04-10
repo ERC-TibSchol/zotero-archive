@@ -1,6 +1,6 @@
 {
-  "key": "GP444QCS",
-  "version": 6347,
+  "key": "MPBZDEUI",
+  "version": 6350,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,34 +14,33 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/GP444QCS",
+      "href": "https://api.zotero.org/groups/4394244/items/MPBZDEUI",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/GP444QCS",
+      "href": "https://www.zotero.org/groups/tibschol/items/MPBZDEUI",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8397006,
-      "username": "PascaleHugon",
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
       "name": "",
       "links": {
         "alternate": {
-          "href": "https://www.zotero.org/pascalehugon",
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
           "type": "text/html"
         }
       }
     },
-    "parsedDate": "1985",
     "numChildren": 0
   },
   "data": {
-    "key": "GP444QCS",
-    "version": 6347,
+    "key": "MPBZDEUI",
+    "version": 6350,
     "itemType": "book",
-    "title": "bod kyi bstan bcos khag cig gi mtshan byang dri med shel dkar phreng ba",
+    "title": "The Crystal Mirror: An Excellent Explanation8 Showing the Sources and Assertions of All Philosophical Systems",
     "creators": [],
     "abstractNote": "",
     "series": "",
@@ -49,36 +48,32 @@
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1985",
-    "publisher": "mtsho sngon mi rigs dpe skrun khang",
-    "place": "zi ling",
+    "date": "",
+    "publisher": "",
+    "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "687",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "https://purl.bdrc.io/resource/MW19849",
+    "url": "",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "bla brang dkar chag",
-    "language": "tib",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "Catalog of books in the external library of bla brang bkra shis 'khyil",
-    "tags": [
-      {
-        "tag": "APIS"
-      }
-    ],
+    "extra": "",
+    "tags": [],
     "collections": [],
     "relations": {},
-    "dateAdded": "2026-04-08T14:53:22Z",
-    "dateModified": "2026-04-09T11:33:00Z"
+    "dateAdded": "2026-04-09T12:39:47Z",
+    "dateModified": "2026-04-09T12:41:02Z"
   }
 }

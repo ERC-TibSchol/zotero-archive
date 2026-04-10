@@ -1,6 +1,6 @@
 {
   "key": "B4LK7NR6",
-  "version": 4967,
+  "version": 6047,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "B4LK7NR6",
-    "version": 4967,
+    "version": 6047,
     "itemType": "bookSection",
     "title": "mngon rtogs rgyan gyi 'grel bshad 'thad pa'i 'od 'bar",
     "creators": [
@@ -67,17 +67,24 @@
     "volume": "9",
     "numberOfVolumes": "80",
     "edition": "",
-    "place": "lha sa",
-    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "",
-    "language": "tib",
     "ISBN": "ISBN 978-7-80589-670-0",
-    "shortTitle": "'Jam gsar - mngon rtogs rgyan 'od 'bar 2015 ed.",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/I3CN4398",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "'Jam gsar - mngon rtogs rgyan 'od 'bar 2015 ed.",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -94,7 +101,8 @@
       "dc:relation": [
         "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
-        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/AS5QBRJL"
       ]
     },
     "dateAdded": "2025-04-02T08:15:39Z",
