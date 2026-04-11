@@ -1,6 +1,6 @@
 {
-  "key": "8K3GI5NA",
-  "version": 4357,
+  "key": "ENWEQSQW",
+  "version": 6364,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,53 +14,45 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/8K3GI5NA",
+      "href": "https://api.zotero.org/groups/4394244/items/ENWEQSQW",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/8K3GI5NA",
+      "href": "https://www.zotero.org/groups/tibschol/items/ENWEQSQW",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8397006,
-      "username": "PascaleHugon",
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
       "name": "",
       "links": {
         "alternate": {
-          "href": "https://www.zotero.org/pascalehugon",
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
           "type": "text/html"
         }
       }
     },
-    "creatorSummary": "Fukuda, Yoichi",
-    "parsedDate": "2003",
     "numChildren": 0
   },
   "data": {
-    "key": "8K3GI5NA",
-    "version": 4357,
+    "key": "ENWEQSQW",
+    "version": 6364,
     "itemType": "journalArticle",
-    "title": "Shoki chibetto ronrigaku ni okeru mtshan mtshon gzhi gsum o meguru giron ni tsuite",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "Fukuda, Yoichi"
-      }
-    ],
+    "title": "",
+    "creators": [],
     "abstractNote": "",
-    "publicationTitle": "Journal of the Japanese Association for Tibetan Studies",
+    "publicationTitle": "",
     "publisher": "",
     "place": "",
-    "date": "2003",
-    "volume": "49",
+    "date": "",
+    "volume": "",
     "issue": "",
     "section": "",
     "partNumber": "",
     "partTitle": "",
-    "pages": "13-25",
+    "pages": "",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
@@ -74,18 +66,16 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Fukuda 2003",
-    "language": "jap",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [],
-    "collections": [
-      "UF2RY449"
-    ],
+    "collections": [],
     "relations": {},
-    "dateAdded": "2022-09-06T06:34:52Z",
-    "dateModified": "2025-05-20T19:27:47Z"
+    "dateAdded": "2026-04-10T15:44:18Z",
+    "dateModified": "2026-04-10T15:44:18Z"
   }
 }

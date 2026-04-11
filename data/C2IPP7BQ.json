@@ -1,0 +1,98 @@
+{
+  "key": "C2IPP7BQ",
+  "version": 6383,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/C2IPP7BQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/C2IPP7BQ",
+      "type": "text/html"
+    },
+    "attachment": {
+      "href": "https://api.zotero.org/groups/4394244/items/2XUBIC5Q",
+      "type": "application/json",
+      "attachmentType": "application/pdf",
+      "attachmentSize": 984542
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson",
+    "parsedDate": "1990",
+    "numChildren": 1
+  },
+  "data": {
+    "key": "C2IPP7BQ",
+    "version": 6383,
+    "itemType": "bookSection",
+    "title": "The Identification of Individual Masters in Paintings of Sa-skya-pa Lineages",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "David",
+        "lastName": "Jackson"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Indo-Tibetan Studies: Papers in Honor and Appreciation of Professor David L. Snellgrove's Contribution to Indo-Tibetan Studies",
+    "series": "Buddhica Britanica, Series Continua",
+    "seriesNumber": "",
+    "volume": "2",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1990",
+    "publisher": "The Institute of Buddhist Studies",
+    "place": "Tring, UK",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "129\u2013144",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-04-10T15:44:35Z",
+    "dateModified": "2026-04-10T16:00:35Z"
+  }
+}

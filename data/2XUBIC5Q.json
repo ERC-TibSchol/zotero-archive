@@ -1,0 +1,69 @@
+{
+  "key": "2XUBIC5Q",
+  "version": 6378,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/2XUBIC5Q",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/2XUBIC5Q",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/C2IPP7BQ",
+      "type": "application/json"
+    },
+    "enclosure": {
+      "type": "application/pdf",
+      "href": "https://api.zotero.org/groups/4394244/items/2XUBIC5Q/file/view",
+      "title": "The_Identification_of_Individual_Masters.pdf",
+      "length": 984542
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "2XUBIC5Q",
+    "version": 6378,
+    "parentItem": "C2IPP7BQ",
+    "itemType": "attachment",
+    "linkMode": "imported_file",
+    "title": "The_Identification_of_Individual_Masters.pdf",
+    "accessDate": "",
+    "url": "",
+    "note": "",
+    "contentType": "application/pdf",
+    "charset": "",
+    "filename": "The_Identification_of_Individual_Masters.pdf",
+    "md5": "bb9ea2269abbfbca5782e757e8c25ee2",
+    "mtime": 1775836166643,
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2026-04-10T15:49:23Z",
+    "dateModified": "2026-04-10T15:49:23Z"
+  }
+}

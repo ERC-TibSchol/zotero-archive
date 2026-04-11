@@ -1,6 +1,6 @@
 {
   "key": "CDT96KV7",
-  "version": 5267,
+  "version": 6024,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "CDT96KV7",
-    "version": 5267,
+    "version": 6024,
     "itemType": "book",
     "title": "gSung \u02bcbum karma dkon mchog gzhon nu",
     "creators": [
@@ -56,17 +56,24 @@
     "volume": "",
     "numberOfVolumes": "2",
     "edition": "par gzhi dang po",
-    "place": "stold lung",
-    "publisher": "Ma h\u0101 shr\u012b gsung rab gling",
     "date": "2021",
+    "publisher": "Ma h\u0101 shr\u012b gsung rab gling",
+    "place": "stold lung",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "numPages": "",
-    "language": "tib",
     "ISBN": "",
-    "shortTitle": "Karma - gsung 'bum 2021 ed.",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN26813",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Karma - gsung 'bum 2021 ed.",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -80,7 +87,9 @@
       }
     ],
     "collections": [],
-    "relations": {},
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/L54RJSWG"
+    },
     "dateAdded": "2025-05-22T11:39:27Z",
     "dateModified": "2025-05-22T11:42:27Z"
   }

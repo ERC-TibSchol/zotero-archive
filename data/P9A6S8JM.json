@@ -1,6 +1,6 @@
 {
-  "key": "Z5X88P7A",
-  "version": 5278,
+  "key": "P9A6S8JM",
+  "version": 6363,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/Z5X88P7A",
+      "href": "https://api.zotero.org/groups/4394244/items/P9A6S8JM",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/Z5X88P7A",
+      "href": "https://www.zotero.org/groups/tibschol/items/P9A6S8JM",
       "type": "text/html"
     }
   },
@@ -34,31 +34,24 @@
         }
       }
     },
-    "creatorSummary": "Sa bzang ma ti pa",
-    "parsedDate": "1999",
+    "parsedDate": "1973",
     "numChildren": 0
   },
   "data": {
-    "key": "Z5X88P7A",
-    "version": 5278,
+    "key": "P9A6S8JM",
+    "version": 6363,
     "itemType": "book",
-    "title": "Theg pa chen po\u2019i rgyud bla ma\u2019i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "Sa bzang ma ti pa"
-      }
-    ],
+    "title": "\u5927\u8c37\u5927\u5b66\u56f3\u66f8\u9928\u6240\u8535\u897f\u8535\u6587\u732e\u76ee\u9304\n\u014ctani Daigaku Toshokan shoz\u014d Chibetto bunken mokuroku  : 1 = Catalogue of Tibetan works kept in the Otani University Library 1",
+    "creators": [],
     "abstractNote": "",
-    "series": "The Collection Works of the Ancient Sa-skya-pa Scholars",
-    "seriesNumber": "4",
+    "series": "",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1999",
-    "publisher": "Sakya College",
-    "place": "Rajpur",
+    "date": "1973",
+    "publisher": "Otani University Library",
+    "place": "Kyoto",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
@@ -72,8 +65,8 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Sa bzang - rgyud bla snang ba",
-    "language": "tib",
+    "shortTitle": "Otani Library Catalogue",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -83,9 +76,11 @@
         "tag": "APIS"
       }
     ],
-    "collections": [],
+    "collections": [
+      "3B7U7CE7"
+    ],
     "relations": {},
-    "dateAdded": "2025-05-22T12:29:28Z",
-    "dateModified": "2025-05-22T12:30:31Z"
+    "dateAdded": "2026-04-10T13:27:33Z",
+    "dateModified": "2026-04-10T13:29:21Z"
   }
 }
