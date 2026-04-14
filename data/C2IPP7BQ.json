@@ -1,6 +1,6 @@
 {
   "key": "C2IPP7BQ",
-  "version": 6383,
+  "version": 6397,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -46,7 +46,7 @@
   },
   "data": {
     "key": "C2IPP7BQ",
-    "version": 6383,
+    "version": 6397,
     "itemType": "bookSection",
     "title": "The Identification of Individual Masters in Paintings of Sa-skya-pa Lineages",
     "creators": [
@@ -79,7 +79,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Jackson 1990",
     "language": "",
     "libraryCatalog": "",
     "callNumber": "",
@@ -93,6 +93,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2026-04-10T15:44:35Z",
-    "dateModified": "2026-04-10T16:00:35Z"
+    "dateModified": "2026-04-13T14:41:34Z"
   }
 }

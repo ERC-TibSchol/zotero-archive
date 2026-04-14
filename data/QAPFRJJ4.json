@@ -1,6 +1,6 @@
 {
-  "key": "KD9A85J8",
-  "version": 5305,
+  "key": "QAPFRJJ4",
+  "version": 6410,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/KD9A85J8",
+      "href": "https://api.zotero.org/groups/4394244/items/QAPFRJJ4",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/KD9A85J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/QAPFRJJ4",
       "type": "text/html"
     }
   },
@@ -34,68 +34,62 @@
         }
       }
     },
-    "creatorSummary": "Zhang Rin chen ye shes",
-    "parsedDate": "2015",
+    "creatorSummary": "Chos kyi seng ge",
+    "parsedDate": "2019",
     "numChildren": 0
   },
   "data": {
-    "key": "KD9A85J8",
-    "version": 5305,
-    "itemType": "book",
-    "title": "rGyud bla ma\u02bci \u02bcgrel pa mdo dang sbyar ba nges pa\u02bci don gyi snang ba",
+    "key": "QAPFRJJ4",
+    "version": 6410,
+    "itemType": "bookSection",
+    "title": "'dul ba sum rgya pa'i Tik chen cha pa ches kyi seng ges mdzad pa",
     "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Chos kyi seng ge"
+      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Zhang Rin chen ye shes"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Thub bstan smon lam"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Shes rab bzang po"
+        "lastName": "Chos kyi seng ge"
       }
     ],
     "abstractNote": "",
-    "series": "Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "bookTitle": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa",
+    "series": "",
     "seriesNumber": "",
-    "volume": "65",
+    "volume": "",
     "numberOfVolumes": "",
-    "edition": "Par gzhi dang po",
-    "date": "2015",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "place": "",
+    "edition": "",
+    "date": "2019",
+    "publisher": "ser gtsug nang bstan dpe rnying 'tshul bsdu phyogs bsgrigs khang",
+    "place": "Lhasa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
+    "pages": "1-179",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN22740",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Rin chen ye shes - rgyud bla snang ba",
+    "shortTitle": "Chos seng - 'dul sum rgya Tik chen",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      }
-    ],
+    "tags": [],
     "collections": [],
-    "relations": {},
-    "dateAdded": "2025-05-22T13:57:09Z",
-    "dateModified": "2025-05-22T13:58:53Z"
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/5VA8AXMQ"
+    },
+    "dateAdded": "2026-04-13T14:39:46Z",
+    "dateModified": "2026-04-13T14:47:27Z"
   }
 }

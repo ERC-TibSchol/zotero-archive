@@ -1,6 +1,6 @@
 {
   "key": "JUARFJSX",
-  "version": 5345,
+  "version": 6384,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "JUARFJSX",
-    "version": 5345,
+    "version": 6384,
     "itemType": "journalArticle",
     "title": "Divided by scholasticism: Revealing early sources on what separated the monasteries of Rwa sgreng and Gsang phu",
     "creators": [
@@ -63,32 +63,44 @@
     ],
     "abstractNote": "",
     "publicationTitle": "Revue d\u2019Etudes Tib\u00e9taines",
+    "publisher": "",
+    "place": "",
+    "date": "2025",
     "volume": "76",
     "issue": "April",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
     "pages": "5\u201386",
-    "date": "2025",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
     "journalAbbreviation": "RET",
-    "language": "eng",
     "DOI": "https://doi.org/10.1553/TibSchol_ERC_Cog_101001002_Samuels_Divided",
-    "ISSN": "",
-    "shortTitle": "Samuels 2025",
+    "citationKey": "",
     "url": "https://epub.oeaw.ac.at/0xc1aa5572_0x00404de8.pdf",
     "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "Samuels 2025",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [
       "WJPXDFDF"
     ],
     "relations": {},
     "dateAdded": "2025-05-26T13:07:48Z",
-    "dateModified": "2025-06-01T16:44:56Z"
+    "dateModified": "2026-04-13T10:23:47Z"
   }
 }

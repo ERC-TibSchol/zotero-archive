@@ -1,6 +1,6 @@
 {
-  "key": "KD9A85J8",
-  "version": 5305,
+  "key": "5VA8AXMQ",
+  "version": 6401,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/KD9A85J8",
+      "href": "https://api.zotero.org/groups/4394244/items/5VA8AXMQ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/KD9A85J8",
+      "href": "https://www.zotero.org/groups/tibschol/items/5VA8AXMQ",
       "type": "text/html"
     }
   },
@@ -34,41 +34,31 @@
         }
       }
     },
-    "creatorSummary": "Zhang Rin chen ye shes",
-    "parsedDate": "2015",
+    "creatorSummary": "Chos kyi seng ge",
+    "parsedDate": "2019",
     "numChildren": 0
   },
   "data": {
-    "key": "KD9A85J8",
-    "version": 5305,
+    "key": "5VA8AXMQ",
+    "version": 6401,
     "itemType": "book",
-    "title": "rGyud bla ma\u02bci \u02bcgrel pa mdo dang sbyar ba nges pa\u02bci don gyi snang ba",
+    "title": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Zhang Rin chen ye shes"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Thub bstan smon lam"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "",
-        "lastName": "Shes rab bzang po"
+        "lastName": "Chos kyi seng ge"
       }
     ],
     "abstractNote": "",
-    "series": "Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "series": "",
     "seriesNumber": "",
-    "volume": "65",
+    "volume": "",
     "numberOfVolumes": "",
-    "edition": "Par gzhi dang po",
-    "date": "2015",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "place": "",
+    "edition": "",
+    "date": "2019",
+    "publisher": "ser gtsug nang bstan dpe rnying 'tshul bsdu phyogs bsgrigs khang",
+    "place": "Lhasa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
@@ -77,25 +67,26 @@
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN22740",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Rin chen ye shes - rgyud bla snang ba",
-    "language": "tib",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      }
-    ],
+    "tags": [],
     "collections": [],
-    "relations": {},
-    "dateAdded": "2025-05-22T13:57:09Z",
-    "dateModified": "2025-05-22T13:58:53Z"
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/QAPFRJJ4",
+        "http://zotero.org/groups/4394244/items/AWXDESCP"
+      ]
+    },
+    "dateAdded": "2026-04-13T14:36:50Z",
+    "dateModified": "2026-04-13T14:39:12Z"
   }
 }

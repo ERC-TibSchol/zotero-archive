@@ -1,6 +1,6 @@
 {
-  "key": "JJLTP8SW",
-  "version": 5338,
+  "key": "AWXDESCP",
+  "version": 6408,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/JJLTP8SW",
+      "href": "https://api.zotero.org/groups/4394244/items/AWXDESCP",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/JJLTP8SW",
+      "href": "https://www.zotero.org/groups/tibschol/items/AWXDESCP",
       "type": "text/html"
     }
   },
@@ -34,66 +34,62 @@
         }
       }
     },
-    "creatorSummary": "rNgog bSod nams dpal",
-    "parsedDate": "2011",
+    "creatorSummary": "Chos kyi seng ge",
+    "parsedDate": "2019",
     "numChildren": 0
   },
   "data": {
-    "key": "JJLTP8SW",
-    "version": 5338,
+    "key": "AWXDESCP",
+    "version": 6408,
     "itemType": "bookSection",
-    "title": "rNgog pa yab sras rim par byon pa\u02bci rnam thar rin po che\u02bci rgyan gyi phreng ba",
+    "title": "dge tshul gyi tshig le'ur byas pa'i tshig don gsal bar byed pa",
     "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Chos kyi seng ge"
+      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "rNgog bSod nams dpal"
+        "lastName": "Chos kyi seng ge"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "rNgog slob brgyud dang bcas pa\u02bci gsung \u02bcbum",
+    "bookTitle": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
+    "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2011",
-    "publisher": "Krung go\u02bci bod rig pa dpe skrun khang",
-    "place": "",
+    "date": "2019",
+    "publisher": "ser gtsug nang bstan dpe rnying 'tshul bsdu phyogs bsgrigs khang",
+    "place": "Lhasa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "1-34",
+    "pages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN22740",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "rNgog rgyan phreng ba",
+    "shortTitle": "Chos seng - dge tshul tshig le gsal byed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BDRC bdr:MW1KG16666_7EC335",
-    "tags": [
-      {
-        "tag": "APIS"
-      },
-      {
-        "tag": "Biography"
-      }
-    ],
-    "collections": [
-      "B3TNTFC4"
-    ],
+    "extra": "dbu med manuscript",
+    "tags": [],
+    "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/A36R3BEK"
+      "dc:relation": "http://zotero.org/groups/4394244/items/5VA8AXMQ"
     },
-    "dateAdded": "2025-03-13T09:55:45Z",
-    "dateModified": "2025-05-27T07:43:12Z"
+    "dateAdded": "2026-04-13T14:42:59Z",
+    "dateModified": "2026-04-13T14:46:23Z"
   }
 }
