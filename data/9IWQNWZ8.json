@@ -1,0 +1,54 @@
+{
+  "key": "9IWQNWZ8",
+  "version": 6487,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/9IWQNWZ8",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/9IWQNWZ8",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/9TFWCZC4",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "9IWQNWZ8",
+    "version": 6487,
+    "parentItem": "9TFWCZC4",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>The passages are from Great History and Doxography (Chos 'byung grub mtha' chen mo) by</p>\n<p>Rog Bande Sherab \u00d6 (1166-1244). For a biography of the author, see</p>\n<p>http://www.treasuryoflives.org/biographies/view/Rogben-Sherab-O/6726. The translation of the</p>\n<p>entire work is being published by Oxford under the title The Buddha's Doctrine and Nine</p>\n<p>Vehicles.</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2026-04-16T17:41:45Z",
+    "dateModified": "2026-04-16T17:41:59Z"
+  }
+}

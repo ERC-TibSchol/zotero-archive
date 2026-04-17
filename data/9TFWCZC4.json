@@ -1,6 +1,6 @@
 {
-  "key": "PJ2RPFCM",
-  "version": 3989,
+  "key": "9TFWCZC4",
+  "version": 6489,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/PJ2RPFCM",
+      "href": "https://api.zotero.org/groups/4394244/items/9TFWCZC4",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/PJ2RPFCM",
+      "href": "https://www.zotero.org/groups/tibschol/items/9TFWCZC4",
       "type": "text/html"
     }
   },
@@ -34,52 +34,49 @@
         }
       }
     },
-    "creatorSummary": "Kuijp",
-    "parsedDate": "1993",
-    "numChildren": 0
+    "creatorSummary": "Cabez\u00f3n",
+    "parsedDate": "2012",
+    "numChildren": 1
   },
   "data": {
-    "key": "PJ2RPFCM",
-    "version": 3989,
-    "itemType": "journalArticle",
-    "title": "Fourteenth Century Tibetan Cultural History III: The Oeuvre of Bla ma dam pa Bsod rnam rgyal mtshan (1312-1375), Part One",
+    "key": "9TFWCZC4",
+    "version": 6489,
+    "itemType": "conferencePaper",
+    "title": "Rog Bande Shes rab\u2019s Great History and Doxography (Chos \u2019byung grub mtha\u2019 chen po)",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Leonard W. J. van der",
-        "lastName": "Kuijp"
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
       }
     ],
     "abstractNote": "",
-    "publicationTitle": "BIS",
+    "proceedingsTitle": "",
+    "conferenceName": "AAR - Religion and the Literary in Tibet",
     "publisher": "",
     "place": "",
-    "date": "1993",
-    "volume": "7",
+    "date": "2012",
+    "eventPlace": "",
+    "volume": "",
     "issue": "",
-    "section": "",
-    "partNumber": "",
-    "partTitle": "",
-    "pages": "109\u2013147",
+    "numberOfVolumes": "",
+    "pages": "",
     "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
+    "seriesNumber": "",
     "DOI": "",
+    "ISBN": "",
     "citationKey": "",
-    "url": "",
+    "url": "https://tiblit.wordpress.com/aar-meetings/aar-year-3-2012/",
     "accessDate": "",
-    "PMID": "",
-    "PMCID": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "van der Kuijp 1993",
+    "shortTitle": "Cabez\u00f3n 2012",
     "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "Version Number: 2008-06-15 19:45:11\n_eprint: 394",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
@@ -87,7 +84,7 @@
     ],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-05-15T16:09:25Z",
-    "dateModified": "2025-05-15T16:15:23Z"
+    "dateAdded": "2026-04-16T17:40:24Z",
+    "dateModified": "2026-04-16T17:42:46Z"
   }
 }

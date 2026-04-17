@@ -1,0 +1,114 @@
+{
+  "key": "VTFXMPC9",
+  "version": 6439,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/VTFXMPC9",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/VTFXMPC9",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Jackson and Onoda",
+    "parsedDate": "1988",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "VTFXMPC9",
+    "version": 6439,
+    "itemType": "bookSection",
+    "title": "Introduction to \"Rong-ston on the Praj\u00f1\u0101p\u0101ramit\u0101 philosophy of the Abhisamay\u0101la\u1e43k\u0101ra\"",
+    "creators": [
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "",
+        "lastName": "Rong-ston Shes-bya-kun-rig"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "David Paul",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "David P.",
+        "lastName": "Jackson"
+      },
+      {
+        "creatorType": "bookAuthor",
+        "firstName": "Shunz\u014d",
+        "lastName": "Onoda"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Shunzo",
+        "lastName": "Onoda"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Rong-ston on the Praj\u00f1\u0101p\u0101ramit\u0101 philosophy of the Abhisamay\u0101la\u1e43k\u0101ra : his sub-commentary on Haribhadra's 'Sphu\u1e6d\u0101rth\u0101'",
+    "series": "Biblia Tibetica Series",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "date": "1988",
+    "publisher": "Nagata Bunshodo",
+    "place": "Kyoto",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "i-xxv",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Jackson&Onoda 1988",
+    "language": "eng",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/RSAHY7SM"
+    },
+    "dateAdded": "2026-04-16T11:36:56Z",
+    "dateModified": "2026-04-16T11:38:53Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "key": "QTXX9RXG",
+  "version": 6435,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/QTXX9RXG",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/QTXX9RXG",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/BKB649FN",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "QTXX9RXG",
+    "version": 6435,
+    "parentItem": "BKB649FN",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>Fol. 116 (pp. 227-228) appears to be from another work on vinaya.</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2026-04-16T08:15:00Z",
+    "dateModified": "2026-04-16T08:15:40Z"
+  }
+}

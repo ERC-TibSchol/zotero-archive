@@ -1,6 +1,6 @@
 {
   "key": "KVZ3NCQD",
-  "version": 2184,
+  "version": 5947,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "KVZ3NCQD",
-    "version": 2184,
+    "version": 5947,
     "itemType": "computerProgram",
     "title": "ERC-TibSchol/image-processing: v.1",
     "creators": [
@@ -65,19 +65,21 @@
     "versionNumber": "v.1",
     "date": "2024-01-02",
     "system": "",
-    "place": "",
     "company": "Zenodo",
+    "place": "",
     "programmingLanguage": "",
-    "ISBN": "",
-    "shortTitle": "ERC-TibSchol/image-processing",
-    "url": "https://zenodo.org/doi/10.5281/zenodo.10450684",
     "rights": "Creative Commons Zero v1.0 Universal",
+    "citationKey": "",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.10450684",
+    "accessDate": "2024-01-24T14:02:28Z",
+    "DOI": "10.5281/ZENODO.10450684",
+    "ISBN": "",
     "archive": "",
     "archiveLocation": "",
     "libraryCatalog": "DOI.org (Datacite)",
     "callNumber": "",
-    "accessDate": "2024-01-24T14:02:28Z",
-    "extra": "DOI: 10.5281/ZENODO.10450684",
+    "shortTitle": "ERC-TibSchol/image-processing",
+    "extra": "",
     "tags": [],
     "collections": [
       "WJPXDFDF"

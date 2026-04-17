@@ -1,6 +1,6 @@
 {
-  "key": "PUVJVWMK",
-  "version": 4959,
+  "key": "6N493I3J",
+  "version": 6499,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/PUVJVWMK",
+      "href": "https://api.zotero.org/groups/4394244/items/6N493I3J",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/PUVJVWMK",
+      "href": "https://www.zotero.org/groups/tibschol/items/6N493I3J",
       "type": "text/html"
     }
   },
@@ -34,52 +34,56 @@
         }
       }
     },
-    "creatorSummary": "rNgog Blo ldan shes rab",
-    "parsedDate": "2018",
+    "creatorSummary": "Rog ban dhe shes rab 'od",
+    "parsedDate": "2010",
     "numChildren": 0
   },
   "data": {
-    "key": "PUVJVWMK",
-    "version": 4959,
-    "itemType": "bookSection",
-    "title": "rgyud bla ma'i bstan bcos kyi don bsdus pa",
+    "key": "6N493I3J",
+    "version": 6499,
+    "itemType": "book",
+    "title": "Grub mtha\u2019 so so\u2019i bzhed tshul gzhung gsal bar\nston pa chos \u2019byung grub mtha\u2019 chen po bstan pa\u2019i sgron me",
     "creators": [
       {
         "creatorType": "editor",
-        "firstName": "",
-        "lastName": "sMon bzang dpe rnying 'tshol bsdu khang"
+        "firstName": "Jos\u00e9 Ignacio",
+        "lastName": "Cabez\u00f3n"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Erdenebaatar",
+        "lastName": "Erdene-Ochir"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "rNgog Blo ldan shes rab"
+        "lastName": "Rog ban dhe shes rab 'od"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "sTong ra mkhan brgyud kyi gsung 'bum",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
-    "numberOfVolumes": "3",
+    "volume": "",
+    "numberOfVolumes": "",
     "edition": "",
-    "date": "2018",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrung khang",
-    "place": "Lhasa",
+    "date": "2010",
+    "publisher": "",
+    "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "286\u2013396",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
-    "accessDate": "",
+    "url": "https://tiblit.wordpress.com/aar-meetings/aar-year-3-2012/",
+    "accessDate": "2026-04-16",
     "ISSN": "",
     "archive": "",
-    "archiveLocation": "BDRC No: MW3CN21546",
-    "shortTitle": "rNgog lo - rgyud bla ma don bsdus 2018 ed",
-    "language": "tib",
+    "archiveLocation": "",
+    "shortTitle": "Cabez\u00f3n 2012",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -87,18 +91,11 @@
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Gateway"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/8WSB3UGM"
-    },
-    "dateAdded": "2024-01-24T13:55:45Z",
-    "dateModified": "2025-05-07T17:50:25Z"
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-04-16T17:45:59Z",
+    "dateModified": "2026-04-16T17:49:16Z"
   }
 }

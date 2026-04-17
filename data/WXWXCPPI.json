@@ -1,6 +1,6 @@
 {
-  "key": "QPC84UL8",
-  "version": 3913,
+  "key": "WXWXCPPI",
+  "version": 6447,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/QPC84UL8",
+      "href": "https://api.zotero.org/groups/4394244/items/WXWXCPPI",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/QPC84UL8",
+      "href": "https://www.zotero.org/groups/tibschol/items/WXWXCPPI",
       "type": "text/html"
     }
   },
@@ -34,66 +34,62 @@
         }
       }
     },
-    "creatorSummary": "Dung dkar blo bzang \u02bcphrin las",
-    "parsedDate": "2004",
-    "numChildren": 0
+    "creatorSummary": "rNgog Blo ldan shes rab and red mda' ba gzhon nu blo gros",
+    "numChildren": 1
   },
   "data": {
-    "key": "QPC84UL8",
-    "version": 3913,
-    "itemType": "bookSection",
-    "title": "dpe rgyun rigs kyi dpe tho bsdu rab mdzad pa khag gcig",
+    "key": "WXWXCPPI",
+    "version": 6447,
+    "itemType": "book",
+    "title": "tshad ma'i skor phyogs bsgrigs",
     "creators": [
       {
-        "creatorType": "bookAuthor",
+        "creatorType": "author",
         "firstName": "",
-        "lastName": "Dung dkar blo bzang \u02bcphrin las"
+        "lastName": "rNgog Blo ldan shes rab"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Dung dkar blo bzang \u02bcphrin las"
+        "lastName": "red mda' ba gzhon nu blo gros"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "gSung \u02bcbum blo bzang 'phrin las",
     "series": "",
     "seriesNumber": "",
-    "volume": "2 (Kha)",
-    "numberOfVolumes": "8",
-    "edition": "Par gzhi dang po",
-    "date": "2004",
-    "publisher": "Mi rigs dpe skrun khang",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "",
+    "publisher": "",
     "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "185\u2013322",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW28948_F5B2F6",
-    "accessDate": "",
+    "url": "https://purl.bdrc.io/resource/MW8CZ198",
+    "accessDate": "2026-04-16",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Dung dkar 2004 ed",
-    "language": "tib",
+    "shortTitle": "tshad ma skor",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "bdr:W28948-002",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
       }
     ],
     "collections": [],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/CWWA4QUW"
-    },
-    "dateAdded": "2025-05-15T10:29:42Z",
-    "dateModified": "2025-05-15T10:33:16Z"
+    "relations": {},
+    "dateAdded": "2026-04-16T12:53:57Z",
+    "dateModified": "2026-04-16T13:03:28Z"
   }
 }

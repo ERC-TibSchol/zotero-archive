@@ -1,0 +1,54 @@
+{
+  "key": "I8ESXJXI",
+  "version": 6472,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/I8ESXJXI",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/I8ESXJXI",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/WXWXCPPI",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "I8ESXJXI",
+    "version": 6472,
+    "parentItem": "WXWXCPPI",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>The tshad ma text reproduced on pp. 738-797 could not be identified.</p>\n<p>798-901 (phyi zha 36), 52 folios. Unidentified.</p>\n<p>902-1273 (phyi 'bras zha 36) tshad ma rnam 'grel gyi rnam bshad rigs pa'i 'dod 'jo. 182 fols. shakya'i dge slong gzhon nu blo gros kyis dpal sa skya'i chos gra chen por sbyar ba rdzogs sho.</p>\n<p></p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2026-04-16T14:16:47Z",
+    "dateModified": "2026-04-16T14:28:20Z"
+  }
+}

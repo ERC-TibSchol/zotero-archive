@@ -1,6 +1,6 @@
 {
-  "key": "FC5YRREC",
-  "version": 5349,
+  "key": "BKB649FN",
+  "version": 6422,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/FC5YRREC",
+      "href": "https://api.zotero.org/groups/4394244/items/BKB649FN",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/FC5YRREC",
+      "href": "https://www.zotero.org/groups/tibschol/items/BKB649FN",
       "type": "text/html"
     }
   },
@@ -34,46 +34,44 @@
         }
       }
     },
-    "creatorSummary": "rNgog Byang chub dpal",
-    "parsedDate": "2011",
-    "numChildren": 0
+    "creatorSummary": "Bya 'dul brtson 'grus 'bar",
+    "numChildren": 1
   },
   "data": {
-    "key": "FC5YRREC",
-    "version": 5349,
-    "itemType": "bookSection",
-    "title": "rje mar pa nas brgyud rngog bzhung pa yab sras kyi bla ma'i rnam thar nor bu'i phreng ba",
+    "key": "BKB649FN",
+    "version": 6422,
+    "itemType": "book",
+    "title": "gsung 'bum brtson 'grus 'bar",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "rNgog Byang chub dpal"
+        "lastName": "Bya 'dul brtson 'grus 'bar"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "rNgog slob brgyud dang bcas pa\u02bci gsung \u02bcbum",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
-    "numberOfVolumes": "",
+    "volume": "",
+    "numberOfVolumes": "2",
     "edition": "",
-    "date": "2011",
-    "publisher": "Krung go\u02bci bod rig pa dpe skrun khang",
+    "date": "",
+    "publisher": "",
     "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "35-68",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "",
-    "accessDate": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN17879",
+    "accessDate": "2026-04-15",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "rngog rnam thar nor bu phreng",
+    "shortTitle": "bya 'dul - gsung 'bum",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -82,18 +80,11 @@
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Biography"
       }
     ],
-    "collections": [
-      "B3TNTFC4"
-    ],
-    "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/A36R3BEK"
-    },
-    "dateAdded": "2025-03-13T10:18:51Z",
-    "dateModified": "2025-06-02T08:37:54Z"
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-04-16T06:30:24Z",
+    "dateModified": "2026-04-16T06:31:34Z"
   }
 }
