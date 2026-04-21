@@ -1,6 +1,6 @@
 {
   "key": "AZB8ISVF",
-  "version": 6047,
+  "version": 6577,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AZB8ISVF",
-    "version": 6047,
+    "version": 6577,
     "itemType": "bookSection",
     "title": "dBus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba",
     "creators": [
@@ -101,7 +101,12 @@
         "http://zotero.org/groups/4394244/items/BA7CVGHQ",
         "http://zotero.org/groups/4394244/items/AF6KJGIA",
         "http://zotero.org/groups/4394244/items/B4LK7NR6",
-        "http://zotero.org/groups/4394244/items/AS5QBRJL"
+        "http://zotero.org/groups/4394244/items/AS5QBRJL",
+        "http://zotero.org/groups/4394244/items/JE4B7CP3",
+        "http://zotero.org/groups/4394244/items/P3BHG7DD",
+        "http://zotero.org/groups/4394244/items/HMI4C84C",
+        "http://zotero.org/groups/4394244/items/3GJU8E9U",
+        "http://zotero.org/groups/4394244/items/S2S5FYFC"
       ]
     },
     "dateAdded": "2025-03-24T12:49:30Z",

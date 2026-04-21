@@ -1,6 +1,6 @@
 {
-  "key": "B4LK7NR6",
-  "version": 6579,
+  "key": "JE4B7CP3",
+  "version": 6582,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/B4LK7NR6",
+      "href": "https://api.zotero.org/groups/4394244/items/JE4B7CP3",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/B4LK7NR6",
+      "href": "https://www.zotero.org/groups/tibschol/items/JE4B7CP3",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "'Jam gsar shes rab 'od zer",
+    "creatorSummary": "Bo dong brtson 'grus rdo rje",
     "parsedDate": "2015",
     "numChildren": 0
   },
   "data": {
-    "key": "B4LK7NR6",
-    "version": 6579,
+    "key": "JE4B7CP3",
+    "version": 6582,
     "itemType": "bookSection",
-    "title": "mngon rtogs rgyan gyi 'grel bshad 'thad pa'i 'od 'bar",
+    "title": "shes rab kyi pha rol tu phyin pa\u02bci man ngag gi bstan bcos mngon par rtogs pa\u02bci rgyan gyi \u02bcgrel bshad shes rab mchog gi rgyan",
     "creators": [
       {
         "creatorType": "editor",
@@ -50,21 +50,21 @@
         "lastName": "Shes rab bzang po"
       },
       {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Bo dong brtson 'grus rdo rje"
+      },
+      {
         "creatorType": "editor",
         "firstName": "",
         "lastName": "Thub bstan smon lam"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "'Jam gsar shes rab 'od zer"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "phar phyin skor: mngon rtogs rgyan pod brgyad pa",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "seriesNumber": "",
-    "volume": "9",
+    "volume": "11-12",
     "numberOfVolumes": "80",
     "edition": "",
     "date": "2015",
@@ -74,43 +74,36 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "",
+    "pages": "22-565, 22-134",
     "ISBN": "ISBN 978-7-80589-670-0",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/I3CN4398",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_C84058, http://purl.bdrc.io/resource/MW3CN3408_3DD211",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "'Jam gsar - mngon rtogs rgyan 'od 'bar 2015 ed.",
+    "shortTitle": "bo dong brtson 'grus - mngon rtogs rgyan mchog rgyan",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Split in two volumes",
     "tags": [
       {
         "tag": "APIS"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": [
-        "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
         "http://zotero.org/groups/4394244/items/BA7CVGHQ",
-        "http://zotero.org/groups/4394244/items/AS5QBRJL",
-        "http://zotero.org/groups/4394244/items/JE4B7CP3",
-        "http://zotero.org/groups/4394244/items/P3BHG7DD",
-        "http://zotero.org/groups/4394244/items/3GJU8E9U",
-        "http://zotero.org/groups/4394244/items/S2S5FYFC",
-        "http://zotero.org/groups/4394244/items/HMI4C84C"
+        "http://zotero.org/groups/4394244/items/24X39LE2"
       ]
     },
-    "dateAdded": "2025-04-02T08:15:39Z",
-    "dateModified": "2025-04-02T08:19:51Z"
+    "dateAdded": "2026-04-20T06:57:24Z",
+    "dateModified": "2026-04-20T07:35:11Z"
   }
 }

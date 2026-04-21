@@ -50,14 +50,18 @@
       }
     ],
     "abstractNote": "",
-    "publisher": "",
+    "type": "",
     "date": "",
-    "language": "eng",
-    "shortTitle": "",
+    "publisher": "",
+    "place": "",
+    "DOI": "",
+    "citationKey": "",
     "url": "",
     "accessDate": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -68,8 +72,8 @@
       }
     ],
     "collections": [
-      "NVIEWWIE",
-      "GD6WKD7B"
+      "GD6WKD7B",
+      "NVIEWWIE"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/97BDV6FF"

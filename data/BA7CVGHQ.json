@@ -1,6 +1,6 @@
 {
   "key": "BA7CVGHQ",
-  "version": 6052,
+  "version": 6575,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "BA7CVGHQ",
-    "version": 6052,
+    "version": 6575,
     "itemType": "book",
     "title": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "creators": [
@@ -77,13 +77,17 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "'phags yul zhal lung",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
     "collections": [],
     "relations": {
       "dc:relation": [
@@ -91,10 +95,15 @@
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
         "http://zotero.org/groups/4394244/items/AF6KJGIA",
         "http://zotero.org/groups/4394244/items/B4LK7NR6",
-        "http://zotero.org/groups/4394244/items/AS5QBRJL"
+        "http://zotero.org/groups/4394244/items/AS5QBRJL",
+        "http://zotero.org/groups/4394244/items/P3BHG7DD",
+        "http://zotero.org/groups/4394244/items/HMI4C84C",
+        "http://zotero.org/groups/4394244/items/JE4B7CP3",
+        "http://zotero.org/groups/4394244/items/3GJU8E9U",
+        "http://zotero.org/groups/4394244/items/S2S5FYFC"
       ]
     },
     "dateAdded": "2024-09-20T13:00:14Z",
-    "dateModified": "2026-02-02T13:57:08Z"
+    "dateModified": "2026-04-20T07:20:39Z"
   }
 }

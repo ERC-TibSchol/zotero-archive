@@ -1,6 +1,6 @@
 {
   "key": "24X39LE2",
-  "version": 4100,
+  "version": 6576,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,9 +40,9 @@
   },
   "data": {
     "key": "24X39LE2",
-    "version": 4100,
+    "version": 6576,
     "itemType": "bookSection",
-    "title": "Byang chub sems dpa\u02bci spyod pa la \u02bcjug pa\u02bci sgrung \u02bcgrel las \u02bcbras gsal ba\u02bci me long",
+    "title": "byang chub sems dpa\u02bci spyod pa la \u02bcjug pa\u02bci sgrung \u02bcgrel las \u02bcbras gsal ba\u02bci me long",
     "creators": [
       {
         "creatorType": "editor",
@@ -67,17 +67,24 @@
     "volume": "75",
     "numberOfVolumes": "80",
     "edition": "",
-    "place": "lha sa",
-    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
     "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
     "pages": "415-529",
-    "language": "tib",
     "ISBN": "978-7-80589-670-0",
-    "shortTitle": "dbang phyug rin chen - byang sems spyod sgrung 'grel",
+    "DOI": "",
+    "citationKey": "",
     "url": "http://purl.bdrc.io/resource/MW3CN3408_F5890D",
     "accessDate": "",
+    "ISSN": "",
     "archive": "",
     "archiveLocation": "",
+    "shortTitle": "dbang phyug rin chen - byang sems spyod sgrung 'grel",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -93,10 +100,16 @@
         "http://zotero.org/groups/4394244/items/BA7CVGHQ",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
         "http://zotero.org/groups/4394244/items/AF6KJGIA",
-        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
+        "http://zotero.org/groups/4394244/items/AS5QBRJL",
+        "http://zotero.org/groups/4394244/items/HMI4C84C",
+        "http://zotero.org/groups/4394244/items/JE4B7CP3",
+        "http://zotero.org/groups/4394244/items/P3BHG7DD",
+        "http://zotero.org/groups/4394244/items/3GJU8E9U",
+        "http://zotero.org/groups/4394244/items/S2S5FYFC"
       ]
     },
     "dateAdded": "2024-09-20T13:02:51Z",
-    "dateModified": "2025-05-20T18:56:55Z"
+    "dateModified": "2026-04-20T06:48:51Z"
   }
 }

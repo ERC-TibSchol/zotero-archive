@@ -1,6 +1,6 @@
 {
   "key": "KD9A85J8",
-  "version": 5305,
+  "version": 6505,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "KD9A85J8",
-    "version": 5305,
+    "version": 6505,
     "itemType": "book",
     "title": "rGyud bla ma\u02bci \u02bcgrel pa mdo dang sbyar ba nges pa\u02bci don gyi snang ba",
     "creators": [
@@ -61,14 +61,14 @@
       }
     ],
     "abstractNote": "",
-    "series": "Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "seriesNumber": "",
     "volume": "65",
-    "numberOfVolumes": "",
+    "numberOfVolumes": "80",
     "edition": "Par gzhi dang po",
     "date": "2015",
-    "publisher": "Bod ljongs bod yig dpe rnying dpe skrun khang",
-    "place": "",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
@@ -96,6 +96,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2025-05-22T13:57:09Z",
-    "dateModified": "2025-05-22T13:58:53Z"
+    "dateModified": "2026-04-20T06:49:35Z"
   }
 }

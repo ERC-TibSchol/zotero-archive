@@ -1,6 +1,6 @@
 {
   "key": "AS5QBRJL",
-  "version": 6053,
+  "version": 6580,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AS5QBRJL",
-    "version": 6053,
+    "version": 6580,
     "itemType": "bookSection",
     "title": "chos dang chos nyid rnam par \u02bcbyed pa\u02bci \u02bcgrel pa",
     "creators": [
@@ -83,7 +83,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "tshul khrims dpal - chos chos nyid 'grel",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -104,6 +104,6 @@
       ]
     },
     "dateAdded": "2026-02-02T13:54:30Z",
-    "dateModified": "2026-02-02T13:57:24Z"
+    "dateModified": "2026-04-20T07:35:11Z"
   }
 }
