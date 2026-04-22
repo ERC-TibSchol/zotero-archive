@@ -1,6 +1,6 @@
 {
   "key": "AZB8ISVF",
-  "version": 6577,
+  "version": 6825,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AZB8ISVF",
-    "version": 6577,
+    "version": 6825,
     "itemType": "bookSection",
     "title": "dBus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba",
     "creators": [
@@ -74,11 +74,11 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "101-194",
+    "pages": "101-194 (124-213)",
     "ISBN": "ISBN 978-7-80589-670-0",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_3B0D59",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
@@ -106,10 +106,21 @@
         "http://zotero.org/groups/4394244/items/P3BHG7DD",
         "http://zotero.org/groups/4394244/items/HMI4C84C",
         "http://zotero.org/groups/4394244/items/3GJU8E9U",
-        "http://zotero.org/groups/4394244/items/S2S5FYFC"
+        "http://zotero.org/groups/4394244/items/S2S5FYFC",
+        "http://zotero.org/groups/4394244/items/B3E8IU89",
+        "http://zotero.org/groups/4394244/items/723UZTTK",
+        "http://zotero.org/groups/4394244/items/WFWX4KQR",
+        "http://zotero.org/groups/4394244/items/R3U872KL",
+        "http://zotero.org/groups/4394244/items/YND4A3QC",
+        "http://zotero.org/groups/4394244/items/VBIZ6UFQ",
+        "http://zotero.org/groups/4394244/items/7CHUYSDS",
+        "http://zotero.org/groups/4394244/items/FSQM7C5Y",
+        "http://zotero.org/groups/4394244/items/825576AU",
+        "http://zotero.org/groups/4394244/items/FJGT2RG7",
+        "http://zotero.org/groups/4394244/items/HXVE79T2"
       ]
     },
     "dateAdded": "2025-03-24T12:49:30Z",
-    "dateModified": "2025-03-24T13:03:41Z"
+    "dateModified": "2026-04-21T12:40:02Z"
   }
 }

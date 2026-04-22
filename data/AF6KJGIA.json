@@ -1,6 +1,6 @@
 {
   "key": "AF6KJGIA",
-  "version": 6578,
+  "version": 6826,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AF6KJGIA",
-    "version": 6578,
+    "version": 6826,
     "itemType": "bookSection",
     "title": "dBus mtha'i bsdus don",
     "creators": [
@@ -78,12 +78,12 @@
     "ISBN": "ISBN 978-7-80589-670-0",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_21BA2F",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "bSod nams rgyal mtshan - dbus mtha bsdus don",
+    "shortTitle": "bSod nams rgyal mtshan - dbus mtha bsdus don 2015 ed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -103,6 +103,6 @@
       ]
     },
     "dateAdded": "2025-03-24T13:01:09Z",
-    "dateModified": "2026-04-20T07:35:11Z"
+    "dateModified": "2026-04-21T13:18:33Z"
   }
 }

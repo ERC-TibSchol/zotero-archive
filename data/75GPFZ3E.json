@@ -1,6 +1,6 @@
 {
   "key": "75GPFZ3E",
-  "version": 4785,
+  "version": 5947,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "75GPFZ3E",
-    "version": 4785,
+    "version": 5947,
     "itemType": "journalArticle",
     "title": "Phya pa Chos kyi seng ge on Argumentation by Consequence (<i>thal 'gyur</i>): The Nature, Function, and Form of Consequence Statements",
     "creators": [
@@ -52,7 +52,7 @@
     ],
     "abstractNote": "This paper presents the main aspects of the views of the Tibetan logician Phya pa Chos kyi seng ge (1109-1169) on argumentation \"by consequence\" (thal 'gyur, Skt. prasa\u1e45ga) based on his exposition of the topic in the fifth chapter of his Tshad ma yid kyi mun sel and on a parallel excursus in his commentary on Dharmak\u012brti's Pram\u0101navini\u015bcaya. It aims at circumscribing primarily the nature and function of consequences (thal 'gyur/thal ba) for this author\u2014in particular the distinction between \"proving consequences\" and \"refuting consequences\"\u2014and the form prescribed for their enunciation in the context of debate. In addition to pointing out differences with the systems adopted by his predecessors, contemporaries and successors, the paper also discusses some of the similarities and differences between Phya pa's understanding of argumentation by consequence and the notion of reductio ad absurdum in Western logic.",
     "publicationTitle": "Journal of Indian Philosophy",
-    "publisher": "",
+    "publisher": "Springer",
     "place": "",
     "date": "2013",
     "volume": "41.6",
@@ -79,7 +79,7 @@
     "libraryCatalog": "JSTOR",
     "callNumber": "",
     "rights": "",
-    "extra": "Publisher: Springer",
+    "extra": "",
     "tags": [
       {
         "tag": "Buddhist logic"
@@ -95,8 +95,8 @@
       }
     ],
     "collections": [
-      "NVIEWWIE",
-      "DC68IMMR"
+      "DC68IMMR",
+      "NVIEWWIE"
     ],
     "relations": {
       "owl:sameAs": "http://zotero.org/groups/4973554/items/RS8XET6Z"

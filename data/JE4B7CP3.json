@@ -1,6 +1,6 @@
 {
   "key": "JE4B7CP3",
-  "version": 6582,
+  "version": 6830,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "JE4B7CP3",
-    "version": 6582,
+    "version": 6830,
     "itemType": "bookSection",
     "title": "shes rab kyi pha rol tu phyin pa\u02bci man ngag gi bstan bcos mngon par rtogs pa\u02bci rgyan gyi \u02bcgrel bshad shes rab mchog gi rgyan",
     "creators": [
@@ -104,6 +104,6 @@
       ]
     },
     "dateAdded": "2026-04-20T06:57:24Z",
-    "dateModified": "2026-04-20T07:35:11Z"
+    "dateModified": "2026-04-21T13:18:33Z"
   }
 }

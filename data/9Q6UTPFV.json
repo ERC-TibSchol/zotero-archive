@@ -1,6 +1,6 @@
 {
   "key": "9Q6UTPFV",
-  "version": 3600,
+  "version": 6696,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,19 +34,25 @@
         }
       }
     },
+    "creatorSummary": "Anonymous",
     "parsedDate": "1996",
     "numChildren": 0
   },
   "data": {
     "key": "9Q6UTPFV",
-    "version": 3600,
+    "version": 6696,
     "itemType": "bookSection",
-    "title": "mDo sde rgyan gyi don bsdus las btus pa",
+    "title": "mdo sde rgyan gyi don bsdus las btus pa",
     "creators": [
       {
         "creatorType": "bookAuthor",
         "firstName": "",
         "lastName": "tho yon ye shes don grub bstan pa'i rgyal mtshan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Anonymous"
       }
     ],
     "abstractNote": "",
@@ -93,6 +99,6 @@
       "owl:sameAs": "http://zotero.org/groups/4973569/items/KXXMNRDD"
     },
     "dateAdded": "2024-01-17T15:18:21Z",
-    "dateModified": "2025-03-21T17:26:28Z"
+    "dateModified": "2026-04-21T11:57:34Z"
   }
 }

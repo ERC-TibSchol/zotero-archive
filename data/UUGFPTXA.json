@@ -1,6 +1,6 @@
 {
   "key": "UUGFPTXA",
-  "version": 4440,
+  "version": 5946,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "UUGFPTXA",
-    "version": 4440,
+    "version": 5946,
     "itemType": "bookSection",
     "title": "The Transmission of Bsnyung Gnas in India, the Kathmandu Valley and Tibet (10th\u201312th Centuries)",
     "creators": [
@@ -86,8 +86,8 @@
     "originalPlace": "",
     "format": "",
     "pages": "229-259",
-    "ISBN": "9789047411673",
-    "DOI": "",
+    "ISBN": "978-90-474-1167-3",
+    "DOI": "10.1163/9789047411673_012",
     "citationKey": "",
     "url": "https://brill.com/view/book/9789047411673/B9789047411673_s012.xml",
     "accessDate": "2022-10-13T12:00:11Z",
@@ -99,7 +99,7 @@
     "libraryCatalog": "brill.com",
     "callNumber": "",
     "rights": "",
-    "extra": "DOI: 10.1163/9789047411673_012",
+    "extra": "",
     "tags": [],
     "collections": [],
     "relations": {},

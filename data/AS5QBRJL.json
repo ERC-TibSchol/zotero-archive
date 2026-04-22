@@ -1,6 +1,6 @@
 {
   "key": "AS5QBRJL",
-  "version": 6580,
+  "version": 6828,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "AS5QBRJL",
-    "version": 6580,
+    "version": 6828,
     "itemType": "bookSection",
     "title": "chos dang chos nyid rnam par \u02bcbyed pa\u02bci \u02bcgrel pa",
     "creators": [
@@ -104,6 +104,6 @@
       ]
     },
     "dateAdded": "2026-02-02T13:54:30Z",
-    "dateModified": "2026-04-20T07:35:11Z"
+    "dateModified": "2026-04-21T13:18:33Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "key": "BA7CVGHQ",
-  "version": 6575,
+  "version": 6823,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "BA7CVGHQ",
-    "version": 6575,
+    "version": 6823,
     "itemType": "book",
     "title": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "creators": [
@@ -100,7 +100,18 @@
         "http://zotero.org/groups/4394244/items/HMI4C84C",
         "http://zotero.org/groups/4394244/items/JE4B7CP3",
         "http://zotero.org/groups/4394244/items/3GJU8E9U",
-        "http://zotero.org/groups/4394244/items/S2S5FYFC"
+        "http://zotero.org/groups/4394244/items/S2S5FYFC",
+        "http://zotero.org/groups/4394244/items/WFWX4KQR",
+        "http://zotero.org/groups/4394244/items/R3U872KL",
+        "http://zotero.org/groups/4394244/items/VBIZ6UFQ",
+        "http://zotero.org/groups/4394244/items/7CHUYSDS",
+        "http://zotero.org/groups/4394244/items/FJGT2RG7",
+        "http://zotero.org/groups/4394244/items/723UZTTK",
+        "http://zotero.org/groups/4394244/items/B3E8IU89",
+        "http://zotero.org/groups/4394244/items/FSQM7C5Y",
+        "http://zotero.org/groups/4394244/items/YND4A3QC",
+        "http://zotero.org/groups/4394244/items/825576AU",
+        "http://zotero.org/groups/4394244/items/HXVE79T2"
       ]
     },
     "dateAdded": "2024-09-20T13:00:14Z",
