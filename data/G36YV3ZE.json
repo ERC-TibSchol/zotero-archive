@@ -1,6 +1,6 @@
 {
   "key": "G36YV3ZE",
-  "version": 5560,
+  "version": 7179,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -45,20 +45,20 @@
         }
       }
     },
-    "creatorSummary": "Gos Lo-tsa-ba Gzon-nu-dpal",
+    "creatorSummary": "'Gos lo ts\u0101 ba gZhon nu dpal",
     "parsedDate": "1949",
     "numChildren": 2
   },
   "data": {
     "key": "G36YV3ZE",
-    "version": 5560,
+    "version": 7179,
     "itemType": "book",
     "title": "The blue annals. Parts 1 and 2 / [translated and edited] by George N. Roerich",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "1392-1481",
-        "lastName": "Gos Lo-tsa-ba Gzon-nu-dpal"
+        "lastName": "'Gos lo ts\u0101 ba gZhon nu dpal"
       },
       {
         "creatorType": "editor",
@@ -118,6 +118,6 @@
     ],
     "relations": {},
     "dateAdded": "2022-09-30T11:54:15Z",
-    "dateModified": "2025-09-22T07:43:32Z"
+    "dateModified": "2026-04-22T13:17:12Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "key": "NUWGTBDA",
-  "version": 6090,
+  "version": 7175,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "NUWGTBDA",
-    "version": 6090,
+    "version": 7175,
     "itemType": "bookSection",
     "title": "spyod \u02bcjug kyi de kho na nyid gsal byed rin chen snang ba",
     "creators": [
@@ -78,7 +78,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Blo gros mtshungs med - spyod 'jug gsal byed",
+    "shortTitle": "gNyal Blo gros mtshungs med - spyod 'jug gsal byed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -94,6 +94,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2026-02-02T14:38:12Z",
-    "dateModified": "2026-02-02T14:48:56Z"
+    "dateModified": "2026-04-22T13:16:41Z"
   }
 }

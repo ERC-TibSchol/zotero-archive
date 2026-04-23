@@ -1,6 +1,6 @@
 {
   "key": "35UK579T",
-  "version": 6201,
+  "version": 7161,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "35UK579T",
-    "version": 6201,
+    "version": 7161,
     "itemType": "bookSection",
     "title": "On the Date of Vinitadeva",
     "creators": [
@@ -79,7 +79,7 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "Funayama 2001",
-    "language": "",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -92,6 +92,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2026-03-10T14:40:25Z",
-    "dateModified": "2026-03-10T14:40:43Z"
+    "dateModified": "2026-04-22T13:09:48Z"
   }
 }

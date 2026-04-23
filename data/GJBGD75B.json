@@ -1,6 +1,6 @@
 {
   "key": "GJBGD75B",
-  "version": 6162,
+  "version": 7166,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,13 +34,24 @@
         }
       }
     },
+    "lastModifiedByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
     "creatorSummary": "Nemoto Hiroshi \u6839\u672c\u88d5\u53f2",
     "parsedDate": "2025-03",
     "numChildren": 0
   },
   "data": {
     "key": "GJBGD75B",
-    "version": 6162,
+    "version": 7166,
     "itemType": "journalArticle",
     "title": "Fuzai no chikaku \u4e0d\u5728\u306e\u77e5\u899a/Perceiving No-thing-ness",
     "creators": [
@@ -74,7 +85,7 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "",
-    "language": "",
+    "language": "jap",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -85,6 +96,6 @@
     ],
     "relations": {},
     "dateAdded": "2026-02-25T07:41:17Z",
-    "dateModified": "2026-02-25T07:41:55Z"
+    "dateModified": "2026-04-22T13:10:57Z"
   }
 }

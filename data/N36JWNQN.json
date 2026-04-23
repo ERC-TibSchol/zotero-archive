@@ -1,6 +1,6 @@
 {
   "key": "N36JWNQN",
-  "version": 6291,
+  "version": 7160,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "N36JWNQN",
-    "version": 6291,
+    "version": 7160,
     "itemType": "webpage",
     "title": "The Burial Mounds of Central Tibet",
     "creators": [
@@ -61,7 +61,7 @@
     "url": "https://ttt.univie.ac.at/",
     "accessDate": "",
     "shortTitle": "TTT",
-    "language": "",
+    "language": "eng",
     "rights": "",
     "extra": "",
     "tags": [
@@ -72,6 +72,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2026-03-18T12:27:38Z",
-    "dateModified": "2026-03-18T12:28:32Z"
+    "dateModified": "2026-04-22T13:09:09Z"
   }
 }

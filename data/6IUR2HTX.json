@@ -1,6 +1,6 @@
 {
-  "key": "3GJU8E9U",
-  "version": 7183,
+  "key": "6IUR2HTX",
+  "version": 7193,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/3GJU8E9U",
+      "href": "https://api.zotero.org/groups/4394244/items/6IUR2HTX",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/3GJU8E9U",
+      "href": "https://www.zotero.org/groups/tibschol/items/6IUR2HTX",
       "type": "text/html"
     }
   },
@@ -34,15 +34,15 @@
         }
       }
     },
-    "creatorSummary": "Zhwa lu pa rin chen bsod nams 'phel ba",
+    "creatorSummary": "slob dpon bSod nams rtse mo",
     "parsedDate": "2015",
     "numChildren": 0
   },
   "data": {
-    "key": "3GJU8E9U",
-    "version": 7183,
+    "key": "6IUR2HTX",
+    "version": 7193,
     "itemType": "bookSection",
-    "title": "phar phyin thal phreng bsdus pa",
+    "title": "Byang chub sems dpa\u02bci spyod pa la \u02bcjug pa\u02bci \u02bcgrel pa",
     "creators": [
       {
         "creatorType": "editor",
@@ -50,21 +50,21 @@
         "lastName": "Shes rab bzang po"
       },
       {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "Zhwa lu pa rin chen bsod nams 'phel ba"
-      },
-      {
         "creatorType": "editor",
         "firstName": "",
         "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "slob dpon bSod nams rtse mo"
       }
     ],
     "abstractNote": "",
     "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
     "seriesNumber": "",
-    "volume": "12",
+    "volume": "68",
     "numberOfVolumes": "80",
     "edition": "",
     "date": "2015",
@@ -74,16 +74,16 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "316-330",
+    "pages": "20-209",
     "ISBN": "ISBN 978-7-80589-670-0",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW3CN3408_E3EB06",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408_A992FA",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Zhwa lu bsod nams 'phel - phar phyin thal phreng bsdus",
+    "shortTitle": "bsod nams rtse mo - spyod 'jug 'grel 2015 ed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -99,12 +99,12 @@
       "dc:relation": [
         "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
-        "http://zotero.org/groups/4394244/items/B4LK7NR6",
         "http://zotero.org/groups/4394244/items/BA7CVGHQ",
-        "http://zotero.org/groups/4394244/items/EEVWX5SN"
+        "http://zotero.org/groups/4394244/items/EEVWX5SN",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6"
       ]
     },
-    "dateAdded": "2026-04-20T07:14:00Z",
-    "dateModified": "2026-04-22T13:18:25Z"
+    "dateAdded": "2026-04-22T12:17:50Z",
+    "dateModified": "2026-04-22T13:24:01Z"
   }
 }

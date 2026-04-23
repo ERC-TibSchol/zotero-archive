@@ -1,6 +1,6 @@
 {
   "key": "ETP6DFNR",
-  "version": 6165,
+  "version": 7164,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "ETP6DFNR",
-    "version": 6165,
+    "version": 7164,
     "itemType": "book",
     "title": "Indo-Tibetan Buddhism. Indian Buddhists and Their Tibetan Successors",
     "creators": [
@@ -73,7 +73,7 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "Snellgrove 2002",
-    "language": "",
+    "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -86,6 +86,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2026-02-25T13:05:53Z",
-    "dateModified": "2026-02-25T13:06:32Z"
+    "dateModified": "2026-04-22T13:10:21Z"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "key": "N7FZJ6CJ",
-  "version": 7167,
+  "key": "39RFBPUF",
+  "version": 7189,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/N7FZJ6CJ",
+      "href": "https://api.zotero.org/groups/4394244/items/39RFBPUF",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/N7FZJ6CJ",
+      "href": "https://www.zotero.org/groups/tibschol/items/39RFBPUF",
       "type": "text/html"
     }
   },
@@ -34,47 +34,48 @@
         }
       }
     },
-    "creatorSummary": "Sernesi et al.",
-    "parsedDate": "2019",
+    "creatorSummary": "Samten Karmay",
+    "parsedDate": "2013",
     "numChildren": 0
   },
   "data": {
-    "key": "N7FZJ6CJ",
-    "version": 7167,
-    "itemType": "book",
-    "title": "Unearthing Himalayan Treasures: Festschrift for Franz-Karl Ehrhard",
+    "key": "39RFBPUF",
+    "version": 7189,
+    "itemType": "bookSection",
+    "title": "B\u00f6n in Central and East Tibet",
     "creators": [
       {
         "creatorType": "editor",
-        "firstName": "Marta",
-        "lastName": "Sernesi"
+        "firstName": "Gray",
+        "lastName": "Tuttle"
       },
       {
         "creatorType": "editor",
-        "firstName": "Volker",
-        "lastName": "Caumanns"
+        "firstName": "Kurtis R.",
+        "lastName": "Schaeffer"
       },
       {
-        "creatorType": "editor",
-        "firstName": "Nikolai",
-        "lastName": "Solmsdorf"
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Samten Karmay"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "The Tibetan history reader",
     "series": "",
-    "seriesNumber": "59",
+    "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2019",
-    "publisher": "Indica et Tibetica Verlag",
-    "place": "Marburg",
+    "date": "2013",
+    "publisher": "Columbia University Press",
+    "place": "New York",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "",
-    "ISBN": "978-3-923776-62-7",
+    "pages": "314-332",
+    "ISBN": "978-0-231-14468-1 978-0-231-14469-8 978-0-231-51354-8",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -82,18 +83,25 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "Karmay 2013",
     "language": "eng",
-    "libraryCatalog": "",
-    "callNumber": "",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "DS785 .T495 2013",
     "rights": "",
     "extra": "",
-    "tags": [],
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "History"
+      }
+    ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/VHF9JLT4"
+      "dc:relation": "http://zotero.org/groups/4394244/items/QH32KC55"
     },
-    "dateAdded": "2026-02-17T08:51:06Z",
-    "dateModified": "2026-04-22T13:11:11Z"
+    "dateAdded": "2026-04-22T13:22:27Z",
+    "dateModified": "2026-04-22T13:23:19Z"
   }
 }

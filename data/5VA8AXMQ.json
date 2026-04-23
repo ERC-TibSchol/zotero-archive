@@ -1,6 +1,6 @@
 {
   "key": "5VA8AXMQ",
-  "version": 6401,
+  "version": 7168,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "5VA8AXMQ",
-    "version": 6401,
+    "version": 7168,
     "itemType": "book",
     "title": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa",
     "creators": [
@@ -73,7 +73,7 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "",
-    "language": "",
+    "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -87,6 +87,6 @@
       ]
     },
     "dateAdded": "2026-04-13T14:36:50Z",
-    "dateModified": "2026-04-13T14:39:12Z"
+    "dateModified": "2026-04-22T13:11:33Z"
   }
 }

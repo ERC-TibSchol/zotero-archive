@@ -1,6 +1,6 @@
 {
   "key": "2M3IJFBS",
-  "version": 6196,
+  "version": 7162,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "2M3IJFBS",
-    "version": 6196,
+    "version": 7162,
     "itemType": "bookSection",
     "title": "Dign\u0101ga und anderes",
     "creators": [
@@ -79,7 +79,7 @@
     "archive": "",
     "archiveLocation": "",
     "shortTitle": "Frauwallner 1933",
-    "language": "",
+    "language": "ger",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
@@ -92,6 +92,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2026-03-10T09:05:24Z",
-    "dateModified": "2026-03-10T09:05:51Z"
+    "dateModified": "2026-04-22T13:09:58Z"
   }
 }

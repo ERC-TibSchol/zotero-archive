@@ -1,6 +1,6 @@
 {
   "key": "S2S5FYFC",
-  "version": 6833,
+  "version": 7182,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,13 +34,13 @@
         }
       }
     },
-    "creatorSummary": "zas pa blo gros rgya mtsho",
+    "creatorSummary": "Zas pa blo gros rgya mtsho",
     "parsedDate": "2015",
     "numChildren": 0
   },
   "data": {
     "key": "S2S5FYFC",
-    "version": 6833,
+    "version": 7182,
     "itemType": "bookSection",
     "title": "shes rab kyi pha rol tu phyin pa\u02bci man ngag gi bstan bcos mngon par rtogs pa\u02bci rgyan gyi \u02bcgrel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan",
     "creators": [
@@ -52,7 +52,7 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "zas pa blo gros rgya mtsho"
+        "lastName": "Zas pa blo gros rgya mtsho"
       },
       {
         "creatorType": "editor",
@@ -100,10 +100,11 @@
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
         "http://zotero.org/groups/4394244/items/B4LK7NR6",
         "http://zotero.org/groups/4394244/items/24X39LE2",
-        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN"
       ]
     },
     "dateAdded": "2026-04-20T07:35:11Z",
-    "dateModified": "2026-04-21T13:18:33Z"
+    "dateModified": "2026-04-22T13:18:18Z"
   }
 }

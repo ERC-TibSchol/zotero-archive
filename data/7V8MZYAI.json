@@ -1,6 +1,6 @@
 {
   "key": "7V8MZYAI",
-  "version": 5370,
+  "version": 7177,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,19 +34,19 @@
         }
       }
     },
-    "creatorSummary": "'Gos lo tsA ba gZhon nu dpal",
+    "creatorSummary": "'Gos lo ts\u0101 ba gZhon nu dpal",
     "parsedDate": "2003",
     "numChildren": 0
   },
   "data": {
     "key": "7V8MZYAI",
-    "version": 5370,
+    "version": 7177,
     "itemType": "book",
     "title": "'Gos Lo ts\u0101 ba gZhon nu dpal's Commentary on the Ratnagotravibh\u0101gavy\u0101kh\u0101 (theg pa chen po rgyud bla ma'i bstan bcos kyi 'grel bshad de kho na nyid rab tu gsal ba'i me long)",
     "creators": [
       {
         "creatorType": "author",
-        "name": "'Gos lo tsA ba gZhon nu dpal"
+        "name": "'Gos lo ts\u0101 ba gZhon nu dpal"
       },
       {
         "creatorType": "editor",
@@ -93,6 +93,6 @@
     "collections": [],
     "relations": {},
     "dateAdded": "2025-05-19T18:35:19Z",
-    "dateModified": "2025-06-02T08:43:08Z"
+    "dateModified": "2026-04-22T13:17:02Z"
   }
 }

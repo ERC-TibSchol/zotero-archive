@@ -1,6 +1,6 @@
 {
   "key": "24X39LE2",
-  "version": 6824,
+  "version": 7171,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,13 +34,13 @@
         }
       }
     },
-    "creatorSummary": "dbang phyug rin chen",
+    "creatorSummary": "dBang phyug rin chen",
     "parsedDate": "2015",
     "numChildren": 0
   },
   "data": {
     "key": "24X39LE2",
-    "version": 6824,
+    "version": 7171,
     "itemType": "bookSection",
     "title": "byang chub sems dpa\u02bci spyod pa la \u02bcjug pa\u02bci sgrung \u02bcgrel las \u02bcbras gsal ba\u02bci me long",
     "creators": [
@@ -57,7 +57,7 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "dbang phyug rin chen"
+        "lastName": "dBang phyug rin chen"
       }
     ],
     "abstractNote": "",
@@ -83,7 +83,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "dbang phyug rin chen - byang sems spyod sgrung 'grel",
+    "shortTitle": "dbang phyug rin chen - byang sems spyod sgrung 'grel 2015 ed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -117,10 +117,20 @@
         "http://zotero.org/groups/4394244/items/FJGT2RG7",
         "http://zotero.org/groups/4394244/items/723UZTTK",
         "http://zotero.org/groups/4394244/items/YND4A3QC",
-        "http://zotero.org/groups/4394244/items/HXVE79T2"
+        "http://zotero.org/groups/4394244/items/HXVE79T2",
+        "http://zotero.org/groups/4394244/items/H22FC8WG",
+        "http://zotero.org/groups/4394244/items/CBDI6KYT",
+        "http://zotero.org/groups/4394244/items/6IUR2HTX",
+        "http://zotero.org/groups/4394244/items/UGLX39FG",
+        "http://zotero.org/groups/4394244/items/G4ZR8M8B",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN",
+        "http://zotero.org/groups/4394244/items/IIK8LW48",
+        "http://zotero.org/groups/4394244/items/A5J5S9QQ",
+        "http://zotero.org/groups/4394244/items/RDLYJKXR",
+        "http://zotero.org/groups/4394244/items/CH2P6IR9"
       ]
     },
     "dateAdded": "2024-09-20T13:02:51Z",
-    "dateModified": "2026-04-20T06:48:51Z"
+    "dateModified": "2026-04-22T13:12:44Z"
   }
 }

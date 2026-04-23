@@ -1,6 +1,6 @@
 {
   "key": "YF8Z2ZGH",
-  "version": 5560,
+  "version": 7178,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,20 +34,20 @@
         }
       }
     },
-    "creatorSummary": "'Gos Lo tsa ba gZhon nu dpal",
+    "creatorSummary": "'Gos lo ts\u0101 ba gZhon nu dpal",
     "parsedDate": "1996",
     "numChildren": 0
   },
   "data": {
     "key": "YF8Z2ZGH",
-    "version": 5560,
+    "version": 7178,
     "itemType": "book",
     "title": "The Blue Annals",
     "creators": [
       {
         "creatorType": "author",
         "firstName": "1392-1481",
-        "lastName": "'Gos Lo tsa ba gZhon nu dpal"
+        "lastName": "'Gos lo ts\u0101 ba gZhon nu dpal"
       },
       {
         "creatorType": "editor",
@@ -109,6 +109,6 @@
     ],
     "relations": {},
     "dateAdded": "2023-11-22T14:09:23Z",
-    "dateModified": "2025-06-02T08:40:20Z"
+    "dateModified": "2026-04-22T13:17:07Z"
   }
 }
