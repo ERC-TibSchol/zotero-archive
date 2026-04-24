@@ -1,6 +1,6 @@
 {
   "key": "5ENG67Z7",
-  "version": 5947,
+  "version": 7195,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "5ENG67Z7",
-    "version": 5947,
+    "version": 7195,
     "itemType": "journalArticle",
     "title": "Proving Emptiness: The Epistemological Background for the \u201cNeither One Nor Many\u201d Argument and the Nature of Its Probandum in Phya pa Chos kyi seng ge\u2019s Works",
     "creators": [
@@ -74,13 +74,16 @@
     "ISSN": "2374-2488",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Proving Emptiness",
+    "shortTitle": "Hugon 2015",
     "language": "eng",
     "libraryCatalog": "Project MUSE",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
+      {
+        "tag": "APIS"
+      },
       {
         "tag": "Madhyamaka"
       },
@@ -99,6 +102,6 @@
       "owl:sameAs": "http://zotero.org/groups/4973554/items/IN39Z27H"
     },
     "dateAdded": "2024-01-09T08:50:35Z",
-    "dateModified": "2025-05-21T07:19:48Z"
+    "dateModified": "2026-04-23T13:26:31Z"
   }
 }
