@@ -1,6 +1,6 @@
 {
-  "key": "S8ND2M27",
-  "version": 7205,
+  "key": "6FJD3NMR",
+  "version": 7214,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/S8ND2M27",
+      "href": "https://api.zotero.org/groups/4394244/items/6FJD3NMR",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/S8ND2M27",
+      "href": "https://www.zotero.org/groups/tibschol/items/6FJD3NMR",
       "type": "text/html"
     }
   },
@@ -34,32 +34,32 @@
         }
       }
     },
-    "creatorSummary": "rNgog Blo ldan shes rab",
+    "creatorSummary": "Brag ram pa Shes rab 'bum",
     "parsedDate": "2006",
     "numChildren": 0
   },
   "data": {
-    "key": "S8ND2M27",
-    "version": 7205,
+    "key": "6FJD3NMR",
+    "version": 7214,
     "itemType": "bookSection",
-    "title": "rigs thigs 'grel don bsdus (tshad ma rnam nges kyi bsdus don)",
+    "title": "'dul ba'i sdom tshig bsdus don gsal byed me long.",
     "creators": [
       {
         "creatorType": "editor",
         "firstName": "",
-        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "rNgog Blo ldan shes rab"
+        "lastName": "Brag ram pa Shes rab 'bum"
       }
     ],
     "abstractNote": "",
     "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
+    "volume": "1-30",
     "numberOfVolumes": "30",
     "edition": "",
     "date": "2006",
@@ -69,16 +69,16 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "369-409",
+    "pages": "595-609",
     "ISBN": "978-7-5409-32-49-X",
     "DOI": "",
     "citationKey": "",
-    "url": "",
+    "url": "http://purl.bdrc.io/resource/MW1PD89051_45EB69",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
+    "shortTitle": "Shes rab 'bum - 'dul sdom me long",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -87,15 +87,16 @@
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/Z5AUD7GQ"
     },
-    "dateAdded": "2023-10-02T13:14:16Z",
-    "dateModified": "2026-05-11T14:45:14Z"
+    "dateAdded": "2026-05-11T14:45:14Z",
+    "dateModified": "2026-05-11T14:47:54Z"
   }
 }

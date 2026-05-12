@@ -1,6 +1,6 @@
 {
   "key": "A8BUGI2P",
-  "version": 2567,
+  "version": 7215,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -34,13 +34,13 @@
         }
       }
     },
-    "creatorSummary": "Shes rab 'bum",
+    "creatorSummary": "Brag ram pa Shes rab 'bum",
     "parsedDate": "2012",
     "numChildren": 0
   },
   "data": {
     "key": "A8BUGI2P",
-    "version": 2567,
+    "version": 7215,
     "itemType": "bookSection",
     "title": "dPal dus kyi \u02bckhor lo\u02bci sgrub thabs rnal \u02bcbyor bcu gnyis pa (phyi ka6)(dbu med bris ma)",
     "creators": [
@@ -52,7 +52,7 @@
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Shes rab 'bum"
+        "lastName": "Brag ram pa Shes rab 'bum"
       }
     ],
     "abstractNote": "",
@@ -94,6 +94,6 @@
     ],
     "relations": {},
     "dateAdded": "2024-03-12T11:01:29Z",
-    "dateModified": "2024-09-10T11:05:54Z"
+    "dateModified": "2026-05-11T14:48:14Z"
   }
 }
