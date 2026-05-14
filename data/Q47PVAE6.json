@@ -1,6 +1,6 @@
 {
   "key": "Q47PVAE6",
-  "version": 5945,
+  "version": 7216,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "Q47PVAE6",
-    "version": 5945,
+    "version": 7216,
     "itemType": "book",
     "title": "The Great Tibetan Translator: Life and Works of rNgog Blo ldan shes rab (1059\u20131109)",
     "creators": [
@@ -68,7 +68,7 @@
     "numberOfVolumes": "",
     "edition": "",
     "date": "2007",
-    "publisher": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "publisher": "Indus Verlag",
     "place": "M\u00fcnchen",
     "originalDate": "",
     "originalPublisher": "",
@@ -103,6 +103,6 @@
       "dc:replaces": "http://zotero.org/groups/4394244/items/4BULFBCM"
     },
     "dateAdded": "2021-08-24T14:40:52Z",
-    "dateModified": "2025-05-20T19:09:03Z"
+    "dateModified": "2026-05-13T10:19:07Z"
   }
 }
