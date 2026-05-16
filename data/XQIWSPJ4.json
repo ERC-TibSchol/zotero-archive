@@ -1,0 +1,93 @@
+{
+  "key": "XQIWSPJ4",
+  "version": 7226,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/XQIWSPJ4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/XQIWSPJ4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Obermiller, E",
+    "parsedDate": "1931",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "XQIWSPJ4",
+    "version": 7226,
+    "itemType": "book",
+    "title": "History of Buddhism (Chos-hbzung). Vol. I u. II",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Obermiller, E"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "2",
+    "edition": "",
+    "date": "1931",
+    "publisher": "",
+    "place": "Heidelberg",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Obermiller 1931",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2026-05-15T10:18:46Z",
+    "dateModified": "2026-05-15T10:23:43Z"
+  }
+}
