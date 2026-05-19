@@ -1,6 +1,6 @@
 {
   "key": "PSTH8RCL",
-  "version": 4806,
+  "version": 7228,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "PSTH8RCL",
-    "version": 4806,
+    "version": 7228,
     "itemType": "journalArticle",
     "title": "Jay\u0101nanda. A Twelfth Century <i>Guoshi</i> from Kashmir Among the Tangut",
     "creators": [
@@ -74,13 +74,16 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "",
+    "shortTitle": "van der Kuijp 1993",
     "language": "eng",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
+      {
+        "tag": "APIS"
+      },
       {
         "tag": "Phyapa Website"
       }
@@ -92,6 +95,6 @@
       "owl:sameAs": "http://zotero.org/groups/4973554/items/HAX9PIDN"
     },
     "dateAdded": "2024-01-09T08:50:35Z",
-    "dateModified": "2025-05-21T07:21:17Z"
+    "dateModified": "2026-05-18T08:20:31Z"
   }
 }

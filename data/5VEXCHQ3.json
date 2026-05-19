@@ -1,6 +1,6 @@
 {
   "key": "5VEXCHQ3",
-  "version": 3610,
+  "version": 7232,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,9 +40,9 @@
   },
   "data": {
     "key": "5VEXCHQ3",
-    "version": 3610,
+    "version": 7232,
     "itemType": "book",
-    "title": "Records of Tho-Ling: A Literary and Visual Reconstruction of the \"Mother\" Monastery in Gu-ge",
+    "title": "Records of Tho.Ling: A Literary and Visual Reconstruction of the \"Mother\" Monastery in Gu.ge",
     "creators": [
       {
         "creatorType": "author",
@@ -58,7 +58,7 @@
     "edition": "",
     "date": "1999",
     "publisher": "High Asia",
-    "place": "New Delhi",
+    "place": "Dharamshala",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
@@ -93,6 +93,6 @@
       "owl:sameAs": "http://zotero.org/groups/4973569/items/CF9GWG2C"
     },
     "dateAdded": "2023-12-04T15:40:53Z",
-    "dateModified": "2025-03-21T17:27:47Z"
+    "dateModified": "2026-05-18T12:33:14Z"
   }
 }
