@@ -1,6 +1,6 @@
 {
-  "key": "X32INJTS",
-  "version": 7250,
+  "key": "N4E2QTJX",
+  "version": 7264,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/X32INJTS",
+      "href": "https://api.zotero.org/groups/4394244/items/N4E2QTJX",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/X32INJTS",
+      "href": "https://www.zotero.org/groups/tibschol/items/N4E2QTJX",
       "type": "text/html"
     }
   },
@@ -34,32 +34,32 @@
         }
       }
     },
-    "creatorSummary": "bCom ldan rigs pa'i ral gri",
+    "creatorSummary": "bCom ldan ral gri",
     "numChildren": 0
   },
   "data": {
-    "key": "X32INJTS",
-    "version": 7250,
+    "key": "N4E2QTJX",
+    "version": 7264,
     "itemType": "bookSection",
-    "title": "grub mtha' rgyan gyi me tog",
+    "title": "theg pa chen po mdo sde rgyan rnam par bshad pa'i me tog",
     "creators": [
       {
         "creatorType": "bookAuthor",
         "firstName": "",
-        "lastName": "bCom ldan ral gri"
+        "lastName": "bCom ldan rigs pa'i ral gri"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "bCom ldan rigs pa'i ral gri"
+        "lastName": "bCom ldan ral gri"
       }
     ],
     "abstractNote": "",
     "bookTitle": "gSung thor bu bcom ldan rig pa\u02bci ral gri",
     "series": "",
     "seriesNumber": "",
-    "volume": "2",
-    "numberOfVolumes": "",
+    "volume": "1",
+    "numberOfVolumes": "2",
     "edition": "",
     "date": "",
     "publisher": "",
@@ -68,36 +68,34 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "159-446",
+    "pages": "55-106",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW1CZ1041_F27FBB",
+    "url": "http://purl.bdrc.io/resource/MW1CZ1041_1D49CC",
     "accessDate": "2023-11-10",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Ral gri - grub mtha' rgyan me tog",
+    "shortTitle": "Ral gri - mdo sde rgyan me tog",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "BDRC bdr:MW1CZ1041",
+    "extra": "bdr:MW1CZ1041_1D49CC",
     "tags": [
       {
         "tag": "APIS"
       },
       {
-        "tag": "Doxography"
+        "tag": "Collected works"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/99J5ZTDZ"
     },
-    "dateAdded": "2024-09-17T14:35:53Z",
-    "dateModified": "2026-05-28T13:12:56Z"
+    "dateAdded": "2026-05-28T13:12:55Z",
+    "dateModified": "2026-05-28T13:19:45Z"
   }
 }
