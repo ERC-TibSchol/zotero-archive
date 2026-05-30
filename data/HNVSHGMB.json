@@ -1,0 +1,93 @@
+{
+  "key": "HNVSHGMB",
+  "version": 7284,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HNVSHGMB",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HNVSHGMB",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Thurman,",
+    "parsedDate": "2011",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HNVSHGMB",
+    "version": 7284,
+    "itemType": "book",
+    "title": "Brilliant Illumination of the Lamp of the Five Stages (Rim lnga rab tu gsal ba'i sgron me), Practical Instruction in the King of Tantras, The Glorious Esoteric Community by Tsong Khapa Losang Drakpa. Introduction and Translation.",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Robert",
+        "lastName": "Thurman,"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Treasury of Buddhist Sciences.",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2011",
+    "publisher": "The American Institute of Buddhist Studies, distributed by Columbia University Press",
+    "place": "New York",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Thurman 2011",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2026-05-29T16:52:56Z",
+    "dateModified": "2026-05-29T16:54:51Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "key": "96S6U9M4",
+  "version": 7289,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/96S6U9M4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/96S6U9M4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Farrow and Mellon",
+    "parsedDate": "1992",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "96S6U9M4",
+    "version": 7289,
+    "itemType": "book",
+    "title": "The Concealed Essence of the Hevajra Tantra",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "George W",
+        "lastName": "Farrow"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "I",
+        "lastName": "Mellon"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1992",
+    "publisher": "Motilal Banarsidass.",
+    "place": "Delhi",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "1992 Farrow and Menon",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [
+      "B3TNTFC4"
+    ],
+    "relations": {},
+    "dateAdded": "2026-05-29T16:46:04Z",
+    "dateModified": "2026-05-29T17:01:16Z"
+  }
+}
