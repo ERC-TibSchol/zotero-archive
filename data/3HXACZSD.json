@@ -1,6 +1,6 @@
 {
   "key": "3HXACZSD",
-  "version": 4946,
+  "version": 7291,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -51,7 +51,7 @@
   },
   "data": {
     "key": "3HXACZSD",
-    "version": 4946,
+    "version": 7291,
     "itemType": "thesis",
     "title": "Inner Asian Buddhist Revolution: The Rise of Tibetan Buddhism in the Tangut Xia State",
     "creators": [
@@ -72,7 +72,7 @@
     "DOI": "",
     "ISBN": "",
     "citationKey": "",
-    "url": "",
+    "url": "https://www.proquest.com/docview/2823758058/20BEE752E43A4EB4PQ/1?sourcetype=Dissertations%20&%20Theses",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
@@ -82,7 +82,7 @@
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "https://www.proquest.com/docview/2823758058/20BEE752E43A4EB4PQ/1?sourcetype=Dissertations%20&%20Theses",
+    "extra": "",
     "tags": [
       {
         "tag": "APIS"
@@ -96,6 +96,6 @@
     ],
     "relations": {},
     "dateAdded": "2025-02-15T21:55:32Z",
-    "dateModified": "2025-05-21T08:16:38Z"
+    "dateModified": "2026-06-03T06:31:59Z"
   }
 }
