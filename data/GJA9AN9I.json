@@ -1,6 +1,6 @@
 {
-  "key": "N9KW4E38",
-  "version": 7296,
+  "key": "GJA9AN9I",
+  "version": 7310,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,72 +14,67 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/N9KW4E38",
+      "href": "https://api.zotero.org/groups/4394244/items/GJA9AN9I",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/N9KW4E38",
+      "href": "https://www.zotero.org/groups/tibschol/items/GJA9AN9I",
       "type": "text/html"
     }
   },
   "meta": {
     "createdByUser": {
-      "id": 8397006,
-      "username": "PascaleHugon",
+      "id": 1057919,
+      "username": "peilinchiou",
       "name": "",
       "links": {
         "alternate": {
-          "href": "https://www.zotero.org/pascalehugon",
+          "href": "https://www.zotero.org/peilinchiou",
           "type": "text/html"
         }
       }
     },
-    "creatorSummary": "Lasic",
-    "parsedDate": "2007",
+    "creatorSummary": "Heimbel",
+    "parsedDate": "2013",
     "numChildren": 0
   },
   "data": {
-    "key": "N9KW4E38",
-    "version": 7296,
+    "key": "GJA9AN9I",
+    "version": 7310,
     "itemType": "bookSection",
-    "title": "Fragments of pram\u0101\u1e47a Texts Preserved in Tabo Monastery",
+    "title": "The Jo gdan tshogs sde bzhi: An Investigation into the History of the Four Monastic Communities in \u015a\u0101kya\u015br\u012bbhadra\u2019s Vinaya Tradition",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Horst",
-        "lastName": "Lasic"
+        "firstName": "J\u00f6rg",
+        "lastName": "Heimbel"
       },
       {
         "creatorType": "editor",
-        "firstName": "Deborah",
-        "lastName": "Klimburg-Salter"
+        "firstName": "Franz-Karl",
+        "lastName": "Ehrhard"
       },
       {
         "creatorType": "editor",
-        "firstName": "Kurt",
-        "lastName": "Tropper"
-      },
-      {
-        "creatorType": "editor",
-        "firstName": "Christian",
-        "lastName": "Jahoda"
+        "firstName": "Petra",
+        "lastName": "Maurer"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Text, Image and Song in Transdisciplinary Dialogue (Proceedings of the Tenth Seminar of the IATS, 2003, Volume 7.)",
+    "bookTitle": "Nepalica-Tibetica: Festgabe for Christoph C\u00fcppers, Band 1",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2007",
-    "publisher": "Brill",
-    "place": "Leiden, Boston",
+    "date": "2013",
+    "publisher": "International Institute for Tibetan and Buddhist Studies GmbH",
+    "place": "Andiast",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "63-77",
+    "pages": "187-242",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
@@ -88,20 +83,16 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Lasic 2007",
-    "language": "eng",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      }
-    ],
+    "tags": [],
     "collections": [],
     "relations": {},
-    "dateAdded": "2025-11-14T11:49:36Z",
-    "dateModified": "2026-06-09T07:08:08Z"
+    "dateAdded": "2026-06-09T07:48:06Z",
+    "dateModified": "2026-06-09T07:56:11Z"
   }
 }

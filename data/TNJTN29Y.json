@@ -1,6 +1,6 @@
 {
-  "key": "S8ND2M27",
-  "version": 7312,
+  "key": "TNJTN29Y",
+  "version": 7321,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/S8ND2M27",
+      "href": "https://api.zotero.org/groups/4394244/items/TNJTN29Y",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/S8ND2M27",
+      "href": "https://www.zotero.org/groups/tibschol/items/TNJTN29Y",
       "type": "text/html"
     }
   },
@@ -34,32 +34,32 @@
         }
       }
     },
-    "creatorSummary": "rNgog Blo ldan shes rab",
+    "creatorSummary": "sPar phu ba Blo gros seng ge",
     "parsedDate": "2006",
     "numChildren": 0
   },
   "data": {
-    "key": "S8ND2M27",
-    "version": 7312,
+    "key": "TNJTN29Y",
+    "version": 7321,
     "itemType": "bookSection",
-    "title": "rigs thigs 'grel don bsdus (tshad ma rnam nges kyi bsdus don)",
+    "title": "blo gros dri ma med pa'i snang pa",
     "creators": [
       {
         "creatorType": "editor",
         "firstName": "",
-        "lastName": "dpal brtsegs bod yig dpe rnying zhib 'jug khang"
+        "lastName": "dPal brtsegs bod yig dpe rnying zhib 'jug khang"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "rNgog Blo ldan shes rab"
+        "lastName": "sPar phu ba Blo gros seng ge"
       }
     ],
     "abstractNote": "",
     "bookTitle": "bKa\u02bc gdams gsung \u02bcbum phyogs bsgrigs thengs dang po",
     "series": "",
     "seriesNumber": "",
-    "volume": "1",
+    "volume": "11",
     "numberOfVolumes": "30",
     "edition": "",
     "date": "2006",
@@ -69,7 +69,7 @@
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "369-409",
+    "pages": "311-387",
     "ISBN": "978-7-5409-32-49-X",
     "DOI": "",
     "citationKey": "",
@@ -78,7 +78,7 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "rNgog lo - rigs thigs 'grel don bsdus",
+    "shortTitle": "spar phu ba - blo gros dri ma med pa snang",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -87,15 +87,16 @@
     "tags": [
       {
         "tag": "APIS"
+      },
+      {
+        "tag": "Collected works"
       }
     ],
-    "collections": [
-      "IEP4UFSV"
-    ],
+    "collections": [],
     "relations": {
       "dc:relation": "http://zotero.org/groups/4394244/items/Z5AUD7GQ"
     },
-    "dateAdded": "2023-10-02T13:14:16Z",
-    "dateModified": "2026-06-09T15:31:34Z"
+    "dateAdded": "2026-06-09T15:31:34Z",
+    "dateModified": "2026-06-09T15:47:28Z"
   }
 }
