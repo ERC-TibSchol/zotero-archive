@@ -1,0 +1,54 @@
+{
+  "key": "HX8VFAF7",
+  "version": 7337,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/HX8VFAF7",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/HX8VFAF7",
+      "type": "text/html"
+    },
+    "up": {
+      "href": "https://api.zotero.org/groups/4394244/items/C8FT8WA4",
+      "type": "application/json"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "HX8VFAF7",
+    "version": 7337,
+    "parentItem": "C8FT8WA4",
+    "itemType": "note",
+    "note": "<div data-schema-version=\"9\"><p>Typeset based on a handwritten manuscript preserved at the Manuscript Section of the Library of Tibetan Works &amp; Archives</p>\n</div>",
+    "tags": [],
+    "relations": {},
+    "dateAdded": "2026-06-12T12:19:13Z",
+    "dateModified": "2026-06-12T12:19:55Z"
+  }
+}

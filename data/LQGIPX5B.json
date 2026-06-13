@@ -1,6 +1,6 @@
 {
   "key": "LQGIPX5B",
-  "version": 6090,
+  "version": 7322,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "LQGIPX5B",
-    "version": 6090,
+    "version": 7322,
     "itemType": "bookSection",
     "title": "mngon par rtogs pa'i rgyan gyi 'grel bshad theg po chen po la 'jug pa",
     "creators": [
@@ -73,7 +73,7 @@
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "ks \thttps://purl.bdrc.io/resource/MW3CN3014_5BFFE2",
+    "url": "https://purl.bdrc.io/resource/MW3CN3014_5BFFE2",
     "accessDate": "2023-11-17",
     "ISSN": "",
     "archive": "",
@@ -94,6 +94,6 @@
       "dc:relation": "http://zotero.org/groups/4394244/items/WD872RQ5"
     },
     "dateAdded": "2026-01-30T15:44:00Z",
-    "dateModified": "2026-02-02T14:48:56Z"
+    "dateModified": "2026-06-12T07:50:17Z"
   }
 }
