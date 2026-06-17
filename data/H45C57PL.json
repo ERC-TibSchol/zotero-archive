@@ -1,6 +1,6 @@
 {
-  "key": "CXRAK3IW",
-  "version": 7372,
+  "key": "H45C57PL",
+  "version": 7389,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/CXRAK3IW",
+      "href": "https://api.zotero.org/groups/4394244/items/H45C57PL",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/CXRAK3IW",
+      "href": "https://www.zotero.org/groups/tibschol/items/H45C57PL",
       "type": "text/html"
     }
   },
@@ -34,43 +34,38 @@
         }
       }
     },
-    "creatorSummary": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
-    "parsedDate": "1989",
+    "creatorSummary": "Go rams pa bSod nams seng ge",
+    "parsedDate": "1969",
     "numChildren": 0
   },
   "data": {
-    "key": "CXRAK3IW",
-    "version": 7372,
+    "key": "H45C57PL",
+    "version": 7389,
     "itemType": "bookSection",
-    "title": "tshad ma rigs pa'i gter gyi rang 'grel",
+    "title": "Tshad ma rigs pa'i gter gyi dka' ba'i gnas rnam par bshad pa sde bdun rab gsal",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "lastName": "Go rams pa bSod nams seng ge"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
+    "bookTitle": "Sa skya pa'i bka' 'bum: The Complete Works of the Great Masters of the Sa skya Sect of the Tibetan Buddhism (sDe dge edition)",
     "series": "",
     "seriesNumber": "",
-    "volume": "",
+    "volume": "12",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1989",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
-    "place": "Lhasa",
+    "date": "1969",
+    "publisher": "Toyo",
+    "place": "Tokyo",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "39-370",
-    "ISBN": "7-223-00258-1",
+    "pages": "",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -78,13 +73,16 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Sa pan - rigs gter",
+    "shortTitle": "Go rams pa - Rigs gter rab gsal",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
+      {
+        "tag": "A"
+      },
       {
         "tag": "APIS"
       },
@@ -94,9 +92,13 @@
     ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/ITEUED6D"
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/M66CDT59",
+        "http://zotero.org/groups/4394244/items/CJ75QQKN",
+        "http://zotero.org/groups/4394244/items/R4U8CIMF"
+      ]
     },
-    "dateAdded": "2025-11-10T09:02:35Z",
-    "dateModified": "2026-06-17T07:02:11Z"
+    "dateAdded": "2026-06-17T07:12:49Z",
+    "dateModified": "2026-06-17T07:13:46Z"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "key": "CXRAK3IW",
-  "version": 7372,
+  "key": "7YPPPJ75",
+  "version": 7359,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/CXRAK3IW",
+      "href": "https://api.zotero.org/groups/4394244/items/7YPPPJ75",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/CXRAK3IW",
+      "href": "https://www.zotero.org/groups/tibschol/items/7YPPPJ75",
       "type": "text/html"
     }
   },
@@ -34,43 +34,48 @@
         }
       }
     },
-    "creatorSummary": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
-    "parsedDate": "1989",
+    "creatorSummary": "gSer mdog pa\u1e47 chen \u015a\u0101kya mchog ldan",
+    "parsedDate": "1975",
     "numChildren": 0
   },
   "data": {
-    "key": "CXRAK3IW",
-    "version": 7372,
+    "key": "7YPPPJ75",
+    "version": 7359,
     "itemType": "bookSection",
-    "title": "tshad ma rigs pa'i gter gyi rang 'grel",
+    "title": "Tshad ma rigs pa'i gter gyi dgongs rgyan rigs pa'i 'khor los lugs ngan pham byed",
     "creators": [
       {
         "creatorType": "bookAuthor",
         "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "lastName": "gSer mdog pa\u1e47 chen \u015a\u0101kya mchog ldan"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Kunzang Tobgey"
       },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "lastName": "gSer mdog pa\u1e47 chen \u015a\u0101kya mchog ldan"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
+    "bookTitle": "The Complete Works (gSung 'bum) of gSer mdog pa\u1e47 chen \u015a\u0101kya mchog ldan",
     "series": "",
     "seriesNumber": "",
-    "volume": "",
+    "volume": "10",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1989",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
-    "place": "Lhasa",
+    "date": "1975",
+    "publisher": "",
+    "place": "Thimphu",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "39-370",
-    "ISBN": "7-223-00258-1",
+    "pages": "",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -78,12 +83,12 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Sa pan - rigs gter",
+    "shortTitle": "gSer mdog - rigs gter pham byed",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
-    "extra": "",
+    "extra": "Reprint: Ngag dbang stobs rgyal, Delhi, 1988",
     "tags": [
       {
         "tag": "APIS"
@@ -94,9 +99,9 @@
     ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/ITEUED6D"
+      "dc:relation": "http://zotero.org/groups/4394244/items/TMFCZ3TQ"
     },
-    "dateAdded": "2025-11-10T09:02:35Z",
-    "dateModified": "2026-06-17T07:02:11Z"
+    "dateAdded": "2026-06-17T06:50:17Z",
+    "dateModified": "2026-06-17T06:51:26Z"
   }
 }

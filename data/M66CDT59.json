@@ -1,6 +1,6 @@
 {
-  "key": "R4U8CIMF",
-  "version": 7391,
+  "key": "M66CDT59",
+  "version": 7392,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/R4U8CIMF",
+      "href": "https://api.zotero.org/groups/4394244/items/M66CDT59",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/R4U8CIMF",
+      "href": "https://www.zotero.org/groups/tibschol/items/M66CDT59",
       "type": "text/html"
     }
   },
@@ -34,46 +34,38 @@
         }
       }
     },
-    "creatorSummary": "bSod nams rtse mo",
-    "parsedDate": "1992",
+    "parsedDate": "1969",
     "numChildren": 0
   },
   "data": {
-    "key": "R4U8CIMF",
-    "version": 7391,
-    "itemType": "bookSection",
-    "title": "slob dpon phya pa la bstod pa",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "",
-        "lastName": "bSod nams rtse mo"
-      }
-    ],
+    "key": "M66CDT59",
+    "version": 7392,
+    "itemType": "book",
+    "title": "Sa skya pa'i bka' 'bum: The Complete Works of the Great Masters of the Sa skya Sect of the Tibetan Buddhism (sDe dge edition)",
+    "creators": [],
     "abstractNote": "",
-    "bookTitle": "Sa skya bka' 'bum. Scanned from the Khams reprint of the Sde dge edition of the Collected works of the first great Sa skya masters. (Reproduced from the 1736 Derge Edition).",
     "series": "",
     "seriesNumber": "",
-    "volume": "3",
+    "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1992-1993",
-    "publisher": "Sakya Centre",
-    "place": "New Delhi",
+    "date": "1969",
+    "publisher": "Toyo",
+    "place": "Tokyo",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "165-172",
+    "numPages": "",
     "ISBN": "",
     "DOI": "",
     "citationKey": "",
-    "url": "http://purl.bdrc.io/resource/MW22271_B3F198",
+    "url": "",
     "accessDate": "",
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "bsod nams rtse mo - phya bstod",
+    "shortTitle": "",
     "language": "tib",
     "libraryCatalog": "",
     "callNumber": "",
@@ -81,19 +73,19 @@
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
+        "tag": "Collected works"
       }
     ],
     "collections": [],
     "relations": {
       "dc:relation": [
-        "http://zotero.org/groups/4394244/items/NDV79SN6",
-        "http://zotero.org/groups/4394244/items/M66CDT59",
+        "http://zotero.org/groups/4394244/items/CJ75QQKN",
+        "http://zotero.org/groups/4394244/items/R4U8CIMF",
         "http://zotero.org/groups/4394244/items/H45C57PL",
         "http://zotero.org/groups/4394244/items/N6PVAPVU"
       ]
     },
-    "dateAdded": "2025-03-11T11:16:50Z",
-    "dateModified": "2025-03-11T11:18:09Z"
+    "dateAdded": "2026-06-17T07:11:54Z",
+    "dateModified": "2026-06-17T07:12:43Z"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "key": "CXRAK3IW",
-  "version": 7372,
+  "key": "67XQYY3H",
+  "version": 7365,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/CXRAK3IW",
+      "href": "https://api.zotero.org/groups/4394244/items/67XQYY3H",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/CXRAK3IW",
+      "href": "https://www.zotero.org/groups/tibschol/items/67XQYY3H",
       "type": "text/html"
     }
   },
@@ -34,43 +34,37 @@
         }
       }
     },
-    "creatorSummary": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan",
-    "parsedDate": "1989",
+    "creatorSummary": "Glo bo mkhan chen bSod nams lhun grub",
+    "parsedDate": "1991",
     "numChildren": 0
   },
   "data": {
-    "key": "CXRAK3IW",
-    "version": 7372,
-    "itemType": "bookSection",
-    "title": "tshad ma rigs pa'i gter gyi rang 'grel",
+    "key": "67XQYY3H",
+    "version": 7365,
+    "itemType": "book",
+    "title": "Tshad ma rigs gter gyi 'grel pa",
     "creators": [
-      {
-        "creatorType": "bookAuthor",
-        "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
-      },
       {
         "creatorType": "author",
         "firstName": "",
-        "lastName": "Sa skya Pa\u1e47\u1e0dita Kun dga' rgyal mtshan"
+        "lastName": "Glo bo mkhan chen bSod nams lhun grub"
       }
     ],
     "abstractNote": "",
-    "bookTitle": "Tshad ma rigs pa'i gter gyi rtsa ba dang 'grel pa",
     "series": "",
     "seriesNumber": "",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "1989",
-    "publisher": "Bod ljongs mi dmangs dpe skrun khang",
-    "place": "Lhasa",
+    "date": "1991",
+    "publisher": "Krung go'i bod kyi shes rig dpe skrun khang",
+    "place": "Xining",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "pages": "39-370",
-    "ISBN": "7-223-00258-1",
+    "numPages": "",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -78,25 +72,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Sa pan - rigs gter",
-    "language": "tib",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
     "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
       {
-        "tag": "APIS"
-      },
-      {
         "tag": "Rigs gter"
       }
     ],
     "collections": [],
     "relations": {
-      "dc:relation": "http://zotero.org/groups/4394244/items/ITEUED6D"
+      "dc:relation": "http://zotero.org/groups/4394244/items/3C855HMK"
     },
-    "dateAdded": "2025-11-10T09:02:35Z",
-    "dateModified": "2026-06-17T07:02:11Z"
+    "dateAdded": "2026-06-17T06:53:03Z",
+    "dateModified": "2026-06-17T06:54:10Z"
   }
 }
