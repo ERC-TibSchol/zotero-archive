@@ -1,0 +1,111 @@
+{
+  "key": "JKQEEMSQ",
+  "version": 7406,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/JKQEEMSQ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/JKQEEMSQ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Hugon",
+    "parsedDate": "2026",
+    "numChildren": 2
+  },
+  "data": {
+    "key": "JKQEEMSQ",
+    "version": 7406,
+    "itemType": "book",
+    "title": "Truth and knowledge in an empty world: essays in conversation with Tom Tillemans",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Sara L.",
+        "lastName": "McClintock"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Pascale",
+        "lastName": "Hugon"
+      }
+    ],
+    "abstractNote": "",
+    "series": "Studies in Indian and Tibetan Buddhism",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "First edition",
+    "date": "2026",
+    "publisher": "Wisdom Publications",
+    "place": "New York",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "1",
+    "ISBN": "979-8-89070-037-7",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Truth and knowledge in an empty world",
+    "language": "eng",
+    "libraryCatalog": "Library of Congress ISBN",
+    "callNumber": "BQ4275",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Emptiness (Philosophy)",
+        "type": 1
+      },
+      {
+        "tag": "M\u0101dhyamika (Buddhism)",
+        "type": 1
+      },
+      {
+        "tag": "Religious aspects Buddhism",
+        "type": 1
+      },
+      {
+        "tag": "Truth",
+        "type": 1
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/ACV7SN7D"
+    },
+    "dateAdded": "2026-06-18T13:09:59Z",
+    "dateModified": "2026-06-18T13:41:53Z"
+  }
+}
