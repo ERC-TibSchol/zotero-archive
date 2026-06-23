@@ -1,0 +1,96 @@
+{
+  "key": "87ZUERU3",
+  "version": 7418,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/87ZUERU3",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/87ZUERU3",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Chimpa and Chattopadhyaya",
+    "parsedDate": "1990",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "87ZUERU3",
+    "version": 7418,
+    "itemType": "book",
+    "title": "T\u0101ran\u0101tha's History of Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Lama",
+        "lastName": "Chimpa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alaka",
+        "lastName": "Chattopadhyaya"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1990",
+    "publisher": "Motilal Banarsidass Publishers",
+    "place": "Varanasi",
+    "originalDate": "1970",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Chimpa et al 1990",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-06-22T10:48:31Z",
+    "dateModified": "2026-06-22T10:51:56Z"
+  }
+}

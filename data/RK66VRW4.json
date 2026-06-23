@@ -1,0 +1,91 @@
+{
+  "key": "RK66VRW4",
+  "version": 7428,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/RK66VRW4",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/RK66VRW4",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 19410364,
+      "username": "jacobdaniel.fisher",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jacobdaniel.fisher",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Shaw",
+    "parsedDate": "1994",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "RK66VRW4",
+    "version": 7428,
+    "itemType": "book",
+    "title": "Passionate Enlightenment: Women in Tantric Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Miranda",
+        "lastName": "Shaw"
+      }
+    ],
+    "abstractNote": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "1994",
+    "publisher": "Princeton University Press",
+    "place": "New Jersey",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "numPages": "",
+    "ISBN": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Shaw 1994",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-06-22T10:53:15Z",
+    "dateModified": "2026-06-22T10:54:48Z"
+  }
+}
