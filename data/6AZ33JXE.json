@@ -1,0 +1,65 @@
+{
+  "key": "6AZ33JXE",
+  "version": 7444,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/6AZ33JXE",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/6AZ33JXE",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "numChildren": 0
+  },
+  "data": {
+    "key": "6AZ33JXE",
+    "version": 7444,
+    "itemType": "webpage",
+    "title": "The Treasury of Lives",
+    "creators": [],
+    "abstractNote": "",
+    "websiteTitle": "The Treasury of Lives",
+    "websiteType": "",
+    "date": "",
+    "publisher": "",
+    "place": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "https://treasuryoflives.org",
+    "accessDate": "",
+    "shortTitle": "ToL",
+    "language": "eng",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-06-24T07:08:01Z",
+    "dateModified": "2026-06-24T07:08:36Z"
+  }
+}
