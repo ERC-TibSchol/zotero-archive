@@ -1,6 +1,6 @@
 {
   "key": "B3E8IU89",
-  "version": 6836,
+  "version": 7121,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "B3E8IU89",
-    "version": 6836,
+    "version": 7121,
     "itemType": "bookSection",
     "title": "theg pa chen po mdo sde rgyan rnam par bshad pa 'thad pa kun ldan",
     "creators": [
@@ -100,10 +100,11 @@
         "http://zotero.org/groups/4394244/items/B4LK7NR6",
         "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
-        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN"
       ]
     },
     "dateAdded": "2026-04-21T11:41:16Z",
-    "dateModified": "2026-04-21T13:18:33Z"
+    "dateModified": "2026-04-22T12:59:49Z"
   }
 }

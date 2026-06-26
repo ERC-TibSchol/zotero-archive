@@ -1,6 +1,6 @@
 {
   "key": "825576AU",
-  "version": 6843,
+  "version": 7128,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "825576AU",
-    "version": 6843,
+    "version": 7128,
     "itemType": "bookSection",
     "title": "theg pa chen po rgyud bla ma'i bsdus don",
     "creators": [
@@ -100,10 +100,11 @@
         "http://zotero.org/groups/4394244/items/BA7CVGHQ",
         "http://zotero.org/groups/4394244/items/24X39LE2",
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
-        "http://zotero.org/groups/4394244/items/B4LK7NR6"
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN"
       ]
     },
     "dateAdded": "2026-04-21T13:13:39Z",
-    "dateModified": "2026-04-21T13:18:33Z"
+    "dateModified": "2026-04-22T12:59:49Z"
   }
 }

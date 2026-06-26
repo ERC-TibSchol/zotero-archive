@@ -1,0 +1,107 @@
+{
+  "key": "LF4HXHGF",
+  "version": 7476,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/LF4HXHGF",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/LF4HXHGF",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Yoshimizu",
+    "parsedDate": "2016",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "LF4HXHGF",
+    "version": 7476,
+    "itemType": "bookSection",
+    "title": "Transmission of the M\u016blamadhyamakak\u0101rik\u0101 and Prasannapad\u0101 to Tibet from Kashmir",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "Eli",
+        "lastName": "Franco"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Chizuko",
+        "lastName": "Yoshimizu"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "Isabelle",
+        "lastName": "Rati\u00e9"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "Around Abhinavagupta: aspects of the intellectual history of Kashmir from the ninth to the eleventh century",
+    "series": "Leipziger Studien zu Kultur und Geschichte S\u00fcd- und Zentralasiens",
+    "seriesNumber": "Band 6",
+    "volume": "",
+    "numberOfVolumes": "",
+    "edition": "",
+    "date": "2016",
+    "publisher": "LIT Verlag",
+    "place": "Berlin",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "645-663",
+    "ISBN": "978-3-643-90697-7",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Yoshimizu 2016",
+    "language": "eng",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "294.551 3",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      },
+      {
+        "tag": "Madhyamaka"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": "http://zotero.org/groups/4394244/items/QKHN4GLJ"
+    },
+    "dateAdded": "2026-06-25T11:12:29Z",
+    "dateModified": "2026-06-25T11:13:48Z"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "key": "RCJ46BHM",
-  "version": 7462,
+  "key": "N5FQ7AB7",
+  "version": 7453,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/RCJ46BHM",
+      "href": "https://api.zotero.org/groups/4394244/items/N5FQ7AB7",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/RCJ46BHM",
+      "href": "https://www.zotero.org/groups/tibschol/items/N5FQ7AB7",
       "type": "text/html"
     }
   },
@@ -34,37 +34,30 @@
         }
       }
     },
-    "creatorSummary": "Ruegg",
-    "parsedDate": "2010",
+    "parsedDate": "2002",
     "numChildren": 0
   },
   "data": {
-    "key": "RCJ46BHM",
-    "version": 7462,
+    "key": "N5FQ7AB7",
+    "version": 7453,
     "itemType": "book",
-    "title": "The Buddhist Philosophy of the Middle: Essays on Indian and Tibetan Madhyamaka",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "David Seyfort",
-        "lastName": "Ruegg"
-      }
-    ],
+    "title": "gangs can bod kyi gnas bshad lam yig gsar ma",
+    "creators": [],
     "abstractNote": "",
     "series": "",
     "seriesNumber": "",
     "volume": "",
-    "numberOfVolumes": "",
+    "numberOfVolumes": "2",
     "edition": "",
-    "date": "2010",
-    "publisher": "Wisdom Publications",
-    "place": "Boston",
+    "date": "2002",
+    "publisher": "mi rigs dpe skrun khang",
+    "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "xxii, 442",
-    "ISBN": "978-0-86171-590-9",
+    "numPages": "",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,27 +65,18 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Seyfort Ruegg 2010",
-    "language": "eng",
+    "shortTitle": "",
+    "language": "",
     "libraryCatalog": "",
-    "callNumber": "BQ7457.R835",
+    "callNumber": "",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      },
-      {
-        "tag": "Madhyamaka"
-      }
-    ],
-    "collections": [
-      "3B9JCMU7"
-    ],
+    "tags": [],
+    "collections": [],
     "relations": {
-      "owl:sameAs": "http://zotero.org/groups/4973586/items/87A4HMWD"
+      "dc:relation": "http://zotero.org/groups/4394244/items/PDBDXX8F"
     },
-    "dateAdded": "2025-05-21T13:08:56Z",
-    "dateModified": "2026-06-25T08:38:19Z"
+    "dateAdded": "2026-06-25T07:00:26Z",
+    "dateModified": "2026-06-25T07:01:43Z"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "key": "RCJ46BHM",
-  "version": 7462,
+  "key": "PDBDXX8F",
+  "version": 7459,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/RCJ46BHM",
+      "href": "https://api.zotero.org/groups/4394244/items/PDBDXX8F",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/RCJ46BHM",
+      "href": "https://www.zotero.org/groups/tibschol/items/PDBDXX8F",
       "type": "text/html"
     }
   },
@@ -34,37 +34,38 @@
         }
       }
     },
-    "creatorSummary": "Ruegg",
-    "parsedDate": "2010",
+    "creatorSummary": "Chos 'phel",
+    "parsedDate": "2002",
     "numChildren": 0
   },
   "data": {
-    "key": "RCJ46BHM",
-    "version": 7462,
-    "itemType": "book",
-    "title": "The Buddhist Philosophy of the Middle: Essays on Indian and Tibetan Madhyamaka",
+    "key": "PDBDXX8F",
+    "version": 7459,
+    "itemType": "bookSection",
+    "title": "lha sa sa khul (2)",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "David Seyfort",
-        "lastName": "Ruegg"
+        "firstName": "",
+        "lastName": "Chos 'phel"
       }
     ],
     "abstractNote": "",
+    "bookTitle": "gangs can bod kyi gnas bshad lam yig gsar ma",
     "series": "",
     "seriesNumber": "",
-    "volume": "",
-    "numberOfVolumes": "",
+    "volume": "2",
+    "numberOfVolumes": "2",
     "edition": "",
-    "date": "2010",
-    "publisher": "Wisdom Publications",
-    "place": "Boston",
+    "date": "2002",
+    "publisher": "mi rigs dpe skrun khang",
+    "place": "",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "xxii, 442",
-    "ISBN": "978-0-86171-590-9",
+    "pages": "",
+    "ISBN": "",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,27 +73,22 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Seyfort Ruegg 2010",
-    "language": "eng",
+    "shortTitle": "Chos 'phel 2002",
+    "language": "tib",
     "libraryCatalog": "",
-    "callNumber": "BQ7457.R835",
+    "callNumber": "",
     "rights": "",
     "extra": "",
     "tags": [
       {
         "tag": "APIS"
-      },
-      {
-        "tag": "Madhyamaka"
       }
     ],
-    "collections": [
-      "3B9JCMU7"
-    ],
+    "collections": [],
     "relations": {
-      "owl:sameAs": "http://zotero.org/groups/4973586/items/87A4HMWD"
+      "dc:relation": "http://zotero.org/groups/4394244/items/N5FQ7AB7"
     },
-    "dateAdded": "2025-05-21T13:08:56Z",
-    "dateModified": "2026-06-25T08:38:19Z"
+    "dateAdded": "2026-06-25T07:02:09Z",
+    "dateModified": "2026-06-25T07:03:02Z"
   }
 }

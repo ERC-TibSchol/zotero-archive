@@ -1,6 +1,6 @@
 {
-  "key": "RCJ46BHM",
-  "version": 7462,
+  "key": "QKHN4GLJ",
+  "version": 7467,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -14,11 +14,11 @@
   },
   "links": {
     "self": {
-      "href": "https://api.zotero.org/groups/4394244/items/RCJ46BHM",
+      "href": "https://api.zotero.org/groups/4394244/items/QKHN4GLJ",
       "type": "application/json"
     },
     "alternate": {
-      "href": "https://www.zotero.org/groups/tibschol/items/RCJ46BHM",
+      "href": "https://www.zotero.org/groups/tibschol/items/QKHN4GLJ",
       "type": "text/html"
     }
   },
@@ -34,37 +34,42 @@
         }
       }
     },
-    "creatorSummary": "Ruegg",
-    "parsedDate": "2010",
+    "creatorSummary": "Franco and Rati\u00e9",
+    "parsedDate": "2016",
     "numChildren": 0
   },
   "data": {
-    "key": "RCJ46BHM",
-    "version": 7462,
+    "key": "QKHN4GLJ",
+    "version": 7467,
     "itemType": "book",
-    "title": "The Buddhist Philosophy of the Middle: Essays on Indian and Tibetan Madhyamaka",
+    "title": "Around Abhinavagupta: aspects of the intellectual history of Kashmir from the ninth to the eleventh century",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "David Seyfort",
-        "lastName": "Ruegg"
+        "firstName": "Eli",
+        "lastName": "Franco"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Isabelle",
+        "lastName": "Rati\u00e9"
       }
     ],
     "abstractNote": "",
-    "series": "",
-    "seriesNumber": "",
+    "series": "Leipziger Studien zu Kultur und Geschichte S\u00fcd- und Zentralasiens",
+    "seriesNumber": "Band 6",
     "volume": "",
     "numberOfVolumes": "",
     "edition": "",
-    "date": "2010",
-    "publisher": "Wisdom Publications",
-    "place": "Boston",
+    "date": "2016",
+    "publisher": "LIT Verlag",
+    "place": "Berlin",
     "originalDate": "",
     "originalPublisher": "",
     "originalPlace": "",
     "format": "",
-    "numPages": "xxii, 442",
-    "ISBN": "978-0-86171-590-9",
+    "numPages": "",
+    "ISBN": "978-3-643-90697-7",
     "DOI": "",
     "citationKey": "",
     "url": "",
@@ -72,27 +77,18 @@
     "ISSN": "",
     "archive": "",
     "archiveLocation": "",
-    "shortTitle": "Seyfort Ruegg 2010",
+    "shortTitle": "Around Abhinavagupta",
     "language": "eng",
-    "libraryCatalog": "",
-    "callNumber": "BQ7457.R835",
+    "libraryCatalog": "BnF ISBN",
+    "callNumber": "294.551 3",
     "rights": "",
     "extra": "",
-    "tags": [
-      {
-        "tag": "APIS"
-      },
-      {
-        "tag": "Madhyamaka"
-      }
-    ],
-    "collections": [
-      "3B9JCMU7"
-    ],
+    "tags": [],
+    "collections": [],
     "relations": {
-      "owl:sameAs": "http://zotero.org/groups/4973586/items/87A4HMWD"
+      "dc:relation": "http://zotero.org/groups/4394244/items/LF4HXHGF"
     },
-    "dateAdded": "2025-05-21T13:08:56Z",
-    "dateModified": "2026-06-25T08:38:19Z"
+    "dateAdded": "2026-06-25T11:12:23Z",
+    "dateModified": "2026-06-25T11:12:23Z"
   }
 }

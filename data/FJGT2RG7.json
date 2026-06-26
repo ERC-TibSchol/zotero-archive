@@ -1,6 +1,6 @@
 {
   "key": "FJGT2RG7",
-  "version": 6839,
+  "version": 7124,
   "library": {
     "type": "group",
     "id": 4394244,
@@ -40,7 +40,7 @@
   },
   "data": {
     "key": "FJGT2RG7",
-    "version": 6839,
+    "version": 7124,
     "itemType": "bookSection",
     "title": "dbus mtha'i don bsdus",
     "creators": [
@@ -100,10 +100,11 @@
         "http://zotero.org/groups/4394244/items/AZB8ISVF",
         "http://zotero.org/groups/4394244/items/B4LK7NR6",
         "http://zotero.org/groups/4394244/items/24X39LE2",
-        "http://zotero.org/groups/4394244/items/BA7CVGHQ"
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN"
       ]
     },
     "dateAdded": "2026-04-21T12:35:15Z",
-    "dateModified": "2026-04-21T13:18:33Z"
+    "dateModified": "2026-04-22T12:59:49Z"
   }
 }
