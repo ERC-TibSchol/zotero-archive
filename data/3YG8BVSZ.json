@@ -1,0 +1,93 @@
+{
+  "key": "3YG8BVSZ",
+  "version": 7485,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/3YG8BVSZ",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/3YG8BVSZ",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Gyana",
+    "parsedDate": "2026",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "3YG8BVSZ",
+    "version": 7485,
+    "itemType": "journalArticle",
+    "title": "Gsan yig in Bridging the Historical Gap of the Abhidharmako\u015ba Tradition in Tibetan Buddhism",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Mriti",
+        "lastName": "Gyana"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Journal of Tibetan Literature",
+    "publisher": "",
+    "place": "",
+    "date": "2026",
+    "volume": "4.2",
+    "issue": "7&8",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {},
+    "dateAdded": "2026-06-29T07:21:21Z",
+    "dateModified": "2026-06-29T15:05:47Z"
+  }
+}

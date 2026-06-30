@@ -1,0 +1,110 @@
+{
+  "key": "CBDI6KYT",
+  "version": 7131,
+  "library": {
+    "type": "group",
+    "id": 4394244,
+    "name": "TibSchol",
+    "links": {
+      "alternate": {
+        "href": "https://www.zotero.org/groups/tibschol",
+        "type": "text/html"
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.zotero.org/groups/4394244/items/CBDI6KYT",
+      "type": "application/json"
+    },
+    "alternate": {
+      "href": "https://www.zotero.org/groups/tibschol/items/CBDI6KYT",
+      "type": "text/html"
+    }
+  },
+  "meta": {
+    "createdByUser": {
+      "id": 8397006,
+      "username": "PascaleHugon",
+      "name": "",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/pascalehugon",
+          "type": "text/html"
+        }
+      }
+    },
+    "creatorSummary": "Anonymous",
+    "parsedDate": "2015",
+    "numChildren": 0
+  },
+  "data": {
+    "key": "CBDI6KYT",
+    "version": 7131,
+    "itemType": "bookSection",
+    "title": "rGyud bla ma\u02bci bstan bcos gsal byed",
+    "creators": [
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Shes rab bzang po"
+      },
+      {
+        "creatorType": "editor",
+        "firstName": "",
+        "lastName": "Thub bstan smon lam"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "",
+        "lastName": "Anonymous"
+      }
+    ],
+    "abstractNote": "",
+    "bookTitle": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "series": "'Phags yul rgyan drug mchog gnyis kyi zhal lung",
+    "seriesNumber": "",
+    "volume": "66",
+    "numberOfVolumes": "80",
+    "edition": "",
+    "date": "2015",
+    "publisher": "bod ljongs bod yig dpe rnying dpe skrun khang",
+    "place": "lha sa",
+    "originalDate": "",
+    "originalPublisher": "",
+    "originalPlace": "",
+    "format": "",
+    "pages": "269-392",
+    "ISBN": "ISBN 978-7-80589-670-0",
+    "DOI": "",
+    "citationKey": "",
+    "url": "http://purl.bdrc.io/resource/MW3CN3408",
+    "accessDate": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "Anon - rgyud bla gsal byed",
+    "language": "tib",
+    "libraryCatalog": "",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "APIS"
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:relation": [
+        "http://zotero.org/groups/4394244/items/24X39LE2",
+        "http://zotero.org/groups/4394244/items/AZB8ISVF",
+        "http://zotero.org/groups/4394244/items/BA7CVGHQ",
+        "http://zotero.org/groups/4394244/items/B4LK7NR6",
+        "http://zotero.org/groups/4394244/items/EEVWX5SN"
+      ]
+    },
+    "dateAdded": "2026-04-22T12:08:26Z",
+    "dateModified": "2026-04-22T12:59:49Z"
+  }
+}
